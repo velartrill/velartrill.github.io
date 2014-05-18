@@ -90,6 +90,17 @@
 		font-weight: normal;
 		padding: .5em;
 	}
+	@media not all and (min-width:768px) {
+		#newsheader, #newsfooter {
+			border:none;
+			border-radius:0;
+			background: none;
+		}
+		.item {
+			border-left: none;
+			border-right: none;
+		}
+	}
 	@media not all and (min-width:570px) {
 		#header {
 			height: 290px;
@@ -99,13 +110,6 @@
 		#slogan { display: none; }
 		.item {
 			text-align: left;
-			border-left: none;
-			border-right: none;
-		}
-		#newsheader, #newsfooter {
-			border:none;
-			border-radius:0;
-			background: none;
 		}
 		#newsfooter {
 			border-top: 1px solid #ccc;
