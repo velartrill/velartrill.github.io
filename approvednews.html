@@ -1,7 +1,6 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="viewport" content="width=device-width">
 <style type="text/css">
 	body {
 		font-family: "serif", "Open Sans", "Helvetica Neue", Helvetica, sans-serif; /* ugly hack to make font bearable on Android devices */
@@ -36,11 +35,12 @@
 		font-weight: bold;
 		padding: .8em;
 	}
-	#newsheader a {
+	#newsheader a, #newsfooter a {
 		float: right;
 		color: #999;
 		font-weight: 100;
 		text-decoration: none;
+		letter-spacing: normal;
 	}
 	#newsheader a:hover {
 		color: #777;
@@ -76,12 +76,10 @@
 		margin-top: 0;
 		border-radius: 0px 0px 9px 9px;
 		border: 1px solid #ccc;
-		border-top: none;
 		background-color: white;
 		padding: .8em;
 		text-align: right;
 		color: #aaa;
-		text-transform: uppercase;
 		letter-spacing: .4em;
 	}
 	.time {
@@ -103,10 +101,13 @@
 			border-left: none;
 			border-right: none;
 		}
-		#newsheader {
+		#newsheader, #newsfooter {
 			border:none;
 			border-radius:0;
 			background: none;
+		}
+		#newsfooter {
+			border-top: 1px solid #ccc;
 		}
 		.hide_mobile {
 			display:none;
@@ -134,7 +135,8 @@
 <div id="header"></div>
 <div id="slogan">Serving the Public from the News Warrens of <span class="redacted">[REDACTED]</span> since 1886</div>
 <div id="container">
-<div id="newsheader"><span class="hide_mobile">Latest News</span><a href="#beginning">Read in Chronological Order</a><div style="clear:both;"></div>
+<div id="newsheader">
+<span class="hide_mobile">Latest News</span><a href="#beginning">Read in Chronological Order</a><div style="clear:both;"></div>
 </div>
 <div class="item">Asked to Outline "Obama Doctrine," President Answers Only "Injections"<div class="time">Sun May 18 03:17:16 2014</div>
 </div>
@@ -1011,7 +1013,7 @@
 <div class="time">Thu May 15 01:35:54 2014</div>
 </div>
 <div id="newsfooter">
-Oldest
+OLDEST - <a href="#top">Back to Top</a>
 </div>
 <a name="beginning"></a>
 </div>

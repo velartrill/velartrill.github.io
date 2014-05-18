@@ -36,11 +36,12 @@
 		font-weight: bold;
 		padding: .8em;
 	}
-	#newsheader a {
+	#newsheader a, #newsfooter a {
 		float: right;
 		color: #999;
 		font-weight: 100;
 		text-decoration: none;
+		letter-spacing: normal;
 	}
 	#newsheader a:hover {
 		color: #777;
@@ -76,12 +77,10 @@
 		margin-top: 0;
 		border-radius: 0px 0px 9px 9px;
 		border: 1px solid #ccc;
-		border-top: none;
 		background-color: white;
 		padding: .8em;
 		text-align: right;
 		color: #aaa;
-		text-transform: uppercase;
 		letter-spacing: .4em;
 	}
 	.time {
@@ -103,10 +102,13 @@
 			border-left: none;
 			border-right: none;
 		}
-		#newsheader {
+		#newsheader, #newsfooter {
 			border:none;
 			border-radius:0;
 			background: none;
+		}
+		#newsfooter {
+			border-top: 1px solid #ccc;
 		}
 		.hide_mobile {
 			display:none;
@@ -152,7 +154,7 @@
 	</div>
 </xsl:for-each>
 <div id="newsfooter">
-Oldest
+OLDEST - <a href="#top">Back to Top</a>
 </div>
 <a name="beginning" />
 </div>
