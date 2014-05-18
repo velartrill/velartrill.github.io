@@ -29,6 +29,9 @@
 		height: 250px;
 		background-image: url(header.png);
 	}
+	#newsheader, #newsfooter {
+		font-family: "Open Sans", "Helvetica Neue", sans-serif;
+	}
 	#newsheader {
 		margin-top: .3em;
 		border-radius: 9px 9px 0px 0px;
