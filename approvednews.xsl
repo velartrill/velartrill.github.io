@@ -2,6 +2,8 @@
 <html xsl:version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
 <head>
+<title>Approved News 6</title>
+<meta name="viewport" content="width=device-width" />
 <style type="text/css">
 	body {
 		font-family: "serif", "Open Sans", "Helvetica Neue", Helvetica, sans-serif; /* ugly hack to make font bearable on Android devices */
@@ -119,8 +121,12 @@
 		}
 	}
 	@media not all and (min-width:450px) {
+		body {
+			font-size: 10pt;
+		}
 		.favorite {
 			background: none;
+			font-size: 13pt;
 			padding-left: 0px;
 		}
 	}
