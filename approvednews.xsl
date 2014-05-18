@@ -4,7 +4,7 @@
 <head>
 <style type="text/css">
 	body {
-		font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+		font-family: "serif", "Open Sans", "Helvetica Neue", Helvetica, sans-serif; /* ugly hack to make font bearable on Android devices */
 		font-weight: 100;
 		background-color: #f0e5e5;
 		margin: 0;
@@ -21,11 +21,11 @@
 		text-transform: uppercase;
 	}
 	#header {
-		background-color: rgb(200,132,147);
-		height: 250px;
-		background-image: url(header.png);
+		background-color: #c88493;
 		background-position: center;
 		background-repeat: no-repeat;
+		height: 250px;
+		background-image: url(header.png);
 	}
 	#newsheader {
 		margin-top: .3em;
@@ -38,7 +38,6 @@
 	}
 	#newsheader a {
 		float: right;
-		display: block;
 		color: #999;
 		font-weight: 100;
 		text-decoration: none;
@@ -92,6 +91,33 @@
 		font-weight: normal;
 		padding: .5em;
 	}
+	@media not all and (min-width:570px) {
+		#header {
+			height: 290px;
+			background-image: url(biglogo.png);
+			border-bottom: 1px solid #8d3f50;
+		}
+		#slogan { display: none; }
+		.item {
+			text-align: left;
+			border-left: none;
+			border-right: none;
+		}
+		#newsheader {
+			border:none;
+			border-radius:0;
+			background: none;
+		}
+		.hide_mobile {
+			display:none;
+		}
+	}
+	@media not all and (min-width:450px) {
+		.favorite {
+			background: none;
+			padding-left: 0px;
+		}
+	}
 </style>
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -108,7 +134,8 @@
 <div id="header" />
 <div id="slogan">Serving the Public from the News Warrens of <span class="redacted">[REDACTED]</span> since 1886</div>
 <div id="container">
-<div id="newsheader">Latest News <a href="#beginning">Read in Chronological Order</a></div>
+<div id="newsheader"><span class="hide_mobile">Latest News</span><a href="#beginning">Read in Chronological Order</a><div style="clear:both;"></div>
+</div>
 <xsl:for-each select="statuses/status">
 	<div class="item">
 		<xsl:choose>
