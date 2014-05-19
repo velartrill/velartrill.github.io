@@ -64,7 +64,7 @@
 		padding-bottom: 0;
 		background: white;
 	}
-	.favorite { 
+	.favorite {
 		font-size: 15pt;
 		background: url(logo.png) no-repeat;
 		background-position: 2px center;
@@ -160,7 +160,7 @@
 				</div>
 			</xsl:when>
 			<xsl:otherwise>
-				<xsl:value-of select="text"/>			
+				<xsl:value-of select="text"/>
 			</xsl:otherwise>
 		</xsl:choose>
 		<div class="time"><xsl:value-of select="created_at"/></div>
