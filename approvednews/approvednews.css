@@ -120,7 +120,6 @@ a {
 	#header {
 		height: 290px;
 		background-image: url(biglogo.png);
-		border-bottom: 1px solid #8d3f50;
 	}
 	.item {
 		text-align: left;
