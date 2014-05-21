@@ -5,7 +5,7 @@
 <title>Approved News 6</title>
 <meta name="viewport" content="width=device-width" />
 <link rel="stylesheet" href="approvednews.css" />
-<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400,300,700&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?amp;family=Open+Sans:300italic,400,300,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css' />
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
