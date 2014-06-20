@@ -1,5 +1,5 @@
 body {
-	font-family: "serif", "Open Sans", "Helvetica Neue", Helvetica, sans-serif; /* ugly hack to make font bearable on Android devices */
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
 	font-weight: 100;
 	background-color: #f0e5e5;
 	margin: 0;
