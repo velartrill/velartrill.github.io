@@ -163,3 +163,16 @@ p {
 	font-size: 11pt;
 	font-weight: 100;
 }
+.headline {
+	font-size: 18pt;
+	font-weight: 100;
+	margin-top: .8em;
+	text-align: justify;
+}
+.byline {
+	font-style: italic;
+	font-size: 10pt;
+	color: #79394c;
+	padding-bottom: .4em;
+	border-bottom: 1px solid #79394c;
+}
