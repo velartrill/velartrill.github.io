@@ -141,3 +141,11 @@ a {
 		padding-left: 0px;
 	}
 }
+.warning {
+	margin-top: 1em;
+	text-align: center;
+	background-color: #9d5c70;
+	color: #e9afc0;
+	padding: .3em;
+	font-size: 10pt;
+}
