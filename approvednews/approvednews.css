@@ -10,7 +10,6 @@ body {
 	letter-spacing: .4em;
 	background-color: white;
 	font-size: 9pt;
-	font-weight: normal;
 	padding: 1em;
 	color: #999;
 	text-transform: uppercase;
@@ -23,6 +22,7 @@ a {
 	padding-left: 1.4em;
 	color: #999;
 	margin: .3em;
+	font-weight: normal;
 }
 #nav .selected {
 	background-color: #601a2f;
