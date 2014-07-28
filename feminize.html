@@ -99,9 +99,9 @@ for (var k in reg) { if (reg.hasOwnProperty(k)) {
 }}
 function misandry() {
 	for (var k in reptable) { if (reptable.hasOwnProperty(k)) {
-		var re = new RegExp('(\\W|^)'+k+'($|\\W)', 'gm');
+		var re = new RegExp('\\b'+k, 'gm');
 		var b = document.getElementById('sexist');
-		b.innerHTML = b.innerHTML.replace(re,'$1'+reptable[k]+'$2');
+		b.innerHTML = b.innerHTML.replace(re,reptable[k]);
 	}}
 }
 </script>
@@ -117,7 +117,7 @@ function misandry() {
 <p>"I've no notion, master," stammered the jailer, clutching his pint. "He was in the dungeons as last I knew."</p>
 <p>"Well he's not there now," growled the Duke, "and I want to know who let the vile little bastard get out. I swear to all seven gods of the realm, I am surrounded by incompetents and fools, not trained men of the sword!"</p>
 <p>At that very moment, the Emperor's men burst into the room, the Emperor himself following close behind. His Lordship spun and grinned manically. "Sire!" he cried, bowing deeply. "I thought you were-"</p>
-<p>"Asleep?" boomed the Emperor, his voice drowning out the Duke's. "Aye, until a few minutes ago, I was enjoying the peace and quiet known only to bachelors and the dead. Until I received word my idiot nephew had sprung your prize from his dank little cell and fled with him into the hills. Summon the hounds and ready your men! We have an arch-arsonist to hunt."</p>
+<p>"Asleep?" boomed the Emperor, his voice drowning out the Count's. "Aye, until a few minutes ago, I was enjoying the peace and quiet known only to bachelors and the dead. Until I received word my idiot nephew had sprung your prize from his dank little cell and fled with him into the hills. Summon the hounds and ready your men! We have an arch-arsonist to hunt."</p>
 <p>"Aye, milord!" exclaimed the Duke, immeasurably relieved, and dashed off towards the palace.</p>
 </div>
 <button onclick="misandry()">Feminize!</button>
@@ -154,8 +154,8 @@ for (var k in reg) { if (reg.hasOwnProperty(k)) {
 	addCapVariants(regPlural(k),regPlural(reg[k]));
 }}
 for (var k in reptable) { if (reptable.hasOwnProperty(k)) {
-	var re = new RegExp('(\\W|^)'+k+'($|\\W)', 'gm');
-	document.body.innerHTML = document.body.innerHTML.replace(re,'$1'+reptable[k]+'$2');
+	var re = new RegExp('\\b'+k, 'gm');
+	document.body.innerHTML = document.body.innerHTML.replace(re,reptable[k]);
 }}})()" onclick="return false">FEMINIZER X9000</a>
 
 <small><p>*WARNING: This product may cause hysteria, light to moderate epiphanies, and late-onset gay. Do not expose to polysemy, possessive adjectives, or <a href="approvednews">Contaminated material</a>.</p>
