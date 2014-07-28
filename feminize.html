@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+body {
+	font-family: "GaramondNo8", serif;
+	font-weight: 100;
+	text-align: center;
+	max-width: 50em;
+	margin: auto;
+	margin-top: 7em;
+	font-size: 11pt;
+}
+a[href] {
+	outline: none;
+}
+small {
+	color: #999;
+}
+small a[href] {
+	color: #99f;
+}
+small a[href]:active {
+	color: #77f;
+}
+#sexist {
+	width: 60%;
+	background-color: #ddd;
+	border: 1px solid #aaa;
+	padding: 0em 1em;
+	margin: auto;
+	text-align: justify;
+}
+button {
+	background-color: #470034;
+	color: #ffd6f4;
+	border: none;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+	font-weight:bold;
+	padding: .5em 1em;
+}
+button:hover { background-color: #7a005a; }
+button:active { background-color: #29001e; color: #7a005a; }
+.bklet {
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+	font-size: 15pt;
+	font-weight: bold;
+	display: block;
+	color: #ffd1d1;
+	text-decoration: none;
+	background-color: #750000;
+	box-shadow: 0 0 3em #c20000;
+	border-radius: .2em;
+	padding: 1em;
+	width: 30%;
+	margin: auto;
+	margin-bottom: 3em;
+	margin-top: 2em;
+}
+</style>
+<title>The Wondrous FEMINIZER BOOKMARKLET</title>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51096979-1', 'velartrill.github.io');
+  ga('send', 'pageview');
+  
+  sp = {he: 'she', him: 'her', his: 'her', himself: 'herself', man: 'woman',
+		gentleman: 'lady', men: 'women', gentlemen: 'ladies', sir: 'ma\'am', sire: 'milady',
+		sirs: 'miladies', misandry: 'MISANDRRYYY!!!1!1 WAAAAAAH', gramps: 'gran', mankind: 'humanity'}
+reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', boy: 'girl', lad: 'lass',
+		milord: 'milady',  master: 'mistress', count: 'countess',
+		baron: 'baroness', marquess: 'marquise', bastard: 'monster', lordship: 'ladyship', god: 'goddess',
+		male: 'female', boyfriend: 'girlfriend', brother: 'sister', father: 'mother', grandfather: 'grandmother',
+		grandpa: 'grandma', uncle: 'aunt', nephew: 'niece', actor: 'actress', blond: 'blonde', bachelor: 'spinster'}
+reptable = {}
+function capitalize(s){
+    return s.charAt(0).toUpperCase()+s.slice(1);
+}
+function regPlural(str) {
+	if (str.slice(-1) == 's') return str+'es'
+	else if (str.slice(-1) == 'y') return str.slice(0,str.length-1)+'ies'
+	else return str+'s'
+}
+function addCapVariants(src, rep) {
+	reptable[src] = rep;
+	reptable[src.toUpperCase()] = rep.toUpperCase();
+	reptable[capitalize(src)] = capitalize(rep);
+}
+for (var k in sp) { if (sp.hasOwnProperty(k)) {
+	addCapVariants(k,sp[k])
+}}
+for (var k in reg) { if (reg.hasOwnProperty(k)) {
+	addCapVariants(k,reg[k])
+	addCapVariants(regPlural(k),regPlural(reg[k]))
+}}
+function misandry() {
+	for (var k in reptable) { if (reptable.hasOwnProperty(k)) {
+		var re = new RegExp('(\\W|^)'+k+'($|\\W)', 'gm');
+		var b = document.getElementById('sexist');
+		b.innerHTML = b.innerHTML.replace(re,'$1'+reptable[k]+'$2');
+	}}
+}
+</script>
+</head>
+<body>
+<h1>Dr. Summer's Marvelous FEMINIZER BOOKMARKLET</h1>
+<p>TIRED of smug, sexist writers acting like everyone who matters is MALE? YEARN for a narrative with LESS GENDER STEREOTYPES? The FEMINIZER BOOKMARKLET may be for you! Concocted from a potent solution of DUDEBRO TEARS and WEAPONS-GRADE MISANDRY, the FEMINIZER BOOKMARKLET will take your sexist passages and - WITH BUT A SINGLE CLICK - rid them of all but the most devious of men!</p>
+
+<p>DON'T BELIEVE US? Give it a try! Just press the BIG PINK BUTTON below, and watch in WONDER as every man in the below passage drains away! THINK IT'S A TRICK? Type in your own text, and WONDER as Dr. Summer's WONDERFUL ALGORITHM purges it too of all things male!</p>
+
+<div id="sexist" contenteditable="true">
+<p>His Lordship stalked into the inn, his eyes ablaze. <em><strong>"WHERE IS THAT DAMNABLE MAN?"</strong></em> he roared, hurling his cane at the stable-boy, who woke with a start that sent his tall mug of the innhouse's finest toppling from the counter. "The Emperor himself is here and I don't want to have to tell him we let the King of Traitors slip away into the night!"</p>
+<p>"I've no notion, milord," stammered the jailer, clutching his pint. "He was in the dungeons as last I knew."</p>
+<p>"Well he's not there now," growled the Duke, "and I want to know who let the vile little bastard get out. I swear to all seven gods of the realm, I am surrounded by incompetents and fools, not trained men of the sword!"
+</div>
+<button onclick="misandry()">Feminize!</button>
+
+<p>LIKE WHAT YOU SEE? The FEMINIZER BOOKMARKLET may be installed to your WEB BROWSER DEVICE by grabbing hold of the finely-crafted link below and dropping it in your bookmark bar, and PRESTO - now you can rid the web of men at your leisure!</p>
+
+<a class="bklet" href="javascript:(function(){sp = {he: 'she', him: 'her', his: 'her', himself: 'herself', man: 'woman',
+		gentleman: 'lady', men: 'women', gentlemen: 'ladies', sir: 'ma\'am', sire: 'milady',
+		sirs: 'miladies', misandry: 'MISANDRRYYY!!!1!1 WAAAAAAH', gramps: 'gran', mankind: 'humanity'};
+reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', boy: 'girl', lad: 'lass',
+		milord: 'milady',  master: 'mistress', count: 'countess',
+		baron: 'baroness', marquess: 'marquise', bastard: 'monster', lordship: 'ladyship', god: 'goddess',
+		male: 'female', boyfriend: 'girlfriend', brother: 'sister', father: 'mother', grandfather: 'grandmother',
+		grandpa: 'grandma', uncle: 'aunt', nephew: 'niece', actor: 'actress', blond: 'blonde', bachelor: 'spinster'};
+reptable = {};
+function capitalize(s){
+    return s.charAt(0).toUpperCase()+s.slice(1);
+}
+function regPlural(str) {
+	if (str.slice(-1) == 's') return str+'es';
+	else if (str.slice(-1) == 'y') return str.slice(0,str.length-1)+'ies';
+	else return str+'s';
+}
+function addCapVariants(src, rep) {
+	reptable[src] = rep;
+	reptable[src.toUpperCase()] = rep.toUpperCase();
+	reptable[capitalize(src)] = capitalize(rep);
+}
+for (var k in sp) { if (sp.hasOwnProperty(k)) {
+	addCapVariants(k,sp[k]);
+}}
+for (var k in reg) { if (reg.hasOwnProperty(k)) {
+	addCapVariants(k,reg[k]);
+	addCapVariants(regPlural(k),regPlural(reg[k]));
+}}
+for (var k in reptable) { if (reptable.hasOwnProperty(k)) {
+	var re = new RegExp('(\\W|^)'+k+'($|\\W)', 'gm');
+	document.body.innerHTML = document.body.innerHTML.replace(re,'$1'+reptable[k]+'$2');
+}}})()" onclick="return false">FEMINIZER X9000</a>
+
+<small><p>*WARNING: This product may cause hysteria, light to moderate epiphanies, and late-onset gay. Do not expose to polysemy, possessive adjectives, or <a href="approvednews">Contaminated material</a>.</p>
+
+<p>Feminizer Bookmarklet written by <a href="/">Alexis Hale</a>. ALL RIGHTS RESERVED, because I don't want to risk having bigots warp this code into its evil counterpart. If you use the code for good tho (i.e. social-justicey purposes) I promise won't send you a cease-and-desist or sue you or anything as long as you abide by the GPLv2.</p></small>
+</body>
+</html>
