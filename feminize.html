@@ -99,7 +99,7 @@ for (var k in reg) { if (reg.hasOwnProperty(k)) {
 }}
 function misandry() {
 	for (var k in reptable) { if (reptable.hasOwnProperty(k)) {
-		var re = new RegExp('\\b'+k, 'gm');
+		var re = new RegExp('\\b'+k+'\\b', 'gm');
 		var b = document.getElementById('sexist');
 		b.innerHTML = b.innerHTML.replace(re,reptable[k]);
 	}}
@@ -154,7 +154,7 @@ for (var k in reg) { if (reg.hasOwnProperty(k)) {
 	addCapVariants(regPlural(k),regPlural(reg[k]));
 }}
 for (var k in reptable) { if (reptable.hasOwnProperty(k)) {
-	var re = new RegExp('\\b'+k, 'gm');
+	var re = new RegExp('\\b'+k+'\\b', 'gm');
 	document.body.innerHTML = document.body.innerHTML.replace(re,reptable[k]);
 }}})()" onclick="return false">FEMINIZER X9000</a>
 
