@@ -71,7 +71,7 @@ button:active { background-color: #29001e; color: #7a005a; }
   sp = {he: 'she', him: 'her', his: 'her', himself: 'herself', man: 'woman',
 		gentleman: 'lady', men: 'women', gentlemen: 'ladies', sir: 'ma\'am', sire: 'milady', Mr: 'Ms', mister: "missus", 
 		sirs: 'miladies', misandry: 'MISANDRRYYY!!!1!1 WAAAAAAH', gramps: 'gran', mankind: 'humanity', husband: 'wife', husbands: 'wives',
-		
+		guy: 'gal', guys: 'gals',
 		
 		// Names! horribly incomplete
 		
@@ -82,19 +82,26 @@ button:active { background-color: #29001e; color: #7a005a; }
 		John: 'Joan',				Paul: 'Paula',				Bobby: 'Bobbie',	Robert: 'Roberta',
 		Alexander: 'Alexandra',		Adrian: 'Adrienne',			Nathan: 'Natalie',	Nathaniel: 'Natalia',
 		Patrick: 'Patricia',		Frederick: 'Freddie',		Fred: 'Freddie',	Freddy: 'Freddie',
-		Francisco: 'Francesca',		Jack: 'Jessica',			James: 'Jenna',		Chris: 'Chrissie',
+		Francisco: 'Francesca',		Jack: 'Jessica',			James: 'Jenny',		Chris: 'Chrissie',
 		Adam: 'Anna',				Andy: 'Andi',				Andrew: 'Andrea',	Ashton: 'Ashley',
-		Ed: 'Edna',					Edward: 'Edith',			Steve: 'Steph',
+		Ed: 'Edna',					Edward: 'Edith',			Steve: 'Steph',		Edgar: 'Edna',
+		Dave: 'Daria',				Jim: 'Jenna',				Aaron: 'Erin',		Stan: 'Stella',
+		Gerald: 'Jess',				Craig: 'Kristin',			Dan: 'Dana',		Brett: 'Britta',
+		Brent: 'Breanna',			Hansel: 'Hannelore',		Hans: 'Hannah',		Ben: 'Bella',
+		Randy: 'Rachel',			Alex: 'Alexis', 			Louis: 'Louise',	Brendan: 'Brittany',
+		Cliff: 'Clair',				Clifford: 'Clara',			Julian: 'Juliana',	Mark: 'Marsha',
+		Joe: 'Jo',					Roman: 'Romana',			Ian: 'Ellen',		Tim: 'Tess',
+		Chilton: 'Chelsea',			Jeff: 'Jen',
 		
 		// hispanic names
 		Gabriel: 'Gabriela',		Ramon: 'Ramona',			'Ramón': 'Ramona',	Rafael: 'Rafaela',
 		Angel: 'Angela',			'Ángel': 'Ángela',			Daniel: 'Daniela',	'Martín': 'Martina',
-		Alejandro: 'Alejandra',
+		Alejandro: 'Alejandra',		Luis: 'Luisa',
 		
 		// french names:
 		Adrien: 'Adrienne',			Alexandre: 'Alexandra',		'François': 'Françoise',
 		'Éric': 'Élise',			Emmanuel: 'Emmanuelle',		'Stéphane': 'Stéphanie',
-		Claud: 'Claire',			Martin: 'Martine',
+		Claud: 'Claire',			Martin: 'Martine',			Julien: 'Julienne',
 		
 		// Arabic names
 		Abd: 'Abidah',
@@ -105,13 +112,14 @@ button:active { background-color: #29001e; color: #7a005a; }
 		Abu: 'Umm',
 		Halim: 'Halima',
 		Malik: 'Malika',
-		
+		Hassan: 'Hanan',
 		}
-reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', boy: 'girl', lad: 'lass',
+reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', boy: 'girl', lad: 'lass', fellow: 'woman',
 		milord: 'milady',  master: 'mistress', Count: 'Countess', earl: 'countess', hero: 'heroine', son: 'daughter',
 		baron: 'baroness', marquess: 'marquise', bastard: 'monster', lordship: 'ladyship', god: 'goddess',
 		male: 'female', boyfriend: 'girlfriend', brother: 'sister', father: 'mother', grandfather: 'grandmother',
-		grandpa: 'grandma', uncle: 'aunt', nephew: 'niece', actor: 'actress', blond: 'blonde', bachelor: 'spinster', waiter: 'waitress', }
+		grandpa: 'grandma', uncle: 'aunt', nephew: 'niece', actor: 'actress', blond: 'blonde', bachelor: 'spinster', waiter: 'waitress',
+		dude: 'dudette'}
 reptable = {}
 function capitalize(s){
     return s.charAt(0).toUpperCase()+s.slice(1);
@@ -162,20 +170,32 @@ function misandry() {
 
 <a class="bklet" href="javascript:(function(){sp = {he: 'she', him: 'her', his: 'her', himself: 'herself', man: 'woman',
 		gentleman: 'lady', men: 'women', gentlemen: 'ladies', sir: 'ma\'am', sire: 'milady', husband: 'wife', husbands: 'wives',
-		sirs: 'miladies', misandry: 'MISANDRRYYY!!!1!1 WAAAAAAH', gramps: 'gran', mankind: 'humanity', Mr: 'Ms', mister: 'missus', 
+		sirs: 'miladies', misandry: 'MISANDRRYYY!!!1!1 WAAAAAAH', gramps: 'gran', mankind: 'humanity', Mr: 'Ms', mister: 'missus',
+		guy: 'gal', guys: 'gals',
 		Rick: 'Rita',				Dennis: 'Denise',			James: 'Jamie',		Samuel: 'Samantha',
-		Eric: 'Erica',				Gary: 'Gertrude',			Derek: 'Dorothy',	Steven: 'Stephanie', Steve: 'Steph',
+		Eric: 'Erica',				Gary: 'Gertrude',			Derek: 'Dorothy',	Steven: 'Stephanie',
 		Stephen: 'Stephanie',		Christian: 'Christine',		Justin: 'Justine',	Don: 'Donna',
 		John: 'Joan',				Paul: 'Paula',				Bobby: 'Bobbie',	Robert: 'Roberta',
 		Alexander: 'Alexandra',		Adrian: 'Adrienne',			Nathan: 'Natalie',	Nathaniel: 'Natalia',
 		Patrick: 'Patricia',		Frederick: 'Freddie',		Fred: 'Freddie',	Freddy: 'Freddie',
-		Francisco: 'Francesca',		Jack: 'Jessica',			James: 'Jenna',		Chris: 'Kristin',
+		Francisco: 'Francesca',		Jack: 'Jessica',			James: 'Jenny',		Chris: 'Chrissie',
+		Adam: 'Anna',				Andy: 'Andi',				Andrew: 'Andrea',	Ashton: 'Ashley',
+		Ed: 'Edna',					Edward: 'Edith',			Steve: 'Steph',		Edgar: 'Edna',
+		Dave: 'Daria',				Jim: 'Jenna',				Aaron: 'Erin',		Stan: 'Stella',
+		Gerald: 'Jess',				Craig: 'Kristin',			Dan: 'Dana',		Brett: 'Britta',
+		Brent: 'Breanna',			Hansel: 'Hannelore',		Hans: 'Hannah',		Ben: 'Bella',
+		Randy: 'Rachel',			Alex: 'Alexis', 			Louis: 'Louise',	Brendan: 'Brittany',
+		Cliff: 'Clair',				Clifford: 'Clara',			Julian: 'Juliana',Mark: 'Marsha',
+		Joe: 'Jo',Roman: 'Romana',Ian: 'Ellen', Tim: 'Tess', Chilton: 'Chelsea',Jeff: 'Jen',
+
 		Gabriel: 'Gabriela',		Ramon: 'Ramona',			'Ramón': 'Ramona',	Rafael: 'Rafaela',
 		Angel: 'Angela',			'Ángel': 'Ángela',			Daniel: 'Daniela',	'Martín': 'Martina',
-		Alejandro: 'Alejandra',
+		Alejandro: 'Alejandra', Luis: 'Luisa',
+		
 		Adrien: 'Adrienne',			Alexandre: 'Alexandra',		'François': 'Françoise',
 		'Éric': 'Élise',			Emmanuel: 'Emmanuelle',		'Stéphane': 'Stéphanie',
-		Claud: 'Claire',			Martin: 'Martine',
+		Claud: 'Claire',			Martin: 'Martine',			Julien: 'Julienne',
+		
 		Abd: 'Abidah',
 		Abdul: 'Abidat ul',
 		Ali: 'Aliya',
@@ -183,13 +203,14 @@ function misandry() {
 		Ahmad: 'Hamida',
 		Abu: 'Umm',
 		Halim: 'Halima',
-		Malik: 'Malika'
-	};
-reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', boy: 'girl', lad: 'lass',
+		Malik: 'Malika',
+		Hassan: 'Hanan'};
+reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', boy: 'girl', lad: 'lass', fellow: 'woman',
 		milord: 'milady',  master: 'mistress', Count: 'Countess', earl: 'countess',  hero: 'heroine', son: 'daughter',
 		baron: 'baroness', marquess: 'marquise', bastard: 'monster', lordship: 'ladyship', god: 'goddess',
 		male: 'female', boyfriend: 'girlfriend', brother: 'sister', father: 'mother', grandfather: 'grandmother',
-		grandpa: 'grandma', uncle: 'aunt', nephew: 'niece', actor: 'actress', blond: 'blonde', bachelor: 'spinster', waiter: 'waitress'};
+		grandpa: 'grandma', uncle: 'aunt', nephew: 'niece', actor: 'actress', blond: 'blonde', bachelor: 'spinster', waiter: 'waitress',
+		dude: 'dudette'};
 reptable = {};
 function capitalize(s){
     return s.charAt(0).toUpperCase()+s.slice(1);
