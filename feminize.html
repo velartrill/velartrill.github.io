@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<meta charset="utf-8">
 <style type="text/css">
 body {
 	font-family: "GaramondNo8", serif;
@@ -68,17 +69,17 @@ button:active { background-color: #29001e; color: #7a005a; }
   ga('create', 'UA-51096979-1', 'velartrill.github.io');
   ga('send', 'pageview');
   
-  sp = {he: 'she', him: 'her', his: 'her', himself: 'herself', man: 'woman',
+  sp = {he: 'she', him: 'her', his: 'her', himself: 'herself', man: 'woman', boy: 'girl', boys: 'girls',
 		gentleman: 'lady', men: 'women', gentlemen: 'ladies', sir: 'ma\'am', sire: 'milady', Mr: 'Ms', mister: "missus", 
 		sirs: 'miladies', misandry: 'MISANDRRYYY!!!1!1 WAAAAAAH', gramps: 'gran', mankind: 'humanity', husband: 'wife', husbands: 'wives',
 		guy: 'gal', guys: 'gals',
 		
-		// Names! horribly incomplete
+		/* Names! horribly incomplete */
 		
-		// honkey names
+		/* honkey names */
 		Rick: 'Rita',				Dennis: 'Denise',			James: 'Jamie',		Samuel: 'Samantha',
 		Eric: 'Erica',				Gary: 'Gertrude',			Derek: 'Dorothy',	Steven: 'Stephanie',
-		Stephen: 'Stephanie',		Christian: 'Christine',		Justin: 'Justine',	Don: 'Donna',
+		Stephen: 'Stephanie',		Christian: 'Christine',		Justin: 'Justine',	Todd: 'Tessa',
 		John: 'Joan',				Paul: 'Paula',				Bobby: 'Bobbie',	Robert: 'Roberta',
 		Alexander: 'Alexandra',		Adrian: 'Adrienne',			Nathan: 'Natalie',	Nathaniel: 'Natalia',
 		Patrick: 'Patricia',		Frederick: 'Freddie',		Fred: 'Freddie',	Freddy: 'Freddie',
@@ -87,25 +88,35 @@ button:active { background-color: #29001e; color: #7a005a; }
 		Ed: 'Edna',					Edward: 'Edith',			Steve: 'Steph',		Edgar: 'Edna',
 		Dave: 'Daria',				Jim: 'Jenna',				Aaron: 'Erin',		Stan: 'Stella',
 		Gerald: 'Jess',				Craig: 'Kristin',			Dan: 'Dana',		Brett: 'Britta',
-		Brent: 'Breanna',			Hansel: 'Hannelore',		Hans: 'Hannah',		Ben: 'Bella',
+		Brent: 'Brooke',			Hansel: 'Hannelore',		Hans: 'Hannah',		Ben: 'Bella',
 		Randy: 'Rachel',			Alex: 'Alexis', 			Louis: 'Louise',	Brendan: 'Brittany',
-		Cliff: 'Clair',				Clifford: 'Clara',			Julian: 'Juliana',	Mark: 'Marsha',
+		Cliff: 'Clair',				Clifford: 'Clara',			Julian: 'Juliana',	Mark: 'Mara',
 		Joe: 'Jo',					Roman: 'Romana',			Ian: 'Ellen',		Tim: 'Tess',
-		Chilton: 'Chelsea',			Jeff: 'Jen',				Victor: 'Victoria',
+		Chilton: 'Chelsea',			Jeff: 'Jen',				Victor: 'Victoria',	Scott: 'Scarlet',
+		Johnny: 'Joanna',			Bryant:'Brandi',  			Brandon: 'Brenda',	Brian: 'Brianna',
+		Byron: 'Barbara',			Hugh: 'Helen',				David: 'Dawn',		Matthew: 'Marissa',
+		Matt: 'Mary',				Derrick: 'Dora',			Phil: 'Felicia',	Peter: 'Petra',
+		Brad: 'Brady',				Billy: 'Billie',			Kristof: 'Krista',	Daren: 'Dara',
+		Michael: 'Michaela',		Simon: 'Simone',			Greg: 'Gretchen',	Jonathan: 'Jennifer',
+		Stewart: 'Sally',			Stuart: 'Sarah',			Graham: 'Grace',	Murray: 'Miranda',
+		Frank: 'Francesca',			Thomas: 'Tamora',			Tom: 'Tara',		Walter: 'Wanda',
+		Shane: 'Sharon',			Shawn: 'Shauna',			Terrence: 'Theresa', Mike: 'Kayla',
+		Mikey: 'Kay',				Kenneth: 'Keana',			Doug: 'Danica',		Georg: 'Georgia',
+		George: 'Georgia',			Ken: 'Kea',					Garrett: 'Camille',	Jason: 'Jane',
 		
-		// hispanic names
+		/* hispanic names */
 		Gabriel: 'Gabriela',		Ramon: 'Ramona',			'Ramón': 'Ramona',	Rafael: 'Rafaela',
 		Angel: 'Angela',			'Ángel': 'Ángela',			Daniel: 'Daniela',	'Martín': 'Martina',
 		Alejandro: 'Alejandra',		Luis: 'Luisa',
 		
-		// french names:
+		/* french names: */
 		Adrien: 'Adrienne',			Alexandre: 'Alexandra',		'François': 'Françoise',
 		'Éric': 'Élise',			Emmanuel: 'Emmanuelle',		'Stéphane': 'Stéphanie',
 		Claud: 'Claire',			Martin: 'Martine',			Julien: 'Julienne',
 		
-		// Arabic names
+		/* Arabic names */
 		Abd: 'Abidah',
-		Abdul: 'Abidat ul', // ABDUL IS NOT ACTUALLY A NAME OKAY
+		Abdul: 'Abidat ul', /* ABDUL IS NOT ACTUALLY A NAME OKAY */
 		Ali: 'Aliya',
 		Karim: 'Karima',
 		Ahmad: 'Hamida',
@@ -114,14 +125,14 @@ button:active { background-color: #29001e; color: #7a005a; }
 		Malik: 'Malika',
 		Hassan: 'Hanan',
 		
-		//Russian names,
+		/* Russian names */
 		
 		Dmitri: 'Daria',		Dmitry: 'Daria',		Ivan: 'Ivana',
 		Alexey: 'Alyona',		Vsevolod: 'Valentina',	Leonid: 'Lena',
 		Anatoly: 'Anastasiya',	Anton: 'Alya', 			Igor: 'Irina',
 		Piotr: 'Polina',		Andrey: 'Anna'
 		}
-reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', boy: 'girl', lad: 'lass', fellow: 'woman',
+reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', lad: 'lass', fellow: 'woman',
 		milord: 'milady',  master: 'mistress', Count: 'Countess', earl: 'countess', hero: 'heroine', son: 'daughter',
 		baron: 'baroness', marquess: 'marquise', bastard: 'monster', lordship: 'ladyship', god: 'goddess',
 		male: 'female', boyfriend: 'girlfriend', brother: 'sister', father: 'mother', grandfather: 'grandmother',
@@ -175,13 +186,16 @@ function misandry() {
 
 <p>LIKE WHAT YOU SEE? The FEMINIZER BOOKMARKLET may be installed to your WEB BROWSER DEVICE by grabbing hold of the finely-crafted link below and dropping it in your bookmark bar, and PRESTO - now you can rid the web of men at your leisure!</p>
 
-<a class="bklet" href="javascript:(function(){sp = {he: 'she', him: 'her', his: 'her', himself: 'herself', man: 'woman',
+<a class="bklet" href="javascript:(function(){sp = {he: 'she', him: 'her', his: 'her', himself: 'herself', man: 'woman',boy: 'girl', boys: 'girls',
 		gentleman: 'lady', men: 'women', gentlemen: 'ladies', sir: 'ma\'am', sire: 'milady', husband: 'wife', husbands: 'wives',
 		sirs: 'miladies', misandry: 'MISANDRRYYY!!!1!1 WAAAAAAH', gramps: 'gran', mankind: 'humanity', Mr: 'Ms', mister: 'missus',
 		guy: 'gal', guys: 'gals',
+		/* Names! horribly incomplete */
+		
+		/* honkey names */
 		Rick: 'Rita',				Dennis: 'Denise',			James: 'Jamie',		Samuel: 'Samantha',
 		Eric: 'Erica',				Gary: 'Gertrude',			Derek: 'Dorothy',	Steven: 'Stephanie',
-		Stephen: 'Stephanie',		Christian: 'Christine',		Justin: 'Justine',	Don: 'Donna',
+		Stephen: 'Stephanie',		Christian: 'Christine',		Justin: 'Justine',	Todd: 'Tessa',
 		John: 'Joan',				Paul: 'Paula',				Bobby: 'Bobbie',	Robert: 'Roberta',
 		Alexander: 'Alexandra',		Adrian: 'Adrienne',			Nathan: 'Natalie',	Nathaniel: 'Natalia',
 		Patrick: 'Patricia',		Frederick: 'Freddie',		Fred: 'Freddie',	Freddy: 'Freddie',
@@ -190,22 +204,35 @@ function misandry() {
 		Ed: 'Edna',					Edward: 'Edith',			Steve: 'Steph',		Edgar: 'Edna',
 		Dave: 'Daria',				Jim: 'Jenna',				Aaron: 'Erin',		Stan: 'Stella',
 		Gerald: 'Jess',				Craig: 'Kristin',			Dan: 'Dana',		Brett: 'Britta',
-		Brent: 'Breanna',			Hansel: 'Hannelore',		Hans: 'Hannah',		Ben: 'Bella',
+		Brent: 'Brooke',			Hansel: 'Hannelore',		Hans: 'Hannah',		Ben: 'Bella',
 		Randy: 'Rachel',			Alex: 'Alexis', 			Louis: 'Louise',	Brendan: 'Brittany',
-		Cliff: 'Clair',				Clifford: 'Clara',			Julian: 'Juliana',	Mark: 'Marsha',
+		Cliff: 'Clair',				Clifford: 'Clara',			Julian: 'Juliana',	Mark: 'Mara',
 		Joe: 'Jo',					Roman: 'Romana',			Ian: 'Ellen',		Tim: 'Tess',
-		Chilton: 'Chelsea',			Jeff: 'Jen',				Victor: 'Victoria',
+		Chilton: 'Chelsea',			Jeff: 'Jen',				Victor: 'Victoria',	Scott: 'Scarlet',
+		Johnny: 'Joanna',			Bryant:'Brandi',  			Brandon: 'Brenda',	Brian: 'Brianna',
+		Byron: 'Barbara',			Hugh: 'Helen',				David: 'Dawn',		Matthew: 'Marissa',
+		Matt: 'Mary',				Derrick: 'Dora',			Phil: 'Felicia',	Peter: 'Petra',
+		Brad: 'Brady',				Billy: 'Billie',			Kristof: 'Krista',	Daren: 'Dara',
+		Michael: 'Michaela',		Simon: 'Simone',			Greg: 'Gretchen',	Jonathan: 'Jennifer',
+		Stewart: 'Sally',			Stuart: 'Sarah',			Graham: 'Grace',	Murray: 'Miranda',
+		Frank: 'Francesca',			Thomas: 'Tamora',			Tom: 'Tara',		Walter: 'Wanda',
+		Shane: 'Sharon',			Shawn: 'Shauna',			Terrence: 'Theresa', Mike: 'Kayla',
+		Mikey: 'Kay',				Kenneth: 'Keana',			Doug: 'Danica',		Georg: 'Jen',
+		George: 'Jen',				Ken: 'Kea',					Garrett: 'Camille',	Jason: 'Jane',
 		
+		/* hispanic names */
 		Gabriel: 'Gabriela',		Ramon: 'Ramona',			'Ramón': 'Ramona',	Rafael: 'Rafaela',
 		Angel: 'Angela',			'Ángel': 'Ángela',			Daniel: 'Daniela',	'Martín': 'Martina',
 		Alejandro: 'Alejandra',		Luis: 'Luisa',
 		
+		/* french names: */
 		Adrien: 'Adrienne',			Alexandre: 'Alexandra',		'François': 'Françoise',
 		'Éric': 'Élise',			Emmanuel: 'Emmanuelle',		'Stéphane': 'Stéphanie',
 		Claud: 'Claire',			Martin: 'Martine',			Julien: 'Julienne',
 		
+		/* Arabic names */
 		Abd: 'Abidah',
-		Abdul: 'Abidat ul',
+		Abdul: 'Abidat ul', /* ABDUL IS NOT ACTUALLY A NAME OKAY */
 		Ali: 'Aliya',
 		Karim: 'Karima',
 		Ahmad: 'Hamida',
@@ -214,11 +241,13 @@ function misandry() {
 		Malik: 'Malika',
 		Hassan: 'Hanan',
 		
+		/* Russian names */
+		
 		Dmitri: 'Daria',		Dmitry: 'Daria',		Ivan: 'Ivana',
 		Alexey: 'Alyona',		Vsevolod: 'Valentina',	Leonid: 'Lena',
 		Anatoly: 'Anastasiya',	Anton: 'Alya', 			Igor: 'Irina',
 		Piotr: 'Polina',		Andrey: 'Anna'};
-reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', boy: 'girl', lad: 'lass', fellow: 'woman',
+reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', lad: 'lass', fellow: 'woman',
 		milord: 'milady',  master: 'mistress', Count: 'Countess', earl: 'countess',  hero: 'heroine', son: 'daughter',
 		baron: 'baroness', marquess: 'marquise', bastard: 'monster', lordship: 'ladyship', god: 'goddess',
 		male: 'female', boyfriend: 'girlfriend', brother: 'sister', father: 'mother', grandfather: 'grandmother',
