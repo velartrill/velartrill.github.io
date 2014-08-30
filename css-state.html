@@ -1,0 +1,180 @@
+<!DOCTYPE html5>
+<html>
+<head>
+<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
+<style>
+body {
+	background: #2e0010;
+	font-family: "Open Sans", sans-serif;
+	font-size: 10pt;
+	color: #ffadca;
+	text-align: center;
+}
+h1 {
+	font-weight: 100;
+}
+a[href] {
+	color: #ffadca;
+}
+input[type=checkbox] { display: none; }
+p { margin: 3em }
+input, .bin, .merge, .optpanel label {
+	background-color: #750029;
+	border: 1px solid #4d001b;
+	padding: .3em .7em;
+	border-radius: .5em;
+	outline: none;
+	color: #ffadca;
+	font: 10pt sans-serif;
+}
+.optpanel {
+	width: 17em;
+	margin: auto;
+	padding: 1em;
+	margin-bottom: .6em;
+	background-color: #420017;
+}
+.optpanel span {
+	display: inline-block;
+	padding: .3em;
+	width: 45%;
+}
+.bin input[type=checkbox] + span .off { display: initial; }
+.bin input[type=checkbox] + span .on { display: none; }
+.bin input[type=checkbox]:checked + span .off { display: none; }
+.bin input[type=checkbox]:checked + span .on { display: initial; }
+.bin {
+	cursor: pointer;
+}
+.bin:hover, .optpanel label:hover {
+	background-color: #8a0030;	
+}
+.bin:active, .optpanel label:active {
+	border-color: #3d0015;
+	background-color: #4d001b;
+}
+.merge input {
+	border: none;
+	padding: .2em;
+}
+
+.box {
+	width: 10em;
+	margin: auto;
+	background-color: #4d001b;
+	padding: 1em;
+}
+.panes span .on { display: none; }
+.panes input[type=checkbox]:checked + span .on { display: initial; }
+.panes input[type=checkbox]:checked + span .off { display: none; }
+.tabbox {
+	padding: .3em;
+}
+.tabbox span, label {
+	padding: .3em; 
+	border-radius: .5em .5em 0 0;
+}
+.tabbox span {
+	background-color: #4d001b;
+	cursor: default;
+}
+.tabbox label {
+	background-color: #8a0030;
+	cursor: pointer;
+}
+.tabbox label:hover {
+	background-color: #750029;
+}
+
+.storybox {
+	width: 25em;
+	background-color: #4d001b;
+	margin: auto;
+	padding: .4em;
+	text-align: justify;
+}
+.storybox p {
+	margin: .8em;
+}
+.vrep div .vfem { display: none }
+.vrep input#vfem[type=checkbox]:checked + div .vfem { display: initial; }
+.vrep input#vfem[type=checkbox]:checked + div .nvfem { display: none; }
+
+.hrep div .hfem { display: none }
+.hrep input#hfem[type=checkbox]:checked + div .hfem { display: initial; }
+.hrep input#hfem[type=checkbox]:checked + div .nhfem { display: none; }
+</style>
+</head>
+<body>
+<h1>hey guess what</h1>
+<p>you can totally use checkboxes to implement state in css+html.</p>
+<form>
+	<span class="merge">
+	<input type="text" placeholder="3" style="width: 15pt; text-align: right">:<input type="text" placeholder="00" style="width: 15pt">
+	</span>
+	<label class="bin">
+		<input type="checkbox">
+		<span>
+			<span class="on">AM</span>
+			<span class="off">PM</span>
+		</span>
+	</label>
+</form>
+<p>all these examples?</p>
+<form>
+<div class="panes">
+		<input id="12hour" type="checkbox">
+		<span>
+			<div class="off">
+			<div class="tabbox"><label for="12hour">24-Hour</label> <span>12-Hour</span></div>
+				<div class="box">
+					<span class="merge">
+					<input type="text" placeholder="3" style="width: 15pt; text-align: right">:<input type="text" placeholder="00" style="width: 15pt">
+					</span>
+					<label class="bin">
+						<input type="checkbox">
+						<span>
+							<span class="on">PM</span>
+							<span class="off">AM</span>
+						</span>
+					</label>
+				</div>
+			</div>
+			<div class="on">
+				<div class="tabbox"><span>24-Hour</span> <label for="12hour">12-Hour</label></div>
+				<div class="box"><span class="merge">
+					<input type="text" placeholder="15" style="width: 15pt; text-align: right">:<input type="text" placeholder="00" style="width: 15pt">
+				</span></div>
+			</div>
+		</span>
+</div>
+</form>
+
+<p>100% certified javascript-uncontaminated.</p>
+
+<div class="vrep">
+		<input id="vfem" type="checkbox">
+		<div class="hrep">
+			<input id="hfem" type="checkbox">
+			<div>
+			
+				<div class="optpanel">
+				<span><strong>Villain:</strong> <label for="vfem" class="vfem">Female</label><label for="vfem" class="nvfem">Male</label></span>
+				<span><strong>Hero:</strong> <label for="hfem" class="hfem">Female</label><label for="hfem" class="nhfem">Male</label></span>
+				</div>
+				
+				<div class="storybox" contenteditable="true">
+					<p>The <span class="vfem">Duchess</span><span class="nvfem">Duke</span> slammed the door open, <span class="vfem">her</span><span class="nvfem">his</span> face a portrait of rage. Our <span class="hfem">heroine</span><span class="nhfem">hero</span>, smirking smugly and swathed in <span class="hfem">her</span><span class="nhfem">his</span> trademark jaunty purple breeches, gold doublet, and roguishly-angled hat, beamed winningly.</p>
+					<p>"Trouble at court, <span class="vfem">Duchess</span><span class="nvfem">Duke</span>?" <span class="hfem">she</span><span class="nhfem">he</span> quipped saucily.</p>
+					
+					<p>Purple with fury, the <span class="vfem">Duchess</span><span class="nvfem">Duke</span> shook a meaty fist. "I'll get you next time, <span class="hfem">Dame</span><span class="nhfem">Sir</span> Dashington-Smythe!" <span class="vfem">she</span><span class="nvfem">he</span> roared.</p>
+				</div>
+			</div>
+		</div>
+</div>
+
+<p>i mean, you probably shouldn't</p>
+<p style="margin-top: 4em"><em><strong>but you can</strong></em></p>
+<small>this atrocity against nature brought to you by <a href="/">Lexi Summer Hale</a>, proud perverter of the natural order</small>
+</body>
+</html>
