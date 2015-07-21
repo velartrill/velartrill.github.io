@@ -1,0 +1,29 @@
+<!doctype html5>
+<html>
+<head>
+<meta charset="utf-8">
+<title>US Dept. of Necromancy, Mutilation, & Bone Rituals</title>
+</head>
+<link href="style.css" rel="stylesheet">
+<body>
+<div id="offic-outer">
+	<div id="offic-inner">Official website of the United States Department of Necromancy, Mutilation, & Bone Rituals</img></div>
+</div>
+<div id="header-outer">
+	<div id="header-inner"><b>DNMB</b>.gov<br>Necromancy, Mutilation, & Bone Rituals</div>
+</div>
+<div id="nav-outer">
+<div id="nav">
+	<a href="index.html">News</a>
+	<a href="about.html">About Us</a>
+	<a href="forms.html">Forms</a>
+	<a href="res/index.html">Resources</a>
+	<a href="jobs.html">Employment Opportunities</a>
+</div>
+</div>
+<div id="navsep"></div>
+<div id="body">
+
+</div>
+</body>
+</html>
