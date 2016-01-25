@@ -1,0 +1,20 @@
+body {
+	background: #2e0010;
+	font-family: "Open Sans", sans-serif;
+	font-size: 11pt;
+	color: #ffadca;
+	width: 40em;
+	margin: auto;
+	margin-top: 2em;
+	text-align: left;
+}
+h1 {
+	font-weight: 100;
+}
+a[href] {
+	color: #ffadca;
+}
+li {
+	margin-bottom: .5em;
+}
+p { margin-bottom: 1em; }
