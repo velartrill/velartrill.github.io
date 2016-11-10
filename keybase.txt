@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/velartrill
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://xn--rpa.cc
+  * I am velartrill (https://keybase.io/velartrill) on keybase.
+  * I have a public key with fingerprint F342 9FC8 EBE9 FE0D A315  F7E1 E163 4867 5435 43E0
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01018765b677d0873235f08b24db3e20c6d8826927b59060a5bc74cc932ed2f555d90a",
+            "fingerprint": "f3429fc8ebe9fe0da315f7e1e1634867543543e0",
+            "host": "keybase.io",
+            "key_id": "e1634867543543e0",
+            "kid": "01018765b677d0873235f08b24db3e20c6d8826927b59060a5bc74cc932ed2f555d90a",
+            "uid": "147a913bbaee07c250ff771e293b2919",
+            "username": "velartrill"
+        },
+        "service": {
+            "hostname": "xn--rpa.cc",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1478779298,
+    "expire_in": 157680000,
+    "prev": "68d4fa4ff6ba2d8382cdf223a003c454acd3997704ded9997d2646a755456c1c",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkl9IFEEcx+/KLk0yo4d6OCTXLMk/zc7u7OxeEFFUh5X5oPTH6pjdmb02r91r
+bzsz86GCrDfpIaIIKlKhIiKjJAQpuDzIh7LwQQMzLRKjXqQ/htGs1FuPDQMz8+Pz
+/c53fkz74vmB3OCYEY3Xoc1vg88n9cCeVeROi6A7tFmItAiNbG5hCcpSXqzRokJE
+ACIQVawgXcGYAhVLUEImUHUoU11iEBgKVVWoaBDrSAMKIEg3sGwYmgQZhSZCiGqA
+CBWCadlx5iZdy/a4rSnJUDMNlelMMxmgRBKRiZnIREWSVQUjWeKTAS485KR8BQ+n
+kxSrshxe44fYXLx/8P8597E5O1HGRBMlXSeMAWxABEwTY5FBTdKhJmo+mGKuTY4w
+TqdZgrieayUSQmuFwOtpy2B+a/23/GGO25WVbpJUGQbXJl3HcwwnweuHPC8Z8WVe
+c9Lnmpge++MQ0y2b8jZyQZq5KcuxhYjIScOzfEueUcVYg5paIbDjSctlMcsnEFZU
+wId/DUtzS0Wlsklkc7ep6ARSVVKhQU0IJQKAZMhIJgaVNA1jIFNGNb6jUJEVghGS
+kWKIfuIUO2o7QkTiOUmce6asuE28Yy4TWhedD4ZzAsHcQGjBPP+DBRblFf79dft6
+cwMdV+8eqJ1d8mFhczSyZuGHszVnQ7XXo12fpvq/DlwqXrvlzNOp0r7MXrck/9SL
+VFHfjV05F0TU8u7m+/vlhRP1YHjXvdczO97vLD0d7cyubpoczl/xwDkZWdz27Fpd
+5vn++q4+0jAUzBkIlU2vHG+bKH5S/vLNo9lAU6wCBDflFXYgsupguLtkQeHo59qW
+S2091R+bRw7vTmSXZW+NCMuzmSu3s99KftgzW3DoXE/44WTn1hJrqrwgfzq64fuX
+cNHPi3WPz61pLyDp8dPFl3vz17WWxq+FdtwY/NW+deP6pa/q8jJd266WjTV0g+r4
+xnd6zeCToe3bvpyQL4RHN/TPrEbKbw==
+=uPw5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/velartrill
+
+==================================================================
