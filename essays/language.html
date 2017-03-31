@@ -1,0 +1,258 @@
+
+					<p>I&rsquo;ve tried a whole lot of programming languages over the years &mdash; in approximately the order I learned them, BASIC, REALbasic, Visual Basic, PHP, Python, Ruby, C++, C, D, Java, Fortran 95, and Rust. I&rsquo;ve derped around in Haskell, Go, and x86 Linux assembly (both AT&amp;T and Intel flavors), and I can write passable, if not idiomatic Javascript if a great need arises. But of all these languages, there are only three that I routinely use for anything: C, C++, and Ruby.</p>
+
+<p>Of these, I only use Ruby for web applications, string processing, shell scripts it&rsquo;d be painful to write in <code>bash</code>, and statistical stuff (and only then because of its built-in bignum support). So the only languages I use for real projects are C and C++. They&rsquo;re the languages I keep coming groveling back to every time I try to use something new.</p>
+
+<p>Why is this?</p>
+
+<p>It&rsquo;s not that they&rsquo;re the first languages I learned &mdash; probably more like the sixth and seventh. It&rsquo;s not that they&rsquo;re perfect, either &mdash; if they were, I wouldn&rsquo;t keep trying to find replacements for them. It&rsquo;s that, of all the languages humanity&rsquo;s developed, C and C++ are the only languages that come close to fulfilling a very basic set of requirements for sane, flexible development.</p>
+
+(Below the fold because this turned out stupidly long.)
+<!-- more -->
+<p><b>0. FOSS compilers</b></p>
+
+<p>If the only compilers available for a language are closed-source or have non-free components, that language is unsuitable for programming, period. It means I can&rsquo;t have confidence that I&rsquo;ll always be able to turn <em>my</em> work into a functioning executable.</p>
+
+<p>Languages that do this right: C, C++, Rust, Go, Objective C (sorta), most scripting languages</p>
+<p>Languages that especially suck at this: C#, Visual Basic, anything .NET. (Yes, I know about Mono. I don&rsquo;t care about Mono. The .NET CLI is not free software, and it&rsquo;s possible that the legal right to create 3rd-party implementations of .NET could be yanked out from under us at any moment.)</p> 
+
+<p><b>1. Portability</b></p>
+
+<p>This is about as basic as it gets. When I write a piece of code, I want to be able to be able to run it on any reasonably common operating system. That means Linux, Mac OS X, and Windows. I don&rsquo;t want to be stuck with a single platform.</p>
+
+<p>Languages that do this right: C, C++, D (kinda), Rust, Go, most scripting languages</p>
+<p>Languages that especially suck at this: C#, Visual Basic, anything .NET, Objective C.</p>
+
+<p><b>2. Interoperability.</b></p>
+
+<p>I would really like to be able to access, say, networking, UI, and graphics libraries without having to install a separate package of bindings. Yes, this is inherently in conflict with portability, but only because the different operating systems have different toolkits &mdash; if I write a GTK+ program on Linux, and I have GTK+ installed on a Mac, I should be able to run that program on the Mac. I don&rsquo;t expect any language to magically translate GTK+ commands to whatever window manager and UI toolkit Mac OS X uses natively.</p>
+
+<p>This is tricky because most existing libraries are defined in terms of C, and occasionally C++, though for C++ features you&rsquo;ll often have to make the end-user install an extra package (like <code>gtkmm</code> in addition to <code>gtk</code>) on their end. But for the most part it&rsquo;s not terribly difficult to translate C function definitions to another language, although I&rsquo;ve yet to see any automatic translation programs. Pretty much the only way to do this in any non-C language right now is through foreign function interfaces (FFIs) which you either have to write yourself or download from some sketchy Github account and toss it your project&rsquo;s source tree, and hope like hell the author keeps the definitions up to date when library undergoes a major update. These are obviously both suboptimal solutions.</p>
+
+<p>This is a big problem because most programming languages only provide basic text and file IO in their standard libraries as means of interaction with the user. If you want GUIs, or to muck around with OpenGL, you&rsquo;ll need to involve a library that probably has a C ABI.</p>
+
+<p>Scripting languages are an odd case here, because they generally have much bigger standard libraries than programming languages. So networking code on Ruby is actually pretty easy. However, go outside the standard library, and you&rsquo;re going to have to start installing special binaries to enable your scripts to call on system libraries. This is in stark contrast to all but the worst of programming language compilers, which generally can link with a library using the C ABI.</p>
+
+<p>Languages that do this right: C, C++ (kiiiinda), plus Rust and D if you want to be generous.</p>
+<p>Languages that especially suck at this: Java, Haskell, all scripting languages for things outside the standard library</p>
+
+<p><b>3. Static Typing</b></p>
+
+<p>Dynamic typing can be useful for small scripts, where you just need to get a piece of code running as fast as possible. But in anything that&rsquo;s supposed to be a standalone application, dynamic typing is worse than useless, especially when combined with implicit variable declaration, as it almost always is.</p>
+
+<p>Dealing with dynamic typing requires a language&rsquo;s syntax to cope with variables that are of potentially any type. This is one of the nastiest causes of action-at-a-distance in large programs: if a function can return multiple types, and a variable winds up holding a type the programmer didn&rsquo;t think to compensate for, program logic can fall apart in an instant and <em>this cannot be caught at compile time.</em></p>
+
+<p>Whatever you might possibly gain from &ldquo;flexibility&rdquo; you more than make up for in lost time dealing with bizarre logic errors. And it should be noted that, even though I&rsquo;ve never come across a language that does this, it&rsquo;s perfectly possible to get all the &ldquo;flexibility&rdquo; of dynamic typing with none of the downsides, even in a compiled language. Consider the following pseudocode:</p>
+
+<code><pre>
+struct result_t {
+	error_t error;
+	bool user_found;
+}
+
+[error_t | bool] getUser(string username, string password) {
+	result_t qobj = query_usr_db(username, password);
+	if qobj.error &gt; 0
+		return qobj.error;
+	else
+		return qobj.user_found;
+}
+
+...
+
+getUser("fitzsimmons","t0asterz") in {
+	error_t err =&gt; {
+		print("Error "+string::error(err)+" occurred.");
+	}
+	bool rslt =&gt; {
+		print(rslt ? "User found" : "User not found");
+	}
+}
+</pre></code>
+
+<p>This is not just easy to write and understand, it&rsquo;s pretty easy to implement, because everything is still statically-typed, the compiler just adds a bit of syntactic sugar. All the compiler has to do is consider multiple exit points for functions, instead of requiring a single return point.</p>
+
+<p>This could fairly easily to translated to the following pseudo-assembly, where %ESP represents the stack pointer:</p>
+
+<code><pre>
+USERNAME	DB "fitzsimmons"
+PASSWORD	DB "t0asterz"
+PUSH USERNAME
+PUSH PASSWORD
+PUSH @RETURN_ERROR_T
+PUSH @RETURN_BOOL
+CALL __GETUSER
+
+RETURN__ERROR_T:
+	ERRSTR	DB "Error "
+	ERRSTR2	DB " occurred."
+
+	PUSH ERRSTR
+	CALL __PRINT
+	PUSH ERR
+	CALL _STRING__ERROR
+	CALL __PRINT
+	PUSH ERRSTR2
+	CALL __PRINT
+	RET
+RETURN__BOOL:
+	FOUNDSTR	DB "User found"
+	NOTFOUNDSTR	DB "User not found"
+	POP %EAX
+	CMP %EAX, 1
+	JNE .NOTFOUND
+	.FOUND:
+		PUSH FOUNDSTR;
+		JMP .DONE
+	.NOTFOUND:
+		PUSH NOTFOUNDSTR;
+	.DONE
+	CALL __PRINT
+	RET
+	
+__GETUSER:
+	/* snip */
+	CMP %EAX, 0
+	JG .RETURN_ERROR_T;
+	.RETURN_BOOL:
+		MOV %EAX, [%ESP-1]
+		SUB %ESP, 3
+		PUSH %EDX;
+		JMP .RETURN;
+	.RETURN_ERROR_T:
+		MOV %EAX, [%ESP-2]
+		PUSH %EBX;
+	.RETURN:
+		SUB %ESP, 3
+		JMP %EAX
+</pre></code>
+
+<p>This isn&rsquo;t a great implementation because of how control flow passes around (it&rsquo;s basically equivalent to handing a void function two function pointers, one of which it calls based on the result of an operation after doing some tail-call optimization), but that&rsquo;s only because I&rsquo;m lazy. Compiler designers need not be bound by my laziness.</p>
+
+<p>Now let&rsquo;s talk about implicit variable declaration for a moment.</p>
+
+<p>*narrows eyes* *ominous music begins playing in background*</p>
+
+<p>For gods&rsquo; sake, FORTRAN figured out this was a horrible idea a looong time ago. And yet ostensibly &ldquo;modern&rdquo; dynamic languages, every one of them, don&rsquo;t even provide a way to turn it off like Fortran&rsquo;s <code>IMPLICIT NONE</code> statement. If you mention a variable, anywhere in your code, that variable magically springs into existence. So if you make the tiniest typo while referring to a variable in, let&rsquo;s see, Javascript, PHP (though arguably this is the least in PHP&rsquo;s voluminous repertoire of flaws), Ruby, Python, older versions of ActionScript when it was more an ECMAscript dialect than a Java clone, every shell ever, some dialects of BASIC, or a whole lot of more obscure languages, the compiler/interpreter will silently ignore your mistake, and the code will completely fail to work as intended, and you might spend hours trying to figure out what went wrong.</p>
+
+<p>And of course this inane model plays hell with scoping, such that some dynamic languages introduce extremely silly conventions for referring to specific scopes (@/$/@@ sigils in Ruby, Python&rsquo;s explicitly-passed &ldquo;self&rdquo; for methods [side note: WHAT THE HELL], PHP&rsquo;s &ldquo;global&rdquo; statement, which is used in the body of a function to indicate that a variable is linked to the global scope [side note: haha ha whaaaat], JavaScript&rsquo;s &ldquo;var&rdquo; statement which is used to declare a variable in local scope, as opposed to bare mention of a variable, which <em>defaults to global scope</em> [side note: OMGWTFBBQ]) instead of just using straightforward scope rules to determine what part of the code owns a given variable.</p>
+
+<p>All this for the &ldquo;convenience&rdquo; of not having to declare variables. A &ldquo;convenience&rdquo; that will later make your code incredibly hard to follow, because if you&rsquo;re looking through a piece of code, it&rsquo;s completely opaque where a particular variable is introduced. Maybe <code>toasterDensity</code> is just local to this particular if statement, or maybe it belongs to the entire function and altering its value will have completely unpredictable effects a hundred lines later. This is the sort of thing that should be obvious at a glance.</p>
+
+<p>Consider the following (idiomatic!) PHP example:</p>
+
+<code><pre>
+function toaster_get_explode_time($brand, $modelnum) {
+	if ($brand !== null) {
+		if ($brand === "ToastCo") {
+			$toasterDensity = 4;
+		} elseif ($model === "Hosenscheisser") {
+			$toasterDensity = 6;
+		}
+		$velocity = $modelnum / $toasterDensity;
+	} else {
+		$velocity = 10*$modelnum;
+	}
+	
+	/* snip 25,000 lines of highly advanced calculus */
+
+	if (isset($toasterDensity)) {
+		return $toasterDensity * 25 / $velocity;
+	} else {
+		return 100 / $velocity;
+	}
+}
+</pre></code>
+
+<p>At first glance, the variable $toasterDensity appears local to one block of code. It&rsquo;s probably not mentioned for another 25,000 lines of code. Then right at the end, <em>whether the variable was defined or not</em> massively affects the output. In terms of program state, this means there is essentially an extra, completely invisible boolean controlling program flow. THAT IS INSANITY.</p>
+
+<p>Yes, this is a pathological and insane example. Nobody in their right mind would use PHP to perform complex toaster-physics calculations. But this general type of pattern shows up ALL THE TIME in PHP code.</p>
+
+<p>(Note that I have not tested this code, because seriously, I&rsquo;m not touching a PHP interpreter ever ever again ever, so the syntax may be slightly off.)</p>
+
+<p>I honestly do not understand how these languages are used to write actual software.</p>
+
+<p>Languages that do this right: C, C++, D, Rust, Go, C#.</p>
+<p>Languages that especially suck at this: PHP, Ruby, PHP, Javascript, PHP, Visual Basic (if I remember right)</p>
+
+<p><b>4. Compilability</b></p>
+
+<p>I have nothing against interpreters. But if I write a program, at some point I&rsquo;m going to want to turn that into a machine-language binary. This is the factor that I use to distinguish <em>programming languages</em> like C, C++, D, Fortran, and Rust from <em>scripting languages</em> like Python, Ruby, JavaScript, and LISP*. No, I don&rsquo;t care that you have byte code and JIT compilation &mdash; this is about distribution, not just performance. I shouldn&rsquo;t have to publish a text file and tell people, &ldquo;oh and by the way you&rsquo;ll need to install Ruby and the Ruby-GTK bindings and the Ruby-Cairo bindings; actually, heck, you should probably just <code>apt-get install ruby-all</code> even though you&rsquo;re not a developer and will never write a single line of Ruby in your life.&rdquo; End-users should not need <em>development tools</em> to run distributed software. It&rsquo;s like requiring GCC and networking header files to be able to install a web browser. I don&rsquo;t understand how this is at all a thing people do. The difference here between Python and Java is that Java the Java Runtime and the JDK are separate components. Python makes no such separation.</p>
+
+<p>Can you tell this is a major sore point for me?</p>
+
+<p>Languages that do this right: C, C++, D, Rust, Go, Fortran, COBOL, Brainfuck, Haskell, Java (sorta), C# (sorta), Visual Basic (sorta), .</p>
+<p>Languages that especially suck at this: PHP, Python, Ruby (although there is <a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fwww.mirah.org&amp;t=MTcxNjk0NTA2YzliODgzZjgyOGE1ZWMwMDc3NDYwODlkOTU3MmYyNixzdkVTSHpEZg%3D%3D&amp;b=t%3AmuYKWuPKYzz2-Zal_KL4vA&amp;m=0">a nifty dialect, Mirah, that can be compiled to run on the Java virtual machine</a>, and IronRuby which runs on the .NET CLI), Javascript, Python, LISP, Scheme, the entire horrific SmallTalk family, and Python</p>
+
+<p><small>*If you have to bundle the entire interpreter with your executable, you don&rsquo;t get to call it compilation. If there are <em>real</em> LISP or Scheme compilers out there that I&rsquo;ve somehow missed, do let me know, because that would be fantastic.</small></p>
+
+<p><b>5. Pointers</b></p>
+
+<p>The pointer is a data type that holds the address of another variable. So if you pass a pointer to a variable to a function, that function can mutate the original variable however it likes. And pointers are an absolute necessity for all but the simplest data structures in languages with a sane memory model.</p>
+
+<p>&hellip;let&rsquo;s talk about memory models for a minute.</p>
+
+<p>Old-school static-typed, compiled languages like C, C++, and Fortran have very sane approaches to the memory model. Data is distributed between heap memory (where the code lives (on Von Neumann architectures, anyway) and dynamic allocations take place), and stack memory, where function-local storage is kept. This is a very clean, elegant model that minimizes the amount of work the processor has to do: most data will be either statically allocated in the heap (globals), or kept at points in the stack, which grows and shrinks as control flow moves from function to function. Dynamic allocation in the heap only happens when a function needs to create an object that will outlive the function, or when a potentially unbounded sequence of objects must be created. Since allocators have to track down a sufficiently large amount of memory in the heap, which may be fragmented from the detritus of previously created and freed objects, heap allocation is very expensive. Additionally, everything on the heap stays on the heap until it is explicitly disposed of, so failing to eliminate an object once you&rsquo;re done with it will render an area of memory unusable for the remainder of the process&rsquo; lifetime, in what&rsquo;s called a memory leak. They are not fun to debug.</p>
+
+<p>Then there are ostensibly modern languages that allocate damn near everything on the heap. This would include basically every scripting language ever. Again this is done in the name of flexibility, and again flexibility comes at an enormous price: garbage collection algorithms have to be employed to handle automatically freeing objects that are no longer in use (some garbage collection isn&rsquo;t all that bad, some of it is horrifyingly terrible and absolutely destroys performance) and it interacts with dynamic typing and implicit variable declaration in unholy ways. It&rsquo;s entirely possible for someone highly skilled with Ruby or Python to be completely ignorant of basic computer science, and be completely unable to comprehend the basics of C and its kind &mdash; that is of course exactly what happened to me. I more or less had to re-learn programming all over again because the model I had learned was almost completely inapplicable to lower-level coding. Looking back at the Ruby style of memory management horrifies me.</p>
+
+<p>It is astounding how few languages get this right. D and Rust come close, in that they both have pointer types, but D loses major points for requiring all object allocation to take place on the heap. Only primitives and structs (if memory serves) can be stored on the stack. This is for the most part manageable, but it&rsquo;s pointlessly restrictive. Rust attempts to modernize the concept of pointers, but ends up making it needlessly complicated with four distinct pointer types <em>and</em> garbage collection, though it still gives you control over where things get allocated.</p>
+
+<p>Java does the same thing, except worse: there are no pointers at all, so if you want a pointer to a primitive type, you have to wrap that pointer in a class. This creates a surreal situation where an <code>int</code> is a integer allocated on the stack, and an <code>Integer</code> is a reference (like pointers, except they&rsquo;re more invisible) to a bignum on the heap. And that&rsquo;s it. Those are your options.</p>
+
+<p>Seriously, people. Pointers may be a little messy sometimes but they&rsquo;re not broken.</p>
+
+<p>Languages that do this right: C, C++, Fortran 95. That&rsquo;s pretty much it.</p>
+<p>Languages that especially suck at this: All scripting languages, Java (so much Java), Objective C (you can sort of still do it the right way with some data types, but the language is designed to make that as difficult as possible), COBOL</p>
+<p>Languages that get a free pass: Haskell, Brainfuck</p>
+
+<p><b>6. Sane data structures</b></p>
+
+<p>This is probably where dynamic languages fail the hardest. I don&rsquo;t know of a single scripting language that allows you to create structs (and I mean proper structs, not Ruby&rsquo;s ridiculous runtime class-creation tomfoolery). Structs are just a simple grouping of data into one convenient objects. If you were writing some sort of vector drawing application, you might define a struct like:</p>
+
+<code><pre>
+struct line {
+	int x1, y1;
+	int x2, y2;
+};
+</pre></code>
+
+<p>Or maybe even:</p>
+
+<code><pre>
+struct point {
+	int x, y;
+};
+struct line {
+	point start;
+	point end;
+};
+</pre></code>
+
+<p>There are a couple strategies for doing this in various dynamic languages: Python has tuples, which are basically structs without the static typing or labels, and Ruby has hashes, which are basically the same way you&rsquo;d do it in PHP with associative arrays. You could also create a one-off class to store the information, but this has the same problem hashes/associative arrays do: objects can contain any number of variables with any name or type. In C, <code>struct line c; c.name="Franz"</code> would fail, but the equivalent in Ruby would offer no objection, adding a variable with the name &ldquo;name&rdquo; and value [string]&ldquo;Franz&rdquo; to the hash, although with a class it would require a defined attribute accessor, which is slightly less insane but involves creating and calling methods simply to set or access the value of a member variable.</p>
+
+<p>This is obviously undesirable for reasons of consistence, and completely insane in terms of performance. It&rsquo;s also inexcusable in terms of engineering: structs are the simplest type of data structure there is, and it is inexcusable for anything more advanced than assembly not to offer structs.</p>
+
+<p>Languages that do this right: Haskell, C, C++, Fortran 95, D, Rust, ALGOL-68, Go, C#, QBasic.</p>
+<p>Languages that especially suck at this: All scripting languages, Java (requires entire classes, allocated on the heap, naturally).</p>
+
+<p><b>7. Static data</b></p>
+
+<p>It should be easy to hardcode data sets. In practice, it isn&rsquo;t. I&rsquo;ve had occasion (albeit only once, in a truly pathological edge case) to write Ruby scripts to produce C code because writing out the structures and the links between them by hand would have taken years. The generated source file was around 6000 lines long, for only a hundred or so data items.</p>
+
+<p>And by &ldquo;hardcode&rdquo; I mean &ldquo;the data is one with the program in memory, and usable without any runtime hackery.&rdquo; I don&rsquo;t mean &ldquo;it gets unpacked into vectors after the program starts.&rdquo; You&rsquo;d be amazed how many languages can&rsquo;t seem to get this right.</p>
+
+<p>Honestly, this is such a big topic that it deserves an essay unto itself. I&rsquo;ll probably write one at some point.</p>
+
+<p>Languages that do this right: &hellip;assembly. Of actual programming languages, C comes the closest, but it&rsquo;s still lacking.</p>
+<p>Languages that especially suck at this: ALL OF THEM.</p>
+
+<p><b>8. As little runtime bloat as possible</b></p>
+
+<p>My &ldquo;hello world&rdquo; test program should not, once compiled, link to a dozen libraries that may not be installed on my end-users&rsquo; computers (*cough* D *cough*), nor should it be 17.4 megabytes long. (*cough* Go *cough*)</p>
+
+<p>Languages that do this right: C; C++ comes close.</p>
+<p>Languages that especially suck at this: Basically everything else.</p>
+
+With all these parameters, the only languages that actually come close to fulfilling my requirements are C and C++. Fortran 95 comes pretty close as well.
+

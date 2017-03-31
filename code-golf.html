@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<!-- aren't you nosy -->
+<head>
+<meta charset="utf-8">
+<style type="text/css">
+body {
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+	font-weight: 100;
+	margin: 0px;
+	background-color: #F1CCD7;
+}
+#body {
+	width: 40em;
+	margin: auto;
+	text-align: justified;
+}
+#top {
+	padding: 1.5em;
+	margin-bottom: 2em;
+	background-color: #551F2B;
+	box-shadow: 0em 0em 1em #994457;
+	text-align: center;
+}
+a[href] {
+	outline: none;
+	font-weight: bold;
+	text-decoration: none;
+	color: #BB002A;
+}
+a[href]:hover {
+	text-decoration: underline;
+	color: #D81E48;
+}
+a[href]:active {
+	text-decoration: underline;
+	color: #471D26;
+}
+small {
+	color: #999;
+}
+small a[href] {
+	color: #99f;
+}
+small a[href]:active {
+	color: #77f;
+}
+</style>
+<title>velartrill</title>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51096979-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+<div id="top"><a href="/"><img src="img/ʞ.png"></a></div>
+<div id="body">
+	<h1>code golf</h1>
+	<p>a place to keep my worst crimes</p>
+	
+	<h2 id="stdint">who needs stdint.h anyway</h2>
+	<pre><code>#define val static constexpr
+	namespace unsigned_integrals {
+		#define entry(i,_u,_s) template &lt;&gt; struct entry&lt;i&gt;{using u=_u;using s = _s;}
+		template &lt;unsigned char index&gt; struct entry { using s = void; using u = void; };
+		entry(0, unsigned char,       signed char);
+		entry(1, unsigned short,      signed short);
+		entry(2, unsigned int,        signed int);
+		entry(3, unsigned long,       signed long);
+		entry(4, unsigned long long,  signed long long);
+		entry(5, __uint128_t, __int128_t);
+		#undef entry
+	
+		template &lt;size_t bits, size_t i&gt; struct select {
+			val size_t v = (
+				sizeof(typename entry&lt;i&gt;::u)*8 &gt;= bits
+					? i
+					: select&lt;bits,i+1&gt;::v
+			);
+		};
+		template &lt;size_t bits&gt; struct select&lt;bits, 6&gt; { val size_t v = 6; };
+	}
+
+	template &lt;size_t bits&gt; struct ints {
+		using u = typename unsigned_integrals::entry&lt;unsigned_integrals::select&lt;bits,0&gt;::v&gt;::u;
+		using s = typename unsigned_integrals::entry&lt;unsigned_integrals::select&lt;bits,0&gt;::v&gt;::s;
+	
+	};
+	int main() {
+		using uint16 = ints&lt;16&gt;::u; // unsigned short
+	}
+	</code></pre>
+</div>
+</body>
+</html>

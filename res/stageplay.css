@@ -1,0 +1,26 @@
+aside {
+	display: block;
+	font-style: italic;
+	margin: 1em;
+}
+section {
+	display: block;
+	width: 60%;
+	margin: auto;
+	margin-bottom: .5em;
+	margin-top: .5em;
+}
+section header {
+	font-weight: bold;
+	text-align: center;
+	margin: 0;
+}
+section p {
+	margin: 0;
+}
+section aside {
+	margin: 0;
+	display: block;
+	text-align: center;
+	font-style: italic;
+}
