@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=EB+Garamond);
+
 body {
 	background: hsl(328,84%,12%);
 	color: hsl(328,100%,89%);
@@ -17,4 +19,9 @@ h1 a[href], h3 a[href] {
 }
 h1 a[href]:hover, h3 a[href]:hover {
 	border-bottom: 1px solid #ffc7e5;
+}
+hr {
+	border: none;
+	border-bottom: 1px solid #53263E;
+	width: 90%;
 }
