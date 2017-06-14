@@ -10,6 +10,7 @@ body {
 	font-family: "GaramondNo8", "EB Garamond", serif;
 	font-size: 14pt;
 }
+:lang(jp) { font-family: "Kochi Mincho", "Hiragino Mincho Pro", "MS Mincho", serif; }
 a[href] {
 	color: hsl(328,100%,89%)
 }

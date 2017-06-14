@@ -3,6 +3,7 @@ body {
 	margin: 0px;
 	background-color: #F1CCD7;
 }
+:lang(jp) { font-family: "Kochi Mincho", "Hiragino Mincho Pro", "MS Mincho", serif; }
 #body {
 	width: 40em;
 	margin: auto;
