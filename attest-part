@@ -1,0 +1,29 @@
+
+		-->
+				<h1>attestations</h1>
+				<h2>public key</h2>
+					<p>url: http://ʞ.cc/key</p>
+					<p>signed with previous key at http://ʞ.cc/key.proof</p>
+				<h2>accounts</h2>
+					<ul>
+						<li>websites:	 http://ʞ.cc (http://xn--rpa.cc)</li>
+						<li>twitter: @velartrill</li>
+						<li>xmpp: velartrill@xmpp.is</li>
+						<li>email: velartrill@tuta.io</li>
+						<li>tumblr: infoskank (http://t.ʞ.cc)</li>
+						<li>gitlab: velartrill</li>
+						<li>github: velartrill</li>
+					</ul>
+				<h2>disavowals</h2>
+					<ul>
+						<li>the account "velartrill" on reddit does not belong to me. i do not have a reddit account and never will.</li>
+						<li>i do not have a Heckler Noise account and never will.</li>
+					</ul>
+				<h2>verification</h2>
+					<p>to verify this file, import my public key</p>
+					<code>curl http://xn--rpa.cc/key | gpg --import</code>
+					<p>and run</p>
+					<code>curl http://xn--rpa.cc/attest | gpg --verify</code>
+			<!--
+
+
