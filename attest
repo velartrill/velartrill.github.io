@@ -1,0 +1,35 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+public key
+	url: http://ʞ.cc/key
+	signed with previous key at http://ʞ.cc/key.proof
+	
+attestations
+	websites:	 http://ʞ.cc (http://xn--rpa.cc)
+	twitter: @velartrill
+	xmpp: velartrill@xmpp.is
+	email: velartrill@tuta.io
+	tumblr: infoskank (http://t.ʞ.cc)
+	gitlab: velartrill
+	github: velartrill
+
+disavowals
+	- the account "velartrill" on reddit does not belong to me. i do not have a reddit account and never will.
+	- i do not have a hacker news account and never will.
+
+to verify this file, import my public key
+	curl http://xn--rpa.cc/key | gpg --import
+and run
+	curl http://xn--rpa.cc/attest | gpg --verify
+-----BEGIN PGP SIGNATURE-----
+
+iQEzBAEBCAAdFiEE+m0ZFG3sc9qcnFMaH6zPADerTRoFAlmecAcACgkQH6zPADer
+TRp+Qwf9HE4Lf5NR/oPfI1NIO+8IsUB5+lWCHzKQHqCPBN5NT2Id6OQ9oYOXKKAm
+NMXBsoDCy5cOPbpJRNlUOnw2D9va43SjMIq2fr2Pe6g8Ru6S8t1kFGSoVr+i/Umq
+SEG/8egxBs05ndDxLNaZ1DCcawpkPC35dED9fpr25gJ5OssNm/ubjQ+TKW9aGX+l
+lr2RlZPv6gt4/6/EzfXUuGddI89lbLKb0CMwgpD8ZynQeRGFP823UPE/pdh5ssQs
+0n3l1WpmNziRElPF+hp6KW07FaVWlMPxbgM1roMaPoPoN6cG3Wq713pqOs6+A1BR
+pWwkgpO/faPuKxNV1hryG7OjqjUrjQ==
+=oZOU
+-----END PGP SIGNATURE-----
