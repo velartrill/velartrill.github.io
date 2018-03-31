@@ -1,0 +1,16 @@
+#toggle {
+	font-size: 60%;
+	background: #6B003A;
+	float: right;
+	padding: 5px;
+	font-family: sans;
+	text-shadow: none;
+	user-select: none;
+	border: 1px solid #360019;
+}
+#toggle:hover { background: #86004A; }
+#toggle:active { background: #450026; }
+#hl { display: none; }
+#hl:checked + #story .quote.lenwin { color: #FFF5A3; }
+#hl:checked + #story .quote.hayochi { color: #C6FFA3; }
+#hl:checked + #story .quote.taracuele { color: #FF88BF; }
