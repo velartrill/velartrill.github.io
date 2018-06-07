@@ -6,6 +6,7 @@ body {
 	max-width: 30em;
 	text-shadow: 0px 0px 30pt hsl(328,35%,61%);
 	margin: auto;
+	margin-top: 1em;
 	text-align: justify;
 	font-family: "GaramondNo8", "EB Garamond", serif;
 	font-size: 14pt;
@@ -33,8 +34,9 @@ a[href]:hover, a[href]:active {
 	 * deal with Chrom{e,ium}'s misbehavior; otherwise,
 	 * :focus styles are applied to the :active state. */
 }
-h1 {
+h1, h3 {
 	margin-bottom: 0em;
+	margin-top: 0em;
 }
 h1 a[href], h3 a[href] {
 	text-decoration: none;
