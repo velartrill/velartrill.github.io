@@ -11,15 +11,47 @@ body {
 	font-size: 14pt;
 }
 :lang(jp) { font-family: "Kochi Mincho", "Hiragino Mincho Pro", "MS Mincho", serif; }
+a[href]:focus, a[href]:focus:hover {
+	outline: none;
+	background: hsl(328,100%,89%);
+	color: hsl(328,84%,12%);
+	/* the default selection box is hideous and breaks the
+	 * look completely, but :focus styling is needed for
+	 * a11y reasons so we replace it with reverse video. */
+}
 a[href] {
-	color: hsl(328,100%,89%)
+	color: hsl(328,100%,89%);
+	text-decoration-color: hsl(328,30%,40%);
+	text-shadow: 0px 0px 30pt hsl(328,10%,40%);
+}
+a[href]:hover, a[href]:active {
+	color: hsl(328,100%,100%) !important;
+	text-decoration-color: hsl(328,30%,60%) !important;
+	text-shadow: 0px 0px 30pt hsl(328,35%,70%) !important;
+	background: none !important;
+	/* the :active !important shit is a horrible hack to
+	 * deal with Chrom{e,ium}'s misbehavior; otherwise,
+	 * :focus styles are applied to the :active state. */
+}
+h1 {
+	margin-bottom: 0em;
 }
 h1 a[href], h3 a[href] {
 	text-decoration: none;
-	border-bottom: 1px solid #CC77A4;
+/*	border-bottom: 1px solid #CC77A4; */
+	opacity: 0.65;
 }
 h1 a[href]:hover, h3 a[href]:hover {
 	border-bottom: 1px solid #ffc7e5;
+	opacity: 0.9;
+}
+.byline {
+	margin-left: 1.5em;
+	margin-top: -0.5em;
+	padding: 0em;
+	font-size: .9em;
+	font-style: italic;
+	color: #F486C0;
 }
 hr {
 	border: none;
