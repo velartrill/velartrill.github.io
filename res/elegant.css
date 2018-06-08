@@ -7,9 +7,11 @@ body {
 	text-shadow: 0px 0px 30pt hsl(328,35%,61%);
 	margin: auto;
 	margin-top: 1em;
-	text-align: justify;
 	font-family: "GaramondNo8", "EB Garamond", serif;
 	font-size: 14pt;
+}
+p, div {
+	text-align: justify;
 }
 :lang(jp) { font-family: "Kochi Mincho", "Hiragino Mincho Pro", "MS Mincho", serif; }
 a[href]:focus, a[href]:focus:hover {
