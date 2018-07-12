@@ -4,7 +4,42 @@
 	<title>Spirals</title>
 	<meta charset="utf-8">
 	<link rel="stylesheet" href="../../res/elegant.css" type="text/css">
-	
+	<style>
+		body {
+			max-width: 40em;
+		}
+		.index {
+			display: flex;
+			flex-wrap: wrap;
+			flex-direction: row;
+			text-align: left;
+		}
+		@media (min-width: 600pt) {
+			.index {
+				display: grid;
+				grid-template-columns: 4;
+				grid-template-rows: 3;
+			}
+			#empire { grid-column: 1; grid-row-start: 1; grid-row-end: 3; }
+			#society { grid-column: 2; grid-row-start: 1; }
+			#league { grid-column: 3; grid-row-start: 1;}
+			#union { grid-column: 4; grid-row: 1;}
+			#war { grid-column-start: 2; grid-column-end: 4; grid-row: 2;}
+		}
+		#rec {
+			padding: 0.1em 1em;
+			padding-left: 0;
+		}
+		:target {
+			border-left: 5px solid #6D0039;
+			background: #2B0017;
+			padding-left: 1em !important;
+			margin-right: 0.7em;
+		}
+		div h2 a:link {
+			text-decoration: none;
+		}
+	</style>
 </head>
 <body>
 <h1><a href="../index.html">Stories</a> / Spirals</h1>
@@ -14,83 +49,83 @@
 	<li><b><a href="apocrypha/index.html">Apocrypha</a></b></li>
 </ul>
 
-<table style="width: 100%">
-	<tr valign="top">
-		<td width="50%">
-			<h2>The Empire</h2>
-			<ol>
-				<li><a href="sparrowhawk.html">Sparrowhawk</a></li>
-				<li><a href="wren.html">Wren</a></li>
-				<li><a href="escalation.html">Escalation</a></li>
-				<li><a href="shopping.html">Shopping</a></li>
-				<li><a href="trade.html">Trade</a></li>
-				<li><a href="smuggler.html">Smuggler</a></li>
-				<li><a href="upgrades.html">Upgrades</a></li>
-			</ol>
-			<hr>
-			<ol>
-				<li><a href="raven.html">Raven</a></li>
-			</ol>
-			<hr>
-			<ul>
-				<li><a href="aftermath.html">Aftermath</a></li>
-				<li><a href="a-lesson-in-creativity.html">A Lesson in Creativity</a></li>
-				<li><a href="dahlia.html">Dahlia</a></li>
-				<li><a href="char.html">Character art</a></li>
-				<li><a href="opium.html">Opium</a></li>
-			</ul>
-		</td>
-		<td width="50%">
-			<h2>The Society</h2>
-			<ol>
-				<li><a href="taken.html">Taken</a></li>
-				<li><a href="missing.html">Missing</a></li>
-				<li><a href="release.html">Release</a></li>
-				<li><a href="answers.html">Answers</a></li>
-				<li><a href="action.html">Action</a></li>
-				<li><a href="reunion.html">Reunion</a></li>
-				<li><a href="gravity.html">Gravity</a></li>
-			</ol>
-		</td>
-	</tr>
-	</table><table style="width: 100%">
-	<tr valign="top">
-		<td style="width: 50%">
-			<h2>The League</h2>
-			<ol>
-				<li><a href="ambassador.html">Ambassador</a></li>
-				<li><a href="screened.html">Screened</a></li>
-				<li><a href="customs.html">Customs</a></li>
-				<li><a href="embassy.html">Embassy</a></li>
-				<li><a href="diplomacy.html">Diplomacy</a></li>
-				<li><a href="counsel.html">Counsel</a></li>
-				<li><a href="visions.html">Visions</a></li>
-				<li><a href="rest.html">Rest</a></li>
-				<li><a href="harmony.html">Harmony</a></li>
-			</ol>
-		</td>
-		<td>
-			<h2>The Union</h2>
-			<ol>
-				<li><a href="freedom.html">Freedom</a></li>
-			</ol>
-		</td>
-	</tr>
-</table>
-<h2>Scenes from the War</h2>
-<ul>
-	<li><a href="everything-is-going-to-change.html"><b>442ᵉ</b> // <i>Everything is going to change</i></a></li>
-	<li><a href="end-in-sight.html"><b>925/10 M0500 TCT</b> // <i>End in Sight</i></a></li>
-</ul>
-<h2>Liberated Records</h2>
-<ol>
-	<li><a href="orientation.html">Orientation</a></li>
-	<li><a href="prime-movement.html">Prime movement</a></li>
-	<li><a href="on-the-perversions.html">On the Perversions of Moral Orthodoxy Among Certain Barbarian Peoples</a></li>
-	<li><b>Ranuir: A Reference Grammar</b></li>
+<div class="index">
+	<div id="empire">
+		<h2><a href="#empire">The Empire</a></h2>
+		<ol>
+			<li><a href="sparrowhawk.html">Sparrowhawk</a></li>
+			<li><a href="wren.html">Wren</a></li>
+			<li><a href="escalation.html">Escalation</a></li>
+			<li><a href="shopping.html">Shopping</a></li>
+			<li><a href="trade.html">Trade</a></li>
+			<li><a href="smuggler.html">Smuggler</a></li>
+			<li><a href="upgrades.html">Upgrades</a></li>
+		</ol>
+		<hr>
+		<ol>
+			<li><a href="raven.html">Raven</a></li>
+		</ol>
+		<hr>
+		<ul>
+			<li><a href="aftermath.html">Aftermath</a></li>
+			<li><a href="a-lesson-in-creativity.html">A Lesson in Creativity</a></li>
+			<li><a href="dahlia.html">Dahlia</a></li>
+			<li><a href="char.html">Character art</a></li>
+			<li><a href="opium.html">Opium</a></li>
+		</ul>
+	</div>
+	<div id="society">
+		<h2><a href="#society">The Society</a></h2>
+		<ol>
+			<li><a href="taken.html">Taken</a></li>
+			<li><a href="missing.html">Missing</a></li>
+			<li><a href="release.html">Release</a></li>
+			<li><a href="answers.html">Answers</a></li>
+			<li><a href="action.html">Action</a></li>
+			<li><a href="reunion.html">Reunion</a></li>
+			<li><a href="gravity.html">Gravity</a></li>
+		</ol>
+	</div>
+	<div id="league">
+		<h2><a href="#league">The League</a></h2>
+		<ol>
+			<li><a href="ambassador.html">Ambassador</a></li>
+			<li><a href="screened.html">Screened</a></li>
+			<li><a href="customs.html">Customs</a></li>
+			<li><a href="embassy.html">Embassy</a></li>
+			<li><a href="diplomacy.html">Diplomacy</a></li>
+			<li><a href="counsel.html">Counsel</a></li>
+			<li><a href="visions.html">Visions</a></li>
+			<li><a href="rest.html">Rest</a></li>
+			<li><a href="harmony.html">Harmony</a></li>
+		</ol>
+	</div>
+	<div id="union">
+		<h2><a href="#union">The Union</a></h2>
+		<ol>
+			<li><a href="freedom.html">Freedom</a></li>
+		</ol>
+	</div>
+	<div id="war">
+		<h2><a href="#war">Scenes from the War</a></h2>
+		<ul>
+			<li><a href="everything-is-going-to-change.html"><b>442ᵉ</b> // <i>Everything is going to change</i></a></li>
+			<li><a href="end-in-sight.html"><b>925/10 M0500 TCT</b> // <i>End in Sight</i></a></li>
+		</ul>
+	</div>
+</div>
+<div id="rec">
+	<h2><a href="#rec">Liberated Records</a></h2>
 	<ol>
-		<li><a href="ranuir.html">Introduction</a> // <i>Phonology, noun case, word order</i></li>
+		<li><a href="orientation.html">Orientation</a></li>
+		<li><a href="prime-movement.html">Prime movement</a></li>
+		<li><a href="on-the-perversions.html">On the Perversions of Moral Orthodoxy Among Certain Barbarian Peoples</a></li>
+		<li><b>Ranuir: A Reference Grammar</b></li>
+		<ol>
+			<li><a href="ranuir.html">Introduction</a> // <i>Phonology, noun case, word order</i></li>
+		</ol>
 	</ol>
-</ol>
+</div>
+
 </body>
 </html>

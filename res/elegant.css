@@ -7,7 +7,8 @@ body {
 	text-shadow: 0px 0px 30pt hsl(328,35%,61%);
 	margin: auto;
 	margin-top: 1em;
-	font-family: "GaramondNo8", "EB Garamond", serif;
+	padding: 0 1em;
+	font-family: "GaramondNo8",  "Garamond Premier Pro", "EB Garamond", serif;
 	font-size: 14pt;
 }
 p, div {
