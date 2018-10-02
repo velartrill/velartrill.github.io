@@ -293,11 +293,11 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>the first thing you should always do when writing a TUI application is to send the <strong>TI</strong> or <strong>smcup</strong> escape. this notifies the terminal to switch to TUI mode (the "alternate buffer"), protecting the existing buffer so that it won't be overwritten and users can return to it when your application closes.</p>
 
-<p>in ANSI, we achieve this with the sequence <code><strong>‹ESC›</strong>[?47h</code> (or, as a C string, <code>"\x1b[?47h"</code>).</p>
+<p>in ANSI, we achieve this with the sequence <code><strong>‹ESC›</strong>[?1049h</code> (or, as a C string, <code>"\x1b[?1049h"</code>).</p>
 
 <p>once you've switched to the alternate buffer, the first thing you'll want to do is clear the screen and home the cursor, to clean up any debris previous applications might have left behind. for this, we use the sequence <code><strong>‹ESC›</strong>[2J</code>, which clears the screen and nukes scrollback. (we <em>can't</em> use the terminal reset sequence, <strong>‹ESC›</strong><code>c</code>, because it affects not just the active buffer, but the entire terminal session, and will wreck everything that's currently displayed!)</p>
 
-<p>likewise, just before exit, you need to send the <strong>TE</strong> or <strong>rmcup</strong> escape. this notifies the terminal to switch back to the previous mode. this sequence, as a C string, is <code>"\x1b[?47l"</code>. to be polite, before you send this escape, you should clean up after yourself, clearing scrollback as before.</p>
+<p>likewise, just before exit, you need to send the <strong>TE</strong> or <strong>rmcup</strong> escape. this notifies the terminal to switch back to the previous mode. this sequence, as a C string, is <code>"\x1b[?1049l"</code>. to be polite, before you send this escape, you should clean up after yourself, clearing scrollback as before.</p>
 
 <p>(<code>h</code> and <code>l</code> in these escapes seem to stand for "high" and "low," meaning essentially "on" and "off" by reference to hardware IO lines, where high current usually corresponds to a 1 bit and low to a 0 bit. in the hardware terminals of the past eon, it's possible program-configurable modes such as this were implemented with discrete IO lines set to a particular voltage; it's also possible the ANSI escape code designers just reached for a handy metaphor in an age where booleans weren't yet in vogue. if anyone happens to find out the actual story behind this, please do let me know)</p>
 
@@ -342,7 +342,9 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>throughout all of this, you may have noticed one thing: despite our attempts to create a clean, slick TUI, the cursor itself remains stubbornly onscreen. don't worry, tho; we can fix this.</p>
 
-<p>the escape sequence to show and hide the cursor works much like the one to switch to and from the alternate buffer, except it has the number <code>25</code> instead of <code>47</code>. we can therefore hide the cursor by printing the string <code>"\x1b[?25l"</code> and show it again with the string <code>"\x1b[?25h"</code>.</p>
+<p>the escape sequence to show and hide the cursor works much like the one to switch to and from the alternate buffer, except it has the number <code>25</code> instead of <code>1049</code>. we can therefore hide the cursor by printing the string <code>"\x1b[?25l"</code> and show it again with the string <code>"\x1b[?25h"</code>.</p>
+
+<p><em>(n.b. there's another escape, <code>"\x1b47h"</code>, with deceptively similar effects as <code>1049</code>, but it's behavior is subtly broken on some terminals (such as xterm) and it outright doesn't work on others (such as kitty). <code>"\x1b[?1049h"</code> has the correct effects everywhere, tho.)</em></p>
 
 <p>it's important to track how you're changing the behavior of the terminal, though, and restore it on program exit. otherwise, the user will have to reset the terminal herself, which many don't even know how to do (for the record, it's <code>$ reset</code> or <code>$ echo -ne "\ec"</code>). since you won't necessarily have control over how your program exits, it's important to set an exit handler using the <code>atexit(3)</code> and <code>signal(3)</code> functions. this way, even if the process is terminated with <code>SIGTERM</code> or <code>SIGINT</code>, it will still restore the terminal to its original state.</p>
 
@@ -359,7 +361,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 	say(<span class="str">"\x1bc\x1b[2J"</span>);
 
 	<span class="comment">//switch back to the normal buffer</span>
-	say(<span class="str">"\x1b[?47l"</span>);
+	say(<span class="str">"\x1b[?1049l"</span>);
 
 	<span class="comment">//show the cursor again</span>
 	say(<span class="str">"\x1b[?25h"</span>);
@@ -372,7 +374,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <span class="type">int</span> main(<span class="type">void</span>) {
 	<span class="comment">//enter the alternate buffer</span>
-	say(<span class="str">"\x1b[?47h"</span>);
+	say(<span class="str">"\x1b[?1049h"</span>);
 
 	<span class="comment">//register our cleanup function</span>
 	atexit(cleanup);
