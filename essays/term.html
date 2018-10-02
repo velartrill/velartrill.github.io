@@ -344,7 +344,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>the escape sequence to show and hide the cursor works much like the one to switch to and from the alternate buffer, except it has the number <code>25</code> instead of <code>1049</code>. we can therefore hide the cursor by printing the string <code>"\x1b[?25l"</code> and show it again with the string <code>"\x1b[?25h"</code>.</p>
 
-<p><em>(n.b. there's another escape, <code>"\x1b47h"</code>, with deceptively similar effects as <code>1049</code>, but it's behavior is subtly broken on some terminals (such as xterm) and it outright doesn't work on others (such as kitty). <code>"\x1b[?1049h"</code> has the correct effects everywhere, tho.)</em></p>
+<p><em>(n.b. there's another escape, <code>"\x1b47h"</code>, with deceptively similar effects as <code>1049</code>, but it's behavior is subtly broken on some terminals (such as xterm) and it outright doesn't work on others (such as kitty). <code>"\x1b[?1049h"</code> has the correct effects everywhere that the alternate buffer is supported tho.)</em></p>
 
 <p>it's important to track how you're changing the behavior of the terminal, though, and restore it on program exit. otherwise, the user will have to reset the terminal herself, which many don't even know how to do (for the record, it's <code>$ reset</code> or <code>$ echo -ne "\ec"</code>). since you won't necessarily have control over how your program exits, it's important to set an exit handler using the <code>atexit(3)</code> and <code>signal(3)</code> functions. this way, even if the process is terminated with <code>SIGTERM</code> or <code>SIGINT</code>, it will still restore the terminal to its original state.</p>
 
