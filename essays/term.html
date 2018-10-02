@@ -573,7 +573,8 @@ typedef <span class="type">uint8_t</span> bar_t;
 }
 <span class="type">void</span> restore_die(int i) {
 	exit(1);
-	<span class="comment">// since atexit has already registered a handler, a call to exit(3) is all we actually need</span>
+	<span class="comment">// since atexit has already registered a handler,
+	// a call to exit(3) is all we actually need</span>
 }
 
 <span class="type">void</span> repaint(<span class="type">void</span>);
