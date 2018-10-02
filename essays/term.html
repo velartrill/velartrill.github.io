@@ -94,7 +94,9 @@
 
 <p>of course, being able to style text isn't nearly good enough. we also need to be able to color it. there are two components to a color command: what we're trying to change the color of, and what color we want to change it to. both the foreground and background can be given colors separately - despite what ncurses wants you to believe, you do not have to define """color pairs""" with each foreground-background pair you're going to use. this is a ridiculous archaism that nobody in the 21st fucking century should be limited by.</p>
 
-<p>to target the foreground, we send the character <code>3</code>; to target the background, we send <code>4</code>. this is then followed by a color code selecting one of the traditional 8 terminal colors or one of the eight "bright" colors</p>
+<p>to target the foreground, we send the character <code>3</code> for normal colors or <code>9</code> for bright colors; to target the background, we send <code>4</code> for normal and <code>10</code>. this is then followed by a color code selecting one of the traditional 8 terminal colors.</p>
+
+<p>note that the "bright" here is both the same thing and something different from the "bright" mode we mentioned earlier. while turning on the "bright" mode will automatically shift text it applies to the bright variant of its color <em>if</em> it is set to one of the traditional 8 colors, setting a "bright color" with <code>9</code> or <code>10</code> will not automatically make the text bold.</p>
 
 <code class="listing"><span class="pragma">#include</span> <span class="str">&lt;unistd.h&gt;</span>
 <span class="pragma">#define</span> szstr(str) str,sizeof(str)
