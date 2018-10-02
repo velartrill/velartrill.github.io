@@ -382,7 +382,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 	signal(SIGINT,  cleanup_die);
 
 	<span class="comment">//clean up the buffer</span>
-	say(<span class="str">"\x1b[?47h"</span>);
+	say(<span class="str">"\x1b[?1049h"</span>);
 
 	<span class="comment">//hide the cursor</span>
 	say(<span class="str">"\x1b[?25l"</span>);
@@ -494,7 +494,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 <span class="pragma">#define</span>      cyan "6"
 <span class="pragma">#define</span>     white "7"
 
-<span class="pragma">#define</span>    alt_buf "?47"
+<span class="pragma">#define</span>    alt_buf "?1049"
 <span class="pragma">#define</span>       curs "?25"
 <span class="pragma">#define</span> term_clear "2J"
 <span class="pragma">#define</span> clear_line "2K"
