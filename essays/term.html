@@ -309,7 +309,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>we start off by importing the <code>&lt;sys/ioctl.h&gt;</code> header. this gives us the functions and structures we need to set ioctls. termios returns the size of the window in a structure called <code>struct winsize</code>. (far more rational than anything you'd find in ncurses, no?) this struct is populated using the function call <code>ioctl(1, TIOCGWINSZ, &ws)</code> where <code>ws</code> is the name of our struct (and <code>1</code> is the file descriptor for standard output). terminal width and height can then be accessed in the fields <code>ws_col</code> (for width) and <code>ws_row</code> (for height).</p>
 
-<p>of course, we need to keep these values up to date when the terminal size changes. this is why <code>resize()</code> needs to be its own function - it needs to be called whenever our program is send the <code>SIGWINCH</code> signal. <code>SIGWINCH</code> is automatically sent to child processes by the controlling terminal emulator whenever its window is reshaped.</p>
+<p>of course, we need to keep these values up to date when the terminal size changes. this is why <code>resize()</code> needs to be its own function - it needs to be called whenever our program is sent the <code>SIGWINCH</code> signal. <code>SIGWINCH</code> is automatically sent to child processes by the controlling terminal emulator whenever its window is reshaped.</p>
 
 <p>a full example of these concepts in action:</p>
 
@@ -344,7 +344,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>the escape sequence to show and hide the cursor works much like the one to switch to and from the alternate buffer, except it has the number <code>25</code> instead of <code>47</code>. we can therefore hide the cursor by printing the string <code>"\x1b[?25l"</code> and show it again with the string <code>"\x1b[?25h"</code>.</p>
 
-<p>it's important to track how you're changing the behavior of the terminal, though, and restore it on program exit. otherwise, the user will have to reset the terminal herself, which many don't even know how to do (for the record, it's <code>$ reset</code> or <code>$ echo -ne "\ec"</code>). since you won't necessarily have control over how your program exits, it's important to set an exit handler using the <code>atexit(3)</code> function. this way, even if the process is terminated with <code>SIGTERM</code>, it will still restore the terminal to its original state.</p>
+<p>it's important to track how you're changing the behavior of the terminal, though, and restore it on program exit. otherwise, the user will have to reset the terminal herself, which many don't even know how to do (for the record, it's <code>$ reset</code> or <code>$ echo -ne "\ec"</code>). since you won't necessarily have control over how your program exits, it's important to set an exit handler using the <code>atexit(3)</code> and <code>signal(3)</code> functions. this way, even if the process is terminated with <code>SIGTERM</code> or <code>SIGINT</code>, it will still restore the terminal to its original state.</p>
 
 <p>(it won't due jack shit in case of a <code>SIGKILL</code>, of course, but at that point it's the user's responsibility anyway.)</p>
 
