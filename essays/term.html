@@ -454,7 +454,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>if you're a <code>vim</code> user, you may have noticed that the cursor changes shape depending on what mode you're in (i-beam for insert, block for normal, or underline for replace). we can do this as well, with the DECSCUSR escape sequences.</p>
 
-<p>these sequences start off as usual, with <code><strong>‹ESC›</strong>[</code>. a numeric character then follows, indicating which cursor we want to employ. we then finish the sequence with the command <code> q</code>, a literal space followed by the letter <code>q</code>.</p>
+<p>these sequences start off as usual, with <code><strong>‹ESC›</strong>[</code>. a numeric character then follows, indicating which cursor we want to employ. we then finish the sequence with the command <code>&nbsp;q</code>, a literal space followed by the letter <code>q</code>.</p>
 
 <p>the values we can use are <code>0</code> or <code>1</code> for a blinking block cursor, <code>2</code> for a steady block cursor, <code>3</code> for a blinking underline cursor, <code>4</code> for a steady underline cursor, <code>5</code> for an blinking i-beam cursor, and <code>6</code> for a steady i-beam. </p>
 
