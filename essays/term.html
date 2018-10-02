@@ -397,7 +397,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>now we've set the stage for our slick ncurses-free TUI, we just need to figure out how to put things on it.</p>
 
-<p>we can move the cursor to an arbitrary position <code><strong>‹ESC›</strong>[<em>(r)</em>;<em>(c)</em>H</code>. <em>(r)</em> here is the row we want to move to (the first row being 1), and <em>(c)</em> is the target column (also 1-indexed).</p>
+<p>we can move the cursor to an arbitrary position with <code><strong>‹ESC›</strong>[<em>(r)</em>;<em>(c)</em>H</code>. <em>(r)</em> here is the row we want to move to (the first row being 1), and <em>(c)</em> is the target column (also 1-indexed).</p>
 
 <p>there's a number of other control sequences that move the cursor by relative steps, but as a rule, you should always use absolute addressing, as using relative addressing can lead to cumulative errors - and if your program <em>doesn't</em> know the location of the cursor at all times, something is very wrong.</p>
 
@@ -407,7 +407,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>termios, unlike libraries you might be used to, doesn't just have functions you can call to set properties. instead, we need to download the entire termios struct for the current terminal into a variable of type <code>struct termios</code>, make our modifications, and then upload it back to the terminal.</p>
 
-<p>to do this, we need to define two of those structs: one to hold our modifications, and one to hold the original state of the program so it can be restored by our cleanup function at exit. to download the struct, we use the function <code>tcgetattr(3)</code>. this function takes two arguments: a file description representing the current terminal (always <code>1</code>, for stdin), and a pointer to a <code>struct termios</code> to write into. as soon as we've populated our struct, before we've made any modifications, we need to copy the unmodified struct into our global-scope "backup" struct.</p>
+<p>to do this, we need to define two of those structs: one to hold our modifications, and one to hold the original state of the program so it can be restored by our cleanup function at exit. to download the struct, we use the function <code>tcgetattr(3)</code>. this function takes two arguments: a file descriptor representing the current terminal (always <code>1</code>, for stdin), and a pointer to a <code>struct termios</code> to write into. as soon as we've populated our struct, before we've made any modifications, we need to copy the unmodified struct into our global-scope "backup" struct.</p>
 
 <p>after that, we can turn off echo. local echo is one of a number of flags encoded in the bitfield <code>c_lflag</code>, identified by the constant ECHO. to disable it, we first invert <code>ECHO</code> with the <code>~</code> bitwise NOT operator, and then bitwise-AND the field by the resulting value.</p>
 
@@ -678,6 +678,8 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>oh, and before anyone starts up:</p>
 
-<p>being compatible only with ANSI-capable terminals <em>is a feature, not a bug,</em> go the fuck away. terminfo is a fucking joke. nobody needs to target obscure dumb terminals from 1983 anymore.
+<p>being compatible only with ANSI-capable terminals <em>is a feature, not a bug,</em> go the fuck away. terminfo is a fucking joke. nobody needs to target obscure dumb terminals from 1983 anymore.</p>
+
+<p><em>all sample code in this document is the sole property of the author and is released exclusively under the AGPLv3.</em></p>
 </body>
 </html>
