@@ -277,7 +277,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 						else write(1,szstr(<span class="str">"░"</span>));
 		}
 
-		fsync(1); <span class="comment">// otherwise, terminal will only update on newline<</span>
+		fsync(1); <span class="comment">// otherwise, terminal will only update on newline</span>
 
 		<span class="type">size_t</span> incr = rand() % (prmax / 10);
 		if (prmax - progress &lt; incr) break; <span class="comment">// avoid overflow</span>
@@ -295,7 +295,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>in ANSI, we achieve this with the sequence <code><strong>‹ESC›</strong>[?47h</code> (or, as a C string, <code>"\x1b[?47h"</code>).</p>
 
-<p>once you've switched to the alternate buffer, the first thing you'll want to do is clear the screen and home the cursor, to clean up any debris previous applications might have left behind. for this, we use the sequence <code><strong>‹ESC›</strong>[2J</code>, which the screen and scrollback. (we <em>can't</em> use the terminal reset sequence, <strong>‹ESC›</strong><code>c</code>, because it affects not just the active buffer, but the entire terminal session, and will wreck everything that's currently displayed!)</p>
+<p>once you've switched to the alternate buffer, the first thing you'll want to do is clear the screen and home the cursor, to clean up any debris previous applications might have left behind. for this, we use the sequence <code><strong>‹ESC›</strong>[2J</code>, which clears the screen and nukes the scrollback. (we <em>can't</em> use the terminal reset sequence, <strong>‹ESC›</strong><code>c</code>, because it affects not just the active buffer, but the entire terminal session, and will wreck everything that's currently displayed!)</p>
 
 <p>likewise, just before exit, you need to send the <strong>TE</strong> or <strong>rmcup</strong> escape. this notifies the terminal to switch back to the previous mode. this sequence, as a C string, is <code>"\x1b[?47l"</code>. to be polite, before you send this escape, you should clean up after yourself, resetting the terminal and clearing scrollback as before.</p>
 
