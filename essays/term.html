@@ -61,7 +61,7 @@
 }
 </code>
 
-<p>the <code>\x1b</code> escape here is a C string escape that inserts hex character <code>0x1B</code> (<strong>‹ESC›</strong> into the string). it's kind of ugly and unreadable if you're not used to reading source with explicit escapes in it. you can make it a lot less horrible with a handful of defines, tho:</p>
+<p>the <code>\x1b</code> escape here is a C string escape that inserts hex character <code>0x1B</code> (<strong>‹ESC›</strong>) into the string. it's kind of ugly and unreadable if you're not used to reading source with explicit escapes in it. you can make it a lot less horrible with a handful of defines, tho:</p>
 
 <code class="listing"><span class="pragma">#include</span> <span class="str">&lt;unistd.h&gt;</span>
 <span class="pragma">#define</span> szstr(str) str,sizeof(str)
