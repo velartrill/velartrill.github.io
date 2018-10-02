@@ -163,7 +163,7 @@
 </code>
 here, the stanza <code>fmt(wfg(248) with wbg(232))</code> translates into <code>\x1b[38;5;248;48;5;232m</code>. we're hard-coding the numbers here for simplicity but as a rule of thumb, any time you're using 8-bit colors in a terminal, you should <em>always</em> make them configurable by the user.</p>
 
-<p>the opaque seeming indexes are actually very systemic, and you can calculate which index to use for a particular color with the formula <code>16 + 36 <em> r + 6 </em> g + b</code>, where <code>r</code>, <code>g</code>, and <code>b</code> are integers ranging between 0 and 5. indices 232 through 255 are a grayscale ramp from dark (232) to light (255).</p>
+<p>the opaque-seeming indexes are actually very systemic, and you can calculate which index to use for a particular color with the formula <code>16 + 36 * r + 6 * g + b</code>, where <code>r</code>, <code>g</code>, and <code>b</code> are integers ranging between 0 and 5. indices 232 through 255 are a grayscale ramp from dark (232) to light (255).</p>
 
 <p>of course, this is still pretty restrictive. 8-bit color may have been enough to '90s CD-ROM games on Windows, but it's long past it's expiration date. using true color is much more flexible. we can do this through the escape sequence <code>\x1b[38;2;<em>(r)</em>;<em>(g)</em>;<em>(b)</em>m</code> where each component is an integer between 0 and 255.</p>
 
