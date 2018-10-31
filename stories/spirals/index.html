@@ -14,21 +14,20 @@
 			flex-direction: row;
 			text-align: left;
 		}
+		li { text-align: left; }
 		@media (min-width: 600pt) {
 			.index {
 				display: grid;
-				grid-template-columns: 4;
-				grid-template-rows: 3;
+				grid-template-columns: 5;
+				grid-template-rows: 4;
 			}
-			#empire { grid-column: 1; grid-row-start: 1; grid-row-end: 3; }
+			#empire { grid-column: 1; grid-row-start: 1; grid-row-end: 3; padding-right: 1em; }
 			#society { grid-column: 2; grid-row-start: 1; }
 			#league { grid-column: 3; grid-row-start: 1;}
 			#union { grid-column: 4; grid-row: 1;}
-			#war { grid-column-start: 2; grid-column-end: 4; grid-row: 2;}
-		}
-		#rec {
-			padding: 0.1em 1em;
-			padding-left: 0;
+			#saravan { grid-column-start: 2; grid-column-end: 3; grid-row: 2;}
+			#war { grid-column-start: 3; grid-column-end: 5; grid-row-start: 2; grid-row-end: 4; }
+			#rec { grid-row-start: 3; grid-column-start: 1; grid-column-end: 3; padding-right: 1em; } 
 		}
 		:target {
 			border-left: 5px solid hsl(328,100%,89%);;
@@ -108,6 +107,13 @@
 			<li><a href="subjugation.html">Subjugation</a></li>
 		</ol>
 	</div>
+	<div id="saravan">
+		<h2><a href="#saravan">Saravan</a></h2>
+		<ol>
+			<li><a href="seduction.html">Seduction</a></li>
+			<li><a href="home.html">Home</a></li>
+		</ol>
+	</div>
 	<div id="war">
 		<h2><a href="#war">Scenes from the War</a></h2>
 		<ul>
@@ -127,18 +133,18 @@
 			<li><a href="contact.html">Contact</a></li>
 		</ol>
 	</div>
-</div>
-<div id="rec">
-	<h2><a href="#rec">Liberated Records</a></h2>
-	<ol>
-		<li><a href="orientation.html">Orientation</a></li>
-		<li><a href="prime-movement.html">Prime movement</a></li>
-		<li><a href="on-the-perversions.html">On the Perversions of Moral Orthodoxy Among Certain Barbarian Peoples</a></li>
-		<li><b>Ranuir: A Reference Grammar</b></li>
+	<div id="rec">
+		<h2><a href="#rec">Liberated Records</a></h2>
 		<ol>
-			<li><a href="ranuir.html">Introduction</a> // <i>Phonology, noun case, word order</i></li>
+			<li><a href="orientation.html">Orientation</a></li>
+			<li><a href="prime-movement.html">Prime movement</a></li>
+			<li><a href="on-the-perversions.html">On the Perversions of Moral Orthodoxy Among Certain Barbarian Peoples</a></li>
+			<li><b>Ranuir: A Reference Grammar</b></li>
+			<ol>
+				<li><a href="ranuir.html">Introduction</a> // <i>Phonology, noun case, word order</i></li>
+			</ol>
 		</ol>
-	</ol>
+	</div>
 </div>
 
 </body>
