@@ -79,7 +79,7 @@
 
 <span class="type">int</span> main() {
 	write(1, szstr(    <span class="str">"plain text - "</span>
-		fmt(right)     <span class="str">"bright text"</span>     fmt(no bright) <span class="str">" - "</span>
+		fmt(bright)     <span class="str">"bright text"</span>     fmt(no bright) <span class="str">" - "</span>
 		fmt(dim)       <span class="str">"dim text"</span>        fmt(no dim)    <span class="str">" - "</span> 
 		fmt(italic)    <span class="str">"italic text"</span>     fmt(no italic) <span class="str">" - "</span>
 		fmt(reverse)   <span class="str">"reverse video"</span>   fmt(plain)     <span class="str">" - "</span>
@@ -94,7 +94,7 @@
 
 <p>of course, being able to style text isn't nearly good enough. we also need to be able to color it. there are two components to a color command: what we're trying to change the color of, and what color we want to change it to. both the foreground and background can be given colors separately - despite what ncurses wants you to believe, you do not have to define """color pairs""" with each foreground-background pair you're going to use. this is a ridiculous archaism that nobody in the 21st fucking century should be limited by.</p>
 
-<p>to target the foreground, we send the character <code>3</code> for normal colors or <code>9</code> for bright colors; to target the background, we send <code>4</code> for normal and <code>10</code>. this is then followed by a color code selecting one of the traditional 8 terminal colors.</p>
+<p>to target the foreground, we send the character <code>3</code> for normal colors or <code>9</code> for bright colors; to target the background, we send <code>4</code> for normal or <code>10</code> for bright. this is then followed by a color code selecting one of the traditional 8 terminal colors.</p>
 
 <p>note that the "bright" here is both the same thing and something different from the "bright" mode we mentioned earlier. while turning on the "bright" mode will automatically shift text it applies to the bright variant of its color <em>if</em> it is set to one of the traditional 8 colors, setting a "bright color" with <code>9</code> or <code>10</code> will not automatically make the text bold.</p>
 
@@ -129,7 +129,7 @@
 }
 </code>
 
-<p>when we invoke <code>fmt(fg red with br_bg magenta)</code>, this is translated by the compiler into the command string <code>\x1b[31;105m</code>. note that we're using <code>fmt(plain)</code> (<code>\x1b[m</code>) to clear the coloring here; this is because if you try to reset colors with, for instance, <code>fmt(fg black with bg white)</code>, you'll be overriding the preferences of users who have their terminal color schemes set to anything but that exact pair. additionally, if the user happens to have a terminal with a transparent background, a set background color will created ugly colored blocks around text instead of letting whatever's behind the window display correctly.</p>
+<p>when we invoke <code>fmt(fg red with br_bg magenta)</code>, this is translated by the compiler into the command string <code>\x1b[31;105m</code>. note that we're using <code>fmt(plain)</code> (<code>\x1b[m</code>) to clear the coloring here; this is because if you try to reset colors with, for instance, <code>fmt(fg black with bg white)</code>, you'll be overriding the preferences of users who have their terminal color schemes set to anything but that exact pair. additionally, if the user happens to have a terminal with a transparent background, a set background color will create ugly colored blocks around text instead of letting whatever's behind the window display correctly.</p>
 
 <p>now, while it is more polite to use the "8+8" colors because they're a color palette the end-user can easily configure (she might prefer more pastel colors than the default harsh pure-color versions, or change the saturation and lightness to better fit with her terminal background), if you're doing anything remotely interesting UI-wise you're going to run up against that limit very quickly. while you can get a bit more mileage by mixing colors with styling commands, if you want to give <em>any</em> configurability to the user in terms of color schemes (as you rightly should), you'll want access to a much broader palette of colors.</p>
 
@@ -163,9 +163,9 @@
 </code>
 here, the stanza <code>fmt(wfg(248) with wbg(232))</code> translates into <code>\x1b[38;5;248;48;5;232m</code>. we're hard-coding the numbers here for simplicity but as a rule of thumb, any time you're using 8-bit colors in a terminal, you should <em>always</em> make them configurable by the user.</p>
 
-<p>the opaque-seeming indexes are actually very systemic, and you can calculate which index to use for a particular color with the formula <code>16 + 36 * r + 6 * g + b</code>, where <code>r</code>, <code>g</code>, and <code>b</code> are integers ranging between 0 and 5. indices 232 through 255 are a grayscale ramp from dark (232) to light (255).</p>
+<p>the opaque-seeming indexes are actually very systematic, and you can calculate which index to use for a particular color with the formula <code>16 + 36 * r + 6 * g + b</code>, where <code>r</code>, <code>g</code>, and <code>b</code> are integers ranging between 0 and 5. indices 232 through 255 are a grayscale ramp from dark (232) to light (255).</p>
 
-<p>of course, this is still pretty restrictive. 8-bit color may have been enough to '90s CD-ROM games on Windows, but it's long past it's expiration date. using true color is much more flexible. we can do this through the escape sequence <code>\x1b[38;2;<em>(r)</em>;<em>(g)</em>;<em>(b)</em>m</code> where each component is an integer between 0 and 255.</p>
+<p>of course, this is still pretty restrictive. 8-bit color may have been enough for '90s CD-ROM games on Windows, but it's long past it's expiration date. using true color is much more flexible. we can do this through the escape sequence <code>\x1b[38;2;<em>(r)</em>;<em>(g)</em>;<em>(b)</em>m</code> where each component is an integer between 0 and 255.</p>
 
 <p>sadly, true color isn't supported on many terminals, urxvt tragically included. for this reason, your program should never rely on it, and abstract these settings away to be configured by the user. defaulting to 8-bit color is a good choice, as every reasonable modern terminal has supported it for a long time now.</p>
 
@@ -176,10 +176,10 @@ here, the stanza <code>fmt(wfg(248) with wbg(232))</code> translates into <code>
 <span class="pragma">#include</span> <span class="str">&lt;stdbool.h&gt;</span>
 
 <span class="type">struct</span> color {
-	enum color_mode { trad, trad_bright, b8, b24 } mode;
-	union {
+	<span class="type">enum</span> color_mode { trad, trad_bright, b8, b24 } mode;
+	<span class="type">union</span> {
 		<span class="type">uint8_t</span> color;
-		struct { <span class="type">uint8_t</span> r, g, b; };
+		<span class="type">struct</span> { <span class="type">uint8_t</span> r, g, b; };
 	}
 };
 <span class="type">struct</span> style {
@@ -190,8 +190,8 @@ here, the stanza <code>fmt(wfg(248) with wbg(232))</code> translates into <code>
 	unsigned <span class="type">char</span> reverse   : 1;
 };
 <span class="type">struct</span> format {
-	struct style style;
-	struct color fg, bg;
+	<span class="type">struct</span> style style;
+	<span class="type">struct</span> color fg, bg;
 };
 
 <span class="type">struct</span> format
@@ -206,7 +206,7 @@ here, the stanza <code>fmt(wfg(248) with wbg(232))</code> translates into <code>
 		{trad_bright, 4},
 	};
 
-<span class="type">void</span> apply_color(<span class="type">bool</span> bg, struct color c) {
+<span class="type">void</span> apply_color(<span class="type">bool</span> bg, <span class="type">struct</span> color c) {
 	switch(c.mode) {
 		case trad: printf(<span class="str">"%c%u"</span>, bg ? <span class="str">'4'</span> : <span class="str">'3'</span>, c.color ); break;
 		case trad_bright: printf(<span class="str">"%s%u"</span>, bg ? <span class="str">"9"</span> : <span class="str">"10"</span>, c.color ); break;
@@ -295,13 +295,15 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>in ANSI, we achieve this with the sequence <code><strong>‹ESC›</strong>[?1049h</code> (or, as a C string, <code>"\x1b[?1049h"</code>).</p>
 
+<p><em>(n.b. there's another escape, <code>"\x1b47h"</code>, with deceptively similar effects as <code>1049</code>, but it's behavior is subtly broken on some terminals (such as xterm) and it outright doesn't work on others (such as kitty). <code>"\x1b[?1049h"</code> has the correct effects everywhere that the alternate buffer is supported tho.)</em></p>
+
 <p>once you've switched to the alternate buffer, the first thing you'll want to do is clear the screen and home the cursor, to clean up any debris previous applications might have left behind. for this, we use the sequence <code><strong>‹ESC›</strong>[2J</code>, which clears the screen and nukes scrollback. (we <em>can't</em> use the terminal reset sequence, <strong>‹ESC›</strong><code>c</code>, because it affects not just the active buffer, but the entire terminal session, and will wreck everything that's currently displayed!)</p>
 
 <p>likewise, just before exit, you need to send the <strong>TE</strong> or <strong>rmcup</strong> escape. this notifies the terminal to switch back to the previous mode. this sequence, as a C string, is <code>"\x1b[?1049l"</code>. to be polite, before you send this escape, you should clean up after yourself, clearing scrollback as before.</p>
 
 <p>(<code>h</code> and <code>l</code> in these escapes seem to stand for "high" and "low," meaning essentially "on" and "off" by reference to hardware IO lines, where high current usually corresponds to a 1 bit and low to a 0 bit. in the hardware terminals of the past eon, it's possible program-configurable modes such as this were implemented with discrete IO lines set to a particular level; it's also possible the ANSI escape code designers just reached for a handy metaphor in an age where booleans weren't yet in vogue. if anyone happens to find out the actual story behind this, please do let me know)</p>
 
-<p>once we're in the alternate buffer, we can safely start throwing around escape sequences to move the cursor to arbitrary positions. however, before we do this, we need to how how big the terminal actually is so we can lay out the UI appropriately.</p>
+<p>once we're in the alternate buffer, we can safely start throwing around escape sequences to move the cursor to arbitrary positions. however, before we do this, we need to know how big the terminal actually is so we can lay out the UI appropriately.</p>
 
 <p>it's good form to have a function called <code>resize()</code> or similar that you run on program start and later when the terminal window is resized. while there is a horrible way to do this with ANSI escapes, it's better to just bite the bullet and learn how to use ioctls and termios.</p>
 
@@ -344,11 +346,9 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>the escape sequence to show and hide the cursor works much like the one to switch to and from the alternate buffer, except it has the number <code>25</code> instead of <code>1049</code>. we can therefore hide the cursor by printing the string <code>"\x1b[?25l"</code> and show it again with the string <code>"\x1b[?25h"</code>.</p>
 
-<p><em>(n.b. there's another escape, <code>"\x1b47h"</code>, with deceptively similar effects as <code>1049</code>, but it's behavior is subtly broken on some terminals (such as xterm) and it outright doesn't work on others (such as kitty). <code>"\x1b[?1049h"</code> has the correct effects everywhere that the alternate buffer is supported tho.)</em></p>
-
 <p>it's important to track how you're changing the behavior of the terminal, though, and restore it on program exit. otherwise, the user will have to reset the terminal herself, which many don't even know how to do (for the record, it's <code>$ reset</code> or <code>$ echo -ne "\ec"</code>). since you won't necessarily have control over how your program exits, it's important to set an exit handler using the <code>atexit(3)</code> and <code>signal(3)</code> functions. this way, even if the process is terminated with <code>SIGTERM</code> or <code>SIGINT</code>, it will still restore the terminal to its original state.</p>
 
-<p>(it won't due jack shit in case of a <code>SIGKILL</code>, of course, but at that point it's the user's responsibility anyway.)</p>
+<p>(it won't do jack shit in case of a <code>SIGKILL</code>, of course, but at that point it's the user's responsibility anyway.)</p>
 
 <p>here's an example of appropriate terminal cleanup:</p>
 
@@ -358,7 +358,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <span class="type">void</span> cleanup(<span class="type">void</span>) {
 	<span class="comment">//clean up the alternate buffer</span>
-	say(<span class="str">"\x1bc\x1b[2J"</span>);
+	say(<span class="str">"\x1b[2J"</span>);
 
 	<span class="comment">//switch back to the normal buffer</span>
 	say(<span class="str">"\x1b[?1049l"</span>);
@@ -367,8 +367,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 	say(<span class="str">"\x1b[?25h"</span>);
 }
 
-<span class="type">void</span> cleanup_die(int i) {
-	cleanup();
+<span class="type">void</span> cleanup_die(<span class="type">int</span> i) {
 	exit(1);
 }
 
@@ -382,7 +381,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 	signal(SIGINT,  cleanup_die);
 
 	<span class="comment">//clean up the buffer</span>
-	say(<span class="str">"\x1b[?1049h"</span>);
+	say(<span class="str">"\x1b[2J"</span>);
 
 	<span class="comment">//hide the cursor</span>
 	say(<span class="str">"\x1b[?25l"</span>);
@@ -409,11 +408,11 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>termios, unlike libraries you might be used to, doesn't just have functions you can call to set properties. instead, we need to download the entire termios struct for the current terminal into a variable of type <code>struct termios</code>, make our modifications, and then upload it back to the terminal.</p>
 
-<p>to do this, we need to define two of those structs: one to hold our modifications, and one to hold the original state of the program so it can be restored by our cleanup function at exit. to download the struct, we use the function <code>tcgetattr(3)</code>. this function takes two arguments: a file descriptor representing the current terminal (always <code>1</code>, for stdin), and a pointer to a <code>struct termios</code> to write into. as soon as we've populated our struct, before we've made any modifications, we need to copy the unmodified struct into our global-scope "backup" struct.</p>
+<p>to do this, we need to define two of those structs: one to hold our modifications, and one to hold the original state of the program so it can be restored by our cleanup function at exit. to download the struct, we use the function <code>tcgetattr(3)</code>. this function takes two arguments: a file descriptor representing the current terminal (always <code>1</code>, for stdout), and a pointer to a <code>struct termios</code> to write into. as soon as we've populated our struct, before we've made any modifications, we need to copy the unmodified struct into our global-scope "backup" struct.</p>
 
 <p>after that, we can turn off echo. local echo is one of a number of flags encoded in the bitfield <code>c_lflag</code>, identified by the constant ECHO. to disable it, we first invert <code>ECHO</code> with the <code>~</code> bitwise NOT operator, and then bitwise-AND the field by the resulting value.</p>
 
-<p>once we've made our modifications, we can upload them back up with the function <code>tcsetattr(3)</code>. this one takes <em>three</em> arguments. the first is the file descriptor to modify, as usual. the second is a constant controlling when these modifications actually take place - for our purposes, this is always <code>TCSANOW</code>. finally, we give it a pointer to the struct we've modified.</p>
+<p>once we've made our modifications, we can send them back up with the function <code>tcsetattr(3)</code>. this one takes <em>three</em> arguments. the first is the file descriptor to modify, as usual. the second is a constant controlling when these modifications actually take place - for our purposes, this is always <code>TCSANOW</code>. finally, we give it a pointer to the struct we've modified.</p>
 
 <p>having turned off local echo, we now need to handle it (and line-editing) by hand, printing and deleting characters as the user types them. the problem is, the terminal won't actually <em>tell</em> us the user has typed anything until she hits <strong>‹ENTER›</strong>, making line-editing (or even just seeing what she's typing) impossible. </p>
 
@@ -431,12 +430,17 @@ typedef <span class="type">uint8_t</span> bar_t;
 <span class="type">void</span> restore(<span class="type">void</span>) {
 	tcsetattr(1, TCSANOW, &initial);
 }
+<span class="type">void</span> die(<span class="type">int</span> i) {
+	exit(1);
+}
 
 <span class="type">void</span> terminit(<span class="type">void</span>) {
 	<span class="type">struct termios</span> t;
 	tcgetattr(1, &t);
 	initial = t;
 	atexit(restore);
+	signal(SIGTERM, die);
+	signal(SIGINT, die);
 	t.c_lflag &= (~ECHO & ~ICANON);
 	tcsetattr(1, TCSANOW, &t);
 }
@@ -458,7 +462,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>these sequences start off as usual, with <code><strong>‹ESC›</strong>[</code>. a numeric character then follows, indicating which cursor we want to employ. we then finish the sequence with the command <code>&nbsp;q</code>, a literal space followed by the letter <code>q</code>.</p>
 
-<p>the values we can use are <code>0</code> or <code>1</code> for a blinking block cursor, <code>2</code> for a steady block cursor, <code>3</code> for a blinking underline cursor, <code>4</code> for a steady underline cursor, <code>5</code> for an blinking i-beam cursor, and <code>6</code> for a steady i-beam. </p>
+<p>the values we can use are <code>0</code> or <code>1</code> for a blinking block cursor, <code>2</code> for a steady block cursor, <code>3</code> for a blinking underline cursor, <code>4</code> for a steady underline cursor, <code>5</code> for a blinking i-beam cursor, and <code>6</code> for a steady i-beam. </p>
 
 <p>now let's put it all together:</p>
 
