@@ -10,6 +10,7 @@ body {
 	padding: 0 1em;
 	font-family: "GaramondNo8",  "Garamond Premier Pro", "EB Garamond", serif;
 	font-size: 14pt;
+	hanging-punctuation: first last force-end;
 }
 p, div {
 	text-align: justify;
