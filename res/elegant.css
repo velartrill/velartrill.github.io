@@ -70,3 +70,8 @@ body::-webkit-scrollbar { width: 1.3em; }
 body::-webkit-scrollbar-track { background: #2A0117; }
 body::-webkit-scrollbar-thumb { background: #6B003A; }
 body::-webkit-scrollbar-thumb:hover { background: #92004F; }
+
+.imgbox {
+	margin: 0 calc((20vw - 20%) * -1);
+}
+
