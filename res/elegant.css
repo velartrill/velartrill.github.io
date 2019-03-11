@@ -90,7 +90,7 @@ hr {
 
 		display: none; /* hide until needed */
 
-		border: 1px solid white;
+		border: 1px solid rgba(255,255,255,0.5);
 		background-color: #40192E;
 		box-shadow: 0 0 40px 0 #4c2239;
 		padding: .5em 1em;
