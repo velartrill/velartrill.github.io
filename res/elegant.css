@@ -38,16 +38,24 @@ a[href]:hover, a[href]:active {
 	 * deal with Chrom{e,ium}'s misbehavior; otherwise,
 	 * :focus styles are applied to the :active state. */
 }
-h1, h3 {
+h1, h2, h3 {
 	margin-bottom: 0em;
 	margin-top: 0em;
 }
-h1 a[href], h3 a[href] {
+h2 {
+		  line-height: 1.3em;
+		  margin-bottom: 0.5em;
+}
+h1 a[href],
+h2 a[href],
+h3 a[href] {
 	text-decoration: none;
 /*	border-bottom: 1px solid #CC77A4; */
 	opacity: 0.65;
 }
-h1 a[href]:hover, h3 a[href]:hover {
+h1 a[href]:hover,
+h2 a[href]:hover,
+h3 a[href]:hover {
 	border-bottom: 1px solid #ffc7e5;
 	opacity: 0.9;
 }
@@ -65,13 +73,79 @@ hr {
 	width: 90%;
 }
 
+.imgbox {
+	margin: 0 calc((20vw - 20%) * -1);
+}
+
+.entry {
+	margin-left: 1em;
+	text-indent: -1em;
+}
+
+/* endnote code */
+@media screen {
+	.endnote {
+		position: fixed;
+		bottom: 0.5em;
+
+		display: none; /* hide until needed */
+
+		border: 1px solid white;
+		background-color: #40192E;
+		box-shadow: 0 0 40px 0 #4c2239;
+		padding: .5em 1em;
+
+		/* center the element */
+		left: 0; right: 0;
+		max-width: 30em; /* same width as body */
+		margin:auto;
+	}
+	.endnote .entry {
+		margin-left: 0em;
+		text-indent: -0.5em;
+	}
+	.endnote:target {
+		display: block; /* show when called */
+	}
+	.endnote .ui {
+		/* hover it over the corner of the interface */
+		position: absolute;
+		top: -1.2em;
+		right: -1em;
+
+		background-color: #260F1C;
+		border: 1px solid rgba(255,255,255,0.5);
+		padding: 0.1em .5em;
+	}
+	.endnote .ui a[href] {
+		text-decoration: none;
+		font-weight: bold;
+	}
+	a[href].endnote-link {
+		text-decoration:none;
+		background-color: #5F0D39;
+		border: 1px solid #2F0019;
+		padding: 0.2em 0.4em;
+	}
+	a[href].endnote-link:hover {
+		background-color: #731045 !important;
+		/* i don't know why the hell the !important is
+		   needed, and the inspector won't tell me */
+	}
+}
+@media print {
+	/* hide all this nonsense for the dead tree edition */
+	.endnote .ui { display: none; }
+	a[href].endnote-link {
+		text-decoration: none;
+	}
+}
+/* end endnote code */
+
 /* browser specific hacks */
 body::-webkit-scrollbar { width: 1.3em; }
 body::-webkit-scrollbar-track { background: #2A0117; }
 body::-webkit-scrollbar-thumb { background: #6B003A; }
 body::-webkit-scrollbar-thumb:hover { background: #92004F; }
 
-.imgbox {
-	margin: 0 calc((20vw - 20%) * -1);
-}
 
