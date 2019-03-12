@@ -1,0 +1,35 @@
+nav {
+	position:fixed;
+	top:1em;left:0;right:0;
+	text-align:center;
+}
+nav > div {
+	display:inline-block;
+	background-color: rgba(127,24,78,0.9);
+	border: 1px solid #12040b;
+	padding: 0.5em 0em;
+	font-size: 140%;
+	text-align: center;
+	z-index: 9;
+}
+nav a[href], nav span {
+	text-decoration: none;
+	padding: 0.2em 0.5em;
+	margin: 0.3em;
+	border: 1px solid #521332;
+	background-color: #8c2058;
+	color: #f598c9;
+}
+nav a[href] {
+	border: 1px outset #442233;
+	color: inherit;
+	transition: 0.3s;
+	transition-property: border, background, box-shadow, color;
+	box-shadow: 0 0 40px -5px transparent;
+}
+nav a[href]:hover {
+	background-color:#a62666;
+	color: white;
+	box-shadow: 0 0 40px -5px #a62666;
+	border: 1px solid white;
+}

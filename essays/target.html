@@ -1,0 +1,158 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>ｐｒｏｏｆ　ｏｆ　ｃｏｎｃｅｐｔ</title>
+		<link rel="stylesheet" href="../res/floatnav.css">
+		<style>
+			body {
+				background: #440023;
+				color: #e0b1c9;
+				font-size: 14pt;
+				font-family: "Alegreya","GaramondNo8","Garamond Premier Pro",serif;
+				max-width: 35em;
+				margin: auto;
+				margin-top:3em;
+				text-align: justify;
+				padding: 1em;
+			}
+			code {
+				display: inline-block;
+				font-family: "Inconsolata", monospace;
+				font-size: 80%;
+				background-color: black;
+				padding: 0.3em;
+				border-radius: 0.2em;
+				border-bottom: 1px solid rgba(255,150,200,0.4);
+				color:#ffc;
+			}
+			pre > code { display: block; }
+			a[href] {
+				color: white;
+				text-decoration:none;
+			}
+			p a[href] {
+				transition: .5s;
+				border-radius: 0.2em;
+				padding: 0 0.3em;
+				margin: 0.3em;
+				background-color: rgba(255,0,120,0);
+				border-left: 1px solid;
+				border-right: 1px solid;
+				border-color: rgba(255,255,255,0.6);
+			}
+			p a[href]:hover {
+				background-color: #FF0078;
+				background-color: #d45998;
+				color: rgba(0,0,0,0.7);
+				border-radius: 0.5em;
+				border-color: white;
+				margin: 0;
+				padding: 0.3em 0.6em;
+				box-shadow: 0 0 40px -10px #d43185;
+			}
+			.tag + div h1 {
+				font-size: 100%;
+				padding: 0 0.5em;
+				padding-bottom: 0.5em;
+				margin: 0.5em 0;
+				border-bottom: 1px solid #2b0016;
+			}
+			.tag + div h1 a[href] {
+				display: inline;
+				position: absolute;
+				right: 0.5em;
+				padding-left: 0.7em;
+				padding-right: 0.3em;
+				border: 1px solid transparent;
+				border-left: 1px solid #2b0016;
+				transition: 0.3s;
+			}
+			.tag + div h1 a[href]:hover { /* close button */
+				color: black;
+				background: #d45998;
+				padding-right: 0.7em;
+				border: 1px solid #2b0016;
+				box-shadow: 0 0 40px #d43185;
+			}
+			.tag + div p, .tag+div code {
+				margin: 0 0.5em;
+				margin-bottom: 0.5em;
+			}
+			.tag {
+				display: none;
+				position: fixed;
+			}
+			.tag + div {
+				display: none;
+				position: relative;
+				border: 1px solid #2b0016;
+				background: rgba(255,255,255,0.1);
+			}
+			.tag:target + div {
+				display: block;
+				height: auto;
+			}
+			.right {
+				float: right;
+				min-width: 15em;
+				max-width: 20em;
+				margin-left: 1em;
+			}
+			.left {
+				float: left;
+				min-width: 15em;
+				max-width: 25em;
+				margin-right: 1em;
+			}
+		</style>
+	</head>
+	<body>
+		<nav><div>
+			<a href="../index.html">ʞ</a> /
+			<span>essays</span> /
+			<span>css :target state</span>
+		</div></nav>
+		<p>one of the cooler features added in CSS3 was the :target pseudo-selector. it lets you assign style to an element based not on a transient condition like older pseudos, but on whether that element is the one named in the # URL suffix.</p>
+		<p>this means that if you have a rule #box:target in index.html, it will be applied whenever the url points to index.html#box. this is significant because it is yet another form of <em>state</em> - in essence, CSS now has access to a single global variable that can be set by user action.</p>
+		<p>it's tempting to use this feature to, for instance, switch between pages of a form without using javascript or having to load another page from the server, with all the wait time, cookies, parameter tracking, and other bullshit that entails. </p>
+		<p>however, there's a problem. the reason html *has* targets is so that users can be directed to a specific place on a long page. it lets you implement tables of contents, for instance. so whenever you click on a link to a target, the page will jump so as to place that target at the very top of the screen.</p>
+		<p>this is a problem for a lot of :target use cases; there's no simple way to disable this behavior without resorting to javascript, so most keep just keep using javascript anyway to show and hide their elements without fucking around with the :target class.</p>
+		<p>however! there is one exception to the jumping behavior, and that is if the element targetted <em>cannot</em> be placed at the top of the screen - that is, if it has the property <code>position: fixed</code>.</p>
+		<p>this lets you do some nifty hacks, such as the <a href="../stories/spirals/talk-like-a-void-pirate.html">gracefully degrading, printer-friendly endnote popup system</a> i use for some of my writing.</p>
+		<p>but, if you want to use it to show and hide and element that's <em>inline</em>, that moves with the rest of the page and that the browser <em>can</em> move to the top of the screen, the <code>position:fixed</code> trick doesn't help you.</p>
+		<p>not on its own, anyway.</p>
+		<p>a CSS operator that's particularly useful in gross hacks like these is the + operator. when you say, for instance, <code>p + h1</code> you tell the browser to select all &lt;h1&gt; elements that directly follow a &lt;p&gt; element.</p>
+		<div class="tag" id="box1"></div><div class="right">
+			<h1>what it means <a href="#0">×</a></h1>
+			<p>together, the use of these two features allow you to select an inline element, such that the user can activate it without the browser jumping to it. take a look at the source code to see how it works.</p>
+		</div>
+		<p>what does this mean? <a href="#box1">click here to find out</a>.</p>
+		<p>the way we accomplish this involves a number of css rules. the first one creates a class called <code>.tag</code>, which you apply to an empty div. this class has two key properties: <code>position:fixed</code> which prevents the browser from jumping to it, and <code>display:none</code> which keeps from ever appearing.</p>
+		<p>the next rule needs to target the div we want to show or hide. its selector is <code>.tag + div</code>, which selects the first div to follow any instance of the <code>.tag</code> class. we set it to <code>display:none</code> and give it whatever other properties we want it to have.</p>
+		<p>finally, we need to write a rule that selects a popup div when its accompanying <code>div.tag</code>'s anchor is activated. we select these boxes with <code>.tag:target + div</code> and set <code>display</code> to <code>block</code>, <code>inherit</code>, <code>inline-block</code>, or whatever else we want it to be.</p></p>
+		<div class="tag" id="source-css"></div><div class="left">
+			<h1>css source <a href="#0">×</a></h1>
+			<pre><code>.tag { position: fixed; display: none; }
+.tag + div { display: none; }
+.tag:active + div { display: block; }</code></pre>
+		</div>
+		<div class="tag" id="source-html"></div><div class="left">
+			<h1>html source <a href="#0">×</a></h1>
+			<pre><code>&lt;div class="tag" id="box"&gt;&lt;/div&gt;
+&lt;div&gt;
+	&lt;p&gt;your hidden content&lt;/p&gt;
+	&lt;a href="#0"&gt;hide&lt;/a&gt;
+&lt;/div&gt;
+&lt;a href="#box"&gt;show&lt;/a&gt;
+			</code></pre>
+		</div>
+		<p>the html is fairly straightforward to set up, compared to most css hacks. you just need an empty div of class <code>tag</code> with the <code>id</code> property set to the anchor name you want to use, followed immediately by a div element containing the content whose visibility you want the anchor to control.</p>
+		<div style="float:right; text-align: right">
+			<p><a href="#source-css">view css source</a></p>
+			<p><a href="#source-html">view html source</a></p>
+		</div>
+		<div style="clear:both"></div>
+
+	</body>
+</html>
