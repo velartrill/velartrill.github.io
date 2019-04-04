@@ -71,13 +71,17 @@ a[href]:hover, a[href]:active {
 	 * deal with Chrom{e,ium}'s misbehavior; otherwise,
 	 * :focus styles are applied to the :active state. */
 }
+a[href^="http://"], a[href^="https://"] {
+	/* annotate external links */
+	text-decoration-style: double;
+}
 h1, h2, h3 {
 	margin-bottom: 0em;
 	margin-top: 0em;
 }
 h2 {
-		  line-height: 1.3em;
-		  margin-bottom: 0.5em;
+	line-height: 1.3em;
+	margin-bottom: 0.5em;
 }
 h1 a[href],
 h2 a[href],
@@ -168,6 +172,7 @@ hr {
 	margin-left: 1em;
 	text-indent: -1em;
 }
+
 
 /* endnote code */
 @media screen {
