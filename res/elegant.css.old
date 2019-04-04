@@ -1,63 +1,107 @@
 @import url(http://fonts.googleapis.com/css?family=EB+Garamond);
 
+:root {
+	--hue: 338;
+	--width: 30em;
+	--bright: 12%;
+}
 body {
-	background: hsl(328,84%,12%);
-	color: hsl(328,100%,89%);
-	max-width: 30em;
-	text-shadow: 0px 0px 30pt hsl(328,35%,61%);
+	--fg-color: hsl(var(--hue),100%,89%);
+	--bg-color: hsl(var(--hue),84%,var(--bright));
+	--link-color: hsl(var(--hue),100%,89%); 
+	--hi-color: hsl(var(--hue),100%,95%); 
+
+	background: var(--bg-color);
+	color: var(--fg-color);
+	max-width: var(--width);
+	text-shadow: 0px 0px 30pt hsl(var(--hue),35%,61%);
 	margin: auto;
 	margin-top: 1em;
 	padding: 0 1em;
-	font-family: "GaramondNo8",  "Garamond Premier Pro", "EB Garamond", serif;
+	font-family: "GaramondNo8", "Garamond Premier Pro", "EB Garamond", serif;
 	font-size: 14pt;
 	hanging-punctuation: first last force-end;
 }
+::selection {
+	background-color:hsl(var(--hue),100%,80%);
+	color:hsl(var(--hue),100%,10%);
+}
+ol, ul {
+	padding-left: 1.2em;
+	list-style: none;
+}
+ol { counter-reset: li; }
+ol li::before, ul li::before {
+	display: inline-block;
+	color: hsl(var(--hue), 40%, 60%);
+}
+ol li::before {
+	counter-increment: li;
+	content: counter(li);
+	width: 1.5em;
+	margin-left: -1.9em;
+	text-align: right;
+	padding-right: 0.4em;
+}
+ul li::before {
+	content: "·";
+	width: 0.7em;
+	margin-left: -0.7em;
+}
+
 p, div {
 	text-align: justify;
 }
 :lang(jp) { font-family: "Kochi Mincho", "Hiragino Mincho Pro", "MS Mincho", serif; }
 a[href]:focus, a[href]:focus:hover {
 	outline: none;
-	background: hsl(328,100%,89%);
-	color: hsl(328,84%,12%);
+	background: hsl(var(--hue),100%,89%);
+	color: hsl(var(--hue),84%,12%);
 	/* the default selection box is hideous and breaks the
 	 * look completely, but :focus styling is needed for
 	 * a11y reasons so we replace it with reverse video. */
 }
 a[href] {
-	color: hsl(328,100%,89%);
-	text-decoration-color: hsl(328,30%,40%);
-	text-shadow: 0px 0px 30pt hsl(328,10%,40%);
+	color: var(--link-color);
+	text-decoration-color: hsl(var(--hue),30%,40%);
+	text-shadow: 0px 0px 30pt hsl(var(--hue),60%,40%);
 }
 a[href]:hover, a[href]:active {
-	color: hsl(328,100%,100%) !important;
-	text-decoration-color: hsl(328,30%,60%) !important;
-	text-shadow: 0px 0px 30pt hsl(328,35%,70%) !important;
+	color: var(--hi-color) !important;
+	text-decoration-color: hsl(var(--hue),30%,60%) !important;
+	text-shadow: 0px 0px 30pt hsl(var(--hue),80%,70%) !important;
 	background: none !important;
 	/* the :active !important shit is a horrible hack to
 	 * deal with Chrom{e,ium}'s misbehavior; otherwise,
 	 * :focus styles are applied to the :active state. */
+}
+a[href^="http://"], a[href^="https://"] {
+	/* annotate external links */
+	text-decoration-style: double;
 }
 h1, h2, h3 {
 	margin-bottom: 0em;
 	margin-top: 0em;
 }
 h2 {
-		  line-height: 1.3em;
-		  margin-bottom: 0.5em;
+	line-height: 1.3em;
+	margin-bottom: 0.5em;
 }
 h1 a[href],
 h2 a[href],
 h3 a[href] {
 	text-decoration: none;
 /*	border-bottom: 1px solid #CC77A4; */
-	opacity: 0.65;
+/*  opacity: 0.65; */
+	color: hsl(var(--hue),50%,70%);
 }
 h1 a[href]:hover,
 h2 a[href]:hover,
 h3 a[href]:hover {
-	border-bottom: 1px solid #ffc7e5;
-	opacity: 0.9;
+	/* border-bottom: 1px solid var(--fg-color); */
+	text-decoration: underline;
+	color: var(--fg-color);
+/*	opacity: 0.9; */
 }
 .byline {
 	margin-left: 1.5em;
@@ -65,11 +109,62 @@ h3 a[href]:hover {
 	padding: 0em;
 	font-size: .9em;
 	font-style: italic;
-	color: #F486C0;
+	color: hsl(var(--hue),84%,74%);
+}
+nav {
+	padding-bottom: 1em;
+}
+nav::after {
+	display: table;
+	content: "";
+	/* ಠ_ಠ */
+	clear:both;
+}
+
+nav a[href] {
+	--fg-color: hsl(var(--hue), 100%, 80%);
+	display: block;
+	text-decoration:none;
+	border: 1px solid var(--fg-color);
+	transition-property: border-color text-shadow color --fg-color;
+	transition-duration: 0.2s;
+	color: var(--fg-color);
+}
+nav a[href].next {
+	float: right;
+	padding-left: 2ex;
+	border-radius: 0 0 0 10px;
+}
+nav a[href].prev {
+	float: left;
+	padding-right: 2ex;
+	border-radius: 0 0 10px 0;
+}
+nav a[href]:hover {
+	border-color: var(--hi-color);
+	--fg-color: var(--hi-color);
+}
+nav a[href].next::after, nav a[href].prev::before {
+	display: inline-block;
+	color: var(--bg-color);
+	font-weight:bold;
+	background-color: var(--fg-color);
+	padding: 0.7ex 1.5ex;
+	text-shadow:none;
+	transition-property: background-color --fg-color;
+	transition-duration: 0.2s;
+}
+nav a[href].prev::before {
+	margin-right:2ex;
+	content: "⮜";
+}
+nav a[href].next::after {
+	margin-left:2ex;
+	content: "⮞";
 }
 hr {
 	border: none;
-	border-bottom: 1px solid #994D75;
+	border-bottom: 1px solid hsl(var(--hue),50%,30%);
 	width: 90%;
 }
 
@@ -81,6 +176,7 @@ hr {
 	margin-left: 1em;
 	text-indent: -1em;
 }
+
 
 /* endnote code */
 @media screen {
