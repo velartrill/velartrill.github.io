@@ -103,6 +103,16 @@ h3 a[href]:hover {
 	font-style: italic;
 	color: hsl(var(--hue),84%,74%);
 }
+nav {
+	padding-bottom: 1em;
+}
+nav::after {
+	display: table;
+	content: "";
+	/* ಠ_ಠ */
+	clear:both;
+}
+
 nav a[href] {
 	--fg-color: hsl(var(--hue), 100%, 80%);
 	display: block;
