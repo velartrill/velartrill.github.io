@@ -3,19 +3,20 @@
 <head>
 	<title>Spirals</title>
 	<meta charset="utf-8">
-	<link rel="stylesheet" href="../../res/elegant.css" type="text/css">
+	<link rel="stylesheet" href="../../res/elegant-accent.css" type="text/css">
 	<style>
 		body {
-			--width: 40em;
+			max-width: 40em;
+			--hue: 340;
 		}
 		.index {
-			display: block;
+			display: flex;
 			flex-wrap: wrap;
 			flex-direction: row;
 			text-align: left;
 		}
 		li { text-align: left; }
-		@media (min-width: 1000px) {
+		@media (min-width: 600pt) {
 			.index {
 				display: grid;
 				grid-template-columns: 5;
@@ -31,11 +32,9 @@
 			#rec { grid-row-start: 3; grid-column-start: 1; grid-column-end: 3; padding-right: 1em; }
 		}
 		:target {
-			border-left: 1px solid var(--fg-color);
-			background: hsl(var(--hue),80%,10%);
-			background: linear-gradient(90deg,
-				hsla(var(--hue),80%,10%,1) 0%,
-				hsla(var(--hue),80%,10%,0) 90%);
+			border-left: 1px solid hsl(328,100%,89%);;
+			background: #2B0017;
+			background: linear-gradient(90deg, rgba(43,0,23,1) 0%, rgba(43,0,23,0) 90%);
 			padding-left: 1em !important;
 			margin-right: 0.7em;
 		}
@@ -50,7 +49,6 @@
 	<li><b><a href="overture.html">Overture</a></b></li>
 	<li><b><a href="glossary.html">Glossary</a></b></li>
 	<li><b><a href="apocrypha/index.html">Apocrypha</a></b></li>
-	<li><b><a href="tw.html">Trigger warnings</a></b></li>
 </ul>
 
 <div class="index">
@@ -160,11 +158,11 @@
 		<ol>
 			<li><a href="prime-movement.html">Prime movement</a></li>
 			<li><a href="on-the-perversions.html">On the Perversions of Moral Orthodoxy Among Certain Barbarian Peoples</a></li>
-			<li><b>Ranuir: A Reference Grammar</b>
+			<li><b>Ranuir: A Reference Grammar</b></li>
 			<ol>
 				<li><a href="ranuir.html">Introduction</a>: <i>Phonology, noun case, word order</i></li>
 			</ol>
-			<li><b>Talk Like a Void Pirate</b>
+			<li><b>Talk Like a Void Pirate</b></li>
 			<ol>
 				<li><a href="talk-like-a-void-pirate.html">Foreword</a> <i>by Lady Kite Orchardblossom</i></li>
 	       </ol>
