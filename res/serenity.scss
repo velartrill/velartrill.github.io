@@ -1,0 +1,279 @@
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+
+:root {
+	--hue: 338;
+	--width: 30em;
+	--bright: 12%;
+}
+
+::selection {
+	background-color:hsl(var(--hue),100%,80%);
+	color:hsl(var(--hue),100%,10%);
+}
+
+body {
+	margin-top: 1em;
+	padding: 0 1em;
+	font-family: "GaramondNo8",
+	             "Garamond Premier Pro",
+				 "EB Garamond", serif;
+	font-size: 14pt;
+	hanging-punctuation: first last force-end;
+
+	@media print { text-shadow: none; color: black; }
+	@media screen {
+		--fg-color: hsl(var(--hue),100%,89%);
+		--bg-color: hsl(var(--hue),84%,var(--bright));
+		--link-color: hsl(var(--hue),100%,83%); 
+		--hi-color: hsl(var(--hue),100%,95%); 
+		--faint-color: hsl(var(--hue),84%,74%);
+
+		max-width: var(--width);
+		margin: auto; margin-top: 1em;
+
+		background: var(--bg-color);
+		color: var(--fg-color);
+		text-shadow: 0px 0px 30pt hsl(var(--hue),35%,61%);
+		@media (prefer-color-scheme: light) {
+			--fg-color: hsl(var(--hue),100%,19%);
+			--bg-color: hsl(var(--hue),84%, calc(100% - var(--bright)));
+			--link-color: hsl(var(--hue),100%,23%); 
+			--hi-color: hsl(var(--hue),100%,5%); 
+			--faint-color: hsl(var(--hue),84%,25%);
+		}
+	}
+
+	/* browser specific hacks */
+	&::-webkit-scrollbar { width: 1.3em; }
+	&::-webkit-scrollbar-track { background: hsl(var(--hue),96%,8%); }
+	&::-webkit-scrollbar-thumb {
+		background: hsl(var(--hue),100%,21%);
+		&:hover { background: hsl(var(--hue),100%,28%);}
+	}
+}
+
+a[href] {
+	@media print { color: black; }
+	@media screen {
+		color: var(--link-color);
+		text-decoration-color: hsl(var(--hue),30%,40%);
+		text-shadow: 0px 0px 30pt hsl(var(--hue),60%,40%);
+
+		&:focus, &focus:hover {
+			outline: none;
+			background: var(--link-color);
+			color: var(--bg-color); 
+		}
+		&:hover, &:active {
+			color: var(--hi-color) !important;
+			text-decoration-color: hsl(var(--hue),30%,60%) !important;
+			text-shadow: 0px 0px 30pt hsl(var(--hue),80%,70%) !important;
+			background: none !important;
+		}
+	}
+}
+
+ol, ul {
+	padding-left: 1.2em;
+	list-style: none;
+	li::before {
+		display: inline-block;
+		color: hsl(var(--hue), 40%, 60%);
+	}
+}
+
+ul li::before {
+	content: "·";
+	width: 0.7em;
+	margin-left: -0.7em;
+}
+
+ol {
+	counter-reset: li;
+	li::before {
+		counter-increment: li;
+		content: counter(li);
+		width: 1.5em;
+		margin-left: -1.9em;
+		text-align: right;
+		padding-right: 0.4em;
+	}
+}
+
+h1, h2, h3 {
+	margin-bottom: 0;
+	margin-top: zero;
+	@media screen {
+		a[href] {
+			text-decoration: none;
+			color: hsl(var(--hue),50%,70%);
+			&:hover {
+				text-decoration: underline;
+				color: var(--fg-color);
+			}
+		}
+	}
+}
+
+h2 {
+	line-height: 1.3em;
+	margin-bottom: 0.5em;
+}
+
+.byline {
+	margin-left: 1.5em;
+	margin-top: -0.5;
+	padding: 0em;
+	font-style: italic;
+}
+
+hr {
+	border: none;
+	border-bottom: 1px solid hsl(var(--hue),50%,30%);
+	width: 90%;
+	&[data-dec]::before {
+		display: block;
+		content: attr(data-dec);
+		position: relative;
+		letter-spacing: 1em;
+		text-align:center;
+		top: 0.8em;
+		color: hsl(var(--hue),50%,40%);
+		font-size: 60%;
+		text-shadow: 0px 0px 15px hsl(var(--hue),30%,70%),
+			4px 0px 0px var(--bg-color),
+			-4px 0px 0px var(--bg-color);
+	}
+	&[data-dec=""]::before {content: "◆";}
+}
+
+.imgbox { margin: 0 calc((20vw - 20%) * -1); }
+
+/* entries in definition lists, numbered footnotes */
+.entry {
+	$spacing: 1em;
+	margin-left: $spacing; 
+	text-indent: 0-$spacing;
+}
+
+/* links to previous and next chapter */
+nav {
+	@media print { display: none; }
+
+	padding-bottom: 1em;
+	/* hideous evil clearfix */
+	&::after {
+		display: table;
+		content: "";
+		/* ಠ_ಠ */
+		clear:both;
+	}
+	a[href] {
+		--fg-color: hsl(var(--hue), 100%, 80%);
+
+		display: block;
+		color: var(--fg-color);
+		background-color: hsl(var(--hue),100%,
+			calc(var(--bright) / 2));
+		border: 1px solid var(--fg-color);
+		text-decoration:none;
+
+		transition-property: border-color, text-shadow,
+			color, --fg-color;
+		transition-duration: 0.2s;
+
+		&:hover {
+			border-color: var(--hi-color);
+			--fg-color: var(--hi-color);
+		}
+		
+		/* back and forward buttons */
+		&.next {
+			float: right;
+			padding-left: 2ex;
+			border-radius: 0 0 0 10px;
+		}
+		&.prev {
+			float: left;
+			padding-right: 2ex;
+			border-radius: 0 0 10px 0;
+		}
+	}
+}
+
+/* endnote mechanism */
+@media screen {
+	%el {
+		text-decoration:none;
+		color: var(--fg-color);
+		background-color: hsl(var(--hue),60%,25%);
+		padding: 0.2em 0.4em;
+
+		/* the following two stanzas are unfortunately
+		 * necessary and i don't know why; trying to
+		 * incorporate them into one consitently
+		 * breaks cross-browser. shruggo */
+		--border-color: hsl(var(--hue),80%,8%);
+		border: 1px solid var(--border-color);
+	}
+	a[href].endnote-link {
+		@extend %el;
+		&:focus {
+			@extend %el; // this might be bullshit
+		}
+		&:hover {
+			background-color: hsl(var(--hue),76%,35%) !important;
+			/* i don't know why the hell the !important is
+			   needed, and the inspector won't tell me */
+		}
+	}
+
+	.endnote {
+		position: fixed;
+		bottom: 0.5em;
+
+		display: none; // hide until needed
+
+		border: 1px solid rgba(255,255,255,0.5);
+		background-color: hsl(var(--hue),61%,15%);
+		--box-shadow-color: hsla(var(--hue),54%,30%,0.7);
+		box-shadow: 0 0 40px 0 var(--box-shadow-color);
+		padding: .5em 1em;
+
+		/* center the element */
+		left: 0; right: 0;
+		max-width: 30em; /* same width as body */
+		margin:auto;
+
+		&:target { display: block; }
+
+		.entry {
+			margin-left: 0em;
+			text-indent: -0.5em;
+		}
+		.ui {
+			/* hover it over the corner of the interface */
+			position: absolute;
+			top: -1.2em;
+			right: -1em;
+
+			background-color: hsl(var(--hue),51%,5%);
+			border: 1px solid rgba(255,255,255,0.5);
+			padding: 0.1em .5em;
+
+			a[href] {
+				text-decoration: none;
+				font-weight: bold;
+			}
+		}
+	}
+}
+
+@media print {
+	.endnote .ui { display: none; }
+	a[href].endnote-link {
+		text-decoration: none;
+	}
+}
+
+

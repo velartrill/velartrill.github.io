@@ -1,0 +1,312 @@
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+/* @import url(https://hale.su/v/kcc.css); */
+
+:root {
+	--hue: 338;
+	--width: 30em;
+	--bright: 12%;
+}
+
+body {
+	margin-top: 1em;
+	padding: 0 1em;
+	font-family: "GaramondNo8", "Garamond Premier Pro", "EB Garamond", serif;
+	font-size: 14pt;
+	hanging-punctuation: first last force-end;
+}
+
+q::before { content: "“"; }
+q::after  { content: "”"; }
+
+/* color */
+@media screen {
+	body {
+		--fg-color: hsl(var(--hue),100%,89%);
+		--bg-color: hsl(var(--hue),84%,var(--bright));
+		--link-color: hsl(var(--hue),100%,83%); 
+		--hi-color: hsl(var(--hue),100%,95%); 
+		--faint-color: hsl(var(--hue),84%,74%);
+
+		max-width: var(--width);
+		margin: auto;
+		margin-top: 1em;
+
+		background: var(--bg-color);
+		color: var(--fg-color);
+		text-shadow: 0px 0px 30pt hsl(var(--hue),35%,61%);
+	}
+	@media (prefer-color-scheme: light) {
+		body {
+			--fg-color: hsl(var(--hue),100%,19%);
+			--bg-color: hsl(var(--hue),84%,
+				calc(100% - var(--bright)));
+			--link-color: hsl(var(--hue),100%,23%); 
+			--hi-color: hsl(var(--hue),100%,5%); 
+			--faint-color: hsl(var(--hue),84%,25%);
+		}
+	}
+	::selection {
+		background-color:hsl(var(--hue),100%,80%);
+		color:hsl(var(--hue),100%,10%);
+	}
+}
+@media print {
+	body{
+		text-shadow: none;
+		color: black;
+	}
+}
+ol, ul {
+	padding-left: 1.2em;
+	list-style: none;
+}
+ol { counter-reset: li; }
+ol li::before, ul li::before {
+	display: inline-block;
+	color: hsl(var(--hue), 40%, 60%);
+}
+ol li::before {
+	counter-increment: li;
+	content: counter(li);
+	width: 1.5em;
+	margin-left: -1.9em;
+	text-align: right;
+	padding-right: 0.4em;
+}
+ul li::before {
+	content: "·";
+	width: 0.7em;
+	margin-left: -0.7em;
+}
+
+p, div {
+	text-align: justify;
+}
+:lang(jp) { font-family: "Kochi Mincho", "Hiragino Mincho Pro", "MS Mincho", serif; }
+
+@media screen {
+	a[href]:focus, a[href]:focus:hover {
+		outline: none;
+		background: var(--link-color);
+		color: var(--bg-color); 
+		/* the default selection box is hideous and breaks the
+		 * look completely, but :focus styling is needed for
+		 * a11y reasons so we replace it with reverse video. */
+	}
+	a[href] {
+		color: var(--link-color);
+		text-decoration-color: hsl(var(--hue),30%,40%);
+		text-shadow: 0px 0px 30pt hsl(var(--hue),60%,40%);
+	}
+	a[href]:hover, a[href]:active {
+		color: var(--hi-color) !important;
+		text-decoration-color: hsl(var(--hue),30%,60%) !important;
+		text-shadow: 0px 0px 30pt hsl(var(--hue),80%,70%) !important;
+		background: none !important;
+		/* the :active !important shit is a horrible hack to
+		 * deal with Chrom{e,ium}'s misbehavior; otherwise,
+		 * :focus styles are applied to the :active state. */
+	}
+}
+@media print {
+	a[href] { color: black; }
+}
+a[href^="http://"], a[href^="https://"] {
+	/* annotate external links */
+	text-decoration-style: double;
+}
+
+h1, h2, h3 {
+	margin-bottom: 0em;
+	margin-top: 0em;
+}
+h2 {
+	line-height: 1.3em;
+	margin-bottom: 0.5em;
+}
+@media screen {
+	h1 a[href],
+	h2 a[href],
+	h3 a[href] {
+		text-decoration: none;
+		color: hsl(var(--hue),50%,70%);
+	}
+	h1 a[href]:hover,
+	h2 a[href]:hover,
+	h3 a[href]:hover {
+		text-decoration: underline;
+		color: var(--fg-color);
+	}
+}
+
+.byline {
+	margin-left: 1.5em;
+	margin-top: -0.5em;
+	padding: 0em;
+	font-size: .9em;
+	font-style: italic;
+	color: var(--faint-color);
+}
+
+hr {
+	border: none;
+	border-bottom: 1px solid hsl(var(--hue),50%,30%);
+	width: 90%;
+}
+
+hr[data-dec]::before {
+	display: block;
+	content: attr(data-dec);
+	position: relative;
+	letter-spacing: 1em;
+	text-align:center;
+	top: 0.8em;
+	color: hsl(var(--hue),50%,40%);
+	font-size: 60%;
+	text-shadow: 0px 0px 15px hsl(var(--hue),30%,70%),
+		4px 0px 0px var(--bg-color),
+		-4px 0px 0px var(--bg-color);
+}
+hr[data-dec=""]::before {content: "◆";}
+
+.imgbox {
+	margin: 0 calc((20vw - 20%) * -1);
+}
+
+.entry {
+	margin-left: 1em;
+	text-indent: -1em;
+}
+
+
+/* ← and → nav buttons */
+nav {
+	padding-bottom: 1em;
+}
+
+nav::after {
+	display: table;
+	content: "";
+	/* ಠ_ಠ */
+	clear:both;
+}
+
+nav a[href] {
+	--fg-color: hsl(var(--hue), 100%, 80%);
+	background-color: hsl(var(--hue),100%, calc(var(--bright) / 2));
+	display: block;
+	text-decoration:none;
+	border: 1px solid var(--fg-color);
+	transition-property: border-color, text-shadow, color, --fg-color;
+	transition-duration: 0.2s;
+	color: var(--fg-color);
+}
+
+nav a[href].next {
+	float: right;
+	padding-left: 2ex;
+	border-radius: 0 0 0 10px;
+}
+
+nav a[href].prev {
+	float: left;
+	padding-right: 2ex;
+	border-radius: 0 0 10px 0;
+}
+
+nav a[href]:hover {
+	border-color: var(--hi-color);
+	--fg-color: var(--hi-color);
+}
+
+nav a[href].next::after, nav a[href].prev::before {
+	display: inline-block;
+	color: var(--bg-color);
+	font-weight:bold;
+	background-color: var(--fg-color);
+	padding: 0.7ex 1.5ex;
+	text-shadow:none;
+	transition-property: background-color, --fg-color;
+	transition-duration: 0.2s;
+}
+
+nav a[href].prev::before {
+	margin-right:2ex;
+	content: "⮜";
+}
+
+nav a[href].next::after {
+	margin-left:2ex;
+	content: "⮞";
+}
+
+@media print { nav { display: none; } }
+
+
+/* endnote code */
+@media screen {
+	.endnote {
+		position: fixed;
+		bottom: 0.5em;
+
+		display: none; /* hide until needed */
+
+		border: 1px solid rgba(255,255,255,0.5);
+		background-color: hsl(var(--hue),61%,15%);
+		box-shadow: 0 0 40px 0 hsl(var(--hue),54%,30%);
+		padding: .5em 1em;
+
+		/* center the element */
+		left: 0; right: 0;
+		max-width: 30em; /* same width as body */
+		margin:auto;
+	}
+	.endnote .entry {
+		margin-left: 0em;
+		text-indent: -0.5em;
+	}
+	.endnote:target {
+		display: block; /* show when called */
+	}
+	.endnote .ui {
+		/* hover it over the corner of the interface */
+		position: absolute;
+		top: -1.2em;
+		right: -1em;
+
+		background-color: hsl(var(--hue),51%,5%);
+		border: 1px solid rgba(255,255,255,0.5);
+		padding: 0.1em .5em;
+	}
+	.endnote .ui a[href] {
+		text-decoration: none;
+		font-weight: bold;
+	}
+	a[href].endnote-link,
+	a[href].endnote-link:focus {
+		text-decoration:none;
+		color: var(--fg-color);
+		background-color: hsl(var(--hue),60%,25%);
+		border: 1px solid hsl(var(--hue),80%,8%);
+		padding: 0.2em 0.4em;
+	}
+	a[href].endnote-link:hover {
+		background-color: hsl(var(--hue),76%,35%) !important;
+		/* i don't know why the hell the !important is
+		   needed, and the inspector won't tell me */
+	}
+}
+@media print {
+	/* hide all this nonsense for the dead tree edition */
+	.endnote .ui { display: none; }
+	a[href].endnote-link {
+		text-decoration: none;
+	}
+}
+/* end endnote code */
+
+/* browser specific hacks */
+body::-webkit-scrollbar { width: 1.3em; }
+body::-webkit-scrollbar-track { background: hsl(var(--hue),96%,8%); }
+body::-webkit-scrollbar-thumb { background: hsl(var(--hue),100%,21%); }
+body::-webkit-scrollbar-thumb:hover { background: hsl(var(--hue),100%,28%);}
