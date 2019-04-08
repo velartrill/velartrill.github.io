@@ -17,6 +17,12 @@ body {
 	font-family: "GaramondNo8",
 	             "Garamond Premier Pro",
 				 "EB Garamond", serif;
+	&:lang(jp) {
+		/* make japanese text look non-hideous */
+		font-family: "Kochi Mincho",
+			"Hiragino Mincho Pro", "MS Mincho", serif;
+	}
+
 	font-size: 14pt;
 	hanging-punctuation: first last force-end;
 
