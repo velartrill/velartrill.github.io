@@ -1,4 +1,15 @@
+/* bring in a fallback font in case the user doesn't have
+ * a garamond on hand */
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+
+/* currently don't feel like the glow looks good on my site
+ * anymore; it's also very un-minimalistic, which goes
+ * against my entire ethos. leaving a switch in place in case
+ * i change my mind later tho */
+$glow: no;
+
+/* include code for the endnote mechanism? */
+$endnote: yes;
 
 @font-face {
 	/* if there's any japanese text in the document,
@@ -22,7 +33,7 @@
 ::selection {
 	background-color:hsl(var(--hue),100%,60%);
 	color:white;
-	text-shadow:none;
+	@if $glow == yes { text-shadow:none; }
 }
 
 body {
@@ -37,7 +48,7 @@ body {
 
 	@media print {
 		--faint-color: #666;
-		text-shadow: none;
+		@if $glow == yes { text-shadow:none; }
 		color: black;
 	}
 	@media screen {
@@ -52,7 +63,10 @@ body {
 
 		background: var(--bg-color);
 		color: var(--fg-color);
-		text-shadow: 0px 0px 30pt hsl(var(--hue),35%,61%);
+		@if $glow == yes {
+			--glow-color: hsl(var(--hue),60%,61%);
+			text-shadow: 0px 0px 30pt var(--glow-color);
+		}
 		@media (prefer-color-scheme: light) {
 			--fg-color: hsl(var(--hue),100%,19%);
 			--bg-color: hsl(var(--hue),84%, calc(100% - var(--bright)));
@@ -64,7 +78,8 @@ body {
 
 	/* browser specific hacks */
 	&::-webkit-scrollbar { width: 1.3em; }
-	&::-webkit-scrollbar-track { background: hsl(var(--hue),96%,8%); }
+	&::-webkit-scrollbar-track
+		{ background: hsl(var(--hue),96%,8%); }
 	&::-webkit-scrollbar-thumb {
 		background: hsl(var(--hue),100%,21%);
 		&:hover { background: hsl(var(--hue),100%,28%); }
@@ -76,7 +91,9 @@ a[href] {
 	@media screen {
 		color: var(--link-color);
 		text-decoration-color: hsl(var(--hue),30%,40%);
-		text-shadow: 0px 0px 30pt hsl(var(--hue),60%,40%);
+		@if $glow == yes {
+			text-shadow: 0px 0px 30pt hsl(var(--hue),60%,40%);
+		}
 
 		&:focus {
 			outline: none;
@@ -86,7 +103,9 @@ a[href] {
 		&:hover, &:active {
 			color: var(--hi-color) !important;
 			text-decoration-color: var(--faint-color) !important;
-			text-shadow: 0px 0px 40px var(--faint-color) !important;
+			@if $glow == yes {
+				text-shadow: 0px 0px 40px var(--link-color) !important;
+			}
 			background: none !important;
 		}
 	}
@@ -164,9 +183,11 @@ hr {
 		top: 0.8em;
 		color: hsl(var(--hue),50%,40%);
 		font-size: 60%;
-		text-shadow: 0px 0px 15px hsl(var(--hue),30%,70%),
-			4px 0px 0px var(--bg-color),
-			-4px 0px 0px var(--bg-color);
+		@if $glow == yes {
+			text-shadow: 0px 0px 15px hsl(var(--hue),30%,70%),
+				4px 0px 0px var(--bg-color),
+				-4px 0px 0px var(--bg-color);
+		}
 	}
 	&[data-dec=""]::before {content: "◆";}
 }
@@ -244,78 +265,79 @@ nav {
 }
 
 /* endnote mechanism */
-@media screen {
-	%el {
-		text-decoration:none;
-		color: var(--fg-color);
-		background-color: hsl(var(--hue),60%,25%);
-		padding: 0.2em 0.4em;
+@if $endnote == yes {
+	@media screen {
+		%el {
+			text-decoration:none;
+			color: var(--fg-color);
+			background-color: hsl(var(--hue),60%,25%);
+			padding: 0.2em 0.4em;
 
-		/* the following two stanzas are unfortunately
-		 * necessary and i don't know why; trying to
-		 * incorporate them into one consitently
-		 * breaks cross-browser. shruggo */
-		--border-color: hsl(var(--hue),80%,8%);
-		border: 1px solid var(--border-color);
-	}
-	a[href].endnote-link {
-		@extend %el;
-		&:focus {
-			@extend %el; // this might be bullshit
+			/* the following two stanzas are unfortunately
+			 * necessary and i don't know why; trying to
+			 * incorporate them into one consitently
+			 * breaks cross-browser. shruggo */
+			--border-color: hsl(var(--hue),80%,8%);
+			border: 1px solid var(--border-color);
 		}
-		&:hover {
-			background-color: hsl(var(--hue),76%,35%) !important;
-			/* i don't know why the hell the !important is
-			   needed, and the inspector won't tell me */
+		a[href].endnote-link {
+			@extend %el;
+			&:focus {
+				@extend %el; // this might be bullshit
+			}
+			&:hover {
+				background-color: hsl(var(--hue),76%,35%) !important;
+				/* i don't know why the hell the !important is
+				   needed, and the inspector won't tell me */
+			}
 		}
-	}
 
-	.endnote {
-		position: fixed;
-		bottom: 0.5em;
+		.endnote {
+			position: fixed;
+			bottom: 0.5em;
 
-		display: none; // hide until needed
+			display: none; // hide until needed
 
-		border: 1px solid rgba(255,255,255,0.5);
-		background-color: hsl(var(--hue),61%,15%);
-		--box-shadow-color: hsla(var(--hue),54%,30%,0.7);
-		box-shadow: 0 0 40px 0 var(--box-shadow-color);
-		padding: .5em 1em;
-
-		/* center the element */
-		left: 0; right: 0;
-		max-width: 30em; /* same width as body */
-		margin:auto;
-
-		&:target { display: block; }
-
-		.entry {
-			margin-left: 0em;
-			text-indent: -0.5em;
-		}
-		.ui {
-			/* hover it over the corner of the interface */
-			position: absolute;
-			top: -1.2em;
-			right: -1em;
-
-			background-color: hsl(var(--hue),51%,5%);
 			border: 1px solid rgba(255,255,255,0.5);
-			padding: 0.1em .5em;
+			background-color: hsl(var(--hue),61%,15%);
+			--box-shadow-color: hsla(var(--hue),54%,30%,0.7);
+			box-shadow: 0 0 40px 0 var(--box-shadow-color);
+			padding: .5em 1em;
 
-			a[href] {
-				text-decoration: none;
-				font-weight: bold;
+			/* center the element */
+			left: 0; right: 0;
+			max-width: 30em; /* same width as body */
+			margin:auto;
+
+			&:target { display: block; }
+
+			.entry {
+				margin-left: 0em;
+				text-indent: -0.5em;
+			}
+			.ui {
+				/* hover it over the corner of the interface */
+				position: absolute;
+				top: -1.2em;
+				right: -1em;
+
+				background-color: hsl(var(--hue),51%,5%);
+				border: 1px solid rgba(255,255,255,0.5);
+				padding: 0.1em .5em;
+
+				a[href] {
+					text-decoration: none;
+					font-weight: bold;
+				}
 			}
 		}
 	}
-}
 
-@media print {
-	.endnote .ui { display: none; }
-	a[href].endnote-link {
-		text-decoration: none;
+	@media print {
+		.endnote .ui { display: none; }
+		a[href].endnote-link {
+			text-decoration: none;
+		}
 	}
 }
-
 

@@ -1,5 +1,12 @@
 @charset "UTF-8";
+/* bring in a fallback font in case the user doesn't have
+ * a garamond on hand */
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+/* currently don't feel like the glow looks good on my site
+ * anymore; it's also very un-minimalistic, which goes
+ * against my entire ethos. leaving a switch in place in case
+ * i change my mind later tho */
+/* include code for the endnote mechanism? */
 @font-face {
   /* if there's any japanese text in the document,
 	 * do what we can to make sure it's not hideous */
@@ -14,8 +21,7 @@
 
 ::selection {
   background-color: hsl(var(--hue), 100%, 60%);
-  color: white;
-  text-shadow: none; }
+  color: white; }
 
 body {
   margin-top: 1em;
@@ -27,7 +33,6 @@ body {
   @media print {
     body {
       --faint-color: #666;
-      text-shadow: none;
       color: black; } }
   @media screen {
     body {
@@ -40,8 +45,7 @@ body {
       margin: auto;
       margin-top: 1em;
       background: var(--bg-color);
-      color: var(--fg-color);
-      text-shadow: 0px 0px 30pt hsl(var(--hue), 35%, 61%); } }
+      color: var(--fg-color); } }
   @media screen and (prefer-color-scheme: light) {
     body {
       --fg-color: hsl(var(--hue),100%,19%);
@@ -65,8 +69,7 @@ body {
 @media screen {
   a[href] {
     color: var(--link-color);
-    text-decoration-color: hsl(var(--hue), 30%, 40%);
-    text-shadow: 0px 0px 30pt hsl(var(--hue), 60%, 40%); }
+    text-decoration-color: hsl(var(--hue), 30%, 40%); }
     a[href]:focus {
       outline: none;
       background: var(--link-color);
@@ -74,7 +77,6 @@ body {
     a[href]:hover, a[href]:active {
       color: var(--hi-color) !important;
       text-decoration-color: var(--faint-color) !important;
-      text-shadow: 0px 0px 40px var(--faint-color) !important;
       background: none !important; } }
 
 ol, ul {
@@ -137,8 +139,7 @@ hr {
     text-align: center;
     top: 0.8em;
     color: hsl(var(--hue), 50%, 40%);
-    font-size: 60%;
-    text-shadow: 0px 0px 15px hsl(var(--hue), 30%, 70%), 4px 0px 0px var(--bg-color), -4px 0px 0px var(--bg-color); }
+    font-size: 60%; }
   hr[data-dec=""]::before {
     content: "◆"; }
 
@@ -207,15 +208,15 @@ nav {
     background-color: hsl(var(--hue), 60%, 25%);
     padding: 0.2em 0.4em;
     /* the following two stanzas are unfortunately
-		 * necessary and i don't know why; trying to
-		 * incorporate them into one consitently
-		 * breaks cross-browser. shruggo */
+			 * necessary and i don't know why; trying to
+			 * incorporate them into one consitently
+			 * breaks cross-browser. shruggo */
     --border-color: hsl(var(--hue),80%,8%);
     border: 1px solid var(--border-color); }
   a[href].endnote-link:hover {
     background-color: hsl(var(--hue), 76%, 35%) !important;
     /* i don't know why the hell the !important is
-			   needed, and the inspector won't tell me */ }
+				   needed, and the inspector won't tell me */ }
   .endnote {
     position: fixed;
     bottom: 0.5em;
