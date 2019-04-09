@@ -1,5 +1,18 @@
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond);
 
+@font-face {
+	/* if there's any japanese text in the document,
+	 * do what we can to make sure it's not hideous */
+	font-family: "mincho";
+	unicode-range: u+4e00-9fbf,
+	               u+3040-309f,
+				   u+30a0-30ff;
+	src: local("Kochi Mincho"),
+	     local("Hiragino Mincho Pro"),
+		 local("Yu Mincho"),
+		 local("MS Mincho");
+}
+
 :root {
 	--hue: 338;
 	--width: 30em;
@@ -7,32 +20,32 @@
 }
 
 ::selection {
-	background-color:hsl(var(--hue),100%,80%);
-	color:hsl(var(--hue),100%,10%);
+	background-color:hsl(var(--hue),100%,60%);
+	color:white;
+	text-shadow:none;
 }
 
 body {
 	margin-top: 1em;
 	padding: 0 1em;
-	font-family: "GaramondNo8",
+	font-family: mincho, "GaramondNo8",
 	             "Garamond Premier Pro",
-				 "EB Garamond", serif;
-	&:lang(jp) {
-		/* make japanese text look non-hideous */
-		font-family: "Kochi Mincho",
-			"Hiragino Mincho Pro", "MS Mincho", serif;
-	}
+                 "EB Garamond", serif;
 
 	font-size: 14pt;
 	hanging-punctuation: first last force-end;
 
-	@media print { text-shadow: none; color: black; }
+	@media print {
+		--faint-color: #666;
+		text-shadow: none;
+		color: black;
+	}
 	@media screen {
-		--fg-color: hsl(var(--hue),100%,89%);
-		--bg-color: hsl(var(--hue),84%,var(--bright));
-		--link-color: hsl(var(--hue),100%,83%); 
-		--hi-color: hsl(var(--hue),100%,95%); 
-		--faint-color: hsl(var(--hue),84%,74%);
+		   --fg-color: hsl(var(--hue),100%,89%);
+		   --bg-color: hsl(var(--hue),84%,var(--bright));
+		 --link-color: hsl(var(--hue),100%,83%); 
+		   --hi-color: hsl(var(--hue),100%,95%); 
+		--faint-color: hsl(var(--hue),64%,64%);
 
 		max-width: var(--width);
 		margin: auto; margin-top: 1em;
@@ -54,7 +67,7 @@ body {
 	&::-webkit-scrollbar-track { background: hsl(var(--hue),96%,8%); }
 	&::-webkit-scrollbar-thumb {
 		background: hsl(var(--hue),100%,21%);
-		&:hover { background: hsl(var(--hue),100%,28%);}
+		&:hover { background: hsl(var(--hue),100%,28%); }
 	}
 }
 
@@ -65,15 +78,15 @@ a[href] {
 		text-decoration-color: hsl(var(--hue),30%,40%);
 		text-shadow: 0px 0px 30pt hsl(var(--hue),60%,40%);
 
-		&:focus, &focus:hover {
+		&:focus {
 			outline: none;
 			background: var(--link-color);
 			color: var(--bg-color); 
 		}
 		&:hover, &:active {
 			color: var(--hi-color) !important;
-			text-decoration-color: hsl(var(--hue),30%,60%) !important;
-			text-shadow: 0px 0px 30pt hsl(var(--hue),80%,70%) !important;
+			text-decoration-color: var(--faint-color) !important;
+			text-shadow: 0px 0px 40px var(--faint-color) !important;
 			background: none !important;
 		}
 	}
@@ -82,14 +95,18 @@ a[href] {
 ol, ul {
 	padding-left: 1.2em;
 	list-style: none;
+	line-height: 1.4em;
+	li { margin-bottom: 0.4em; }
 	li::before {
 		display: inline-block;
 		color: hsl(var(--hue), 40%, 60%);
 	}
 }
 
+
 ul li::before {
-	content: "·";
+	hanging-punctuation: none; // eurghhhh
+	content: "»";
 	width: 0.7em;
 	margin-left: -0.7em;
 }
@@ -108,7 +125,7 @@ ol {
 
 h1, h2, h3 {
 	margin-bottom: 0;
-	margin-top: zero;
+	margin-top: 0;
 	@media screen {
 		a[href] {
 			text-decoration: none;
@@ -131,6 +148,7 @@ h2 {
 	margin-top: -0.5;
 	padding: 0em;
 	font-style: italic;
+	color: var(--faint-color);
 }
 
 hr {
@@ -194,15 +212,33 @@ nav {
 		}
 		
 		/* back and forward buttons */
+		&.next::after, &.prev::before {
+			display: inline-block;
+			color: var(--bg-color);
+			font-weight:bold;
+			background-color: var(--fg-color);
+			padding: 0.7ex 1.5ex;
+			text-shadow:none;
+			transition-property: background-color, --fg-color;
+			transition-duration: 0.2s;
+		}
 		&.next {
 			float: right;
 			padding-left: 2ex;
 			border-radius: 0 0 0 10px;
+			&::after {
+				margin-left:2ex;
+				content: "⮞";
+			}
 		}
 		&.prev {
 			float: left;
 			padding-right: 2ex;
 			border-radius: 0 0 10px 0;
+			&::before {
+				margin-right:2ex;
+				content: "⮜";
+			}
 		}
 	}
 }
