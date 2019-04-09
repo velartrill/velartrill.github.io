@@ -45,6 +45,7 @@ body {
 
 	font-size: 14pt;
 	hanging-punctuation: first last force-end;
+	text-align: justify;
 
 	@media print {
 		--faint-color: #666;
