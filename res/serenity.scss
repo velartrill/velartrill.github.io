@@ -87,6 +87,11 @@ body {
 	}
 }
 
+p {
+	margin: 0.7em 0;
+	line-height: 2.8ex;
+}
+
 a[href] {
 	@media print { color: black; }
 	@media screen {
@@ -146,6 +151,7 @@ ol {
 h1, h2, h3 {
 	margin-bottom: 0;
 	margin-top: 0;
+	text-align: left;
 	@media screen {
 		a[href] {
 			text-decoration: none;
@@ -239,7 +245,7 @@ nav {
 			color: var(--bg-color);
 			font-weight:bold;
 			background-color: var(--fg-color);
-			padding: 0.7ex 1.5ex;
+			padding: 1.7ex 1.5ex;
 			text-shadow:none;
 			transition-property: background-color, --fg-color;
 			transition-duration: 0.2s;
