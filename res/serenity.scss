@@ -1,3 +1,30 @@
+/* [ʞ] serenity.scss <https://hale.su/serenity.html>
+ *  ~ lexi hale <lexi@hale.su>
+ *  © GNU affero general public license
+ *  $ sassc -t compressed serenity.{scss,css}
+
+ * a stylesheet designed for flexibility and for minimalistic,
+ * hand-coded websites. ideally, it should be possible to
+ * drop it right into any existing plain-html document and
+ * have it immediately spice up the look.
+
+ NOTE i'm fine with people other than me using and modifying
+      this stylesheet under the terms of the AGPL, under two
+	  conditions:
+
+	    1) this block-comment be left in place per the AGPL,
+		   and at least the first three lines copied verbatim
+		   to the top of any CSS file generated from it
+
+		2) you change the default hue in :root to something
+		   other than rose-red, which is the signature hue
+		   of my own websites
+
+	  i would also appreciate being credited somewhere
+	  visible to visitors of the website, but it's not
+	  required as long as the credit at the top of this
+	  file is preserved. */
+
 /* bring in a fallback font in case the user doesn't have
  * a garamond on hand */
 @import url(https://fonts.googleapis.com/css?family=EB+Garamond);
