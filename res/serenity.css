@@ -1,5 +1,340 @@
-/* see <serenity.scss> in this directory for source code> */
+@charset "UTF-8";
+/* [ʞ] serenity.scss <https://hale.su/serenity.html>
+ *  ~ lexi hale <lexi@hale.su>
+ *  © GNU affero general public license
+ *  $ sassc -t compressed serenity.{scss,css}
 
-@import url(https://v.hale.su/kcc.css);
+ * a stylesheet designed for flexibility and for minimalistic,
+ * hand-coded websites. ideally, it should be possible to
+ * drop it right into any existing plain-html document and
+ * have it immediately spice up the look.
 
-@import url(https://fonts.googleapis.com/css?family=EB+Garamond);@font-face{font-family:"mincho";unicode-range:u+4e00-9fbf, u+3040-309f, u+30a0-30ff;src:local("Kochi Mincho"),local("Hiragino Mincho Pro"),local("Yu Mincho"),local("MS Mincho")}:root{--hue: 338;--width: 30em;--bright: 12%;--link-br: 73%;--hover: 22%}::selection{background-color:hsl(var(--hue), 100%, 60%);color:white}body{margin-top:1em;padding:0 1em;font-family:mincho, "GaramondNo8", "Garamond Premier Pro", "EB Garamond", serif;font-size:14pt;hanging-punctuation:first last force-end;text-align:justify}@media print{body{--faint-color: #666;color:black}}@media screen{body{--fg-color: hsl(var(--hue),100%,89%);--bg-color: hsl(var(--hue),84%,var(--bright));--faint-color: hsl(var(--hue),64%,64%);max-width:var(--width);margin:auto;margin-top:1em;background:var(--bg-color);color:var(--fg-color)}}body::-webkit-scrollbar{width:1.3em}body::-webkit-scrollbar-track{background:hsl(var(--hue), 96%, 8%)}body::-webkit-scrollbar-thumb{background:hsl(var(--hue), 100%, 21%)}body::-webkit-scrollbar-thumb:hover{background:hsl(var(--hue), 100%, 28%)}h1,h2,h3,h4,h5,h6{all:unset;display:block;line-height:1em;margin-top:0.3em}@media screen{h1 a[href],h2 a[href],h3 a[href],h4 a[href],h5 a[href],h6 a[href]{text-decoration:none;color:hsl(var(--hue), 60%, 80%)}h1 a[href]:hover,h2 a[href]:hover,h3 a[href]:hover,h4 a[href]:hover,h5 a[href]:hover,h6 a[href]:hover{color:var(--fg-color)}}h1{font-size:2em}h2{font-size:1.5em}h3{font-size:1.33333em}h4{font-size:1.25em}h5{font-size:1.2em}@media screen{h1 a[href],h3 a[href]{color:hsl(var(--hue), 50%, 70%)}}p{margin:0.7em 0;line-height:1.4em}@media print{a[href]{color:black}}@media screen{a[href]{--link-t: var(--hue), 100%, var(--link-br);--hi-t: var(--hue), 100%, calc(var(--link-br) + var(--hover));--link-c: hsl(var(--link-t));--ul-c: hsla(var(--link-t), 30%);--hi-c: hsl(var(--hi-t));--ul-hi-c: hsla(var(--hi-t), 60%);--glow-c: hsla(var(--link-t), 50%);color:var(--link-c);text-decoration-color:var(--ul-c);text-decoration-width:1px;text-underline-offset:2px}a[href]:focus{color:var(--bg-color);background:var(--fg-color);box-shadow:0 0 30px var(--ul-c);text-decoration:none;padding:0.2em 0.3em;margin:0 -0.3em;outline:none}a[href]:hover,a[href]:active{color:var(--hi-c);text-decoration:underline;text-decoration-color:var(--ul-hi-c);text-shadow:0px 0px 30px var(--glow-c);background:none !important;box-shadow:none}}div.dir>div{margin-left:2em;text-indent:-2em}div.dir>div>*:first-child{font-weight:bold}ol,ul{padding-left:1.2em;list-style:none;line-height:1.4em}ol li,ul li{margin-bottom:0.4em}ol li::before,ul li::before{display:inline-block;color:hsl(var(--hue), 40%, 60%)}ol.dir>li,ul.dir>li{margin-left:2em}ol.dir>li::before,ul.dir>li::before{margin-left:-2em}ol.dir>li>*:first-child,ul.dir>li>*:first-child{font-weight:bold}ul li::before{hanging-punctuation:none;content:"»";width:0.7em;margin-left:-0.7em}ol{counter-reset:li}ol li::before{counter-increment:li;content:counter(li);width:1.5em;margin-left:-1.9em;text-align:right;padding-right:0.4em}.byline{margin-left:1.5em;margin-top:-0.5;padding:0em;font-style:italic;color:var(--faint-color)}hr{border:none;border-bottom:1px solid hsl(var(--hue), 50%, 30%);width:90%}hr[data-dec]::before{display:block;content:attr(data-dec);position:relative;letter-spacing:1em;text-align:center;top:0.8em;color:hsl(var(--hue), 50%, 40%);font-size:60%}hr[data-dec=""]::before{content:"◆"}.imgbox{margin:0 calc((20vw - 20%) * -1)}.entry{margin-left:1em;text-indent:-1em}nav{padding-bottom:1em}@media print{nav{display:none}}nav::after{display:table;content:"";clear:both}nav a[href]{--fg-color: hsl(var(--hue), 100%, 80%);display:block;color:var(--fg-color);background-color:hsl(var(--hue), 100%, calc(var(--bright) / 2));border:1px solid var(--fg-color);text-decoration:none;line-height:.7em;transition-property:border-color, text-shadow, color, --fg-color, background;transition-duration:0.2s}nav a[href]:hover{--fg-color: hsl(var(--hue),80%,90%);background:hsl(var(--hue), 70%, 10%) !important;text-decoration:none}nav a[href]:active,nav a[href]:focus{padding:0;margin:0}nav a[href].next::after,nav a[href].prev::before{display:inline-block;color:var(--bg-color);font-weight:bold;background-color:var(--fg-color);padding:1.7ex 1.5ex;text-shadow:none;transition-property:background-color, --fg-color;transition-duration:0.2s}nav a[href].next{float:right;padding-left:2ex;border-radius:0 0 0 10px}nav a[href].next::after{margin-left:2ex;content:"⮞"}nav a[href].prev{float:left;padding-right:2ex;border-radius:0 0 10px 0}nav a[href].prev::before{margin-right:2ex;content:"⮜"}@media screen{a.endnote-link[href],a.endnote-link[href]:focus{text-decoration:none;color:var(--fg-color);background-color:hsl(var(--hue), 60%, 25%);padding:0.2em 0.4em;--border-color: hsl(var(--hue),80%,8%);border:1px solid var(--border-color)}a[href].endnote-link:hover{background-color:hsl(var(--hue), 76%, 35%) !important}.endnote{position:fixed;bottom:0.5em;display:none;border:1px solid rgba(255,255,255,0.5);background-color:hsl(var(--hue), 61%, 15%);--box-shadow-color: hsla(var(--hue),54%,30%,0.7);box-shadow:0 0 40px 0 var(--box-shadow-color);padding:.5em 1em;left:0;right:0;max-width:30em;margin:auto}.endnote:target{display:block}.endnote .entry{margin-left:0em;text-indent:-0.5em}.endnote .ui{position:absolute;top:-1.2em;right:-1em;background-color:hsl(var(--hue), 51%, 5%);border:1px solid rgba(255,255,255,0.5);padding:0.1em .5em}.endnote .ui a[href]{text-decoration:none;font-weight:bold}}@media print{.endnote .ui{display:none}a[href].endnote-link{text-decoration:none}}
+ NOTE i'm fine with people other than me using and modifying
+      this stylesheet under the terms of the AGPL, under two
+	  conditions:
+
+	    1) this block-comment be left in place per the AGPL,
+		   and at least the first three lines copied verbatim
+		   to the top of any CSS file generated from it
+
+		2) you change the default hue in :root to something
+		   other than rose-red, which is the signature hue
+		   of my own websites
+
+	  i would also appreciate being credited somewhere
+	  visible to visitors of the website, but it's not
+	  required as long as the credit at the top of this
+	  file is preserved. */
+/* bring in a fallback font in case the user doesn't have
+ * a garamond on hand */
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+@font-face {
+  /* if there's any japanese text in the document,
+	 * do what we can to make sure it's not hideous */
+  font-family: "mincho";
+  unicode-range: u+4e00-9fbf, u+3040-309f, u+30a0-30ff;
+  src: local("Kochi Mincho"), local("Hiragino Mincho Pro"), local("Yu Mincho"), local("MS Mincho"); }
+
+:root {
+  --hue: 338;
+  --width: 30em;
+  --bright: 12%;
+  --link-br: 73%;
+  --hover: 22%; }
+
+::selection {
+  background-color: hsl(var(--hue), 100%, 60%);
+  color: white; }
+
+body {
+  margin-top: 1em;
+  padding: 0 1em;
+  font-family: mincho, "GaramondNo8", "Garamond Premier Pro", "EB Garamond", serif;
+  font-size: 14pt;
+  hanging-punctuation: first last force-end;
+  text-align: justify;
+  /* browser specific hacks */ }
+  @media print {
+    body {
+      --faint-color: #666;
+      color: black; } }
+  @media screen {
+    body {
+      --fg-color: hsl(var(--hue),100%,89%);
+      --bg-color: hsl(var(--hue),84%,var(--bright));
+      --faint-color: hsl(var(--hue),64%,64%);
+      max-width: var(--width);
+      margin: auto;
+      margin-top: 1em;
+      background: var(--bg-color);
+      color: var(--fg-color); } }
+  body::-webkit-scrollbar {
+    width: 1.3em; }
+  body::-webkit-scrollbar-track {
+    background: hsl(var(--hue), 96%, 8%); }
+  body::-webkit-scrollbar-thumb {
+    background: hsl(var(--hue), 100%, 21%); }
+    body::-webkit-scrollbar-thumb:hover {
+      background: hsl(var(--hue), 100%, 28%); }
+
+h1, h2, h3, h4, h5, h6 {
+  /* sigh */
+  all: unset;
+  display: block;
+  line-height: 1em;
+  margin-top: 0.3em; }
+  @media screen {
+    h1 a[href], h2 a[href], h3 a[href], h4 a[href], h5 a[href], h6 a[href] {
+      text-decoration: none;
+      color: hsl(var(--hue), 60%, 80%); }
+      h1 a[href]:hover, h2 a[href]:hover, h3 a[href]:hover, h4 a[href]:hover, h5 a[href]:hover, h6 a[href]:hover {
+        color: var(--fg-color); } }
+
+h1 {
+  font-size: 2em; }
+
+h2 {
+  font-size: 1.5em; }
+
+h3 {
+  font-size: 1.33333em; }
+
+h4 {
+  font-size: 1.25em; }
+
+h5 {
+  font-size: 1.2em; }
+
+@media screen {
+  /* dim the pathbar */
+  h1 a[href], h3 a[href] {
+    color: hsl(var(--hue), 50%, 70%); } }
+
+p {
+  margin: 0.7em 0;
+  line-height: 1.4em; }
+
+@media print {
+  a[href] {
+    color: black; } }
+
+@media screen {
+  a[href] {
+    /* define the numbers */
+    --link-t: var(--hue), 100%, var(--link-br);
+    --hi-t: var(--hue), 100%, calc(var(--link-br) + var(--hover));
+    /* define the two alpha variants */
+    --link-c: hsl(var(--link-t));
+    --ul-c: hsla(var(--link-t), 30%);
+    --hi-c: hsl(var(--hi-t));
+    --ul-hi-c: hsla(var(--hi-t), 60%);
+    --glow-c: hsla(var(--link-t), 50%);
+    color: var(--link-c);
+    text-decoration-color: var(--ul-c);
+    text-decoration-width: 1px;
+    text-underline-offset: 2px; }
+    a[href]:focus {
+      /* a11y: keyboard users need an unambiguous, easy-to
+			 * spot identifier for what's currently focused. this
+			 * style inverts the default colors to create a highly-
+			 * visible reverse-video effect. */
+      color: var(--bg-color);
+      background: var(--fg-color);
+      box-shadow: 0 0 30px var(--ul-c);
+      text-decoration: none;
+      /* the box is very "bleeding-edge" sharp by default so
+			 * we use padding to give it some white space; otherwise
+			 * it'll look *exactly* like terminal reverse video */
+      padding: 0.2em 0.3em;
+      /* the extra padding will disrupt layout sometimes; let's
+			 * avoid that where we can*/
+      margin: 0 -0.3em;
+      /* browsers normally supply their own (ugly, useless) 
+			 * indicator; we suppress these by blanking outline */
+      outline: none; }
+    a[href]:hover, a[href]:active {
+      color: var(--hi-c);
+      text-decoration: underline;
+      text-decoration-color: var(--ul-hi-c);
+      text-shadow: 0px 0px 30px var(--glow-c);
+      background: none !important;
+      box-shadow: none; } }
+
+div.dir > div {
+  /* for div-type directory lists */
+  margin-left: 2em;
+  text-indent: -2em; }
+  div.dir > div > *:first-child {
+    font-weight: bold; }
+
+ol, ul {
+  padding-left: 1.2em;
+  list-style: none;
+  line-height: 1.4em; }
+  ol li, ul li {
+    margin-bottom: 0.4em; }
+  ol li::before, ul li::before {
+    display: inline-block;
+    color: hsl(var(--hue), 40%, 60%); }
+  ol.dir > li, ul.dir > li {
+    margin-left: 2em; }
+    ol.dir > li::before, ul.dir > li::before {
+      margin-left: -2em; }
+    ol.dir > li > *:first-child, ul.dir > li > *:first-child {
+      font-weight: bold; }
+
+ul li::before {
+  hanging-punctuation: none;
+  content: "»";
+  width: 0.7em;
+  margin-left: -0.7em; }
+
+ol {
+  counter-reset: li; }
+  ol li::before {
+    counter-increment: li;
+    content: counter(li);
+    width: 1.5em;
+    margin-left: -1.9em;
+    text-align: right;
+    padding-right: 0.4em; }
+
+.byline {
+  margin-left: 1.5em;
+  margin-top: -0.5;
+  padding: 0em;
+  font-style: italic;
+  color: var(--faint-color); }
+
+hr {
+  border: none;
+  border-bottom: 1px solid hsl(var(--hue), 50%, 30%);
+  width: 90%; }
+  hr[data-dec]::before {
+    display: block;
+    content: attr(data-dec);
+    position: relative;
+    letter-spacing: 1em;
+    text-align: center;
+    top: 0.8em;
+    color: hsl(var(--hue), 50%, 40%);
+    font-size: 60%; }
+  hr[data-dec=""]::before {
+    content: "◆"; }
+
+.imgbox {
+  margin: 0 calc((20vw - 20%) * -1); }
+
+/* entries in definition lists, numbered footnotes */
+.entry {
+  margin-left: 1em;
+  text-indent: -1em; }
+
+/* links to previous and next chapter */
+nav {
+  padding-bottom: 1em;
+  /* hideous evil clearfix */ }
+  @media print {
+    nav {
+      display: none; } }
+  nav::after {
+    display: table;
+    content: "";
+    /* ಠ_ಠ */
+    clear: both; }
+  nav a[href] {
+    --fg-color: hsl(var(--hue), 100%, 80%);
+    display: block;
+    color: var(--fg-color);
+    background-color: hsl(var(--hue), 100%, calc(var(--bright) / 2));
+    border: 1px solid var(--fg-color);
+    text-decoration: none;
+    line-height: .7em;
+    transition-property: border-color, text-shadow, color, --fg-color, background;
+    transition-duration: 0.2s;
+    /* back and forward buttons */ }
+    nav a[href]:hover {
+      --fg-color: hsl(var(--hue),80%,90%);
+      background: hsl(var(--hue), 70%, 10%) !important;
+      text-decoration: none; }
+    nav a[href]:active, nav a[href]:focus {
+      padding: 0;
+      margin: 0; }
+    nav a[href].next::after, nav a[href].prev::before {
+      display: inline-block;
+      color: var(--bg-color);
+      font-weight: bold;
+      background-color: var(--fg-color);
+      padding: 1.7ex 1.5ex;
+      text-shadow: none;
+      transition-property: background-color, --fg-color;
+      transition-duration: 0.2s; }
+    nav a[href].next {
+      float: right;
+      padding-left: 2ex;
+      border-radius: 0 0 0 10px; }
+      nav a[href].next::after {
+        margin-left: 2ex;
+        content: "⮞"; }
+    nav a[href].prev {
+      float: left;
+      padding-right: 2ex;
+      border-radius: 0 0 10px 0; }
+      nav a[href].prev::before {
+        margin-right: 2ex;
+        content: "⮜"; }
+
+/* endnote mechanism */
+@media screen {
+  a.endnote-link[href], a.endnote-link[href]:focus {
+    text-decoration: none;
+    color: var(--fg-color);
+    background-color: hsl(var(--hue), 60%, 25%);
+    padding: 0.2em 0.4em;
+    /* the following two stanzas are unfortunately
+			 * necessary and i don't know why; trying to
+			 * incorporate them into one consistently
+			 * breaks cross-browser. shruggo */
+    --border-color: hsl(var(--hue),80%,8%);
+    border: 1px solid var(--border-color); }
+  a[href].endnote-link:hover {
+    background-color: hsl(var(--hue), 76%, 35%) !important;
+    /* i don't know why the hell the !important is
+				   needed, and the inspector won't tell me */ }
+  .endnote {
+    position: fixed;
+    bottom: 0.5em;
+    display: none;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    background-color: hsl(var(--hue), 61%, 15%);
+    --box-shadow-color: hsla(var(--hue),54%,30%,0.7);
+    box-shadow: 0 0 40px 0 var(--box-shadow-color);
+    padding: .5em 1em;
+    /* center the element */
+    left: 0;
+    right: 0;
+    max-width: 30em;
+    /* same width as body */
+    margin: auto; }
+    .endnote:target {
+      display: block; }
+    .endnote .entry {
+      margin-left: 0em;
+      text-indent: -0.5em; }
+    .endnote .ui {
+      /* hover it over the corner of the interface */
+      position: absolute;
+      top: -1.2em;
+      right: -1em;
+      background-color: hsl(var(--hue), 51%, 5%);
+      border: 1px solid rgba(255, 255, 255, 0.5);
+      padding: 0.1em .5em; }
+      .endnote .ui a[href] {
+        text-decoration: none;
+        font-weight: bold; } }
+
+@media print {
+  .endnote .ui {
+    display: none; }
+  a[href].endnote-link {
+    text-decoration: none; } }
