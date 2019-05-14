@@ -1,0 +1,105 @@
+@charset "UTF-8";
+/* src: ./quote.scss */
+label[for=nohl] {
+  outline: 1px solid black;
+  background: hsl(var(--hue), 80%, 30%);
+  padding: 0.1em 0.5em;
+  border-top: 1px solid hsl(var(--hue), 40%, 46%);
+  border-bottom: 1px solid transparent; }
+  label[for=nohl], label:active:hover[for=nohl] {
+    color: hsl(var(--hue), 100%, 80%);
+    text-shadow: 0 1px 0 black; }
+  label:hover[for=nohl] {
+    border-top-color: hsl(var(--hue), 40%, 66%);
+    background: hsl(var(--hue), 80%, 60%);
+    color: black;
+    text-shadow: 0 1px 0 hsl(var(--hue), 80%, 77%); }
+  label:active[for=nohl] {
+    background: hsl(var(--hue), 90%, 20%);
+    border-top-color: transparent;
+    border-bottom-color: hsl(var(--hue), 100%, 25%); }
+
+q::before {
+  content: "“"; }
+
+q::after {
+  content: "”"; }
+
+@media screen {
+  q {
+    color: hsl(var(--hue), 100%, 70%); }
+    q::before, q::after {
+      color: hsl(var(--hue), 70%, 65%); }
+    #nohl:checked ~ q, #nohl:checked ~ q::before, #nohl:checked ~ q::after,
+    #nohl:checked ~ * q,
+    #nohl:checked ~ * q::before,
+    #nohl:checked ~ * q::after {
+      color: inherit; } }
+
+#nohl {
+  display: none; }
+
+label[for=nohl] {
+  position: fixed;
+  bottom: 1em;
+  right: 2em;
+  opacity: 0.5; }
+  @media print {
+    label[for=nohl] {
+      display: none; } }
+  @media screen {
+    label[for=nohl] {
+      display: block; } }
+  label[for=nohl]::before {
+    content: "···"; }
+  label[for=nohl]:hover {
+    opacity: 1; }
+    label[for=nohl]:hover::before {
+      content: "language coding: "; }
+    label[for=nohl]:hover::after {
+      content: "color";
+      font-weight: bold; }
+    #nohl:checked ~ label[for=nohl]:hover::after {
+      content: "marks"; }
+
+@media screen {
+  q:lang(x-zt) {
+    color: #ff99bb; }
+    q:lang(x-zt)::before, q:lang(x-zt)::after {
+      color: #cc0044; } }
+
+@media screen {
+  q:lang(x-ra) {
+    color: #dfffcc; }
+    q:lang(x-ra)::before, q:lang(x-ra)::after {
+      color: #5eff00; }
+    #nohl:checked ~ q:lang(x-ra)::before,
+    #nohl:checked ~ * q:lang(x-ra)::before {
+      content: "«"; }
+    #nohl:checked ~ q:lang(x-ra)::after,
+    #nohl:checked ~ * q:lang(x-ra)::after {
+      content: "»"; } }
+
+@media print {
+  q:lang(x-ra)::before {
+    content: "«"; }
+  q:lang(x-ra)::after {
+    content: "»"; } }
+
+@media screen {
+  q:lang(x-th) {
+    color: #ffccf6; }
+    q:lang(x-th)::before, q:lang(x-th)::after {
+      color: #ff00d0; }
+    #nohl:checked ~ q:lang(x-th)::before,
+    #nohl:checked ~ * q:lang(x-th)::before {
+      content: "["; }
+    #nohl:checked ~ q:lang(x-th)::after,
+    #nohl:checked ~ * q:lang(x-th)::after {
+      content: "]"; } }
+
+@media print {
+  q:lang(x-th)::before {
+    content: "["; }
+  q:lang(x-th)::after {
+    content: "]"; } }

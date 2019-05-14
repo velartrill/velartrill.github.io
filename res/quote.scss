@@ -1,0 +1,76 @@
+// [ʞ] quote.scss → quote.css
+//  ~ lexi hale <lexi@hale.su>
+//  $ sassc quote.{s,}css
+//  © GNU GPLv3
+
+/* src: ./quote.scss */
+
+@import "button.scss";
+
+@mixin deflang($name, $color, $ql: null, $qr: null) {
+	q:lang(x-#{$name}) {
+		@media screen {
+			color: $color;
+			&::before, &::after {
+				color: darken($color,40);
+			}
+			#nohl:checked ~ &,
+			#nohl:checked ~ * & {
+				&::before { content: $ql; }
+				&::after  { content: $qr; }
+			}
+		}
+		@media print {
+			&::before { content: $ql; }
+			&::after  { content: $qr; }
+		}
+	}
+}
+
+q {
+	&::before { content: "“"; }
+	&::after { content: "”"; }
+
+	@media screen {
+		color: hsl(var(--hue), 100%, 70%);
+
+		&::before, &::after {
+			color: hsl(var(--hue), 70%, 65%);
+		}
+		
+		#nohl:checked ~ &,
+		#nohl:checked ~ * & {
+			&, &::before, &::after {
+				color: inherit;
+			}
+		}
+	}
+}
+
+#nohl { display: none; }
+label[for=nohl] {
+	@media print { display: none; }
+	@media screen { display: block; }
+
+	@extend %button;
+	position: fixed;
+	bottom: 1em; right: 2em;
+	opacity: 0.5;
+	&::before { content: "···"; }
+	&:hover {
+		opacity: 1;
+	&::before { content: "language coding: "; }
+		&::after {
+			content: "color";
+			font-weight: bold;
+		}
+		#nohl:checked ~ & {
+			&::after { content: "marks"; }
+		}
+	}
+}
+
+@include deflang("zt", hsl(340,100%,80%));
+@include deflang("ra", hsl(98, 100%,90%), "«", "»");
+@include deflang("th", hsl(311, 100%,90%), "[", "]");
+
