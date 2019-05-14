@@ -71,10 +71,10 @@ q {
 		&::after {
 			content: "···";
 			background: hsl(var(--hue), 100%, 20%);
-			border-bottom: 2px solid black;
+			border-bottom: 1.5px solid black;
 			color: white;
 			border-radius: 100%;
-			padding: 0.2em;
+			padding: 0.2em 0.6em;
 		}
 	}
 }
