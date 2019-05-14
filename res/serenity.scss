@@ -116,6 +116,8 @@ body {
 	}
 }
 
+img { max-height: 100vh; }
+
 h1, h2, h3, h4, h5, h6 { /* sigh */
 	all: unset;
 	display: block;
@@ -285,7 +287,10 @@ hr {
 	&[data-dec=""]::before {content: "◆";}
 }
 
-.imgbox { margin: 0 calc((20vw - 20%) * -1); }
+.imgbox {
+	margin: 0 calc((20vw - 20%) * -1);
+	break-inside: avoid;
+}
 
 /* entries in definition lists, numbered footnotes */
 .entry {

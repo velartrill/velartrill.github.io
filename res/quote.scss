@@ -38,39 +38,79 @@ q {
 			color: hsl(var(--hue), 70%, 65%);
 		}
 		
-		#nohl:checked ~ &,
 		#nohl:checked ~ * & {
 			&, &::before, &::after {
 				color: inherit;
 			}
 		}
+
+		> dfn { all: unset; }
+		> dfn + span { 
+			display: none;
+			font-style: italic;
+		}
+
+		#noen:checked ~ * & {
+			em { font-style: normal; }
+			> dfn { display:none; }
+			> dfn + span { display:inline; }
+			&::after, &::before {
+				font-style: italic;
+			}
+		}
+
 	}
 }
 
-#nohl { display: none; }
-label[for=nohl] {
-	@media print { display: none; }
-	@media screen { display: block; }
-
-	@extend %button;
+#nohl, #noen { display: none; }
+#ctl {
 	position: fixed;
-	bottom: 1em; right: 2em;
-	opacity: 0.5;
-	&::before { content: "···"; }
-	&:hover {
-		opacity: 1;
-	&::before { content: "language coding: "; }
+	bottom: 1em; right: 1em;
+	&:not(:hover) {
+		> * { display: none; }
 		&::after {
-			content: "color";
-			font-weight: bold;
-		}
-		#nohl:checked ~ & {
-			&::after { content: "marks"; }
+			content: "···";
+			background: hsl(var(--hue), 100%, 20%);
+			border-bottom: 2px solid black;
+			color: white;
+			border-radius: 100%;
+			padding: 0.2em;
 		}
 	}
 }
+label[for=nohl] {
+	@extend %button;
+	text-align: right;
+	margin:0.2em;
+
+	&::before { content: "language coding: "; }
+	&::after {
+		content: "color";
+		font-weight: bold;
+	}
+	#nohl:checked ~ #ctl & {
+		&::after { content: "marks"; }
+	}
+}
+label[for=noen] {
+	@extend %button;
+	text-align: right;
+	margin:0.2em;
+
+	&::before { content: "dialogue language: "; }
+	&::after {
+		content: "english";
+		font-weight: bold;
+	}
+	#noen:checked ~ #ctl & {
+		&::after { content: "original"; }
+	}
+}
+
 
 @include deflang("zt", hsl(340,100%,80%));
 @include deflang("ra", hsl(98, 100%,90%), "«", "»");
-@include deflang("th", hsl(311, 100%,90%), "[", "]");
+@include deflang("th", hsl(311,100%,90%), "[", "]");
+@include deflang("kh", hsl(0,    0%,90%));
+@include deflang("ka", hsl(23, 100%,75%));
 

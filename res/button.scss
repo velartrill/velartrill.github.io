@@ -4,6 +4,8 @@
 //  © GNU GPLv3
 
 %button {
+	@media print { display: none; }
+	@media screen { display: block; }
 	outline: 1px solid black;
 	background: hsl(var(--hue), 80%, 30%);
 	padding: 0.1em 0.5em;
