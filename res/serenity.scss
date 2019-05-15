@@ -27,7 +27,7 @@
 
 /* bring in a fallback font in case the user doesn't have
  * a garamond on hand */
-@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond&display=swap);
 
 // currently don't feel like the glow looks good on my site
 // anymore; it's also very un-minimalistic, which goes
@@ -148,6 +148,11 @@ h1, h2, h3, h4, h5, h6 { /* sigh */
 p {
 	margin: 0.7em 0;
 	line-height: 1.4em;
+}
+
+del {
+	color: var(--faint-color);
+	text-decoration-color: hsl(var(--hue), 80%, 60%);
 }
 
 a[href] {
