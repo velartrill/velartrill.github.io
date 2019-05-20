@@ -71,7 +71,8 @@ q {
 		&::after {
 			content: "···";
 			background: hsl(var(--hue), 100%, 20%);
-			border-bottom: 1.5px solid black;
+			border-bottom: 1px solid black;
+			border-top: 1px solid hsl(var(--hue), 70%, 30%);
 			color: white;
 			border-radius: 100%;
 			padding: 0.2em 0.6em;
