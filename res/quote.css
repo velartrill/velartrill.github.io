@@ -19,9 +19,11 @@ label[for=nohl], label[for=noen] {
     border-top-color: hsl(var(--hue), 40%, 66%);
     background: hsl(var(--hue), 80%, 60%);
     color: black;
-    text-shadow: 0 1px 0 hsl(var(--hue), 80%, 77%); }
+    text-shadow: 0 1px 0 hsl(var(--hue), 80%, 60%); }
   label:active[for=nohl], label:active[for=noen] {
     background: hsl(var(--hue), 90%, 20%);
+    padding-top: 0.2em;
+    padding-bottom: 0.0em;
     border-top-color: transparent;
     border-bottom-color: hsl(var(--hue), 100%, 25%); }
 
@@ -57,18 +59,30 @@ q::after {
 
 #ctl {
   position: fixed;
-  bottom: 1em;
-  right: 1em; }
+  bottom: 1.8em;
+  right: 1em;
+  padding-bottom: 1.6em; }
   #ctl:not(:hover) > * {
     display: none; }
-  #ctl:not(:hover)::after {
+  #ctl::after {
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
     content: "···";
     background: hsl(var(--hue), 100%, 20%);
     border-bottom: 1px solid black;
     border-top: 1px solid hsl(var(--hue), 70%, 30%);
     color: white;
     border-radius: 100%;
-    padding: 0.2em 0.6em; }
+    padding: 0.2em 0.6em;
+    transition: 0.3s; }
+  #ctl:hover::after {
+    color: hsl(var(--hue), 100%, 70%);
+    background: hsl(var(--hue), 100%, 15%);
+    border-top: 1px solid black;
+    border-bottom: 1px solid hsl(var(--hue), 70%, 30%);
+    padding-top: 0.3em;
+    padding-bottom: 0.1em; }
 
 label[for=nohl] {
   text-align: right;

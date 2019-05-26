@@ -23,11 +23,15 @@
 		border-top-color: hsl(var(--hue), 40%, 66%);
 		background: hsl(var(--hue), 80%, 60%);
 		color: black;
-		text-shadow: 0 1px 0 hsl(var(--hue), 80%, 77%);
+		text-shadow: 0 1px 0 hsl(var(--hue), 80%, 60%);
 	}
 
 	&:active {
 		background: hsl(var(--hue), 90%, 20%);
+		padding: {
+			top: 0.2em;
+			bottom: 0.0em;
+		}
 		border: {
 			top-color: transparent;
 			bottom-color: hsl(var(--hue), 100%, 25%);

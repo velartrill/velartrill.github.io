@@ -65,17 +65,37 @@ q {
 #nohl, #noen { display: none; }
 #ctl {
 	position: fixed;
-	bottom: 1em; right: 1em;
+	bottom: 1.8em; right: 1em;
+	padding-bottom: 1.6em;
 	&:not(:hover) {
 		> * { display: none; }
+	}
+	&::after {
+		position: fixed;
+		bottom: 1em; right: 1em;
+		content: "···";
+		background: hsl(var(--hue), 100%, 20%);
+		border: {
+			bottom: 1px solid black;
+			top: 1px solid hsl(var(--hue), 70%, 30%);
+		}
+		color: white;
+		border-radius: 100%;
+		padding: 0.2em 0.6em;
+		transition: 0.3s;
+	}
+	&:hover {
 		&::after {
-			content: "···";
-			background: hsl(var(--hue), 100%, 20%);
-			border-bottom: 1px solid black;
-			border-top: 1px solid hsl(var(--hue), 70%, 30%);
-			color: white;
-			border-radius: 100%;
-			padding: 0.2em 0.6em;
+			color: hsl(var(--hue), 100%, 70%);
+			background: hsl(var(--hue), 100%, 15%);
+			border: {
+				top: 1px solid black;
+				bottom: 1px solid hsl(var(--hue), 70%, 30%);
+			}
+			padding: {
+				top: 0.3em;
+				bottom: 0.1em;
+			}
 		}
 	}
 }
