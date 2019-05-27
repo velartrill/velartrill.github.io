@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<!-- aren't you nosy -->
+<head>
+<meta charset="utf-8">
+<link href="https://fonts.googleapis.com/css?family=Special+Elite&display=swap" rel="stylesheet">
+<style type="text/css">
+	body {
+		background: black;
+		font-family: 'Special Elite', Inconsolata, monospace;
+		text-shadow: 0 0 40px hsla(109,83%,60%,90%);
+		font-size: 12pt;
+		max-width: 50em;
+		margin: 3em auto;
+		color: #F1FFE4;
+	}
+	code {
+		font-family: 'Special Elite';
+		letter-spacing: 0.1em;
+		line-height: 1.5em;
+	}
+	h1 {
+		all: unset;
+		display: block;
+		text-align: center;
+		font-size: 200%;
+		letter-spacing: 0.1em;
+		margin-bottom: 0.7em;
+	}
+	#sorry[href] {
+		all: unset;
+		text-decoration: underline;
+		font-size: 80%;
+		display: block;
+		text-align: center;
+		color: hsl(109,100%,60%);
+		cursor: pointer;
+		width: 5em;
+		margin: auto;
+	}
+	#sorry[href]:hover {
+		color: black;
+		background-color: hsl(109,100%,60%);
+	}
+
+</style>
+<title>std<strong>int</strong></title>
+</head>
+<body>
+	<h1>who needs std<strong>int</strong>.h anyway</h1>
+	<pre><code><strong>namespace</strong> integers {
+	<strong>#define</strong> entry(i,_u,_s) <strong>template</strong> &lt;&gt; <strong>struct</strong> entry&lt;i&gt;{<strong>using</strong> u=_u;<strong>using</strong> s = _s;}
+	<strong>template</strong> &lt;<strong>unsigned char</strong> index&gt; <strong>struct</strong> entry { <strong>using</strong> s = <strong>void</strong>; <strong>using</strong> u = <strong>void</strong>; };
+	entry(0,<strong> unsigned char</strong>,          <strong>signed char</strong>);
+	entry(1,<strong> unsigned short</strong>,        <strong>signed short</strong>);
+	entry(2,<strong> unsigned int</strong>,            <strong>signed int</strong>);
+	entry(3,<strong> unsigned long</strong>,          <strong>signed long</strong>);
+	entry(4,<strong> unsigned long long</strong>, <strong>signed long long</strong>);
+	entry(5, __uint128_t, __int128_t);
+	#undef entry
+
+	<strong>template</strong> &lt;size_t bits, size_t i&gt; <strong>struct</strong> select {
+		<strong>static constexpr</strong> size_t v = (
+			<strong>sizeof</strong>(<strong>typename</strong> entry&lt;i&gt;::u)*8 &gt;= bits
+				? i
+				: select&lt;bits,i+1&gt;::v
+		);
+	};
+	<strong>template</strong> &lt;size_t bits&gt; <strong>struct</strong> select&lt;bits, 6&gt; { <strong>static constexpr</strong> size_t v = 6; };
+}
+
+template &lt;size_t bits&gt; <strong>struct</strong> ints {
+	<strong>using</strong> u = <strong>typename</strong> integers::entry&lt;integers::select&lt;bits,0&gt;::v&gt;::u;
+	<strong>using</strong> s = <strong>typename</strong> integers::entry&lt;integers::select&lt;bits,0&gt;::v&gt;::s;
+
+};
+<strong>int</strong> main() {
+	<strong>using</strong> uint16 = ints&lt;16&gt;::u; // unsigned short
+}</code></pre>
+
+<a id="sorry" href="index.html">sorry</a>
+</body>
+</html>
