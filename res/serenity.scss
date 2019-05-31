@@ -178,7 +178,7 @@ a[href] {
 			text-shadow: 0px 0px 30pt hsl(var(--hue),60%,40%);
 		}
 		
-		&:focus { 
+		p &:focus, li &:focus, span &:focus { 
 			/* a11y: keyboard users need an unambiguous, easy-to
 			 * spot identifier for what's currently focused. this
 			 * style inverts the default colors to create a highly-
