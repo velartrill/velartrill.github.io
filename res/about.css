@@ -1,0 +1,66 @@
+@charset "UTF-8";
+/* [ʞ] about.scss
+ *  ~ lexi hale <lexi@hale.su>
+ *  © affero general public license v3
+ *  > sassc -t compressed about.scss about.css
+
+ * about.scss is  a simple stylesheet for adding quick
+ * profiles with links to contact details to a website.
+ * see ʞ.cc for an example. if you are viewing this in
+ * a  .css  file, navigate to  .scss  in your  browser
+ * instead to get the actual uncompiled source.
+ *
+ * all styles are segregated within the .profile class,
+ * ensuring they do  not leak out and  affect the rest
+ * of your document.
+ */
+.profile {
+  float: right;
+  max-width: 7.5em;
+  margin-left: 1em;
+  margin-bottom: 0em; }
+  .profile img {
+    border: 1px solid hsl(var(--hue), 50%, 5%);
+    border-bottom: none;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 3px 3px 0 0; }
+  .profile address {
+    width: 100%;
+    all: unset;
+    display: block;
+    border: 1px solid hsl(var(--hue), 50%, 5%); }
+    .profile address > a[href] {
+      all: unset;
+      text-align: left;
+      font-family: "Alegreya Sans", "Open Sans", sans;
+      cursor: pointer;
+      font-size: 80%;
+      padding: 0.4em 0.8em;
+      display: block;
+      background: hsl(var(--hue), 100%, 15%);
+      color: hsl(var(--hue), 100%, 75%) !important;
+      top: 0em;
+      border-bottom: 1px solid hsl(var(--hue), 70%, 10%);
+      border-radius: 0 0 3px 3px; }
+      .profile address > a[href]:last-child {
+        border: none; }
+      .profile address > a[href] > span {
+        margin-left: 0.3em; }
+      .profile address > a[href] > .service {
+        font-weight: bold; }
+      .profile address > a[href] > .handle {
+        text-decoration: underline;
+        display: none; }
+      .profile address > a[href]:hover {
+        text-decoration: none;
+        background: hsl(var(--hue), 70%, 2%) !important;
+        color: white !important;
+        width: var(--len, 88%);
+        border-radius: 0 5px 5px 0; }
+        .profile address > a[href]:hover > .handle {
+          display: inline; }
+        .profile address > a[href]:hover > .service {
+          display: none; }
