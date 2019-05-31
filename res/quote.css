@@ -1,0 +1,161 @@
+@charset "UTF-8";
+/* src: ./quote.scss */
+label[for=nohl], label[for=noen] {
+  outline: 1px solid black;
+  background: hsl(var(--hue), 80%, 30%);
+  padding: 0.1em 0.5em;
+  border-top: 1px solid hsl(var(--hue), 40%, 46%);
+  border-bottom: 1px solid transparent; }
+  @media print {
+    label[for=nohl], label[for=noen] {
+      display: none; } }
+  @media screen {
+    label[for=nohl], label[for=noen] {
+      display: block; } }
+  label[for=nohl], label[for=noen], label:active:hover[for=nohl], label:active:hover[for=noen] {
+    color: hsl(var(--hue), 100%, 80%);
+    text-shadow: 0 1px 0 black; }
+  label:hover[for=nohl], label:hover[for=noen] {
+    border-top-color: hsl(var(--hue), 40%, 66%);
+    background: hsl(var(--hue), 80%, 60%);
+    color: black;
+    text-shadow: 0 1px 0 hsl(var(--hue), 80%, 60%); }
+  label:active[for=nohl], label:active[for=noen] {
+    background: hsl(var(--hue), 90%, 20%);
+    padding-top: 0.2em;
+    padding-bottom: 0.0em;
+    border-top-color: transparent;
+    border-bottom-color: hsl(var(--hue), 100%, 25%); }
+
+q::before {
+  content: "“"; }
+
+q::after {
+  content: "”"; }
+
+@media screen {
+  q {
+    color: hsl(var(--hue), 100%, 70%); }
+    q::before, q::after {
+      color: hsl(var(--hue), 70%, 65%); }
+    #nohl:checked ~ * q, #nohl:checked ~ * q::before, #nohl:checked ~ * q::after {
+      color: inherit; }
+    q > dfn {
+      all: unset; }
+    q > dfn + span {
+      display: none;
+      font-style: italic; }
+    #noen:checked ~ * q em {
+      font-style: normal; }
+    #noen:checked ~ * q > dfn {
+      display: none; }
+    #noen:checked ~ * q > dfn + span {
+      display: inline; }
+    #noen:checked ~ * q::after, #noen:checked ~ * q::before {
+      font-style: italic; } }
+
+#nohl, #noen {
+  display: none; }
+
+#ctl {
+  position: fixed;
+  bottom: 1.8em;
+  right: 1em;
+  padding-bottom: 1.6em; }
+  #ctl:not(:hover) > * {
+    display: none; }
+  #ctl::after {
+    position: fixed;
+    bottom: 1em;
+    right: 1em;
+    content: "···";
+    background: hsl(var(--hue), 100%, 20%);
+    border-bottom: 1px solid black;
+    border-top: 1px solid hsl(var(--hue), 70%, 30%);
+    color: white;
+    border-radius: 100%;
+    padding: 0.2em 0.6em;
+    transition: 0.3s; }
+  #ctl:hover::after {
+    color: hsl(var(--hue), 100%, 70%);
+    background: hsl(var(--hue), 100%, 15%);
+    border-top: 1px solid black;
+    border-bottom: 1px solid hsl(var(--hue), 70%, 30%);
+    padding-top: 0.3em;
+    padding-bottom: 0.1em; }
+
+label[for=nohl] {
+  text-align: right;
+  margin: 0.2em; }
+  label[for=nohl]::before {
+    content: "language coding: "; }
+  label[for=nohl]::after {
+    content: "color";
+    font-weight: bold; }
+  #nohl:checked ~ #ctl label[for=nohl]::after {
+    content: "marks"; }
+
+label[for=noen] {
+  text-align: right;
+  margin: 0.2em; }
+  label[for=noen]::before {
+    content: "dialogue language: "; }
+  label[for=noen]::after {
+    content: "english";
+    font-weight: bold; }
+  #noen:checked ~ #ctl label[for=noen]::after {
+    content: "original"; }
+
+@media screen {
+  q:lang(x-zt) {
+    color: #ff99bb; }
+    q:lang(x-zt)::before, q:lang(x-zt)::after {
+      color: #cc0044; } }
+
+@media screen {
+  q:lang(x-ra) {
+    color: #dfffcc; }
+    q:lang(x-ra)::before, q:lang(x-ra)::after {
+      color: #5eff00; }
+    #nohl:checked ~ q:lang(x-ra)::before,
+    #nohl:checked ~ * q:lang(x-ra)::before {
+      content: "«"; }
+    #nohl:checked ~ q:lang(x-ra)::after,
+    #nohl:checked ~ * q:lang(x-ra)::after {
+      content: "»"; } }
+
+@media print {
+  q:lang(x-ra)::before {
+    content: "«"; }
+  q:lang(x-ra)::after {
+    content: "»"; } }
+
+@media screen {
+  q:lang(x-th) {
+    color: #ffccf6; }
+    q:lang(x-th)::before, q:lang(x-th)::after {
+      color: #ff00d0; }
+    #nohl:checked ~ q:lang(x-th)::before,
+    #nohl:checked ~ * q:lang(x-th)::before {
+      content: "["; }
+    #nohl:checked ~ q:lang(x-th)::after,
+    #nohl:checked ~ * q:lang(x-th)::after {
+      content: "]"; } }
+
+@media print {
+  q:lang(x-th)::before {
+    content: "["; }
+  q:lang(x-th)::after {
+    content: "]"; } }
+
+@media screen {
+  q:lang(x-kh) {
+    color: #e6e6e6; }
+    q:lang(x-kh)::before, q:lang(x-kh)::after {
+      color: gray; } }
+
+@media screen {
+  q:lang(x-ka) {
+    color: #ffb080; }
+    q:lang(x-ka)::before, q:lang(x-ka)::after {
+      color: #b34400; } }

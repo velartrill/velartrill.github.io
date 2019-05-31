@@ -1,0 +1,54 @@
+<!doctype html>
+<html>
+<head>
+	<title>ansiglot</title>
+	<link rel="stylesheet" href="../res/serenity.css">
+</head>
+
+<body>
+	<h1><a href="../index.html">ʞ</a> / <a href="./index.html">essays</a> / ansiglot</h1>
+<div class="byline">by Lexi Summer Hale</div>
+
+<p>first of all, i'm so sorry.</p>
+
+<p>i'm sure you have a lot of questions.</p>
+
+<p>what is an ansiglot, you might ask? i could tell you, but a principle rule of writing is “show, don't tell,” so i'd much rather <i>show</i> you.</p>
+
+<p>so to discover the nature of this page firsthand, simply type the following command into any *nix terminal.</p>
+
+<code>curl xn--rpa.cc/ansiglot</code>
+
+<p>and i'll see you on the other side.</p>
+</body>
+</html>
+
+<!--[0;0H[48;5;89m[2J[1m[48;5;125m[2K[37mansiglot[22m[48;5;89m
+[38;5;206;3mby Lexi Summer Hale[23m
+
+[38;5;219mfirst of all, i'm so sorry.
+
+i'm sure you have a lot of questions.
+
+no, “curl” has [3mnot[23m suddenly attained the capability to parse html. the document you have downloaded is a “polyglot” - it contains code that can be interpreted in more than one format.
+
+[1m[37mhow does it work?[38;5;219m[21m
+the mechanism is fairly stupid. first the html document is sent, after which is a comment containing this payload. it embeds literal escape characters which are parsed as ANSI escapes by the terminal. first, it sets the background color (8-bit color is so limiting!). then it clears the screen, wiping out the HTML, and begins sending the text of the document.
+
+[1m[37mwhat are the limitations?[38;5;219m[21m
+plain text is plain text. this document has no way to interrogate the terminal and thus cannot do any advanced layout. no @media queries here.
+
+[1m[37mshould i do this?[38;5;219m[21m
+[1;3;4;5mNO.[21;23;24;25m
+
+[1m[37mWHY???[38;5;219m[21m
+the full documentation for this package is maintained as a texinfo manual. if the info program is properly installed at your site,
+
+[1m[37mfinal caveat[38;5;219m[21m
+depending on your shell, this next bit might fuck it up a little.
+ 
+sorry about that.
+
+(an [37;1mecho -e "\e[0m"[38;5;219;21m should fix it.)
+
+[38;5;53m-->

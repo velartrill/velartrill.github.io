@@ -1,0 +1,62 @@
+<!doctype html>
+<html>
+<head>
+	<title>Infrastructure 101</title>
+	<meta charset="utf-8">
+	<link href="http://fonts.googleapis.com/css?family=EB+Garamond" rel="stylesheet" type="text/css">
+	<link href="../res/serenity.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+
+<h1><a href="../index.html">ʞ</a> / <a href="./index.html">essays</a> / Infrastructure 101</h1>
+<p><b>or, 1,001 Fun Ways Mastodon Could And Probably Will End Badly</b></p>
+<div class="byline">by Lexi Summer Hale (velartrill@{<a href="https://twitter.com/velartrill">twitter.com</a>|<a href="https://pleroma.site/velartrill">pleroma.site</a>})</div>
+
+<p style="font-style: italic"><strong>nota bene:</strong> this essay is kinda old and reflects impressions from before the rise of the non-mastocentric fediverse, and probably also some bad politics (particularly an unfair association of MLs with dipshit anime communists, which i still cannot believe is a phrase i just had to type — apologies, comrades), so reader beware.</p>
+
+<hr>
+
+<p>First, some history.</p>
+
+<p>A year or so ago, exasperated by a recent change and yearning for freedom from the endless shiterations of Twitter’s UI, I wasted an hour googling for GNUsocial implementations that worked more like TweetDeck. To my surprise, I actually found one — a tiny little one-man project, that traded GNUsocial’s PHP habit for a broader spectrum of substance abuse, that tried, bless its heart, to recreate TweetDeck’s look. I created an account, accidentally put a typo in my handle, toyed around, and decided it was too glitchy to be usable. I posted a few mocking comments on Twitter, and then mostly forgot about it.</p>
+
+<p>So imagine my surprise when <em><a rel="nofollow" href="http://mastodon.social">mastodon.social</a></em> suddenly took off. Twitter had finally become too much of a drooling be-swastika'd frogfest for the SJWs to handle and some enterprising spirit dug up Mastodon as an alternative. It didn’t take long for the server to be infested with teenage dipshit anime communists, a throng of exodites who had been booed off Twitter after launching a number of prominent harassment campaigns. My reaction was mostly a bemused “see you, wouldn’t want to be you.”</p>
+
+<p>But then the earnest naïf responsible for Mastodon started actually working with these people. Understandably enthusiastic about having a userbase and way too innocent to see its toxicity, he rapidly made Mastodon into something that, while not exactly usable yet, can at least pretend to be, cheerfully involving his new users in the design process.</p>
+
+<p>This was something I’ve never seen before. Normally, the partition between social justice and software development is absolute. The latter are mostly entitled white men (and, increasingly, Nazis) more interested in whining about how the former are persecuting them than in actual collaboration. For many people in the SJ community, Mastodon became more than a social network — it was an introduction to the tools of the trade of the open source world. People who were used to writing interminable hotheaded rants about the appropriation of “daddy” were suddenly opening GitHub issues and participating in the development cycle of a site used by thousands. It was surreal, and from a distance, slightly endearing.</p>
+
+<p>I was expecting Mastodon to go down in flames a long time ago. I figured the mix of toxic personalities, emotional instability, and codependence would lead to a catastrophic shitshow that would ruin a few lives, probably the lead (and only) developer’s among them. So far, that hasn’t happened. I’m not sure why. Maybe exposure to the development process taught the (mostly very young) user base some important lessons about responsibility, somehow. Maybe they’ve mellowed with age. Maybe I’m just a pessimist who only sees the worst in people, or an even shittier armchair psychologist than I thought.</p>
+
+<p>Whatever the case, Mastodon lived. In fact, as Twitter blithely hurls more uranium into its ongoing UI meltdown and steadfastly refuses to do anything about the goddamn Nazis, more and more users are fleeing for Mastodon’s seemingly greener fields. The latest inexplicable “<a href="https://twitter.com/actioncookbook/status/684515262712967170">likes are now florps</a>” moment, the complete and profoundly nonsensical retooling of the tweet reply UI that literally nobody wanted or asked for, seems to have been the last straw for a whole lot of people.</p>
+
+<p>And as those people have fled, the culture has softened. Mastodon is no longer dominated by tankies, and while their influence lingers, its discourse is not nearly so frantic as it used to be. “<a href="https://motherboard.vice.com/en_us/article/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it">People are nice there</a>,” it is commonly reported.</p>
+
+<p>That makes it more dangerous than ever.</p>
+
+<p>A reasonable definition of modernity might be the diffusion of risk. A thousand years ago, a simple infection could be a death sentence for anyone from the lowliest serf to the mightiest emperor. One failed harvest could wipe out a family. One wound could cripple you for life. But in countries with reasonable standards of living, we have safety nets. Medicine, insurance, welfare. Things that nullify fatal blows by distributing their force among millions, until they’re nothing but a moment’s annoyance. Kings whose fall could dictate the life or death of a country have been replaced with bureaucracy, a tedious morass that’s slow to change but almost completely immortal.</p>
+
+<p>Twitter, for all its faults, exemplifies that modernity. So do Tumblr, and Facebook. Are they evil? Absolutely. But there’s no way they’ll vanish without warning. Their infrastructure is a collective project. There’s no one person whose retirement or death or imprisonment would destroy any of them. There are huge financial and social investments in all of them. They are <em>reliable.</em></p>
+
+<p>The problem with Mastodon-the-service has never been its culture. I have my personal issues with it (I mean, read this essay! I’m not <em>nice!)</em> but what ultimately matters is the enormous risk its users are taking on themselves. Mastodon is not a safe investment, and that matters when you’re relying on it to keep in touch with your support network. The sole developer (who I’m sure is a very nice guy) wouldn’t stand to lose much if he dropped his work on Mastodon and took a high-paying position at a startup. And if — god forbid — he were hit by a train tomorrow, Mastodon would die with him.</p>
+
+<p>When you’re just one person, you don’t need to structure your life around the possibility that someone you rely on will suddenly be taken out of the picture, whether by injury or age or arrest or just simple disillusionment. When you’re thirty thousand people holding yourselves up with a single linchpin, it’s time to start considering succession.</p>
+
+<p>This isn’t a way most of Mastodon’s earlier users are used to thinking, I suspect. It’s a decidedly pragmatic, incrementalist dialectic, not one ideologues who dream of bloodthirsty popular revolutions are going to be especially keen on. But the risks are real, whether or not you take them into account.</p>
+
+<p>In software development, we talk a lot about how solutions <em>scale.</em> You have to assume your products’ user base will grow with time, and you have to plan for what you’ll need to do to accomodate that growing user base. One man cannot possibly hope to offer technical support to a thousand users, let alone thirty thousand, let alone however many Mastodon will grow to encompass, even if his servers can support the load. Which, from what I’ve heard so far, they’re beginning to buckle under.</p>
+
+<p>And I’ve seen the Mastodon code base. This shit is not scalable. Shiny as the UI may be, Mastodon’s back-end is a performance nightmare. The dev took shortcuts (shortcuts that are becoming terrifyingly industry-standard) and now his servers are paying for it. If Twitter were built like this, the cost to run it would probably bankrupt half the industrialized nations in the world, let alone a single company, let alone one man who’s making around $1000 a month from his project.</p>
+
+<p>“But Mastodon is federated!” you might say. “It’s not just be one guy with one server!”</p>
+
+<p>Mastodon is federated. It’s a GNUsocial implementation, meaning it can interoperate with other GNUsocial instances (and clients like Twidere.) But “federated” is not the same as “distributed.” If one server goes down, it takes <em>all</em> its users down with it. There’s no way for accounts to survive the loss of a single node, there’s no way to transfer accounts from one node to another if it looks like the ship is sinking — hell, there’s no way to change your username or <em>delete your tweets</em>, let alone your whole <em>account!</em> And it’s specifically mastodon.social getting all the attention lately. Federation does not translate to load-balancing or reliability.</p>
+
+<p>I should also point out that that same guy is hosting more than just <em>mastodon.social</em>. For $40 a month, he’ll host a whole separate instance for anyone.</p>
+
+<p>So Mastodon is what we don’t need. What do we need right now?</p>
+
+<p>Decentralized protocols — true distributed social platforms — are very possible. There’s already a chat protocol, called <a href="https://tox.chat/">Tox</a>, that leverages a distributed hash table to store information globally across all instances, without permitting anyone to access information they don’t have the key for. It has many different clients, no centralized API with absurd limitations, and no one specially privileged official client. It’s not for persistent messaging and posts, of course, but it’s not terribly difficult to imagine a protocol that could archive content locally, that operates without any central servers or control. If we’re going to allow ourselves to be driven off Twitter, let’s not be lazy about it. Let’s work together and build something no corporation can control, and no one accident — or calculated act of malice — can wipe out.</p>
+
+</body>
+</html>

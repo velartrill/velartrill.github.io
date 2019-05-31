@@ -1,0 +1,137 @@
+// [ʞ] quote.scss → quote.css
+//  ~ lexi hale <lexi@hale.su>
+//  $ sassc quote.{s,}css
+//  © GNU GPLv3
+
+/* src: ./quote.scss */
+
+@import "button.scss";
+
+@mixin deflang($name, $color, $ql: null, $qr: null) {
+	q:lang(x-#{$name}) {
+		@media screen {
+			color: $color;
+			&::before, &::after {
+				color: darken($color,40);
+			}
+			#nohl:checked ~ &,
+			#nohl:checked ~ * & {
+				&::before { content: $ql; }
+				&::after  { content: $qr; }
+			}
+		}
+		@media print {
+			&::before { content: $ql; }
+			&::after  { content: $qr; }
+		}
+	}
+}
+
+q {
+	&::before { content: "“"; }
+	&::after { content: "”"; }
+
+	@media screen {
+		color: hsl(var(--hue), 100%, 70%);
+
+		&::before, &::after {
+			color: hsl(var(--hue), 70%, 65%);
+		}
+		
+		#nohl:checked ~ * & {
+			&, &::before, &::after {
+				color: inherit;
+			}
+		}
+
+		> dfn { all: unset; }
+		> dfn + span { 
+			display: none;
+			font-style: italic;
+		}
+
+		#noen:checked ~ * & {
+			em { font-style: normal; }
+			> dfn { display:none; }
+			> dfn + span { display:inline; }
+			&::after, &::before {
+				font-style: italic;
+			}
+		}
+
+	}
+}
+
+#nohl, #noen { display: none; }
+#ctl {
+	position: fixed;
+	bottom: 1.8em; right: 1em;
+	padding-bottom: 1.6em;
+	&:not(:hover) {
+		> * { display: none; }
+	}
+	&::after {
+		position: fixed;
+		bottom: 1em; right: 1em;
+		content: "···";
+		background: hsl(var(--hue), 100%, 20%);
+		border: {
+			bottom: 1px solid black;
+			top: 1px solid hsl(var(--hue), 70%, 30%);
+		}
+		color: white;
+		border-radius: 100%;
+		padding: 0.2em 0.6em;
+		transition: 0.3s;
+	}
+	&:hover {
+		&::after {
+			color: hsl(var(--hue), 100%, 70%);
+			background: hsl(var(--hue), 100%, 15%);
+			border: {
+				top: 1px solid black;
+				bottom: 1px solid hsl(var(--hue), 70%, 30%);
+			}
+			padding: {
+				top: 0.3em;
+				bottom: 0.1em;
+			}
+		}
+	}
+}
+label[for=nohl] {
+	@extend %button;
+	text-align: right;
+	margin:0.2em;
+
+	&::before { content: "language coding: "; }
+	&::after {
+		content: "color";
+		font-weight: bold;
+	}
+	#nohl:checked ~ #ctl & {
+		&::after { content: "marks"; }
+	}
+}
+label[for=noen] {
+	@extend %button;
+	text-align: right;
+	margin:0.2em;
+
+	&::before { content: "dialogue language: "; }
+	&::after {
+		content: "english";
+		font-weight: bold;
+	}
+	#noen:checked ~ #ctl & {
+		&::after { content: "original"; }
+	}
+}
+
+
+@include deflang("zt", hsl(340,100%,80%));
+@include deflang("ra", hsl(98, 100%,90%), "«", "»");
+@include deflang("th", hsl(311,100%,90%), "[", "]");
+@include deflang("kh", hsl(0,    0%,90%));
+@include deflang("ka", hsl(23, 100%,75%));
+

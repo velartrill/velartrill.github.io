@@ -1,15 +1,52 @@
+/* [ʞ] serenity.scss <https://hale.su/serenity.html>
+ *  ~ lexi hale <lexi@hale.su>
+ *  © GNU affero general public license
+ *  $ sassc -t compressed serenity.{scss,css}
+
+ * a stylesheet designed for flexibility and for minimalistic,
+ * hand-coded websites. ideally, it should be possible to
+ * drop it right into any existing plain-html document and
+ * have it immediately spice up the look.
+
+ NOTE i'm fine with people other than me using and modifying
+      this stylesheet under the terms of the AGPL, under two
+	  conditions:
+
+	    1) this block-comment be left in place per the AGPL,
+		   and at least the first three lines copied verbatim
+		   to the top of any CSS file generated from it
+
+		2) you change the default hue in :root to something
+		   other than rose-red, which is the signature hue
+		   of my own websites
+
+	  i would also appreciate being credited somewhere
+	  visible to visitors of the website, but it's not
+	  required as long as the credit at the top of this
+	  file is preserved. */
+
 /* bring in a fallback font in case the user doesn't have
  * a garamond on hand */
-@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+//@import url(https://fonts.googleapis.com/css?family=EB+Garamond&display=swap);
+@import "font";
 
-/* currently don't feel like the glow looks good on my site
- * anymore; it's also very un-minimalistic, which goes
- * against my entire ethos. leaving a switch in place in case
- * i change my mind later tho */
-$glow: no;
+// currently don't feel like the glow looks good on my site
+// anymore; it's also very un-minimalistic, which goes
+// against my entire ethos. leaving a switch in place in case
+// i change my mind later tho
+	$glow: no;
 
-/* include code for the endnote mechanism? */
-$endnote: yes;
+// include code for the endnote mechanism?
+	$endnote: yes;
+
+// include styles to make <h1> and <h3> suitable for use as
+// a pathbar at the top of the document?
+	$pathbar: yes;
+
+// include styles for automatic "directory lists," lists with
+// descriptive bodies indented under an emphasized (bold) link
+// or other title element?
+	$directory: yes;
 
 @font-face {
 	/* if there's any japanese text in the document,
@@ -28,6 +65,8 @@ $endnote: yes;
 	--hue: 338;
 	--width: 30em;
 	--bright: 12%;
+	--link-br: 73%;
+	--hover: 22%;
 }
 
 ::selection {
@@ -55,8 +94,6 @@ body {
 	@media screen {
 		   --fg-color: hsl(var(--hue),100%,89%);
 		   --bg-color: hsl(var(--hue),84%,var(--bright));
-		 --link-color: hsl(var(--hue),100%,83%); 
-		   --hi-color: hsl(var(--hue),100%,95%); 
 		--faint-color: hsl(var(--hue),64%,64%);
 
 		max-width: var(--width);
@@ -67,13 +104,6 @@ body {
 		@if $glow == yes {
 			--glow-color: hsl(var(--hue),60%,61%);
 			text-shadow: 0px 0px 30pt var(--glow-color);
-		}
-		@media (prefer-color-scheme: light) {
-			--fg-color: hsl(var(--hue),100%,19%);
-			--bg-color: hsl(var(--hue),84%, calc(100% - var(--bright)));
-			--link-color: hsl(var(--hue),100%,23%); 
-			--hi-color: hsl(var(--hue),100%,5%); 
-			--faint-color: hsl(var(--hue),84%,25%);
 		}
 	}
 
@@ -87,33 +117,109 @@ body {
 	}
 }
 
+img { max-height: 100vh; }
+
+h1, h2, h3, h4, h5, h6 { /* sigh */
+	all: unset;
+	display: block;
+
+	@media screen {
+		a[href] {
+			text-decoration: none;
+			color: hsl(var(--hue),60%,80%);
+			&:hover { color: var(--fg-color); }
+		}
+	}
+
+	line-height: 1em;
+	margin-top: 0.3em;
+}
+
+@for $i from 1 to 6 {
+	h#{$i} { font-size: 1em + (1em / $i); }
+}
+
+@if $pathbar == yes {
+	@media screen {
+		/* dim the pathbar */
+		h1, h3 { a[href] { color: hsl(var(--hue),50%,70%); } }
+	}
+}
+
 p {
 	margin: 0.7em 0;
-	line-height: 2.8ex;
+	line-height: 1.4em;
+}
+
+del {
+	color: var(--faint-color);
+	text-decoration-color: hsl(var(--hue), 80%, 60%);
 }
 
 a[href] {
 	@media print { color: black; }
 	@media screen {
-		color: var(--link-color);
-		text-decoration-color: hsl(var(--hue),30%,40%);
+		/* define the numbers */
+		--link-t: var(--hue), 100%, var(--link-br);
+		  --hi-t: var(--hue), 100%, calc(var(--link-br) + var(--hover));
+
+		/* define the two alpha variants */
+		--link-c: hsl(var(--link-t));  --ul-c: hsla(var(--link-t), 30%);
+		  --hi-c: hsl(var(--hi-t)); --ul-hi-c: hsla(var(--hi-t), 60%);
+		  --glow-c: hsla(var(--link-t), 50%);
+
+		                color: var(--link-c); 
+		text-decoration-color: var(--ul-c);
+		// otherwise sass tries to intercept the hsl call
+		text-decoration-width: 1px; // it'll look nice when CSS4 gets here
+		text-underline-offset: 2px;
+		  
 		@if $glow == yes {
 			text-shadow: 0px 0px 30pt hsl(var(--hue),60%,40%);
 		}
+		
+		&:focus { 
+			/* a11y: keyboard users need an unambiguous, easy-to
+			 * spot identifier for what's currently focused. this
+			 * style inverts the default colors to create a highly-
+			 * visible reverse-video effect. */
+			     color: var(--bg-color); 
+			background: var(--fg-color);
+			box-shadow: 0 0 30px var(--ul-c);
+			text-decoration: none;
 
-		&:focus {
+			/* the box is very "bleeding-edge" sharp by default so
+			 * we use padding to give it some white space; otherwise
+			 * it'll look *exactly* like terminal reverse video */
+			padding: 0.2em 0.3em;
+
+			/* the extra padding will disrupt layout sometimes; let's
+			 * avoid that where we can*/
+			margin: 0 -0.3em;
+
+			/* browsers normally supply their own (ugly, useless) 
+			 * indicator; we suppress these by blanking outline */
 			outline: none;
-			background: var(--link-color);
-			color: var(--bg-color); 
 		}
+
 		&:hover, &:active {
-			color: var(--hi-color) !important;
-			text-decoration-color: var(--faint-color) !important;
-			@if $glow == yes {
-				text-shadow: 0px 0px 40px var(--link-color) !important;
-			}
+			                color: var(--hi-c);
+			text-decoration: underline;
+			text-decoration-color: var(--ul-hi-c);
+
+			text-shadow: 0px 0px 30px var(--glow-c);
 			background: none !important;
+			box-shadow: none;
 		}
+	}
+}
+
+@if $directory == yes {
+	div.dir > div {
+		/* for div-type directory lists */
+		> *:first-child { font-weight: bold; }
+		margin-left: 2em;
+		text-indent: -2em;
 	}
 }
 
@@ -126,8 +232,16 @@ ol, ul {
 		display: inline-block;
 		color: hsl(var(--hue), 40%, 60%);
 	}
-}
 
+	@if $directory == yes {
+		&.dir > li {
+			margin-left: 2em;
+			&::before { margin-left: -2em; }
+
+			> *:first-child { font-weight: bold; }
+		}
+	}
+}
 
 ul li::before {
 	hanging-punctuation: none; // eurghhhh
@@ -148,26 +262,6 @@ ol {
 	}
 }
 
-h1, h2, h3 {
-	margin-bottom: 0;
-	margin-top: 0;
-	text-align: left;
-	@media screen {
-		a[href] {
-			text-decoration: none;
-			color: hsl(var(--hue),50%,70%);
-			&:hover {
-				text-decoration: underline;
-				color: var(--fg-color);
-			}
-		}
-	}
-}
-
-h2 {
-	line-height: 1.3em;
-	margin-bottom: 0.5em;
-}
 
 .byline {
 	margin-left: 1.5em;
@@ -199,7 +293,10 @@ hr {
 	&[data-dec=""]::before {content: "◆";}
 }
 
-.imgbox { margin: 0 calc((20vw - 20%) * -1); }
+.imgbox {
+	margin: 0 calc((20vw - 20%) * -1);
+	break-inside: avoid;
+}
 
 /* entries in definition lists, numbered footnotes */
 .entry {
@@ -229,14 +326,20 @@ nav {
 			calc(var(--bright) / 2));
 		border: 1px solid var(--fg-color);
 		text-decoration:none;
+		line-height: .7em;
 
 		transition-property: border-color, text-shadow,
-			color, --fg-color;
+			color, --fg-color, background;
 		transition-duration: 0.2s;
 
 		&:hover {
-			border-color: var(--hi-color);
-			--fg-color: var(--hi-color);
+			--fg-color: hsl(var(--hue),80%,90%);
+			background: hsl(var(--hue),70%,10%) !important;
+			text-decoration: none;
+		}
+		&:active, &:focus {
+			padding: 0;
+			margin: 0;
 		}
 		
 		/* back and forward buttons */
@@ -282,7 +385,7 @@ nav {
 
 			/* the following two stanzas are unfortunately
 			 * necessary and i don't know why; trying to
-			 * incorporate them into one consitently
+			 * incorporate them into one consistently
 			 * breaks cross-browser. shruggo */
 			--border-color: hsl(var(--hue),80%,8%);
 			border: 1px solid var(--border-color);

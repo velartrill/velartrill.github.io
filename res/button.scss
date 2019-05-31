@@ -1,0 +1,41 @@
+// [ʞ] button.scss
+//  ~ lexi hale <lexi@hale.su>
+//  > @import "button.scss";
+//  © GNU GPLv3
+
+%button {
+	@media print { display: none; }
+	@media screen { display: block; }
+	outline: 1px solid black;
+	background: hsl(var(--hue), 80%, 30%);
+	padding: 0.1em 0.5em;
+	&, &:active:hover {
+		color: hsl(var(--hue), 100%, 80%);
+		text-shadow: 0 1px 0 black;
+	}
+
+	border: {
+		top: 1px solid hsl(var(--hue), 40%, 46%);
+		bottom: 1px solid transparent;
+	}
+
+	&:hover {
+		border-top-color: hsl(var(--hue), 40%, 66%);
+		background: hsl(var(--hue), 80%, 60%);
+		color: black;
+		text-shadow: 0 1px 0 hsl(var(--hue), 80%, 60%);
+	}
+
+	&:active {
+		background: hsl(var(--hue), 90%, 20%);
+		padding: {
+			top: 0.2em;
+			bottom: 0.0em;
+		}
+		border: {
+			top-color: transparent;
+			bottom-color: hsl(var(--hue), 100%, 25%);
+		}
+	}
+
+}
