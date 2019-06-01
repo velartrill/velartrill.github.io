@@ -177,14 +177,15 @@ a[href] {
 		@if $glow == yes {
 			text-shadow: 0px 0px 30pt hsl(var(--hue),60%,40%);
 		}
+
 		
-		p &:focus, li &:focus, span &:focus { 
+		%linkbody &:focus, %linkbody &:hover:focus { 
 			/* a11y: keyboard users need an unambiguous, easy-to
 			 * spot identifier for what's currently focused. this
 			 * style inverts the default colors to create a highly-
 			 * visible reverse-video effect. */
-			     color: var(--bg-color); 
-			background: var(--fg-color);
+			     color: var(--bg-color) !important; 
+			background: var(--fg-color) !important;
 			box-shadow: 0 0 30px var(--ul-c);
 			text-decoration: none;
 
@@ -201,9 +202,10 @@ a[href] {
 			 * indicator; we suppress these by blanking outline */
 			outline: none;
 		}
+		@at-root p, li, span, h1, h2, h3 { @extend %linkbody; }
 
 		&:hover, &:active {
-			                color: var(--hi-c);
+			color: var(--hi-c);
 			text-decoration: underline;
 			text-decoration-color: var(--ul-hi-c);
 

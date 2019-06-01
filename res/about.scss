@@ -58,7 +58,7 @@
 				display: none;
 			}
 
-			&:hover {
+			&:hover, &:focus {
 				text-decoration: none;
 				background: hsl(var(--hue),70%,2%) !important;
 				color: white !important;

@@ -54,13 +54,13 @@
       .profile address > a[href] > .handle {
         text-decoration: underline;
         display: none; }
-      .profile address > a[href]:hover {
+      .profile address > a[href]:hover, .profile address > a[href]:focus {
         text-decoration: none;
         background: hsl(var(--hue), 70%, 2%) !important;
         color: white !important;
         width: var(--len, 88%);
         border-radius: 0 5px 5px 0; }
-        .profile address > a[href]:hover > .handle {
+        .profile address > a[href]:hover > .handle, .profile address > a[href]:focus > .handle {
           display: inline; }
-        .profile address > a[href]:hover > .service {
+        .profile address > a[href]:hover > .service, .profile address > a[href]:focus > .service {
           display: none; }
