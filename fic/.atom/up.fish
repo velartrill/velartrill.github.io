@@ -1,0 +1,152 @@
+#!/usr/bin/env fish
+set out ../feed.atom
+
+if test (basename (pwd)) != "fic"
+	echo "run this from the fic directory, dumbass!"
+	exit 5
+end
+
+function identify
+	grep -oP '<title>\K.*?(?=</title>)' $argv[1]
+	# jesus fuck i hate this
+	# sure would be nice if unix tools could do
+	# something obvious and useful for a change,
+	# HUH!?
+end
+
+function firstpar
+	grep -oPm1 "<p>\K.*(?=</p>)" $argv[1]
+end
+
+function hash
+	sha1sum $argv[1] | cut -d' ' -f1 #FUCK YOU
+end
+
+function field
+	cut -d\x1f -f $argv[1]
+end
+
+function report
+	echo - \x1b"[1m$argv[1]"\x1b"[;35m" $argv[2..-1] \x1b"[m"
+end
+
+function xml
+	echo "<$argv[1]>$argv[2..-1]</$argv[1]>"
+end
+
+function stamp
+	date "--date=@$argv[1]" --iso-8601=seconds
+	# atom requires RFC-3339 timestamps, so we
+	# CANNOT use the --rfc-3339 flag, which
+	# generates ISO-8601 timestamps, not valid
+	# RFC-3339 timestamps.
+end
+
+set all **.html
+set files
+set dates
+set hashes
+set uuids
+set titles
+set processed
+set cats
+
+set changed 0
+set new     0
+set total   0
+set procd   0
+
+for i in (cat .atom/db)
+	set total (expr $total + 1)
+	set -l file   (echo $i | cut -d\x1f -f 1)
+	set -l lread  (echo $i | cut -d\x1f -f 2)
+	set -l fhash  (echo $i | cut -d\x1f -f 3)
+	set -l uuid   (echo $i | cut -d\x1f -f 4)
+
+	test -e $file; or continue
+		#file no longer exists, remove it from database
+	test (basename $file) = "index.html"; and continue
+		#file is an index, and never should have gotten
+		#into the database in the first place
+
+	if grep -q "<!-- *atom-exclude *-->" $file
+		report $file marked for exclusion, detracking
+		continue #file is now marked for exclusion
+	end
+
+	set procd (expr $procd + 1)
+
+	set -l lwrite (stat -c %Y $file)
+
+	set -a files $file
+	set -a uuids $uuid
+	set -a titles (identify $file)
+	set -a cats updates
+
+	if test $lwrite -gt $lread
+		if test (hash $file) != $fhash #changed
+			set -a dates $lwrite
+			set -a hashes (hash $file)
+
+			report $file has changed
+
+			set changed (expr $changed + 1)
+			continue
+		end
+	end
+
+	#else
+	set -a dates $lread
+	set -a hashes $fhash
+end
+
+for file in $all
+	contains $file $files; and continue
+	test (basename $file) = "index.html"; and continue
+	if grep -q "<!-- *atom-exclude *-->" $file
+		continue #file is marked for exclusion
+	end
+
+	# new file
+	report $file is new
+	
+	set -a files $file
+	set -a titles (identify $file)
+	set -a dates (stat -c %Y $file)
+	set -a hashes (hash $file)
+	set -a uuids (uuidgen)
+	set -a cats "new stories"
+
+	set new (expr $new + 1)
+end
+
+# update database with new findings
+: >.atom/db #truncate db
+for idx in (seq (count $files))
+	echo >>.atom/db $files[$idx]\x1f$dates[$idx]\x1f$hashes[$idx]\x1f$uuids[$idx]
+end
+
+echo \x1b"[1m" $new     "chapter[s]" \x1b"[;92m" added   \x1b"[m"
+echo \x1b"[1m" $changed "chapter[s]" \x1b"[;94m" changed \x1b"[m"
+echo \x1b"[1m" (expr $total - $procd) "chapter[s]" \x1b"[;91m" deleted \x1b"[m"
+
+echo "writing atom…"
+
+cat >$out .atom/head 
+echo >>$out (xml updated (date --iso-8601=seconds)) \n
+
+for i in (seq (count $files))
+	test $dates[$i] -gt 1557890061; or continue
+		# hack to skip old shit
+	
+	echo >>$out \t "<entry>"
+	echo >>$out \t\t (xml title $titles[$i])
+	echo >>$out \t\t "<link rel=\"alternate\" href=\"http://ʞ.cc/fic/$files[$i]\"/>"
+	echo >>$out \t\t (xml id "urn:uuid:$uuids[$i]")
+	echo >>$out \t\t (xml updated (stamp $dates[$i]))
+	echo >>$out \t\t "<summary type=\"html\"><![CDATA["(firstpar $files[$i])"]]></summary>"
+	echo >>$out \t\t "<category term=\"$cats[$i]\"/>"
+	echo >>$out \t "</entry>"\n
+end
+
+echo >>$out "</feed>"

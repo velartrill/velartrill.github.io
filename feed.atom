@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>ʞ.cc</title>
+	<link href="http://ʞ.cc/" />
+	<link rel="self" href="http://ʞ.cc/feed.atom" />
+	<id>urn:uuid:dd9cd2ed-00a0-404c-ad75-0c20976ed747</id>
+
+	<author>
+		<name>lexi hale</name>
+		<uri>https://hale.su/</uri>
+	</author>
+<updated>2019-06-03T05:59:01-07:00</updated> 
+
+	 <entry>
+		 <title>An Apology</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/an-apology.html"/>
+		 <id>urn:uuid:91f0fcc8-3622-4fe4-b045-000cdf120a03</id>
+		 <updated>2019-06-03T05:14:14-07:00</updated>
+		 <summary type="html"><![CDATA[Speaking at the Boshgog Public Forum &amp; Liqueur Shoppe last Wednesday, the Lord Mornag Shugrontu, shortly after availing himself of the venue’s estimable <em>other</em> product, issued a number of public demands, threats, and complaints against my humble self. Principal among his demands was that for <em>an apology</em> - his Lordship feels wronged by the words I have written about his illustrious career.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Bromeo &amp; Juliet</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/bromeo-and-juliet.html"/>
+		 <id>urn:uuid:58428b4a-a246-463c-9a91-f708cd7aad2a</id>
+		 <updated>2019-06-03T05:28:06-07:00</updated>
+		 <summary type="html"><![CDATA[I ain't gonna take this shit, Greg.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Into the Valley</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/eriasta/into-the-valley.html"/>
+		 <id>urn:uuid:9de4e53c-bea6-4de6-9dc7-1ce550862b60</id>
+		 <updated>2019-05-30T20:16:27-07:00</updated>
+		 <summary type="html"><![CDATA[The sun is hanging low on the horizon when Seri finally wakes. She looks around blearily, rubbing the sleep from her eyes and slowly pulling herself into a sitting position. The landscape rushing by the window is unfamiliar, all trees and distant mountain peaks buried under a thick blanket of white. It takes Seri a moment to make sense of the image, to figure out that the little tufts of light drifting from the sky are snowflakes, glittering like gemstones in the sun's deep orange halo. The gleaming coat of snow is pristine and undisturbed all around but for the occasional fallen branch and the tiny footprints of animal tracks.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>A Stab in the Dark</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/eriasta/stab-in-the-dark.html"/>
+		 <id>urn:uuid:cee16640-5614-4919-a81d-909a7c36eabe</id>
+		 <updated>2019-05-30T14:44:06-07:00</updated>
+		 <summary type="html"><![CDATA[It’s nearing first light. The tavern is dark and nearly empty downstairs, only a few candles flickering here and there to keep the mortals from tripping over chairs and unconscious patrons. Feranya, on the other hand, doesn’t need candles to see in the dark. She pads softly over to the large cask in the corner and turns the tap, holding her canteen under the stream of cool, fresh water. It’s then that she overhears a small group of people huddled in the corner.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>SEGV</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/segv.html"/>
+		 <id>urn:uuid:204d3158-768d-46cd-ae26-6ff949a508cf</id>
+		 <updated>2019-06-03T04:43:37-07:00</updated>
+		 <summary type="html"><![CDATA[It was evening and Sam Silver was painting a fence. It wasn't her fence, she wasn't rich enough to live somewhere she could have her own fence, but near as she could tell it wasn't anyone's fence and she didn't think anyone in the neighborhood would mind her giving the old eyesore a fresh coat of paint.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Action</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/action.html"/>
+		 <id>urn:uuid:5ded657c-5807-4873-9256-5e11e3674c71</id>
+		 <updated>2019-05-30T16:21:29-07:00</updated>
+		 <summary type="html"><![CDATA[“Wow.” Cassil exhaled deeply, wiping sweat from her brow. “That was…”]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Ambassador</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/ambassador.html"/>
+		 <id>urn:uuid:0d65ac89-f227-46b2-957b-904b5190a512</id>
+		 <updated>2019-05-27T14:49:23-07:00</updated>
+		 <summary type="html"><![CDATA[I always tense up just before landing. There’s always a tiny bit of my mind that’s bracing for a crash, for the plane to disintegrate into a fiery wreck and my body to be pulverized by rubble. My chief of staff reaches out and squeezes my hand reassuringly; I flash him a grateful look. Bear has been with me long enough to know me almost as well as I know myself.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Breach</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/breach.html"/>
+		 <id>urn:uuid:a9b89b60-3cf6-4853-8bbf-f7e870c1b110</id>
+		 <updated>2019-06-03T00:44:38-07:00</updated>
+		 <summary type="html"><![CDATA[<em>“Bunker is secure. I say again, bunker is secure. Minimal casualties, no friendlies down. Please advise disposition of prisoners. Over.”</em>]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>End in Sight</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/end-in-sight.html"/>
+		 <id>urn:uuid:c7666736-603b-421d-b8fe-835d68f4d923</id>
+		 <updated>2019-06-01T23:30:36-07:00</updated>
+		 <summary type="html"><![CDATA[The urgent warbling of a ringtone cajoles Risnil Rani awake. Rubbing sleep out of her eyes and sucking in deep breaths of air, she wonders what in all Haven has to be on fire for someone to be harassing her this early in the morning, and she reaches for a tablet. And then she stops, because the part of her brain that recognizes ringtones has just woken belatedly up, and she lunges, naked, across the room for the secure phone built into the wall.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Everything has changed</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/everything-has-changed.html"/>
+		 <id>urn:uuid:1bbbddd4-9b9b-4721-b7ed-a2dcb855c3fb</id>
+		 <updated>2019-05-25T18:43:47-07:00</updated>
+		 <summary type="html"><![CDATA[<em>now—</em>]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Spirals: Overture</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/overture.html"/>
+		 <id>urn:uuid:48df85bd-99be-428d-9ce2-1a1fe44d29d0</id>
+		 <updated>2019-05-28T12:24:07-07:00</updated>
+		 <summary type="html"><![CDATA[Towards the Rim of this little spiral galaxy, in its vast and ageless universe, is the Heavenly Empire of a Thousand Suns, expansive and decayed, whose supreme and deathless matriarch — rumored so beautiful that Haven’s greatest poet once fainted outright in her presence — reigns from the carnelian throne of a forbidden city, it is said, whose gilded avenues have never known male footsteps. These are the worlds where intrepid merchants peddle flintlock rifles and hyperdrives side-by-side; where opium addicts high in orbit sell their bodies to weary travelers and downtrodden men whose lives are lived out in starships and void-stations; where the church of a dead and fractured god commands the faith of trillions. Decadent courts, implacable law-women, cunning traders, ruthless mercenaries, and gunslinging pirates all can be found clinging to the thousand worlds under the Imperial yoke, kept narrowly in check by the schemes of their peers and, when needs must, the fearsome might of the Imperial Guard, an army trained from birth in the art of war and chemically conditioned for absolute obedience to Her Serene Radiance the Tenth Empress.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Submission</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/submission.html"/>
+		 <id>urn:uuid:4b8370cd-d23f-4912-b623-90f5079b3fa1</id>
+		 <updated>2019-05-16T14:32:36-07:00</updated>
+		 <summary type="html"><![CDATA[There aren’t many things in the universe worse to wake up to than a fireteam of Imperial Guard dragging you to your feet. By the time the girl in the tattered servant’s nightgown realizes the horrific choice she has to make — to fight to the death or face nightmarish torture for the mere hope of rescue — it’s already been made for her.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>The Will of the People</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/the-will-of-the-people.html"/>
+		 <id>urn:uuid:10366d84-a98b-44a6-8d14-ec550c5d2de6</id>
+		 <updated>2019-06-03T03:07:37-07:00</updated>
+		 <summary type="html"><![CDATA[King Francis was woken rudely from his happy slumber by a great clamor and cry outside the palace. As he stirred, blinking blearily through the great stained-glass window, his manservant Frederick burst through the door.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Darkest Before Dawn</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/darkest-before-dawn.html"/>
+		 <id>urn:uuid:1612980a-4aef-42f2-9c7f-9ce21151d9af</id>
+		 <updated>2019-06-03T05:58:45-07:00</updated>
+		 <summary type="html"><![CDATA[I can hear the screams before the ascender capsule’s gates even retract.]]></summary>
+		 <category term="new stories"/>
+	 </entry>
+
+</feed>

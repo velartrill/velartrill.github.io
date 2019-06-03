@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>ʞ.cc</title>
+	<link href="http://ʞ.cc/" />
+	<link rel="self" href="http://ʞ.cc/feed.atom" />
+	<id>urn:uuid:dd9cd2ed-00a0-404c-ad75-0c20976ed747</id>
+
+	<author>
+		<name>lexi hale</name>
+		<uri>https://hale.su/</uri>
+	</author>
