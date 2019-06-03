@@ -30,6 +30,11 @@
 q {
 	&::before { content: "“"; }
 	&::after { content: "”"; }
+	
+	@media print {
+		> dfn { all: unset; }
+		> dfn + span { display: none; }
+	}
 
 	@media screen {
 		color: hsl(var(--hue), 100%, 70%);
@@ -43,6 +48,7 @@ q {
 				color: inherit;
 			}
 		}
+	}
 
 		> dfn { all: unset; }
 		> dfn + span { 
@@ -59,11 +65,12 @@ q {
 			}
 		}
 
-	}
 }
 
 #nohl, #noen { display: none; }
 #ctl {
+	@media print { display: none; }
+
 	position: fixed;
 	bottom: 1.8em; right: 1em;
 	padding-bottom: 1.6em;
@@ -112,6 +119,7 @@ label[for=nohl] {
 	#nohl:checked ~ #ctl & {
 		&::after { content: "marks"; }
 	}
+	@media print { display: none; }
 }
 label[for=noen] {
 	@extend %button;
@@ -126,6 +134,7 @@ label[for=noen] {
 	#noen:checked ~ #ctl & {
 		&::after { content: "original"; }
 	}
+	@media print { display: none; }
 }
 
 

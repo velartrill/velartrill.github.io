@@ -33,26 +33,38 @@ q::before {
 q::after {
   content: "”"; }
 
+@media print {
+  q > dfn {
+    all: unset; }
+  q > dfn + span {
+    display: none; } }
+
 @media screen {
   q {
     color: hsl(var(--hue), 100%, 70%); }
     q::before, q::after {
       color: hsl(var(--hue), 70%, 65%); }
     #nohl:checked ~ * q, #nohl:checked ~ * q::before, #nohl:checked ~ * q::after {
-      color: inherit; }
-    q > dfn {
-      all: unset; }
-    q > dfn + span {
-      display: none;
-      font-style: italic; }
-    #noen:checked ~ * q em {
-      font-style: normal; }
-    #noen:checked ~ * q > dfn {
-      display: none; }
-    #noen:checked ~ * q > dfn + span {
-      display: inline; }
-    #noen:checked ~ * q::after, #noen:checked ~ * q::before {
-      font-style: italic; } }
+      color: inherit; } }
+
+q > dfn {
+  all: unset; }
+
+q > dfn + span {
+  display: none;
+  font-style: italic; }
+
+#noen:checked ~ * q em {
+  font-style: normal; }
+
+#noen:checked ~ * q > dfn {
+  display: none; }
+
+#noen:checked ~ * q > dfn + span {
+  display: inline; }
+
+#noen:checked ~ * q::after, #noen:checked ~ * q::before {
+  font-style: italic; }
 
 #nohl, #noen {
   display: none; }
@@ -62,6 +74,9 @@ q::after {
   bottom: 1.8em;
   right: 1em;
   padding-bottom: 1.6em; }
+  @media print {
+    #ctl {
+      display: none; } }
   #ctl:not(:hover) > * {
     display: none; }
   #ctl::after {
@@ -94,6 +109,9 @@ label[for=nohl] {
     font-weight: bold; }
   #nohl:checked ~ #ctl label[for=nohl]::after {
     content: "marks"; }
+  @media print {
+    label[for=nohl] {
+      display: none; } }
 
 label[for=noen] {
   text-align: right;
@@ -105,6 +123,9 @@ label[for=noen] {
     font-weight: bold; }
   #noen:checked ~ #ctl label[for=noen]::after {
     content: "original"; }
+  @media print {
+    label[for=noen] {
+      display: none; } }
 
 @media screen {
   q:lang(x-zt) {
