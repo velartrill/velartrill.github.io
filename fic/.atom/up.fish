@@ -7,7 +7,7 @@ if test (basename (pwd)) != "fic"
 end
 
 function identify
-	grep -oP '<title>\K.*?(?=</title>)' $argv[1]
+	grep -oPm1 '<title>\K.*?(?=</title>)' $argv[1]
 	# jesus fuck i hate this
 	# sure would be nice if unix tools could do
 	# something obvious and useful for a change,
@@ -62,6 +62,7 @@ for i in (cat .atom/db)
 	set -l lread  (echo $i | cut -d\x1f -f 2)
 	set -l fhash  (echo $i | cut -d\x1f -f 3)
 	set -l uuid   (echo $i | cut -d\x1f -f 4)
+	set -l cat    (echo $i | cut -d\x1f -f 5)
 
 	test -e $file; or continue
 		#file no longer exists, remove it from database
@@ -81,12 +82,12 @@ for i in (cat .atom/db)
 	set -a files $file
 	set -a uuids $uuid
 	set -a titles (identify $file)
-	set -a cats updates
 
 	if test $lwrite -gt $lread
 		if test (hash $file) != $fhash #changed
 			set -a dates $lwrite
 			set -a hashes (hash $file)
+			set -a cats updated
 
 			report $file has changed
 
@@ -98,6 +99,7 @@ for i in (cat .atom/db)
 	#else
 	set -a dates $lread
 	set -a hashes $fhash
+	set -a cats $cat
 end
 
 for file in $all
@@ -115,7 +117,7 @@ for file in $all
 	set -a dates (stat -c %Y $file)
 	set -a hashes (hash $file)
 	set -a uuids (uuidgen)
-	set -a cats "new stories"
+	set -a cats "new"
 
 	set new (expr $new + 1)
 end
@@ -123,7 +125,7 @@ end
 # update database with new findings
 : >.atom/db #truncate db
 for idx in (seq (count $files))
-	echo >>.atom/db $files[$idx]\x1f$dates[$idx]\x1f$hashes[$idx]\x1f$uuids[$idx]
+	echo >>.atom/db $files[$idx]\x1f$dates[$idx]\x1f$hashes[$idx]\x1f$uuids[$idx]\x1f$cats[$idx]
 end
 
 echo \x1b"[1m" $new     "chapter[s]" \x1b"[;92m" added   \x1b"[m"

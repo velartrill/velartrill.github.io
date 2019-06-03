@@ -50,21 +50,20 @@ q {
 		}
 	}
 
-		> dfn { all: unset; }
-		> dfn + span { 
-			display: none;
+	> dfn { all: unset; }
+	> dfn + span { 
+		display: none;
+		font-style: italic;
+	}
+
+	#noen:checked ~ * & {
+		em { font-style: normal; }
+		> dfn { display:none; }
+		> dfn + span { display:inline; }
+		&::after, &::before {
 			font-style: italic;
 		}
-
-		#noen:checked ~ * & {
-			em { font-style: normal; }
-			> dfn { display:none; }
-			> dfn + span { display:inline; }
-			&::after, &::before {
-				font-style: italic;
-			}
-		}
-
+	}
 }
 
 #nohl, #noen { display: none; }
