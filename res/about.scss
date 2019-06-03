@@ -16,7 +16,7 @@
 
 .profile {
 	float: right;
-	max-width: 7.5em;
+	max-width: 107pt;
 	margin-left: 1em;
 	margin-bottom: 0em;
 
@@ -41,7 +41,7 @@
 			text-align: left;
 			font-family: "Alegreya Sans", "Open Sans", sans;
 			cursor: pointer;
-			font-size:80%;
+			font-size:11pt;
 			padding: 0.4em 0.8em;
 			display: block;
 			background: hsl(var(--hue),100%,15%);
@@ -49,6 +49,9 @@
 			top: 0em;
 			border-bottom: 1px solid hsl(var(--hue),70%,10%);
 			border-radius: 0 0 3px 3px;
+			height: 15pt;
+			overflow: hidden;
+			white-space: nowrap;
 			&:last-child { border: none; }
 
 			> span { margin-left: 0.3em; }
