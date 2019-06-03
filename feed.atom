@@ -10,25 +10,7 @@
 		<name>lexi hale</name>
 		<uri>https://hale.su/</uri>
 	</author>
-<updated>2019-06-03T05:59:01-07:00</updated> 
-
-	 <entry>
-		 <title>An Apology</title>
-		 <link rel="alternate" href="http://ʞ.cc/fic/an-apology.html"/>
-		 <id>urn:uuid:91f0fcc8-3622-4fe4-b045-000cdf120a03</id>
-		 <updated>2019-06-03T05:14:14-07:00</updated>
-		 <summary type="html"><![CDATA[Speaking at the Boshgog Public Forum &amp; Liqueur Shoppe last Wednesday, the Lord Mornag Shugrontu, shortly after availing himself of the venue’s estimable <em>other</em> product, issued a number of public demands, threats, and complaints against my humble self. Principal among his demands was that for <em>an apology</em> - his Lordship feels wronged by the words I have written about his illustrious career.]]></summary>
-		 <category term="updates"/>
-	 </entry>
-
-	 <entry>
-		 <title>Bromeo &amp; Juliet</title>
-		 <link rel="alternate" href="http://ʞ.cc/fic/bromeo-and-juliet.html"/>
-		 <id>urn:uuid:58428b4a-a246-463c-9a91-f708cd7aad2a</id>
-		 <updated>2019-06-03T05:28:06-07:00</updated>
-		 <summary type="html"><![CDATA[I ain't gonna take this shit, Greg.]]></summary>
-		 <category term="updates"/>
-	 </entry>
+<updated>2019-06-03T06:59:21-07:00</updated> 
 
 	 <entry>
 		 <title>Into the Valley</title>
@@ -45,15 +27,6 @@
 		 <id>urn:uuid:cee16640-5614-4919-a81d-909a7c36eabe</id>
 		 <updated>2019-05-30T14:44:06-07:00</updated>
 		 <summary type="html"><![CDATA[It’s nearing first light. The tavern is dark and nearly empty downstairs, only a few candles flickering here and there to keep the mortals from tripping over chairs and unconscious patrons. Feranya, on the other hand, doesn’t need candles to see in the dark. She pads softly over to the large cask in the corner and turns the tap, holding her canteen under the stream of cool, fresh water. It’s then that she overhears a small group of people huddled in the corner.]]></summary>
-		 <category term="updates"/>
-	 </entry>
-
-	 <entry>
-		 <title>SEGV</title>
-		 <link rel="alternate" href="http://ʞ.cc/fic/segv.html"/>
-		 <id>urn:uuid:204d3158-768d-46cd-ae26-6ff949a508cf</id>
-		 <updated>2019-06-03T04:43:37-07:00</updated>
-		 <summary type="html"><![CDATA[It was evening and Sam Silver was painting a fence. It wasn't her fence, she wasn't rich enough to live somewhere she could have her own fence, but near as she could tell it wasn't anyone's fence and she didn't think anyone in the neighborhood would mind her giving the old eyesore a fresh coat of paint.]]></summary>
 		 <category term="updates"/>
 	 </entry>
 
@@ -121,18 +94,99 @@
 	 </entry>
 
 	 <entry>
+		 <title>The 71st Annual Convocation</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/misc/71st-annual-convocation.html"/>
+		 <id>urn:uuid:caafc48d-c795-4d7d-9278-ccfdd485244c</id>
+		 <updated>2019-06-03T06:37:52-07:00</updated>
+		 <summary type="html"><![CDATA[as FAITHFULLY RECORDED by]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>An Apology</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/misc/an-apology.html"/>
+		 <id>urn:uuid:454ee3b7-fb6c-4a40-9df4-488f6f7142e1</id>
+		 <updated>2019-06-03T06:38:28-07:00</updated>
+		 <summary type="html"><![CDATA[Speaking at the Boshgog Public Forum &amp; Liqueur Shoppe last Wednesday, the Lord Mornag Shugrontu, shortly after availing himself of the venue’s estimable <em>other</em> product, issued a number of public demands, threats, and complaints against my humble self. Principal among his demands was that for <em>an apology</em> - his Lordship feels wronged by the words I have written about his illustrious career.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Bromeo &amp; Juliet</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/misc/bromeo-and-juliet.html"/>
+		 <id>urn:uuid:87f43c91-8051-4a8a-af2b-f1e0c8c04d5b</id>
+		 <updated>2019-06-03T06:56:29-07:00</updated>
+		 <summary type="html"><![CDATA[I ain't gonna take this shit, Greg.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Five Cultists is Five Too Many</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/misc/five-cultists.html"/>
+		 <id>urn:uuid:41559cc3-c602-4c13-b6b3-978e236cdc51</id>
+		 <updated>2019-06-03T06:39:06-07:00</updated>
+		 <summary type="html"><![CDATA[<em>a short story by Lexi Summer Hale</em>]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Ne Ta-me ko</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/misc/ne-tame-ko.html"/>
+		 <id>urn:uuid:c83038d9-10f0-4881-a154-906a49330e15</id>
+		 <updated>2019-06-03T06:42:52-07:00</updated>
+		 <summary type="html"><![CDATA[lojban freaks like to talk a lot of shit about how their language is ~syntactically unambiguous~. and yes, lojban is syntactically unambiguous, in the sense that LISP is syntactically unambiguous: computers can parse it, and humans can't.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>no way out</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/misc/no-way-out.html"/>
+		 <id>urn:uuid:dc393ef7-3c25-4d64-a307-2f8e8fff7598</id>
+		 <updated>2019-06-03T06:40:41-07:00</updated>
+		 <summary type="html"><![CDATA[Gray buildings, beneath a gray sky, in a gray city. They are not identical, but their differences serve only to highlight their inexorable sameness. And they do not occupy every block. Some are empty, expanses of concrete, fenced off with mouldering barbed wire. You could walk for days, through the streets with random numbers, and the cityscape would blend together, and at the end you might come back exactly where you had started and you couldn’t tell the difference.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>SEGV</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/misc/segv.html"/>
+		 <id>urn:uuid:3a72ec47-7802-44f9-8524-0aca3f884f59</id>
+		 <updated>2019-06-03T06:41:53-07:00</updated>
+		 <summary type="html"><![CDATA[It was evening and Sam Silver was painting a fence. It wasn't her fence, she wasn't rich enough to live somewhere she could have her own fence, but near as she could tell it wasn't anyone's fence and she didn't think anyone in the neighborhood would mind her giving the old eyesore a fresh coat of paint.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Singularity</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/misc/singularity.html"/>
+		 <id>urn:uuid:38c60760-11ff-4099-a328-c163de047cb1</id>
+		 <updated>2019-06-03T06:43:28-07:00</updated>
+		 <summary type="html"><![CDATA[Ash swirled in the wastes as the caravan plodded forward. Samanya shielded her eyes against the hot glare of the sun as she stared out into the almost-featureless plain. Nothing to see but the distant flicker of the machines in the sky.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
 		 <title>The Will of the People</title>
-		 <link rel="alternate" href="http://ʞ.cc/fic/the-will-of-the-people.html"/>
-		 <id>urn:uuid:10366d84-a98b-44a6-8d14-ec550c5d2de6</id>
-		 <updated>2019-06-03T03:07:37-07:00</updated>
+		 <link rel="alternate" href="http://ʞ.cc/fic/misc/the-will-of-the-people.html"/>
+		 <id>urn:uuid:226878d3-a2fb-4dbd-83c2-286a9648b56e</id>
+		 <updated>2019-06-03T06:41:31-07:00</updated>
 		 <summary type="html"><![CDATA[King Francis was woken rudely from his happy slumber by a great clamor and cry outside the palace. As he stirred, blinking blearily through the great stained-glass window, his manservant Frederick burst through the door.]]></summary>
+		 <category term="updates"/>
+	 </entry>
+
+	 <entry>
+		 <title>Watashi no Neko wa Soutou wo Koroshita</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/misc/wnnwswk.html"/>
+		 <id>urn:uuid:78f8f184-43f9-429a-869e-fa0298c3dde3</id>
+		 <updated>2019-06-03T06:35:32-07:00</updated>
+		
 		 <category term="updates"/>
 	 </entry>
 
 	 <entry>
 		 <title>Darkest Before Dawn</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/darkest-before-dawn.html"/>
-		 <id>urn:uuid:1612980a-4aef-42f2-9c7f-9ce21151d9af</id>
+		 <id>urn:uuid:81f495d8-6612-4fd1-9ba6-f406344880f6</id>
 		 <updated>2019-06-03T05:58:45-07:00</updated>
 		 <summary type="html"><![CDATA[I can hear the screams before the ascender capsule’s gates even retract.]]></summary>
 		 <category term="new stories"/>
