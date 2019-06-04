@@ -135,7 +135,7 @@ echo \x1b"[1m" (expr $total - $procd) "chapter[s]" \x1b"[;91m" deleted \x1b"[m"
 echo "writing atom…"
 
 cat >$out .atom/head 
-echo >>$out (xml updated (date --iso-8601=seconds)) \n
+echo >>$out \t (xml updated (date --iso-8601=seconds)) \n
 
 for i in (seq (count $files))
 	test $dates[$i] -gt 1557890061; or continue
@@ -146,7 +146,7 @@ for i in (seq (count $files))
 	echo >>$out \t\t "<link rel=\"alternate\" href=\"http://ʞ.cc/fic/$files[$i]\"/>"
 	echo >>$out \t\t (xml id "urn:uuid:$uuids[$i]")
 	echo >>$out \t\t (xml updated (stamp $dates[$i]))
-	echo >>$out \t\t "<summary type=\"html\"><![CDATA["(firstpar $files[$i])"]]></summary>"
+	echo >>$out \t\t "<summary type=\"html\"><![CDATA[<p>"(firstpar $files[$i])"</p><p><a href=\"http://ʞ.cc/fic/$files[$i]\">[read more]</a></p>]]></summary>"
 	echo >>$out \t\t "<category term=\"$cats[$i]\"/>"
 	echo >>$out \t "</entry>"\n
 end
