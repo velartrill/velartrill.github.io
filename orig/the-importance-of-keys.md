@@ -105,7 +105,7 @@ I slip a copy-sheet into the feed tray and strike a key. The machine begins to c
 
 I move my chair over to the power cabinet and open it up. I walk back to Lishuen and offer her my arm. “Let me help you over?”
 
-She nods, taking a deep breath. She feels steadier on her feet already as I guide her to the chair, if only just. I hand her the satchel as she sits and she extracts the bundle of wiring, along with a few other devices. She spends a few moments leaning over the power sockets and fiddling with cables before there’s a sharp <em>crack<em> and sparks fly. Lishuen lets out a frightened cry, pulling frantically away like a stung wild animal. The chair she’s sitting on nearly topples and I barely catch it in time.
+She nods, taking a deep breath. She feels steadier on her feet already as I guide her to the chair, if only just. I hand her the satchel as she sits and she extracts the bundle of wiring, along with a few other devices. She spends a few moments leaning over the power sockets and fiddling with cables before there’s a sharp *crack* and sparks fly. Lishuen lets out a frightened cry, pulling frantically away like a stung wild animal. The chair she’s sitting on nearly topples and I barely catch it in time.
 
 “It’s okay, it’s okay,” I try to reassure her. “That happens all the—” I stop.
 Lishuen is huddled in the chair, her legs pulled up in front of her body, breathing hard; tears glint in her eyes and she’s shaking like a leaf. She flinches as I step closer.
@@ -178,6 +178,9 @@ I sigh. “My grandparents immigrated from the Traverse. We’ve only had a few 
 % has character Raven Goldenbough
 % has character Lishuen Tengali Virteli
 % has planet Carnelian
+
+% in perspective first-person
+% is narrator Raven Goldenbough
 
 % to pub/vt/fic/spirals
 % path fic/Spirals

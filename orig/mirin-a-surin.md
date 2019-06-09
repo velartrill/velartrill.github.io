@@ -168,6 +168,7 @@ Behind them is a young woman in a battered wool coat, short white hair blowing t
 But she’s staring directly at them.
 
 %prev everything-has-changed.html Everything has changed
+%next dinner-at-moms.html Dinner at Mom’s
 
 % in setting Spirals
 % in serial Change
@@ -178,6 +179,8 @@ But she’s staring directly at them.
 % has character Sashuan Solnadi Vanteni
 % has character Possum
 % has planet Topaz
+
+% in perspective third-person
 
 % to pub/vt/fic/spirals
 % path fic/Spirals
