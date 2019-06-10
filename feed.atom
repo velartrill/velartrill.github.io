@@ -10,7 +10,7 @@
 		<name>lexi hale</name>
 		<uri>https://hale.su/</uri>
 	</author>
-	 <updated>2019-06-03T17:04:35-07:00</updated> 
+	 <updated>2019-06-09T17:43:28-07:00</updated> 
 
 	 <entry>
 		 <title>Into the Valley</title>
@@ -121,6 +121,15 @@
 	 </entry>
 
 	 <entry>
+		 <title>Alone in the Cold</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/alone-in-the-cold.html"/>
+		 <id>urn:uuid:a13e3aa7-18f9-4b01-8d9c-1191f090ab5e</id>
+		 <updated>2019-06-07T16:01:47-07:00</updated>
+		 <summary type="html"><![CDATA[<p>The ice in the tumbler clinks together as I set it down on the countertop. With closed eyes I savor the taste of the whiskey for a moment, relishing the cathartic burn of the alcohol in the back of my mouth before I swallow it. I lean back on the barstool, gaze out my apartment window, scanning the street by force of habit before I look back at the sheaf of memos in my hand.</p><p><a href="http://ʞ.cc/fic/spirals/alone-in-the-cold.html">[read more]</a></p>]]></summary>
+		 <category term="updated"/>
+	 </entry>
+
+	 <entry>
 		 <title>Ambassador</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/ambassador.html"/>
 		 <id>urn:uuid:f0f9c6f7-2b76-4729-aa22-5fdfad3ca628</id>
@@ -157,6 +166,15 @@
 	 </entry>
 
 	 <entry>
+		 <title>Mirin a surin</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/mirin-a-surin.html"/>
+		 <id>urn:uuid:d48783fe-2e46-4e54-88ff-4cbedda524db</id>
+		 <updated>2019-06-09T15:23:51-07:00</updated>
+		 <summary type="html"><![CDATA[<p>The stool Sashuan’s kneeling on creaks reproachfully as she rummages through the overhead cupboards. “You don’t have to do that, you know,” Jasmine says, perching on the back of the couch and tugging her old winter coat on over her shoulders.</p><p><a href="http://ʞ.cc/fic/spirals/mirin-a-surin.html">[read more]</a></p>]]></summary>
+		 <category term="updated"/>
+	 </entry>
+
+	 <entry>
 		 <title>Spirals: Overture</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/overture.html"/>
 		 <id>urn:uuid:818cbd9f-fd77-4bed-b639-b9d41139d449</id>
@@ -178,8 +196,17 @@
 		 <title>Darkest Before Dawn</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/darkest-before-dawn.html"/>
 		 <id>urn:uuid:b93a7d83-6d09-4f06-b254-8d6249433a21</id>
-		 <updated>2019-06-03T16:46:45-07:00</updated>
+		 <updated>2019-06-08T22:51:16-07:00</updated>
 		 <summary type="html"><![CDATA[<p>I can hear the screams before the ascender capsule’s gates even retract.</p><p><a href="http://ʞ.cc/fic/spirals/darkest-before-dawn.html">[read more]</a></p>]]></summary>
+		 <category term="updated"/>
+	 </entry>
+
+	 <entry>
+		 <title>Dinner at Mom's</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/dinner-at-moms.html"/>
+		 <id>urn:uuid:670a5b87-0274-4314-bca0-e882050fce90</id>
+		 <updated>2019-06-09T17:30:37-07:00</updated>
+		 <summary type="html"><![CDATA[<p>Out of habit, Jasmine flicks a few copper pennies in the direction of the alley altar as they come up on her most recent childhood home. The coins clatter as they join others in the bottom of Khata’e’s chariot, right at the feet of the Star-Mother herself. It’s the same altar Jasmine went to the night before she finally admitted her feelings to Sashuan; the altar where she asked the Matron of Beginnings for her favor and left two gold talents in the chariot — and then went back the next night to leave a third after Sashuan said yes.</p><p><a href="http://ʞ.cc/fic/spirals/dinner-at-moms.html">[read more]</a></p>]]></summary>
 		 <category term="new"/>
 	 </entry>
 
