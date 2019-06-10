@@ -57,9 +57,11 @@ q {
 	}
 
 	#noen:checked ~ * & {
-		em { font-style: normal; }
 		> dfn { display:none; }
-		> dfn + span { display:inline; }
+		> dfn + span {
+			display:inline;
+			em { font-style: normal; }
+		}
 		&::after, &::before {
 			font-style: italic;
 		}

@@ -54,14 +54,13 @@ q > dfn + span {
   display: none;
   font-style: italic; }
 
-#noen:checked ~ * q em {
-  font-style: normal; }
-
 #noen:checked ~ * q > dfn {
   display: none; }
 
 #noen:checked ~ * q > dfn + span {
   display: inline; }
+  #noen:checked ~ * q > dfn + span em {
+    font-style: normal; }
 
 #noen:checked ~ * q::after, #noen:checked ~ * q::before {
   font-style: italic; }
