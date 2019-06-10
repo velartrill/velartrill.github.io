@@ -25,7 +25,7 @@ There’s a clatter from the kitchen and Lily barges out into the hallway. As so
 
 _“Tajule! Sashi!”_ she exclaims, grabbing them both in a bear hug. _“Merae ta’a jukara to nimekhta je!”_
 
-_“Jare nimekhta, bara’,”_ Jasmine replies. Good to see you too, mom.
+_“Jare nimekhta, bara’,”_ Jasmine replies. *Good to see you too, mom.*
 
 “Come in, come *in!”* Lily steps back, beckoning urgently. “You’re just in time, we were just getting supper started.” She turns to the hall and cups her hands around her mouth. *“Rose!”* she bellows. “Come and say hello to your sister!”
 
@@ -229,7 +229,7 @@ The woman behind her is a different story. She’s bulky, well-built, with what 
 
 *Not after what my sister’s been through.*
 
-{kh/…I’m sorry, I should introduce myself.} The younger woman holds out a hand, interrupting Jasmine’s train of thought. “You can call me Faith. I’m a commissar with the Sisterhood, here on behalf of the local government. Can we step inside for a moment?”
+{kh/…I’m sorry, I should introduce myself.} The younger woman holds out a hand, interrupting Jasmine’s train of thought. {kh/You can call me Faith. I’m a commissar with the Sisterhood, here on behalf of the local government. Can we step inside for a moment?}
 
 *Political officer. That explains the physique.* Jasmine has to stop herself from gritting her teeth; something about the woman’s voice is grating on her, like she thinks she’s talking to a child. Jasmine cautiously extends a hand. Faith’s is warm and soft; her grip light.
 
@@ -263,11 +263,11 @@ The commissar cries out in pain as Jasmine, acting on pure instinct born of too 
 
 {kh/On the ground or I *will* use—} The thug is interrupted by the sound of a door crashing open, and trails off, eyes wide.
 
-{kh/*What the fuck is going on!?*} Sashuan demands, her Occupation badge clenched open in one fist and a sharp blade glinting in her other. {kh/Put away that gun or so help me Khata’e I will have you *shot!*}
+{zt/*What the fuck is going on!?*} Sashuan demands, her Occupation badge clenched open in one fist and a sharp blade glinting in her other. {zt/Put away that gun or so help me Khata’e I will have you *shot!*}
 
-{kh/M-ma’am,} the thug stutters, {kh/this woman, she assaulted a—}
+{zt/M-ma’am,} the thug stutters, {zt/this woman, she assaulted a—}
 
-{kh/*Now.*}
+{zt/*Now.*}
 
 The woman steps back, holding up her hands and switching the safety back on. Slowly, she returns the weapon to its holster and clasps her hands behind her back, standing uncomfortably at attention. Sashuan exhales, and touches Jasmine gently on the back.
 
@@ -279,7 +279,7 @@ Hands shaking, Jasmine reluctantly releases Faith, who gives a gasp of relief an
 
 Voice still shaking, Jasmine aims an accusatory finger at the commissar. {ra/She laid hands on me,} she replies in Ranuir. {ra/She was demanding I let her in the flat and she wouldn’t take no for an answer.}
 
-{ra/Are you alright?} Sashuan touches her gently on the cheek. Jasmine closes her eyes for a moment, the comforting softness and warmth of Sashuan’s familiar body calming her frazzled nerves like water on hot coals.
+{ra/Are you alright?/Ash seshenan?} Sashuan touches her gently on the cheek. Jasmine closes her eyes for a moment, the comforting softness and warmth of Sashuan’s familiar body calming her frazzled nerves like water on hot coals.
 
 {ra/She didn’t… hurt me or… or anything, I just — she crossed a boundary./Ar… ar ana ammaco ve, na… masieno ve, an — ar ani hesha cusho vashe.} Jasmine glances at the thug. {ra/*She* called for backup/*Tirin* peshparo vade suhat.}
 
@@ -291,7 +291,7 @@ Sashuan nods. {ra/I’ll deal with it./Val cemesh.} She turns her gaze back to F
 
 {kp/Yes, ma’am, K.S. Sergeant Patience Third Savannah’s Charity,} Patience responds with considerably more discipline; {kp/badge six-six-three-two-five, ma’am!}
 
-{kp/Alright, *Patience,* call off your attack dogs.} Sashuan indicates the radio. “Report that Liaison Sashuan Solnadi Vanteni has responded and the situation is under control.”
+{kp/Alright, *Patience,* call off your attack dogs.} Sashuan indicates the radio. {kp/Report that Liaison Sashuan Solnadi Vanteni has responded and the situation is under control.}
 
 Both women turn white as a sheet. {kp/Y-you’re—} Faith splutters, disbelieving.
 
@@ -305,13 +305,13 @@ Sashuan holds up her badge again.
 
 After a few moments of fumbling with bags and pouches, Faith extracts a slim, leatherbound booklet and hands it quickly to Sashuan. Patience follows suit, though with obvious reluctance. Sashuan goes through both booklets thoroughly, scrutinizing paperwork and holding identity cards up to the light. Finally, she replaces the cards and hands the booklets back. {ra/They’re legit,/Masin rafto ve,} she tells Jasmine quietly, switching back to Ranuir.
 
-{ra/I mean, I figured. That doesn’t explain why they’re here. That _shosshar_ wouldn’t tell me and she was trying to get in./Han, anlavo vade. E anarit amar sashes nar dalo ve. Nara paro shosshar masi cere na sola assasho vite.} Jasmine glowers at Faith.
+{ra/I mean, I figured. That doesn’t explain why they’re here. That _shosshar_ wouldn’t tell me and she was trying to get in./Han, anlavo sege. E anarit amar sashes nar dalo ve. Nara paro shosshar masi cere na sola assasho vite.} Jasmine glowers at Faith.
 
 Sashuan squeezes her arm reassuringly. {ra/You’re right, it doesn’t./Hante, nar dalo ve.} She beckons to Faith who nervously steps forward. {kh/You. Explain./Khuja. Rasha makhira mo.}
 
 {kh/Ah, ma’am, um—/Uje, jakhmesho, je—} Faith swallows hard. {kh/We— we’re just here on a routine welfare check— I’m the commissar assigned to this neighborhood, and—/J-jokhura—  jokhura jaran je merae mo mekhita inakure— ebi ja mairishmeshora shikata—}
 
-{kh/‘Welfare check’?/'Merae mo mekhita inakure'?} Jasmine interrupts. {kh/What’s that supposed to mean?}
+{kh/‘Welfare check’?/'Merae mo mekhita inakure'?} Jasmine interrupts. {kh/What’s that supposed to mean?/Na rakhota kuku'e?}
 
 {ra/They’re glorified dorm inspectors,/Amar sollasha rushinte,} Sashuan murmurs.
 
@@ -329,13 +329,13 @@ Jasmine looks away, exhaling raggedly, her shoulders slumping a little. {kh/I to
 
 Faith bites her lip, turning slightly red. {kp/I… I’m sorry, she’s right, I didn’t—} She forces herself to look up at Jasmine. {kh/Y-you’re right, ma’am. I didn’t tell you why we were here, I… I’m sorry, it’s just— the way you were behaving— there were just a couple big red flags, like coming out and shutting the door the way you did, and you sounded kind of… kind of suspicious, and then I looked at the manifest and I saw nobody your age registered as domiciled here… I thought something was— was wrong.} She glances at Sashuan. {kp/Ma’am,} she adds nervously.
 
-Jasmine takes a deep breath, meeting the commissar’s gaze with difficulty. {kp/It’s dinnertime. People have guests sometimes, you know.}
+Jasmine takes a deep breath, meeting the commissar’s gaze with difficulty. {kh/It’s dinnertime. People have guests sometimes, you know.}
 
-Faith nods meekly. {kp/You’re right. I overreacted. I’m sorry. I just—}
+Faith nods meekly. {kh/You’re right. I overreacted. I’m sorry. I just—}
 
 {kp/If I may, ma’am,} Patience interjects, stepping forward and glancing irritably at Jasmine, {kp/what the commissar is trying to say is we have been shot at twice in the last fortnight alone. There’ve been stabbings, shootings, assaults— this is a dangerous job, especially in this neighborhood—}
 
-{kh/*Especially in this neighborhood?*} Jasmine blurts. {kh/Why, because it’s the Khmai part of town? And we’re all violent, lawless brutes or something?}
+{kp/*Especially in this neighborhood?*} Jasmine blurts. {kh/Why, because it’s the Khmai part of town? And we’re all violent, lawless brutes or something?}
 
 Patience clears her throat. {kh/Ma’am, I did not say that—}
 
@@ -343,13 +343,13 @@ Patience clears her throat. {kh/Ma’am, I did not say that—}
 
 {kh/Jaz!} Sashuan exclaims. {kh/Jaz, honey, slow down; I know you’re upset, just, listen for a minute, okay?} She puts an arm around Jasmine’s shoulders, pulling her closer. {kh/If there really is something remotely racist going on here, I will absolutely have them punished for it, okay? You have my word. Just let them explain themselves, okay?}
 
-Faith pipes up quickly. {kh/Please, I— please understand th-that I say this with the utmost sincerity and respect for your people, mistress,} she says; {kh/I’ve lived in Khmai neighborhoods, I grew up around people like you; I mean, Ngart'ĩka’s sake, my girlfriend of five years is Khmai. We absolutely aren’t trying to imply anything about your race. That has nothing to do with it, and I’m so, so sorry it came across that way. It’s just that this was a… well, a very poor neighborhood before the Occupation, and when people are trapped in poverty, sometimes violence and crime is their only chance of getting out. Khmai, Kapa, or Zyahua, sometimes it’s their only chance to *survive.* We’re not passing judgment at all, I promise you, we wouldn’t be *with* the Sisterhood in the first place if we were that kind of people, it’s just… a lot of people are suspicious, a lot of people here are really used to the state mistreating them, and tensions are high. It’s nothing to do with race, it’s nothing to do with whether anyone’s a good person — it’s just how it is. That’s what we’re here to try and start *fixing.*}
+Faith pipes up quickly. {kh/Please, I— please understand th-that I say this with the utmost sincerity and respect for your people, mistress,} she says; {kh/I’ve lived in Khmai neighborhoods, I grew up around people like you; I mean, Ngart'ĩka’s sake, my girlfriend of five years is Khmai and I speak your language better than my own. We absolutely aren’t trying to imply anything about your race. That has nothing to do with it, and I’m so, so sorry it came across that way. It’s just that this was a… well, a very poor neighborhood before the Occupation, and when people are trapped in poverty, sometimes violence and crime is their only chance of getting out. Khmai, Kapa, or Zyahua, sometimes it’s their only chance to *survive.* We’re not passing judgment at all, I promise you, we wouldn’t be *with* the Sisterhood in the first place if we were that kind of people, it’s just… a lot of people are suspicious, a lot of people here are really used to the state mistreating them, and tensions are high. It’s nothing to do with race, it’s nothing to do with whether anyone’s a good person — it’s just how it is. That’s what we’re here to try and start *fixing.*}
 
 {kh/You’re doing an awfully good job of it,} Jasmine mutters.
 
 {kh/I know, I know, I screwed up. But it’s not like you let me get much of a word in before you resorted to violence—}
 
-Jasmine gives a hollow laugh. {kh/God, do you have any idea how many times I’ve been shook down by greycloaks and that _den dua ṕing_ justiciar’s pet thugs? I ran a homeless shelter, woman; do you have any *idea* how many times people have come into harass the staff or plant evidence or abduct the people we were trying to protect or try to squeeze me for money or— or how many have tried t-to—} She shakes her head violently, swallows hard. {kh/Do you know what fucking happened the last time someone fucking *grabbed me like that?*}
+Jasmine gives a hollow laugh. {kh/God, do you have any idea how many times I’ve been shook down by greycloaks and that _den dua ṕing_ justiciar’s pet thugs? I ran a homeless shelter, woman; do you have any *idea* how often people come into harass the staff or plant evidence or abduct the people we were trying to protect or try to squeeze me for money or— or how many tried t-to—} She shakes her head violently, swallows hard. {kh/Do you know what fucking happened the last time someone fucking *grabbed me like that?*}
 
 {kh/N-no, mistress…/Baja meir, jakhmesho…}
 
