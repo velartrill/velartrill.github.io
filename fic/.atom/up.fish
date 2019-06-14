@@ -27,7 +27,7 @@ function field
 end
 
 function report
-	echo - \x1b"[1m$argv[1]"\x1b"[;35m" $argv[2..-1] \x1b"[m"
+	echo "[2K"\r - "[1m$argv[1][;35m" $argv[2..-1] "[m"
 end
 
 function xml
@@ -63,6 +63,7 @@ for i in (cat .atom/db)
 	set -l fhash  (echo $i | cut -d\x1f -f 3)
 	set -l uuid   (echo $i | cut -d\x1f -f 4)
 	set -l cat    (echo $i | cut -d\x1f -f 5)
+	echo -n "[2K[96m*[m [1m$file[m"\r
 
 	test -e $file; or continue
 		#file no longer exists, remove it from database
@@ -105,6 +106,8 @@ end
 for file in $all
 	contains $file $files; and continue
 	test (basename $file) = "index.html"; and continue
+	echo -n "[2K[92m+[m [1m$file[m"\r
+
 	if grep -q "<!-- *atom-exclude *-->" $file
 		continue #file is marked for exclusion
 	end
@@ -128,11 +131,12 @@ for idx in (seq (count $files))
 	echo >>.atom/db $files[$idx]\x1f$dates[$idx]\x1f$hashes[$idx]\x1f$uuids[$idx]\x1f$cats[$idx]
 end
 
+echo -n "[2K"\r # make sure we're on a clean line
 echo \x1b"[1m" $new     "chapter[s]" \x1b"[;92m" added   \x1b"[m"
 echo \x1b"[1m" $changed "chapter[s]" \x1b"[;94m" changed \x1b"[m"
 echo \x1b"[1m" (expr $total - $procd) "chapter[s]" \x1b"[;91m" deleted \x1b"[m"
 
-echo "writing atom…"
+echo " - writing atom…"
 
 cat >$out .atom/head 
 echo >>$out \t (xml updated (date --iso-8601=seconds)) \n
