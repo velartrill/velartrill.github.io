@@ -110,13 +110,13 @@ She nods, taking a deep breath. She feels steadier on her feet already as I guid
 “It’s okay, it’s okay,” I try to reassure her. “That happens all the—” I stop.
 Lishuen is huddled in the chair, her legs pulled up in front of her body, breathing hard; tears glint in her eyes and she’s shaking like a leaf. She flinches as I step closer.
 
-“Lishi?” I say quietly. She doesn’t respond. I hold out my hand and she recoils, terrified eyes fixed on me. ’Tis just the same expression as was on her face the moment of her waking— _“Seshenan til, Lishi?”_ I ask in the gentlest voice I can muster. _“Riga shirenan? An rihes gan dalenan?”_
+“Lishi?” I say quietly. She doesn’t respond. I hold out my hand and she recoils, terrified eyes fixed on me. ’Tis just the same expression as was on her face the moment of her waking— _“Seshenan tam, Lishi?”_ I ask in the gentlest voice I can muster. _“Riga shirenan? An rihes gan dalenan?”_
 
 And again, whatever frightful state has come over her, something about speaking to her in Ranuir seems to break the spell. For a moment she seems confused, looking about wildly, and then suddenly she’s crying, her body wracked by full-force sobs. I kneel down and offer her my hand; she takes it, curling up in the chair.
 
 “Whatever is the matter, dear?” I ask, squeezing her hand softly. She shakes her head violently.
 
-“Shosi shanvol. Shosi, shosi, shosi shanvol—”
+_“Shosi shanvol. Shosi, shosi, shosi shanvol—”_
 
 “Lishi, I… I don’t understand.”
 
