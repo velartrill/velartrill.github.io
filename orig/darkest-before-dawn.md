@@ -191,7 +191,7 @@ We make it to the end of the corridor before a jailer turns the corner. I quicke
 
 “Perhaps instead of pestering your betters in want of an excuse to malinger further, you would be more gainfully employed in the bettering of your craft! Perhaps, say, in that arcane art of *fastening a manacle* — such that the scum of the dungeons are afforded *fewer* opportunities to wound the high and honorable of courtly society!”
 
-Her eyebrows rise in alarm. “Has— has there been an escape? I’ve heard naught of it—”
+Her eyebrows rise in alarm. “Has— has there been an escape? I’ve heard naught of it—”b
 
 “Very nearly so, but had there been, neither of us would yet draw breath to tell you of it, and a living *devil* would now stalk these halls, thirsting for righteous Zyahua blood! God within but those wretched Greens — they may almost look human, but make no mistake, they are anything but! And now, for want of a chain, an invaluable captive lies dead and a woman of the Court is wounded, all on account of your dismal comrades’ laxity!” I wave a finger at her. “Fie! Get you gone from my sight, ere I exercise my vexation upon your tender flesh!”
 
@@ -201,7 +201,7 @@ That does the job. Bowing and scraping, the jailer backs away, burbling fearful 
 
 We round another corner, and the ascender shaft is in sight. One obstacle left.
 
-The gateway guard claps her hand to her heart again as we approach, rising from her seat and doffing her cap, but her eyes furrow at the sight of my accomplice. "Evening, again, Dame Raven. Ah, er—"
+The gateway guard claps her hand to her heart again as we approach, rising from her seat, but her eyes furrow at the sight of my accomplice. "Evening, again, Dame Raven. Ah, er—"
 
 "My idiot apprentice," I return quickly. "Open the gates, woman."
 
