@@ -39,7 +39,7 @@ Lishuen is sprawled out on my sofa when I return, clutching a pillow to her ches
 
 I catch her just before her legs give way, and she clings to me, breathing hard. “It’s alright,” I murmur. _“Iol dalo ve; pas seshe, pas seshe.”_
 
-The sound of her native tongue seems to calm her. I help her back down to the sofa and quickly release her, stepping back to try and show her body the respect it has so long been denied. Slowly, hesitantly, she looks up at me. Her eyes and nose are red and dried tears blotch her cheeks.
+The sound of her native tongue seems to calm her. I help her back down to the sofa and quickly release her, stepping back to try and show her body the respect it has so long been denied. Slowly, hesitantly, she looks up at me. Her eyes and nose are red, and dried tears blotch her cheeks.
 
 “Do you know where you are?” I ask gently.
 
@@ -47,7 +47,7 @@ She takes a deep breath, nods.
 
 “Were you having a nightmare?”
 
-Another nod. “They… they had me again,” she says in a small voice.
+Another nod. “They… they had me again,” she mumbles in a small voice.
 
 “I— I am sorry.” I reach down for my satchel; she starts reflexively at the motion. “Might your feel any better with this at hand?” I inquire, retrieving her firearm and ammunition. Her eyes go wide and she seizes the weapon immediately.
 
@@ -73,23 +73,23 @@ I give her a gentle smile. “I told you I had a plan.”
 
 “You have only to ask.” I rise from my perch on the low card-table. “I’ve also tea aplenty should you desire any.”
 
-“Oh. That sounds good.” Her voice is sleepy, but she’s stuttering less. An encouraging sign. “D’you have any black saddleroot?”
+“Oh! Thank you!” Her voice is sleepy and weak, but she’s stuttering less. An encouraging sign. “D’you have any black saddleroot?”
 
-“I most certainly do, it’s my favorite. Would you care for sugar?”
+“I most certainly do, it’s my favorite tea. And I have the *good* kind, not that brittle, sour hydroponic garbage the herbalists carry. One of the other viziers and I import it from *Sacred Blossom;* they grow it the old fashioned way there, or so ’tis said. Would you care for sugar?”
 
-She smiles. “Two cubes, if that’s okay? It’s my favorite too.”
+She looks up at me, a fragile smile on her dry, wounded lips. “Two cubes, if that’s okay?” More quietly, she adds, “It’s… it’s my favorite too.”
 
-“I’ll heat some water right up.” I open up the wall compartment that so artfully conceals the tap and glassware from view, and press the switch at the base of my galvanic boiler. Any courtier would be appalled by the flagrant disrespect for tradition and ritual, particularly in front of a guest, but from her I suspect I need not fear any judgment for my uncultured, heathen ways.
+“I’ll heat some water right up.” I open up the wall compartment that so artfully conceals the tap and glassware from view, and press the switch at the base of my galvanic boiler. Any old-money courtier would be appalled by the flagrant disrespect for tradition and ritual, particularly in front of a guest, but from my present company I doubt I need fear judgment for my uncultured, heathen ways.
 
 A lamp lights up inside the boiler and it starts hissing as it fills with bubbling water. I fill a cup at the tap and walk back to Lishuen, who sits up and takes it eagerly. I watch in silence as she downs nearly the entire cup in one go.
 
 “When was the last time they gave you any water?” I ask softly.
 
-She stares at the cup in her hands for a long moment before answering. “I don’t… I don’t know. I don’t even know how long—” She stops abruptly and looks up at me. “H-how long was I imprisoned?” she blurts out. “You must know.”
+She stares at the cup in her hands for a long moment before answering. “I don’t… I don’t know, I— I don’t even know how long—” She stops abruptly and looks up at me, eyes wide. “H-how long was I imprisoned?” she blurts out. “You must know.”
 
-“I don’t, but I can check. Would you like that?”
+“I don’t,” I reply apologetically, “but I can check. Would you like that?”
 
-She nods. I stand again, wincing at the jolt of pain that courses through my thighs as I do, and make my way over to my desk. I unclip my necklace and set the amulet into a slot on the teletype. The elegant brass-and-wood machine comes smoothly to life, lights spreading across its base and illuminating the keys from beneath. New Script runes glow beneath my fingers, and the print-head chatters to life. Out of habit, I reach out to tighten the feed cable at its base as the roll of control tape starts to turn, lines of text scrolling past. Most of it is an inscrutable, intimate litany meant for _tian bèi_ versed in the arcane lore of machine spirits, but finally it prints three familiar lines and ceases to move.
+She nods. I stand again, wincing at the jolt of pain that courses through my thighs as I do, and make my way over to my desk. I unclip my necklace and set the amulet into a slot on the teletype. The elegant brass-and-wood machine comes smoothly to life, lights spreading across its base and illuminating the keys from beneath. New Script runes glow beneath my fingers, and the print-head chatters to life. Out of habit, I reach out to tighten the feed cable at its base as the roll of control tape starts to turn, lines of text scrolling past. Most of it is an inscrutable, intimate litany meant for _tian bèi_ versed in the arcane lore of machine spirits, but finally it prints a sequence of familiar lines and ceases to move.
 
 % set align center
 
@@ -97,21 +97,21 @@ She nods. I stand again, wincing at the jolt of pain that courses through my thi
     **[ 0087 ]** LETTERS & MEMORANDA AWAIT YOUR ATTENTION.
     - MAY THE EMPRESS REIGN TEN THOUSAND YEARS -
 
-I set my fingers to the keyboard and begin tapping away. Lishuen watches in interest from the sofa as lines of text scroll past. “Is that… a _parcorvos?”_ she asks timidly. "Do you have a power port in here? If… if I could charge my things…"
+I set my fingers to the keyboard and begin to key in commands. Lishuen watches me from the sofa as lines of text scroll past. “Is that… a _parcorvos?”_ she asks timidly. "Is there power in here? Somewhere I… I could charge my things, m-maybe…?"
 
 “I’ve a cabinet with feed-endings,” I tell her. “Might they suffice for your purposes?”
 
-“M-maybe? It's worth trying, especially if I can get my handset working again.”
+“M-maybe? I… I don't know. I'm sorry. Um. May… may I try? If— if I can get my handset working again.”
 
-"By all means, then. One moment." I find the entry I want and strike a key. The machine begins to chatter rapidly, switching from the little feed-tape to its parchment tray, printing out Lishuen’s — or “Serenity’s” — detainee profile in the cold, sharp, rational letters of the New Script, not the fluid, intricate glyphs of the Old. While it prints, I move my chair over to the power cabinet, which I unlock and slide carefully open, wary of disjoining my teletype. “Let me help you over?” I ask, turning to Lishuen.
+"By all means, then. Permit  me but a moment." I find the entry I want and strike a key. The machine begins to chatter rapidly, switching from the little feed-tape to its parchment tray, printing out Lishuen’s — or “Serenity’s” — detainee profile in the cold, sharp, sensible letters of the New Script, so unlike the fluid, intricate glyphs of the Old I so greatly prefer. While it prints, I move my chair over to the power cabinet, which I unlock and slide carefully open, wary of disjoining my teletype. “Let me help you over?” I ask, turning to Lishuen.
 
-She nods, taking a deep breath. She feels steadier on her feet already as I guide her to the chair, if only just. I hand her the satchel as she sits and she extracts the bundle of wiring, along with a few other devices. She spends a few moments leaning over the power sockets and fiddling with cables before there’s a sharp *crack* and sparks briefly illuminate her. Lishuen lets out a frightened cry, pulling frantically away like a stung wild animal. The chair she’s sitting on nearly topples and I barely catch it in time.
+She nods, taking a deep breath. She feels steadier on her feet already as I guide her to the chair, if only just. I hand her the satchel as she sits and she extracts the bundle of wiring, along with a few other devices. She spends a few moments leaning over the power sockets and fiddling with cables before there’s a sharp *crack* and sparks briefly illuminate her. Lishuen lets out a frightened cry, pulling away like a stung wild animal. The chair she’s sitting on nearly topples and I barely catch it in time.
 
 “It’s okay, it’s okay,” I try to reassure her. “That happens all the—” I stop.
 
-Lishuen is huddled in the chair, her legs pulled up in front of her body, breathing hard; tears glint in her eyes and she’s shaking like a leaf. She flinches as I step closer.
+Lishuen is huddled in the chair, her legs pulled up in front of her body, arms slack, breathing hard; tears glint in her eyes and she’s shaking like a leaf. She flinches as I step closer. _"Ve, ve, ve,"_ she whispers, staring up at me in fear. "Please, *please,* God, no, please—"
 
-“Lishi?” I say quietly. She doesn’t respond. I hold out my hand and she recoils, terrified eyes fixed on me. ’Tis just the same expression she wore the moment of her waking— _“Seshenan tam, Lishi?”_ I ask in the gentlest voice I can muster. _“Riga shirenan? An rihes gan dalenan?”_
+“Lishi?” I say quietly. She doesn’t respond. I hold out my hand and she recoils, terrified eyes fixed on me. ’Tis just the same expression she wore the moment of her waking; she seems delirious, as though lost in a fearful waking dream. _“Seshenan tam, Lishi?”_ I ask in the gentlest voice I can muster. _“Riga shirenan? An rihes gan dalenan?”_
 
 And again, whatever frightful state has come over her, something about speaking to her in Ranuir seems to shatter the spell. For a moment she seems confused, looking about wildly, and then suddenly she’s crying, her body wracked by full-force sobs. I kneel down and offer her my hand; she takes it, curling up in the chair.
 
@@ -119,45 +119,123 @@ And again, whatever frightful state has come over her, something about speaking 
 
 _“Shosi shanvol. Shosi, shosi, shosi shanvol—”_
 
-“Lishi, I… I don’t understand.”
+“Lishi, I… I’m sorry, I don’t know what that means.”
 
 “I was back there again. It was all happening again—”
 
 “Lishuen, my dear, no, you were nothing of the sort; you were right here, all the time, I promise.”
 
-“No, that’s not— I don’t—” She taps the side of her head. “In here. In here, it was all happening again. Fuck, why—” She digs her fingernails into her arm, shaking her head again. _“Ie, ie, sema veshes dusho vashes shar; pasit dusho vasho ie—”_
+“No, that’s not— I don’t—” She taps the side of her head. “In here. In here, it was all happening again. Fuck, why—” She digs her fingernails into her arm, shaking her head again. _“Ie, ie, sema veshes shar dushe; pasit dusho ie—”_
 
 *Useless. Broken.* I can understand enough of the words she’s saying to know she’s cursing herself. Instinctively I grab her wrist, pulling her hand away; there’s already bloody marks on her arm. “Ssh, no, no, stop,” I try to tell her. “Don’t do that to yourself, don’t—”
 
-I half expected her to yank away or attack me outright. Instead, the last thing I would have imagined happens: suddenly, she’s crying in my arms. Instincts I’ve buried for decades suddenly rise up and the next thing I know I’m hugging her close, running a hand through her hair, automatically trying to comfort and calm her.
+I half expected her to yank away or attack me outright. Instead, the last thing I would have imagined happens and suddenly she’s crying in my arms. The transformation is startling: one moment, fearful of the lightest touch; the next, clinging to me for dear life. Instincts that have lain unused for decades suddenly take control and the next thing I know I’m hugging her close, running a hand through her hair, automatically trying to comfort and calm her. “Please,” she begs, voice cracking, “please don’t l-let me go.”
+
+“Shh.” I gently massage the back of her neck, and she rests her head on my shoulder. "I won't. I promise."
 
 I don’t even remember the last time I held another human being.
 
-I help her back to the sofa and sit with her for a while, a blanket over our laps, my arms around her shoulders. “It was the spark, wasn’t it,” I ask at length, and she nods wretchedly, squeezing her legs tightly together. I should never have left her there for as long as I did. I should have intervened sooner. Should have had some goddamn courage, chosen a side instead of vacillating for fortnights. 
+I help her back to the sofa and sit with her for a while, a blanket over our laps, my arms around her shoulders. I notice that she's squeezing her legs tightly together, and as realization dawns I can't help but flinch. Little wonder a spark like that would frighten her so fearsomely.
 
-’Tis all so much easier to deal with the knowledge that helpless women and men are being tortured daily under your authority when they’re just numbers and words on a page. So much easier to read bland, clinical intelligence reports than to see firsthand how their revelations are extracted.
+I know, at an intellectual level, that there was no other way this could have happened. It was a miracle I managed to put all the pieces together as quickly as I did, and had I acted sooner to free her it would have doubtess have accomplished little beyond paving our road to the pyre. Her suffering wasn't in vain — it bought us both a solid chance of escape.
 
-“Let me fetch you your tea,” I murmur. “It should be ready by now.”
+And, I… I had to know.
 
-Steam rises from the cup as I press the switch on the heater and boiling water pours out of its tap. I load up the infusers from a little herb jar, just barely remembering Lishuen’s two sugar cubes as I fill the mugs. A thought occurs and I wet a rag under the water before carrying the mugs back to the sofa.
+I had to see firsthand that she truly believed. That she was truly willing to suffer selflessly for her people. There was no other way for me to be certain my schemes would have a better outcome than simply trading one wicked mistress for another.
+
+I still can't help but hate myself for allowing her to be so direly mistreated, for so long.
+
+’Tis much easier to cope with the knowledge that helpless women and men are being tortured daily in your name when they’re just names on a page. Names, numbers, and lists of offenses. So much easier to read bland, clinical intelligence reports than to see firsthand how their revelations are extracted. So much easier to set my seal to a pile of death certificates than to witness those deaths brought about.
+
+“Let me fetch you your tea,” I murmur. “It should be ready by now.” I squeeze her hand tightly as I get to my feet. She lets out an involuntary, heartbreaking little mewl as I let go.
+
+I fill a cup with boiling water from the kettle, kicking up a small, warm cloud of steam. I load up the infusers from a little herb jar, just barely remembering Lishuen’s two sugar cubes. A thought occurs and I wet a rag under the water before carrying the mugs back to the sofa.
 
 “May I tend to your wounds?” I ask Lishuen. “I fear I’ve no bandages but at least I might clean away the blood and dirt.”
 
-She swallows, nods. “Please just… please just be gentle.”
+She swallows, nods. “Please just… please be gentle.”
 
-I set the mugs across from us, and seat myself next to the poor girl. I slip her arm free of her outer robes, and begin carefully wiping clean her many lacerations. She seems to react less now to my touch, though her muscles still tense with every stroke of the cloth. Halfway through I have to return to the faucet to wet another, so caked is the first in blood and grime.
+I set the mugs across from us, and seat myself next to the poor girl. I take her arm in my hands, glancing up at her as I do. The touch elicits the briefest pained little smile, and she shivers as I slip her arm out of her outer robe. With the utmost tenderness and care, I dab and brush the cloth along her many lacerations, slowly wiping away fortnights of accumulated blood and grime. Underneath it all her skin is a deep, freckled tan, enviably smooth and soft. She seems to react less now to my touch, though her muscles still tense with every stroke of the cloth. Halfway through I have to return to the faucet to wet another, so bloodied and filthy is the first.
 
-The hot water on her skin seems to soothe her despite how badly it must hurt, and by the time I’ve finished both her arms, the look of fear and pain on her face has somewhat diminished; her eyes are contentedly closed, the tiniest smile on her lips.
+The hot water on her skin seems almost to soothe her, despite how badly it must hurt. By the time I’ve finished cleaning both her arms, the look of fear and pain on her face has somewhat diminished. Her emerald eyes are contentedly closed, the tiniest smile on her lips.
 
-“Might I clean your cheeks as well?” I query, slowly and cautiously holding up a hand. “It will be easier to escape unnoticed if you do not look so battered.”
+“Might I wash your face as well?” I inquire, slowly and cautiously holding up a hand. “It will be easier to escape unnoticed if you do not look so battered.”
 
-She looks away for a moment but then nods, resting her soft cheek in my open palm. She seems much more sensitive here; every brush and pat of the cloth begets another flinch, another wince, another small, pained vocalization. Up close, her wounds appear even more dire, and it almost would seem a miracle that none have festered.
+She looks away for a moment but then nods, resting her soft cheek in my open palm. She seems much more sensitive here; every brush and pat of the cloth begets another flinch, another wince, another small, pained vocalization. I run my fingers through her hair as I clean her cheeks, gathering it behind her eaxrs to keep it out of the way — and take a sharp breath as I catch sight of what was hidden beneath her long, scraggly locks.
 
-I know better, however, for ’tis part of the typical protocol to wet open wounds with alcohols and purifying agents, as a means to ensure that no prisoner is rescued from our care us by an untimely death — and to greatly magnify the pain already inflicted.
+From the moment I first laid eyes on her, the girl seemed so… normal, so plain, so human. She's shown no preternatural feats of might, nor speed, nor reflex; strange though her color might be, it is no stranger than the dark grey skin and brilliant white hair of the Khmai, nor the Kaparttu with their radiant golden irises, nor the eerie slimness of the Void-dwelling Nikeri whose piracy and slavetaking terrorise the Rim. But this — this queer mutation is unlike anything I have ever seen in a human body. So minuscule, and yet so strange: where the helix of my own ears is blunt and round, hers tapers to a soft, elegant point, almost like the tip of a leaf, and so utterly unlike any other of Haven's diverse and numerous races. So… alien.
 
-“It’s— ahh— so warm in here,” she murmurs, as I wipe away a streak of blood just below her eye. “I don’t remember th-the last time I wasn’t shivering. I don’t remember the last time I was… allowed to wear clothes.” She glances out my office window, at the rain crashing down outside. “Is it cold out there?”
+I am suddenly reminded of the docile, friendly hounds so many in the City keep as pets. And of the fierce, feral sabrewolf stock from which they descend. Similar in body but for wolves' majestic coats, proof against the cold and snow, their long, piercing fangs, ready to tear into unwary _pien şai,_ — and their sharp, pointed ears, always alert for the sounds of prey.
 
-I nod. “I fear so. Be that as it may, I’ve a proper coat and boots for you;
+What in Haven have I gotten myself into?
+
+Up close, Lishuen's wounds look dire, and it almost would seem a miracle that none have yet festered. I know better, however, for ’tis part of the interrogator's protocol to wet open wounds with alcohols and purifying agents, as a means to ensure that no prisoner is rescued from our care us by an untimely death — and to greatly magnify the pain already inflicted.
+
+I gaze into her green eyes as they flutter open again for a moment. They're so… so gentle, so timid, so… frightened. Human or not, she is, in this moment, fragile and vulnerable, lost in a world with more predators than prey. The drive to protect her that wells up in my heart is one I have not felt in many a year, but its ferocity is all the more overpowering for its strangeness.
+
+“It’s— ahh— so warm in here,” she murmurs, as I wipe away a streak of blood just below her eye. “I don’t remember th-the last time I wasn’t shivering. I don’t remember the last time I was… was…” Her voice falters, and she looks away, tears welling up again. “…a-allowed to wear clothes,” she finishes with difficulty, humiliated. She glances out my office window, at the rain crashing down outside. “Is… God, i-is it cold out there?”
+
+I nod. “I fear so. Be that as it may, I’ve a proper coat and boots for you; and the train to the mainland is well heated.”
+
+She swallows, nods. "Th-thank you." She looks up at me. "If… if this is Carnelian, that means… we have an embassy here, don't we? Envoys from the People?"
+
+I was expecting this. I nod. "I know you must wish desperately to be with your own kind again, but the security ’round the embassy complex is simply too tight. It's under the watch of the Imperial Guard itself. If we were to go within sight of it we should both be undone."
+
+She nods. "I… I figured, but… if I can get my radio handset working…" She gazes out the window. "Maybe we could get close enough to get word. To let them know I'm…" Fresh tears well up in her eye. "…alive," she mumbles. "Trying to… to come home. They might still be able to help. And… my friends, my… the people I love…" She shakes her head violently. "I don't want them to think I'm gone." Her voice cracks and she buries her head in a pillow.
+
+I gaze at her, calculations rushing through my mind. "How close would you need to get?" I murmur. "The complex is in the Forbidden City. It's a district to itself, closely guarded, but if we need not approach the walls…"
+
+"I… I think… half a league, maybe. If it's not damaged."
+
+I exhale. "It should be possible. We can strategize when we're safely quit of this place, however."
+
+She looks up at me. "Where are we going?"
+
+"I've a townhouse in the City. Up in Clarity Gardens, nearly five leagues from the Palace. It should be safe for the moment — my loyalty to the Empress has never been questioned and it will take some time for your disappearance to be detected, let alone linked with me. By then we'll be as far from here as possible."
+
+She nods, relief evident on her face. "Okay."
+
+"There, all finished." I fold up the rag and set it aside. She fumbles with the red robe, trying cover up her arms again and I restrain my instinct to try and help. The girl hasn't been permitted a moment of bodily autonomy for months — I need to let her have this.
+
+Finally she succeeds and leans back against the sofa, resting her head against my shoulder. "I've a nice warm guest room back home," I tell her. "With a soft mattress and a fireplace. You'll be able to rest properly while we plan our next move. And there'll be no shortage of food or water."
+
+"Oh, thank God." She hugs a pillow to her chest, resting her head on it. "I haven't slept on a real bed in so long. I've barely slept at all."
+
+"Let me go fetch that printout." I pat her shoulder. "I'll be right back."
+
+She nods, and I stand, heading for my desk. I glance at the open feed cabinet and notice a device plugged into a mess of green wires, a green light blinking on its side. "Lishi?" I ask, turning back to her. "That device — is it supposed to be lit up?"
+
+"It's working!?" Lishuen tries to stand; I rush back to her side to assist her.
+
+"Steady, now."
+
+"Help me back over there, please—"
+
+"Are you sure—"
+
+"I'm sure, please. I'll be fine." Lishuen grabs the handset from the card table and I help her make her way back to the cabinet. As she fiddles with the cables, I retrieve the printed pages from the teletype and power it back off, returning the amulet to its place around my neck.
+
+Lishuen lets out a delighted exclamation. I turn to find her holding up the handset, which is lit up across the face, a miniature screen full of symbols I don't recognize. "It's working," she murmurs. "Oh, thank God, the converter works."
+
+"I'm glad you didn't go through all that for nothing." I reply.
+
+She nods. "Oh, my gosh. Okay. Um." She looks up at me. "Could you… could you maybe fetch my other things from the table?"
+
+"It would be my pleasure." I hand the sheaf of papers. "Here's everything the Office has on you, as requested."
+
+"Oh! Thank you!" She grabs the papers, scanning them rapidly as I carry the rest of her equipment over to the cabinet. Then she freezes, staring at the papers unbelieving, hands trembling.
+
+"L-Lishi?" I query gently.
+
+"Twenty… twenty fortnights…" she manages, staring at the paper. "I've… I've been gone for… it's been almost a y-year?"
+
+I touch her gently on the shoulder. "I'm sorry," I murmur.
+
+Her eyes are tearing up again. With a violent motion, she folds the sheaf roughly in half and thrusts it at me. "Take this," she mumbles. "I can't… I need to focus right now."
+
+I stow the papers safely in an inner pocket of my robe, and watch idly as Lishuen hooks the rest of her galvanic equipment into the feed relay. One by one, the machinery comes to life, little lamps lighting up around the edges. It's hard to guess at what most of it is for — Green tech has long been a subject of fables
+
+
 
 What’s the plan after that?”
 
