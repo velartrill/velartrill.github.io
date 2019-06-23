@@ -137,7 +137,7 @@ I don’t even remember the last time I held another human being.
 
 I help her back to the sofa and sit with her for a while, a blanket over our laps, my arms around her shoulders. I notice that she's squeezing her legs tightly together, and as realization dawns I can't help but flinch. Little wonder a spark like that would frighten her so fearsomely.
 
-I know, at an intellectual level, that there was no other way this could have happened. It was a miracle I managed to put all the pieces together as quickly as I did, and had I acted sooner to free her it would have doubtess have accomplished little beyond paving our road to the pyre. Her suffering wasn't in vain — it bought us both a solid chance of escape.
+I know, at an intellectual level, that there was no other way this could have happened. It was a miracle I managed to put all the pieces together as quickly as I did, and had I acted sooner to free her it would have doubtless have accomplished little beyond paving our road to the pyre. Her suffering wasn't in vain — it bought us both a solid chance of escape.
 
 And, I… I had to know.
 

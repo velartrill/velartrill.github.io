@@ -4,75 +4,15 @@
 	<title>Ranuir: A Reference Grammar</title>
 	<meta charset="utf-8">
 	<link href="../../res/serenity.css" rel="stylesheet" type="text/css">
-	
-	<style>
-		.ci {
-			background-color: black;
-			width: 100%;
-			color: white;
-			border: 1px solid white;
-		}
-		.ci tr { font-family: "Open Sans", sans-serif; font-weight: 100;}
-		.ci th { text-align: right; }
-		.ci td, .ci th { padding: .2em .4em; }
-		.ci .slogan {
-			text-align: center;
-			letter-spacing: .2em;
-			color: #888;
-			padding-bottom: 0;
-		}
-		table { width: 100%; }
-		.answer {
-			transition: 1s;
-			padding: 0 .3em;
-			background: #54022E;
-			color: #54022E;
-			border: 1px inset #640035;
-			text-shadow: none;
-			#border-radius: 3px;
-		}
-		.answer:hover {
-			transition: .5s;
-			border-style: inset;
-			color: hsl(328,100%,89%);
-			background: #280016;
-			text-shadow: 0px 0px 30pt hsl(328,35%,61%);
-		}
-		.box {
-			width: 90%;
-			margin: auto;
-			padding: .5em;	
-			border: 1px solid #D27FAC;
-			text-align: left;
-			font-size: 12pt;
-		}
-		.box > h1 {
-			font-size: 120%;
-			border-bottom: 1px solid #D27FAC;
-			margin-top: 0;
-			padding-top: 0;
-			text-align: center;
-		}
-		.deflist {
-			columns: 2;
-		}
-		.deflist div {
-			margin-left: 1em;
-			text-indent: -1em;
-		}
-		.deflist b {
-			padding-right: .2em;
-		}
-	</style>
+	<link href="../../res/lang.css" rel="stylesheet" type="text/css">
+	<link href="set/society-doc.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <h3><a href="../../">ʞ</a> / <a href="../index.html">fiction</a> / <a href="./index.html">Spirals</a> /</h3>
 <h1>Ranuir: A Reference Grammar</h1>
 <div class="byline">by Lexi Summer Hale</div>
-<h2>Chapter 1: Introduction</h2>
-<div>
 <table class="ci">
-	<tr><th colspan="2" style="text-align: center">- CONTROLLED INFORMATION -</th></tr>
+	<tr><th colspan="2" class="header">CONTROLLED INFORMATION</th></tr>
 	<tr><td colspan="2">
 		This document contains information whose transmission and propagation are
 		subject to restraint. Ensure you understand and can abide by all parameters
@@ -80,15 +20,21 @@
 		without appropriate clearance, please close it now and report a security breach to the
 		applicable Controlling Authority.
 	</td></tr>
-	<tr><td colspan="2" class="slogan">* THROUGH VIGILANCE, ETERNITY *</td></tr>
 	<tr><td colspan="2"><hr></td></tr>
-	<tr><th width="25%">Control Class</th><td style="background-color: #164700;border:1px solid #B0FF8C;text-align:center;">GREEN</td></tr>
-	<tr><td></td><td><i>Not for transmission to nonresidents. Internally unrestricted.</i></td></tr>
-	<tr><th>Authority</th><td>WCO / Shevret Enforcement Directorate</td></tr>
+	<tr><td colspan="2" class="slogan">THROUGH VIGILANCE, ETERNITY</td></tr>
+	<tr><td colspan="2"><hr></td></tr>
+	<tr><th width="25%">Control Class</th>
+		<td>
+			<span class="control" style="--class:101">GREEN</span>
+			<i>Not for transmission to nonresidents. Internally unrestricted.</i>
+		</td>
+	</tr>
+	<tr><td></td><td></td></tr>
+	<tr><th>Authority</th><td class="auth"><span>WCO</span><span>Shevret Enforcement Directorate</span></td></tr>
 	<tr><th>Codewords</th><td><i>-GENERAL ACCESS-</i></td></tr>
 	<tr><th>Notes</th><td><i>-INAPPLICABLE-</i></td></tr>
 </table>
-</div>
+<h2>Chapter 1: Introduction</h2>
 <p>Ranuir is the official language of the Society of Worlds, and the only one in wide use. It is a constructed and carefully
 standardized language spoken by nearly a billion souls from the frontier colonies to the hidden capital planet of Tel Casran.</p>
 <h2>Phonology</h2>
@@ -115,9 +61,10 @@ separated by at least one consonant; there are no diphthongs and V syllables can
 			<li><i>cetgar</i> [ket͡s̮.gɑɹ͡ɣ]</li>
 			<li><i>cet</i> [ket͡s̮]</li>
 		</ul>
-		<li>/k g/ → [x ɣ] at the end of words in pausa and before stops. Some speakers may generalize this to the coda position, though this is seen as a personal quirk. It is associated with gentleness and femininity, though it is evinced both men and women.</li>
+		<li>/k g/ → [(k)x (g)ɣ] at the end of words in pausa and before stops. Some speakers may generalize this to the coda position, though this is seen as a personal quirk. It is associated with gentleness and femininity, though it is evinced both men and women. Men are more likely to preserve the stop and pronounce the sound as an affricate (e.g. [kx]), while women more frequently pronounce only the fricative (e.g. [x]).</li>
 		<li>/ɹ/ is pronounced [ɹ͡ɣ]; that is, coarticulated with a voiced velar fricative. This is in free variation with [ɹˠ]. </li>
-		<li>Stress falls on the penultimate syllable.</li>
+		<li>In informal speech, noun stress falls on the penultimate syllable. In formal speech, it falls on the "head" syllable (the morpheme that is being modified by another), though this feature is widely disliked and increasingly disused even the Central Worlds.</li>
+		<li>Verb stress falls on the syllable directly after the noun stem (so <i>ceté, selé, asselé, astelíte)</i></li>
 	</ol> 
 	
 	<li><strong>Colonial dialects:</strong></li><ol>
@@ -140,17 +87,17 @@ separated by at least one consonant; there are no diphthongs and V syllables can
 </ol>
 
 <table style="width: 100%">
-	<tr><th></th><th>Core</th><th>Colonial</th></tr>
+	<tr><th></th><th>Central</th><th>Colonial</th></tr>
 	<tr><td><i>vartash</i></td><td>[ˈvɑɹ͡ɣ.tɑʃ]</td><td>[ˈvæʐ.tæʃ]</td></tr>
 	<tr><td><i>rantal</i></td><td>[ˈɹ͡ɣɑn.tɑl]</td><td>[ˈʐæn.tæl]</td></tr>
 	<tr><td><i>shevret</i></td><td>[ˈʃev.ɹ͡ɣet͡s̮]</td><td>[ˈʃɛv.ʐɛtʰ]</td></tr>
 </table>
 <table>
 	<tr><td colspan="2"><i>Rantashar silte rana.</i></td></tr>
-	<tr><th align="right">Core</th><td width="60%">[ɹ͡ɣɑn.ˈtɑ.ʃɑɹ͡ɣ ˈsil.te ˈɹ͡ɣɑ.nɑ]</td></tr>
+	<tr><th align="right">Central</th><td width="60%">[ɹ͡ɣɑn.ˈtɑ.ʃɑɹ͡ɣ ˈsil.te ˈɹ͡ɣɑ.nɑ]</td></tr>
 	<tr><th align="right">Colonial</th><td>[ˈʐæn.tɑ.ʃæʐ ˈsɪl.te ˈʐɑ.nɑ]</td></tr>
 </table>
-<p>So, which accent should you use? It depends on how you want to come across. Colonial is seen as coarser; it's associated with the dangers and excitement of a frontier life. Core Ranuir is more sedate and sophisticated, though it can come across as out-of-touch or pretentious to some on the New Worlds. Cassil Tegvari, for instance, embraces her Colonial accent, while Lisuan Tegvari affects a Core accent.</p>
+<p>So, which accent should you use? It depends on how you want to come across. Colonial is seen as coarser; it's associated with the dangers and excitement of a frontier life. Central Ranuir is more sedate and sophisticated, though it can come across as out-of-touch or pretentious to some on the New Worlds. <a href="taken.html">Cassil Tegvari</a>, for instance, embraces her Colonial accent, while <a href="missing.html">Lisuan Tegvari</a> affects a Central accent.</p>
 <h2>Grammar</h2>
 <div class="box">
 	<h1>Chapter Vocabulary</h1>

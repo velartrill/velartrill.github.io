@@ -1,0 +1,73 @@
+.ci {
+	background-color: black;
+	color: white;
+	border: 1px solid white;
+	font-size: 80%;
+	margin: 1em;
+	padding: 0.5em;
+}
+.ci th.header {
+	text-align: center;
+}
+.ci th.header::before,
+.ci th.header::after {
+	content: "—";
+	margin: 0 0.5em;
+	opacity: 0.6;
+}
+.ci hr { border-color: white; opacity: 0.2; }
+.ci .control {
+	background-color: hsl(var(--class), 100%, 10%);
+	border: 1px solid hsl(var(--class), 100%, 80%);
+	color: hsl(var(--class), 100%, 90%); 
+	text-align:center;
+	padding:0.3em 0.5em;
+	margin-right: 0.3em;
+	font-weight:normal;
+}
+.ci td i { font-weight: 100; }
+.ci tr {
+	font-family: "Alegreya Sans", "Open Sans", sans-serif;
+}
+.ci th { text-align: right; }
+.ci td, .ci th { padding: .2em .4em; }
+.ci .slogan {
+	text-align: center;
+	letter-spacing: .2em;
+	color: #888;
+	padding-bottom: 0;
+}
+.ci .slogan::before,
+.ci .slogan::after {
+	content: "·";
+	margin: 0 0.3em;
+	opacity: 0.6;
+}
+.ci .auth {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+.ci .auth span {
+	display: inline-block;
+	background: hsl(101, 70%, 60%);
+	color: black;
+	padding: 0.1em 0.3em;
+	margin: 0.1em 0;
+	border-radius: 5px 0 5px 0;
+
+	-webkit-clip-path: polygon(0.5em 0, 100% 0, calc(100% - 0.5em) 100%, 0 100%);
+	clip-path: polygon(0.5em 0, 100% 0, calc(100% - 0.5em) 100%, 0 100%);
+}
+.ci .auth span:first-child {
+	background: hsl(101, 70%, 20%);
+	color: hsl(101, 70%, 80%);
+	font-weight: bold;
+	-webkit-clip-path: polygon( 0 0, 100% 0, calc(100% - 0.5em) 100%, 0 100%);
+	clip-path: polygon( 0 0, 100% 0, calc(100% - 0.5em) 100%, 0 100%);
+}
+.ci .auth span:last-child {
+	-webkit-clip-path: polygon(0.5em 0, 100% 0, 100% 100%, 0 100%);
+	clip-path: polygon(0.5em 0, 100% 0, 100% 100%, 0 100%);
+}
+.ci .auth span:not(:last-child) { padding-right: 0.6em; margin-right: -0.2em; }
+.ci .auth span:not(:first-child) { padding-left: 0.6em; margin-left: -0.2em; }
