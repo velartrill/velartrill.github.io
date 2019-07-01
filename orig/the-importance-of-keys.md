@@ -165,7 +165,7 @@ She looks away for a moment but then nods, resting her soft cheek in my open pal
 
 From the moment I first laid eyes on her, the girl seemed so… normal, so plain, so human. She's shown no preternatural feats of might, nor speed, nor reflex; strange though her color might be, it is no stranger than the dark grey skin and brilliant white hair of the Khmai, nor the Kaparttu with their radiant golden irises, nor the eerie slimness of the Void-dwelling Nikeri whose piracy and slavetaking terrorise the Rim. But this — this queer mutation is unlike anything I have ever seen in a human body. So minuscule, and yet so strange: where the helix of my own ears is blunt and round, hers tapers up to a soft, elegant point, almost like the tip of a leaf, and so utterly unlike any other of Haven's diverse and numerous races. So… alien.
 
-I am suddenly reminded of the docile, friendly hounds so many in the City keep as pets. And of the fierce, feral sabrewolf stock from which they descend. Similar in body but for wolves' majestic coats, proof against the cold and snow, their long, piercing fangs, ready to tear into unwary _pien şai,_ — and their sharp, pointed ears, always alert for the sounds of prey.
+I am suddenly reminded of the docile, friendly hounds so many women of the City keep as pets. Reminded of the fierce, feral sabrewolf stock whence they descend. So similar in body but for the wolf's majestic coat, proof against the cold and snow; her long, piercing fangs, ready to tear into unwary _pien şai,_ — and her sharp, pointed ears, always alert for the sounds of prey.
 
 What in Haven have I gotten myself into?
 
