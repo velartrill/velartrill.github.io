@@ -11,17 +11,17 @@ Mid-yawn, the startled entry guard stumbles to her feet when she sees me, saluti
 
 "I've no need," I respond coolly, deigning to glance in her direction. "I've only a small errand afore me. Open the gates."
 
-Sentries on patrol and interrogators with hands full of paperwork start in alarm as they see my face, my long red silken cloak billowing out behind me. They move quickly to make gestures of fealty and obeisance, for they know entirely too well the price they might pay for perceived disrespect. I pay them little heed, not even glancing in their direction as I stride past. A sobbing, manacled prisoner is dragged unceremoniously past me by a pair of jailers, led by a bailiff. By the robes she’ll soon be shorn of, I’d take the poor helpless girl for a civil servant. A tax-collector on the take perhaps, or perhaps an embezzling burser. God knows the strokes of my pen have condemned enough of them.
+Sentries on patrol and interrogators with hands full of paperwork start in alarm as they see my face, my long red silken cloak billowing out behind me. They move quickly to make gestures of fealty and obeisance, for they know entirely too well the price they might pay for perceived disrespect. I pay them little heed, not even glancing in their direction as I stride past. A sobbing, manacled prisoner is dragged unceremoniously past me by a pair of jailers, led by a bailiff. By the robes she’ll soon be shorn of, I’d take the poor helpless girl for a civil servant. A tax-collector on the take perhaps, or perhaps an embezzling bursar. God knows the strokes of my pen have condemned enough of them.
 
 To my left, through a wide doorway, I glimpse the fiery glow of the crematorium — the heart of this godforsaken place, the nexus where all its winding corridors meet. I force myself to look forward, not at what I know is going on inside. My stomach roils all the same. The stench is unmistakable.
 
 This is the place I risk spending the rest of my days, if this goes wrong.
 
-—then again, do I not take the same risk every day? There are no winners in the great game of politics, for nobody can win a game that never ends.
+—then again, do I not take that same risk every single day? Politics is like a game that never ends, and a game that never ends is a game that cannot be won. Slaves and lords, peasants and mandarins, mercenaries and Empresses: at this table, we all lose.
 
 But perhaps there’s yet a way to walk away from the table.
 
-I glance at the sigils on a short tapestry hanging overhead, seeming to shimmer in the low, flickering light of a galvanic luminator, and turn the corner. Cell Heron-6. A jailer’s standing guard at the door — that means someone’s inside. I’ve timed this just right.
+I glance at the sigils on a short tapestry hanging overhead, seeming to shimmer in the low, flickering light of a galvanic luminator, and turn the corner. Interrogation cell Heron-6. A jailer’s standing guard at the door — that means someone’s inside. I’ve timed this just right.
 
 I take a deep breath to calm my pounding heart, and approach.
 
@@ -43,33 +43,35 @@ The interrogatrix looks baffled as she’s led out of the tiny cell, galvanic wa
 
 “Madame V-Vizier!” she exclaims. She falls to her knees, her white robes fluttering about her, and lowers her head respectfully. “What— how— how may I—”
 
-I interrupt her. “What in God’s unknowable name do you call that sorry performance—” I glance at the Old Script characters adorning her left sleeve “—Pigeon Starglen?” I finish. I motion irritably to the guard to secure the cell door. “Is that what you call *interrogation?* Blood of the Seven, I cannot *believe* the care of so vital an asset has fallen into your clumsy, feeble grip. Would it *behoove* you to explain your careless — nay, *witless* conduct ere I send you away for a lashing?” I hear the growing sound of boots scraping and squeaking on polished stone — jailers and guards flocking to upraised voices like a long-toothed pack of _zhan biau_ to the scent of blood on the wind.
+I interrupt her. “What in God’s unknowable name do you call that sorry performance—” I glance at the Old Script characters adorning her left sleeve “—Pigeon Starglen?” I finish. I motion irritably to her guard to secure the cell door. “Is that what you call *interrogation?* Blood of the Seven, I cannot *believe* the care of so vital an asset has fallen into your clumsy, feeble grip. Would it perhaps *behoove* you to explain your careless conduct ere I send you away for a lashing?” I hear the growing sounds of leather boots scraping and squeaking on polished stone — jailers flocking to upraised voices like a long-toothed pack of _zhan biau_ to the scent of blood on the storm-wind.
 
 “Dame Raven, your magn—” the guard begins, looking back and forth in confusion between the two of us. I silence her with a glance.
 
-“M-madame,” Pigeon squeaks, lips trembling, “I— I was simply conducting the prisoner’s interrogation, session forty-six, per protocol— I cannot imagine what—”
+“M-madame,” Pigeon squeaks, lips trembling, “I— I was conducting six-oh-six-seven-two's midnight interview, the same as always, completely per the protocol y-your magnificence authorized— I cannot imagine what—”
 
-“Per protocol? *Per protocol!?* So help me our maker but if *that* is how your mistress taught you to interrogate a woman she should share doubly in your whipping!” I advance on her as a throng of armed women assembles smoothly behind me. Pigeon's eyes widen. The guard, her erstwhile ally, takes one look at her colleagues behind me — and falls smoothly into line.
+“Per protocol? *Per protocol!?* So help me our maker but if *that* is how your mistress taught you to interrogate a woman she should share doubly in your thrashing!” I advance on her as a throng of armed women assembles smoothly behind me. Pigeon's eyes widen in alarm. Her erstwhile ally the cell guard takes one look at her colleagues behind me and steps back, blending seamlessly into their ranks — falling in line.
 
-“I— ten thousand apologies, your b-boundless magnificence," Pigeon babbles, no doubt now aware of the seriousness of her situation, “but I fail to understand—”
+“I— ten thousand apologies, your b-boundless magnificence," Pigeon babbles, now perfectly isolated, “but I fail to understand—”
 
 *“She was playing you.”* I aim an accusing finger at the silhouetted figure visible through the one-way window. “Like a God-bedamned _pai ĉiņ,_ if I am any judge!”
 
 “P-playing me? H—”
 
-“’Twas the mercy of fate alone a guard of higher caliber than this witless oaf had good enough sense to report this… *travesty* to my office. How many of our own secrets did you *betray* to the prisoner?” I growl. “What did you let *slip,* Starglen?” Like wraiths solidifying out of smoke, feminine figures in black leather armor appear in the shadows behind her, the dim lamp-light glinting off their helmets as they close in for the kill. 
+“’Twas the mercy of fate alone a guard of higher caliber than your witless oaf had good enough sense to report this… *travesty* to my office. How many of our own secrets did you *betray* to the prisoner?” I growl. “What did you let *slip,* Starglen?” Like wraiths solidifying out of smoke, feminine figures in black leather armor appear in the shadows behind her, the dim lamp-light glinting off their helmets as they close in for the kill. 
 
 *“Betray!?”* Pigeon rises to her feat, her veneer of obedience and respect faltering. “I was interrogating *her,* not the other way ’round—”
 
-All it takes is one contemptuous gesture. The bodies of the young, sturdy, and almost frighteningly disciplined women move like a force of nature suddenly unleashed, effortlessly restraining Pigeon with muscle alone and slamming her to the floor. I clasp my hands behind my back, allowing the jailers a moment to indulge their sadism as Pigeon screams and writhes in their grasp, suddenly on the other end of the sparker. “You wretched, insubordinate creature,” I murmur, leaning down to look the sobbing interrogatrix in the eye. I flick my fingers and the screaming ceases, the guards hauling her back to her feet. I step languidly closer, eyes fixed on the girl in white, delicately violating her personal space. "Does the concept of *reverse interrogation* entirely elude your limp-wristed grasp?" I murmur, eye to terrified eye, our lips nearly close enough to kiss. I can't help but smile, intoxicated by the young torturer's terror, drinking it in like a fine wine. I can feel it, in my body and in my soul, the perfect machine of Imperial power flowing around me, flowing through me. It amplifies me, wrapping my every word and motion in the crushing majesty of the State, and for this one moment — this one last perfect moment — I exult in the spray of its mighty waves as they crash all about me.
+All it takes is one contemptuous gesture. The bodies of the young, sturdy, and almost frighteningly disciplined women surge like a force of nature suddenly unleashed, seizing hold of Pigeon's waifish form and slamming her brutally to the floor. I clasp my hands patiently behind my back, allow the jailers a moment to indulge their sadism. Pigeon screams and writhes in their tight grip, finding herself for once on the other end of the sparker. “You wretched, insubordinate creature,” I murmur, leaning down to look the sobbing interrogatrix in the eye. I hold her gaze for a long moment, then I flick my fingers and the sound of galvanic crackling stops, the screams devolving into choked, terrified gasps for breath as Pigeon is hauled unceremoniously to her feet.
+
+I step languidly closer, eyes still fixed on the girl in white, delicately violating her personal space with the whole of my body. "Does the concept of *reverse interrogation* entirely elude your limp-wristed grasp?" I murmur, eye to terrified eye, our lips nearly close enough to kiss. I can't help but smile, intoxicated by the young torturer's terror, drinking it in like a fine wine. I can feel it, in my body and in my soul, the perfect machine of Imperial power flowing around me, flowing through me. It amplifies me, wrapping my every word and motion in the crushing majesty of the State, and for this one moment — this one last perfect moment — I exult in the spray of its mighty waves as they crash all about me.
 
 I need to make the best of this — my last hit of the finest drug Creation has ever known. God alone knows if ever I shall experience the like again.
 
 I pat the helpless girl roughly on the cheek, relishing the look of fury and violation in her eye. "Fie and calamity," I murmur, tilting my head ever so slightly, and inflecting my voice with the proper mocking cue. "Were you apprenticed in error to a *tax collector?"* She flushes at the raucous giggles that ensue from the soldiers around her. Oh, but it's been too long since I've been able to sink my teeth into someone who really just *deserved* it.
 
-I hold out a hand, and as though reading my mind, a woman steps smoothly forward, setting Pigeon's galvanic wand in my waiting palms grip-first. Pigeon's eyes widen and she can't restraint a sharp gasp of fear. I reward her with a smirk as I toy with the horrible little device in a way precisely calculated to further arouse her terror.
+I hold out a hand, and as though reading my mind, a woman steps smoothly forward, setting Pigeon's galvanic wand in my waiting palm grip-first. Pigeon's eyes widen and she can't restrain a small gasp of fear. I reward her with a smirk as I toy with the horrible little device, in a manner precisely calculated to further arouse her terror.
 
-Torturers. They're all the same. They can dish it right out but they can never, never take it.
+Torturers. They're all the same. They can dish it right out but they can never, ever take it.
 
 "Pigeon, darling girl," I say to her gently, taking her chin in my beringed hand and angling the sharp edge of my freshly-cut fingernails up into her jawbone, "does the name 'Diamond Beach' mean anything to you?"
 
