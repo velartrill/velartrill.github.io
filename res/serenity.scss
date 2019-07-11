@@ -108,19 +108,19 @@ body {
 	}
 
 	/* browser specific hacks */
-	&::-webkit-scrollbar { width: 30px; }
+	&::-webkit-scrollbar { width: 20px; }
 	&::-webkit-scrollbar-track {
 		// { background: hsl(var(--hue),96%,8%); }
-		background: linear-gradient(to right, var(--bg-color) 30%, hsl(var(--hue),100%,calc(var(--bright) / 2)) 100%);
+		background: linear-gradient(to right, var(--bg-color) -50%, hsl(var(--hue),100%,calc(var(--bright) / 2)) 130%);
 	}
 	&::-webkit-scrollbar-thumb {
 		// background: 
 		background: url(/res/scroller.svg), hsl(var(--hue),100%,21%);
-		background-size: 70%;
+		background-size: 80%;
 		background-repeat: no-repeat;
 		background-position: center;
-		border-radius: 6px 0 0 6px;
 		border-left: 1px outset hsl(var(--hue), 60%, 30%);
+		border-radius: 1px 0 0 1px;
 		&:hover {
 			background-color: hsl(var(--hue),100%,28%);
 			border-color: hsl(var(--hue), 60%, 40%);
