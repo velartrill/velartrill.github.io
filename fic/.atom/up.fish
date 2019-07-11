@@ -132,9 +132,9 @@ for idx in (seq (count $files))
 end
 
 echo -n "[2K"\r # make sure we're on a clean line
-echo \x1b"[1m" $new     "chapter[s]" \x1b"[;92m" added   \x1b"[m"
-echo \x1b"[1m" $changed "chapter[s]" \x1b"[;94m" changed \x1b"[m"
-echo \x1b"[1m" (expr $total - $procd) "chapter[s]" \x1b"[;91m" deleted \x1b"[m"
+echo \x1b"[1m" $new     \x1b"[;92m" added   \x1b"[m"
+echo \x1b"[1m" $changed \x1b"[;94m" changed \x1b"[m"
+echo \x1b"[1m" (expr $total - $procd) \x1b"[;91m" deleted \x1b"[m"
 
 echo " - writing atom…"
 
