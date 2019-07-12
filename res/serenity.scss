@@ -108,12 +108,23 @@ body {
 	}
 
 	/* browser specific hacks */
-	&::-webkit-scrollbar { width: 1.3em; }
-	&::-webkit-scrollbar-track
-		{ background: hsl(var(--hue),96%,8%); }
+	&::-webkit-scrollbar { width: 20px; }
+	&::-webkit-scrollbar-track {
+		// { background: hsl(var(--hue),96%,8%); }
+		background: linear-gradient(to right, var(--bg-color) -50%, hsl(var(--hue),100%,calc(var(--bright) / 2)) 130%);
+	}
 	&::-webkit-scrollbar-thumb {
-		background: hsl(var(--hue),100%,21%);
-		&:hover { background: hsl(var(--hue),100%,28%); }
+		// background: 
+		background: url(/res/scroller.svg), hsl(var(--hue),100%,21%);
+		background-size: 80%;
+		background-repeat: no-repeat;
+		background-position: center;
+		border-left: 1px outset hsl(var(--hue), 60%, 30%);
+		border-radius: 1px 0 0 1px;
+		&:hover {
+			background-color: hsl(var(--hue),100%,28%);
+			border-color: hsl(var(--hue), 60%, 40%);
+		}
 	}
 }
 
@@ -229,7 +240,10 @@ ol, ul {
 	padding-left: 1.2em;
 	list-style: none;
 	line-height: 1.4em;
-	li { margin-bottom: 0.4em; }
+
+	ol, ul, li { margin-top: 0.5em; }
+	li > a[href]:first-child { display: inline-block; }
+
 	li::before {
 		display: inline-block;
 		color: hsl(var(--hue), 40%, 60%);

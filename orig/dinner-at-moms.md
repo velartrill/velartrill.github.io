@@ -372,9 +372,9 @@ Sashuan leads Jasmine gently back inside, shutting the door. For a while they ju
 % prev mirin-a-surin.html <i>Mirin a surin</i>
 
 % in setting Spirals
-% in arc Scenes from the War
+% in arc War
 % in serial Change
 % is chapter 4
 
 % to pub/vt/fic/spirals
-% path fic/Spirals
+% path fiction/Spirals

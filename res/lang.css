@@ -10,9 +10,9 @@
 .answer:hover {
 	transition: .5s;
 	border-style: inset;
-	color: hsl(328,100%,89%);
+	color: hsl(var(--hue),100%,89%);
 	background: #280016;
-	text-shadow: 0px 0px 30pt hsl(328,35%,61%);
+	text-shadow: 0px 0px 30pt hsl(var(--hue),35%,61%);
 }
 .box {
 	width: 90%;
@@ -48,19 +48,19 @@ ol.exercise {
 	padding:0;
 }
 .exercise {
-	color: hsl(328,100%,75%);
+	color: hsl(var(--hue),100%,75%);
 }
 .exercise li {
 	display: flex;
 }
 ol.exercise li::before { display: none; }
 .exercise li div > b {
-	border-right: 1px solid #BF2679;
+	border-right: 1px solid hsl(var(--hue),40%,40%);
 	padding: .1em .3em;
 	border-radius: 50%;
-	text-shadow: 0px 0px 15pt hsl(328,35%,61%);
+	text-shadow: 0px 0px 15pt hsl(var(--hue),35%,61%);
 	margin-right: .2em;
-	color: hsl(328,100%,80%);
+	color: hsl(var(--hue),100%,80%);
 }
 .subquestion {
 	border-radius: 20% !important;
@@ -70,32 +70,36 @@ ol.exercise li::before { display: none; }
 .answer {
 	transition: 1s;
 	padding: 0 .3em;
-	background: #54022E;
-	color: #54022E;
-	border: 1px inset #640035;
+	background: hsl(var(--hue),60%,25%);
+	color: hsl(var(--hue),60%,25%);
+	border: 1px solid black;
 	text-shadow: none;
 	border-radius: 3px;
 	flex-grow: 1;
 	margin-left: 1em;
+	cursor: default;
 }
 .answer:hover {
 	transition: .3s;
-	border-style: inset;
-	color: hsl(328,100%,89%);
-	background: #280016;
-	text-shadow: 0px 0px 30pt hsl(328,35%,61%);
+	color: hsl(var(--hue),100%,89%);
+	background: hsl(var(--hue),60%,10%);
+	text-shadow: 0px 0px 30pt hsl(var(--hue),35%,61%);
 }
 .box {
 	width: 90%;
-	margin: auto;
+	margin: 1em;
+	background: hsl(var(--hue),80%,0.5%);
 	padding: .5em;	
-	border: 1px solid #D27FAC;
+	border: 1px solid var(--faint-color);
 	text-align: left;
+	box-shadow: 0px 0px 1em -0.1em hsl(var(--hue), 40%,20%);
 	font-size: 12pt;
 }
 .box > h1 {
 	font-size: 120%;
-	border-bottom: 1px solid #D27FAC;
+	border-bottom: 1px solid hsl(var(--hue), 50%, 20%);
+	padding-bottom: 0.3em;
+	margin-bottom: 0.3em;
 	margin-top: 0;
 	padding-top: 0;
 	text-align: center;
@@ -105,12 +109,11 @@ ol.exercise li::before { display: none; }
 }
 .deflist div {
 	margin-left: 1em;
+	line-height: 1.2em;
 	text-indent: -1em;
+	margin-bottom: 0.7em;
 }
-.deflist b {
-	padding-right: .2em;
-}
-li {
-	margin-bottom: .5em;
-}
+.deflist b:only-child { padding-right: .3em; }
+.deflist b:first-child + i { padding-right: 0.3em; }
+li { margin-bottom: .5em; }
 

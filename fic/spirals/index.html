@@ -1,182 +1,33 @@
 <!doctype html>
 <html>
-<head>
-	<title>Spirals</title>
-	<meta charset="utf-8">
-	<link rel="stylesheet" href="../../res/serenity.css" type="text/css">
-	<style>
-		body {
-			--width: 40em;
-		}
-		.index {
-			display: block;
-			flex-wrap: wrap;
-			flex-direction: row;
-			text-align: left;
-		}
-		li { text-align: left; }
-		@media (min-width: 1000px) {
-			.index {
-				display: grid;
-				grid-template-columns: 5;
-				grid-template-rows: 4;
-			}
-			#empire { grid-column: 1; grid-row-start: 1; grid-row-end: 3; padding-right: 1em; }
-			#society { grid-column: 2; grid-row-start: 1; }
-			#league { grid-column: 3; grid-row-start: 1;}
-			#union { grid-column: 4; grid-row: 1;}
-			#frontier { grid-column: 1; grid-row: 4;}
-			#saravan { grid-column-start: 2; grid-column-end: 3; grid-row: 2;}
-			#war { grid-column-start: 3; grid-column-end: 5; grid-row-start: 2; grid-row-end: 4; }
-			#rec { grid-row-start: 3; grid-column-start: 1; grid-column-end: 3; padding-right: 1em; }
-		}
-		:target {
-			border-left: 1px solid var(--fg-color);
-			background: hsl(var(--hue),80%,10%);
-			background: linear-gradient(90deg,
-				hsla(var(--hue),80%,10%,1) 0%,
-				hsla(var(--hue),80%,10%,0) 90%);
-			padding-left: 1em !important;
-			margin-right: 0.7em;
-		}
-		div h2 a:link {
-			text-decoration: none;
-		}
-	</style>
-</head>
-<body>
-	<h1><a href="../../">ʞ</a> / <a href="../index.html">fiction</a> / Spirals</h1>
-<ul>
-	<li><b><a href="overture.html">Overture</a></b></li>
-	<li><b><a href="glossary.html">Glossary</a></b></li>
-	<li><b><a href="apocrypha/index.html">Apocrypha</a></b></li>
-	<li><b><a href="tw.html">Trigger warnings</a></b></li>
-</ul>
-
-<div class="index">
-	<div id="empire">
-		<h2><a href="#empire">The Empire</a></h2>
-		<ol>
-			<li><a href="sparrowhawk.html">Sparrowhawk</a></li>
-			<li><a href="wren.html">Wren</a></li>
-			<li><a href="escalation.html">Escalation</a></li>
-			<li><a href="shopping.html">Shopping</a></li>
-			<li><a href="trade.html">Trade</a></li>
-			<li><a href="smuggler.html">Smuggler</a></li>
-			<li><a href="upgrades.html">Upgrades</a></li>
-		</ol>
-		<hr>
-		<ol>
-			<li><a href="darkest-before-dawn.html">Darkest Before Dawn</a></li>
-		</ol>
-		<hr>
+	<head>
+		<title>ʞ/fiction/Spirals</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="../../res/serenity.css">
+	</head>
+	<body>
+		<h1><a href="../../index.html">ʞ</a> / <a href="../index.html">fiction</a> / Spirals</h1>
 		<ul>
-			<li><a href="aftermath.html">Aftermath</a></li>
-			<li><a href="a-lesson-in-creativity.html">A Lesson in Creativity</a></li>
-			<li><a href="dahlia.html">Dahlia</a></li>
-			<li><a href="char.html">Character art</a></li>
-			<li><a href="opium.html">Opium</a></li>
-		</ul>
-	</div>
-	<div id="society">
-		<h2><a href="#society">The Society</a></h2>
-		<ol>
-			<li><a href="taken.html">Taken</a></li>
-			<li><a href="missing.html">Missing</a></li>
-			<li><a href="release.html">Release</a></li>
-			<li><a href="answers.html">Answers</a></li>
-			<li><a href="action.html">Action</a></li>
-			<li><a href="reunion.html">Reunion</a></li>
-			<li><a href="gravity.html">Gravity</a></li>
-		</ol>
-	</div>
-	<div id="league">
-		<h2><a href="#league">The League</a></h2>
-		<ol>
-			<li><a href="ambassador.html">Ambassador</a></li>
-			<li><a href="screened.html">Screened</a></li>
-			<li><a href="customs.html">Customs</a></li>
-			<li><a href="embassy.html">Embassy</a></li>
-			<li><a href="diplomacy.html">Diplomacy</a></li>
-			<li><a href="counsel.html">Counsel</a></li>
-			<li><a href="visions.html">Visions</a></li>
-			<li><a href="rest.html">Rest</a></li>
-			<li><a href="harmony.html">Harmony</a></li>
-		</ol>
-	</div>
-	<div id="union">
-		<h2><a href="#union">The Union</a></h2>
-		<ol>
-			<li><a href="freedom.html">Freedom</a></li>
-			<li><a href="subjugation.html">Subjugation</a></li>
-		</ol>
-	</div>
-	<div id="frontier">
-		<h2><a href="#frontier">The Frontier</a></h2>
-		<ol>
-			<li><a href="parlay.html">Parlay</a></li>
-		</ol>
-	</div>
-	<div id="saravan">
-		<h2><a href="#saravan">Saravan</a></h2>
-		<ol>
-			<li><a href="seduction.html">Seduction</a></li>
-			<li><a href="home.html">Home</a></li>
-			<li><a href="cultural-exchange.html">Cultural Exchange</a></li>
-			<li><a href="match.html">Match<a></li>
-		</ol>
-	</div>
-	<div id="war">
-		<h2><a href="#war">Scenes from the War</a></h2>
-		<ul>
-			<li><a href="end-in-sight.html"><b>925/10 M0500 TCT</b> // <i>End in Sight</i></a></li>
-			<li><a href="submission.html"><b>925/214 M0153 TCT</b> // <i>Submission</i></a></li>
+			<li><a href="overture.html"><strong>Overture</strong></a>, a short introduction to the Spirals setting</li>
+			<li><a href="glossary.html"><strong>Glossary</strong></a>, common terms from the languages of Haven translated to English</li>
+			<li><a href="tw.html"><strong>Trigger warnings</strong></a>: if you have PTSD, take a look here to be warned if something might set it off. spoilers ahoy</li>
+			<li><a href="apocrypha/index.html"><strong>Apocrypha</strong></a>, stories from an older incarnation of the setting that are no longer remotely canonical, but that still felt worth preserving in their own right</li>
 		</ul>
 		<hr>
-		<ol>
-			<li><a href="everything-is-going-to-change.html"><b>433ᵉ</b> // <i>Everything is going to change</i></a></li>
-			<li><a href="everything-has-changed.html"><b>434ᵉ</b> // <i>Everything has changed</i></a></li>
-			<li><a href="mirin-a-surin.html"><i>Mirin a surin</i></a></li>
-			<li><a href="dinner-at-moms.html">Dinner at Mom’s</a></li>
-		</ol>
-		<hr>
-		<ol>
-			<li><a href="prisoner-of-war.html">Prisoner of War</a></li>
-			<li><a href="revolt.html">Revolt</a></li>
-			<li><a href="comrades.html">Comrades</a></li>
-			<li><a href="breach.html">Breach</a></li>
-			<li><a href="operations.html">Operations</a></li>
-			<li><a href="justice.html">Justice</a></li>
-			<li><a href="naked.html">Naked</a></li>
-			<li><a href="contact.html">Contact</a></li>
-		</ol>
-		<hr>
-		<ol>
-			<li><a href="alone-in-the-cold.html">Alone in the Cold</a></li>
-		</ol>
-		<hr>
-		<ol>
-			<li><a href="strange-bedfellows.html">Strange Bedfellows</a></li>
-			<li><a href="broken-wings.html">Broken Wings</a></li>
-			<li><a href="pact.html">Pact</a></li>
-		</ol>
-	</div>
-	<div id="rec">
-		<h2><a href="#rec">Liberated Records</a></h2>
-		<ol>
-			<li><a href="prime-movement.html">Prime movement</a></li>
-			<li><a href="on-the-perversions.html">On the Perversions of Moral Orthodoxy Among Certain Barbarian Peoples</a></li>
-			<li><b>Ranuir: A Reference Grammar</b>
-			<ol>
-				<li><a href="ranuir.html">Introduction</a>: <i>Phonology, noun case, word order</i></li>
-			</ol>
-			<li><b>Talk Like a Void Pirate</b>
-			<ol>
-				<li><a href="talk-like-a-void-pirate.html">Foreword</a> <i>by Lady Kite Orchardblossom</i></li>
-	       </ol>
-		</ol>
-	</div>
-</div>
+		<h3>Arcs</h3>
 
-</body>
+		<p id="empire"><strong><a href="empire.html">The Empire</a></strong>: the Heavenly Empire of a Thousand Suns, a matriarchate of once-unparalleled power and the long-unquestioned hegemon of the Near Rim. her leaders have spent the centuries since the Great War trying to piece back together the fragments of its storied glory, while separatists, pirates, socialists, and nationalists pick determinedly away at what remains of Imperial power. its vast and diverse territory encompasses hundreds of suns, thousands of worlds, and dozens of peoples, all living deprived and chaotic lives in an Empire that barely still remembers how to keep the lights on.</p>
+
+		<p id="society"><strong><a href="society.html">The Society</a></strong>: <em>[pending rewrite]</em> an isolationist nation whose beautiful worlds, inhuman populace, fearsome industries, <a href="glossary.html#ranuir">secret language</a>, disciplinarian creed, predilection for eugenics, and sheer ideological fanaticism has made it an object of fascination, envy, and horror the Galaxy over — and whose pristine garden worlds, rich in untapped mineral wealth, Empress after Empress has for centuries longed to deflower.</p>
+
+		<p id="league"><strong><a href="league.html">The League</a></strong>: between the vast, decrepit bulk of the Heavenly Empire, and the few hundred systems held outright in the totalitarian grip of the Society of Worlds, lies the Socialist League, a small but quarrelsome interstellar power <a href="end-in-sight.html">forged</a> from former Imperial worlds a military and economic bulwark against further Imperial aggression.</p>
+
+		<p id="union"><strong><a href="union.html">The Union</a></strong>: a small collective of immortal posthuman hedonists who occupy a few dozen worlds (some of their own design) deep in the unexplored Counterspin Regions, but don't let their diminutive population fool you: though scarred by the War, the Thalisan Union is still reckoned among the Three Great Powers, their fearsome technologies give them unparalleled capacity to build, heal, and destroy — and they've been known to reduce continents to molten slag when sufficiently annoyed.</p>
+
+		<p id="saravan"><strong><a href="saravan.html">Saravan</a></strong>: the native Sara people, spared the Imperial yoke by a quirk of history, have since the time of the War forged their little garden moon at the heart of the Crown Nebula into a crowded, populous borderworld. the only place in the galaxy where <a href="glossary.html#ziatai">Zia Ţai</a>, <a href="glossary.html#ranuir">Ranuir</a>, and <a href="glossary.html#thalishte">Thalishte</a> are spoken side by side, Saravan is ruled by the hundreds of <i>varesë,</i> squabbling city-corporations run by pirates, slavers, drug lords, nobles, merchant queens, and socialist spies — outside whose unstable borders the world is a lawless, violent place. of course, it's not much better on the inside, either.</p>
+
+		<p id="frontier"><strong><a href="frontier.html">The Frontier</a></strong>: gluttonous for fresh slaves and conquest, the Empire of a Thousand Suns has at long last regained enough of its colonial ambitions to loose its conquering fleets on the fractured, genocidal nations of the Far Rim. as warships fill the skies of a hundred worlds and their cowardly masters shower generals with tribute and slaves, unity — of a sort — begins to blossom in a place that nobody could ever have expected.</p>
+
+		<p id="war"><strong><a href="war.html">Scenes from the War</a></strong>: nearly five centuries ago, three incomprehensibly powerful civilizations clashed on apocalyptic scale, in a Great War that lasted almost twenty years and forever altered the course of galactic history. these are the stories of the people who made Haven, for better and for worse, the place it is today.</p>
+	</body>
 </html>

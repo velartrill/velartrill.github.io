@@ -172,7 +172,7 @@ But she’s staring directly at them.
 
 % in setting Spirals
 % in serial Change
-% in arc Scenes from the War
+% in arc War
 % is chapter 3
 
 % has character Jasmine Autumn-Lily
@@ -183,4 +183,4 @@ But she’s staring directly at them.
 % in perspective third-person
 
 % to pub/vt/fic/spirals
-% path fic/Spirals
+% path fiction/Spirals

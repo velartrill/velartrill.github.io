@@ -371,4 +371,4 @@ _“Coshvin, tam,”_ I call back, wiping a tear from my eye. _“Coshvin.”_
 % has planet Carnelian
 
 % to pub/vt/fic/spirals
-% path fic/Spirals
+% path fiction/Spirals
