@@ -18,8 +18,15 @@ function firstpar
 	grep -oPm1 "<p>\K.*(?=</p>)" $argv[1]
 end
 
-function hash
-	sha1sum $argv[1] | cut -d' ' -f1 #FUCK YOU
+if which sha1 >/dev/null ^&1
+	function hash
+		sha1 $argv[1] #bsd5lyfe
+	end
+else
+	function hash
+		sha1sum $argv[1] | cut -d' ' -f1
+		#cause this is the LINUX SHIT ZONE
+	end
 end
 
 function field
@@ -58,11 +65,11 @@ set procd   0
 
 for i in (cat .atom/db)
 	set total (expr $total + 1)
-	set -l file   (echo $i | cut -d\x1f -f 1)
-	set -l lread  (echo $i | cut -d\x1f -f 2)
-	set -l fhash  (echo $i | cut -d\x1f -f 3)
-	set -l uuid   (echo $i | cut -d\x1f -f 4)
-	set -l cat    (echo $i | cut -d\x1f -f 5)
+	set -l file   (echo $i | field 1)
+	set -l lread  (echo $i | field 2)
+	set -l fhash  (echo $i | field 3)
+	set -l uuid   (echo $i | field 4)
+	set -l cat    (echo $i | field 5)
 	echo -n "[2K[96m*[m [1m$file[m"\r
 
 	test -e $file; or continue
