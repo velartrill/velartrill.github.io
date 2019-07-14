@@ -363,7 +363,7 @@ Not many, anyway.
 
 My mother thought it was a miracle I kicked the habit after I met Storm — but the truth was, I just traded one habit for another. And I think even back then, a part of me knew it.
 
-"Please," I whimper one final time, struggling in vain to pull my hands free of her steel grip, no longer even sure what I'm begging for. I don't know how such slim arms can be so stong.
+"Please," I whimper one final time, struggling in vain to pull my hands free of her steel grip, no longer even sure what I'm begging for. I don't know how such slim arms can be so strong.
 
 "No," my Storm replies gently.
 
