@@ -477,7 +477,7 @@ One way or the other, I wonder if she knows herself. If he ever even told her.
 
 She helps me to my feet, takes me by the hand, and leads me down the hall with an arm draped low around my waist. Distantly I hear her keys rattle in a lock and she pushes back the door into her… our… bedroom. It's a study in minimalist elegance, no gaudy ornaments or fancy canopies, filled sparsely with articles of sleek metal, stained glass, and light wood, with a long, low bed flush up against the sea window.
 
-There's another girl there, naked except for a translucent silk cardigan around her shoulders, snuggled up into the pillows, yawning and gazing sleepily at me with bright *red* eyes. Her hair and body are so dark, darker than anyone I've seen in years. It's strange to see a robin like her this far north — I can see why she caught Sedyskë's attention. She's always liked rare, pretty things.
+There's another girl there, naked except for a translucent silk cardigan around her shoulders, snuggled up into the pillows, yawning and gazing sleepily at me with bright *red* eyes. Her hair and body are so dark, darker and taller than anyone I've seen in years. It's strange to see a robin like her this far north — I can see why she caught Sedyskë's attention. She's always liked rare, pretty things.
 
 "…didn't take you long to replace me, did it," I mutter, gritting my teeth and looking away. Storm scoffs.
 
