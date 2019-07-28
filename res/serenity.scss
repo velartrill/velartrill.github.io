@@ -61,6 +61,11 @@
 		 local("MS Mincho");
 }
 
+@viewport {
+	zoom: 1;
+	width: device-width;
+}
+
 :root {
 	--hue: 338;
 	--width: 30em;
