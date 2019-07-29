@@ -39,9 +39,9 @@ He takes it and disappears. I rest my forehead on my palm, closing my eyes and u
 
 "Now what's your story, lass?"
 
-The voice is light and feminine. I open my eyes to see a girl sitting beside me, scarcely a year or two my elder. She's of Sara blood, by the look of her, tattered golden hair and ocean-blue eyes attesting to that. I can't help but be intrigued by the alluring scars on her cheeks and bare arms, the mischievous curl of her lips, her fetching messy complexion.
+The voice is light and feminine. I open my eyes to see a girl sitting beside me, scarcely a year or two my elder. She's of Sara blood, by the look of her, tattered brown hair and ocean-blue eyes attesting to that. I can't help but be intrigued by the alluring scars on her cheeks and bare arms, the mischievous curl of her lips, her fetchingly messy complexion.
 
-"Can't be so interesting as yours," I reply, turning my full attention to her. "Any chance some liquor might entice your pretty lips to spill the tale?
+"Can't be half so interesting as yours," I reply, turning my full attention to her. "Any chance some liquor might entice your pretty lips to spill the tale?
 
 She giggles, leaning forward. "Oh, you're confident. I like that…"
 
