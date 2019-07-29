@@ -477,7 +477,7 @@ One way or the other, I wonder if she knows herself. If he ever even told her.
 
 She helps me to my feet, takes me by the hand, and leads me down the hall with an arm draped low around my waist. Distantly I hear her keys rattle in a lock and she pushes back the door into her… our… bedroom. It's a study in minimalist elegance, no gaudy ornaments or fancy canopies, filled sparsely with articles of sleek metal, stained glass, and light wood, with a long, low bed flush up against the sea window.
 
-There's another girl there, naked except for a translucent silk cardigan around her shoulders, snuggled up into the pillows, yawning and gazing sleepily at me with bright *red* eyes. Her hair and body are so dark, darker and taller nthan anyone I've seen in years. It's strange to see a robin like her this far north — I can see why she caught Sedyskë's attention. She's always liked rare, pretty things.
+There's another girl there, naked except for a translucent silk cardigan around her shoulders, snuggled up into the pillows, yawning and gazing sleepily at me with bright *red* eyes. Her hair and body are so dark, darker and taller than anyone I've seen in years. It's strange to see a robin like her this far north — I can see why she caught Sedyskë's attention. She's always liked rare, pretty things.
 
 "…didn't take you long to replace me, did it," I mutter, gritting my teeth and looking away. Storm scoffs.
 
@@ -491,11 +491,11 @@ I feel Falcon's hands on my shoulders as Storm pushes me down onto the silky-sof
 
 _"Gè kieu_ bí," Falcon affirms excitedly. I hide my burning cheeks in the pillow.
 
-Storm lays down next to me, tugging the covers up over my shoulder before she takes my naked body protectively in her arms. I whimper a little as she forces her knee between my legs, resting her thigh snugly up against my sore cunt and seizing me by the rear when I try to pull back. "Shh. Be good," she whispers, squeezing my ass, holding me against her leg. "I won't rub. Not right now. But you need to remember whose you are."
+Storm lays down next to me, tugging the covers up over my shoulder before she takes my naked body protectively in her arms. I whimper a little as she forces her knee between my legs, resting her thigh snugly up against my sore cunt and seizing me by the rear when I try to pull back. "Shh. Behave," she whispers, squeezing my ass, holding me against her leg. "I won't rub. Not right now. But you need to remember whose you are."
 
-I bury my tear-stained face in her chest, and stop trying to move. She rubs my back, holds me tightly to her warm, soft body, and my muscles finally slacken. My arms, my legs, my chest — everything hurts so bad, especially my spine and my cunt, my every muscle is trembling like a leaf, but her warmth and her caresses… I wish I could feel them every moment of my life.
+I bury my tear-stained face in her chest, and stop trying to move. She rubs my back, holds me tightly to her warm, soft body, murmurs "good girl," and my muscles finally slacken. My arms, my legs, my chest — everything hurts so bad, especially my spine and my cunt, my every muscle is trembling like a leaf, but her warmth and her caresses… I wish I could feel them every moment of my life. The way I can feel her body with all the most intimate, vulnerable parts of mine, it almost feels like she's part of me, intruding inside me.
 
-Falcon slips up on the other side of me, kissing me on the shoulder. Her soft, ample bosom presses up against the curve of my back as she pulls the blankets tight around us. She gives my neck another little nip, sending a shiver through my body, before she joins Storm in caressing me, her long, slender fingers rubbing my thighs and massaging my chest.
+Falcon slips up on the other side of me, kissing me on the shoulder. Her soft, ample bosom presses up against the curve of my back as she pulls the blankets tight around us. She gives my neck another little nip, sending a shiver through my body, before she joins Storm in caressing me, her long, slender fingers rubbing my thighs and massaging my chest. 
 
 Between Storm's slow, tight, enveloping motions and Falcon's light little pets and squeezes to my tits, I feel like I could just drift off into a blissful haze.
 
@@ -511,7 +511,7 @@ I nod again.
 
 I squeeze my eyes shut against the tears as her words hit home.
 
-"I'll never abandon you, Errie. I'll never throw you out or give up on you. That's my promise. All you have to do is stay at my side, and you'll never have to go hungry again. I'll always be there to tend to you, to see to your needs, to protect you — and protect you from yourself. Keep you raw and bare, blissed out on touch in my tight grip. All you have to do is surrender."
+"I'll never abandon you, Errie. I'll never throw you out or give up on you. That's my promise. All you have to do is stay at my side, and you'll never have to go hungry again. I'll always be there to tend to you and see to your needs. Keep you raw and bare, blissed out on touch in my tight grip. All you have to do is surrender."
 
 Words desert me and all I can do is curl up and cry.
 
@@ -523,7 +523,7 @@ Sedyskë has always delighted in cruelty. The tears of her lovers are an ambrosi
 
 But in my few lucid moments, I understand that the pain doesn't take away the pleasure, doesn't dilute it even by a drop, and it will never close my heart to her, even if sometimes I wish it would. That's the easy answer to why I stay — why I come crawling back to her every time I try to flee. I'm more addicted to her than I ever was to opium.
 
-But there's a harder answer too — one I'm afraid to say aloud, because it would never make sense unless you know her as intimately as I do.
+But there's a harder answer too — one I'm afraid to say aloud, because it would never make sense unless you know her as intimately as I do. And I'm not sure *anyone* does.
 
 For all her power and wealth, even the Storm of Sŷralën still wears a leash. Her father, the sane, sensible businessman who built this empire still holds its reins, and she loves the old bastard too much to off him just for his power. But even Empresses die, and so do mere gods: when the spirit of Oravdenel Sedvesêra passes out into the stars, the fullness of his empire, his every scrap of power will be not just his Storm's allowance, but her inheritance. The passing of the temperate Lord of Opium will cut loose a goddess, a being of raw, fiery power and passion trained from birth in the ways of ruling and preternaturally gifted in the domination of the wills of lesser beings like me.
 
