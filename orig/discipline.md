@@ -45,9 +45,11 @@ The officers don't interfere with the reunion, watching from a respectful distan
 
 _"Han, han; coshvin."_ She takes me by the shoulder and turns me around, unfastening my prisoner-of-war uniform and tugging the top up over my shoulders. I look away from the officers, my cheeks burning as she undresses me — I don't know how the Greens can think so *little* of nudity.
 
-Mirsi fits a soft, plain pink gown over my shoulders, completing the little ritual, and I exhale. One of the officers opens up a small paper folio. "These are your identity documents," he says to me in awkward Zia Ţai. "Per the Provisional Code, you are required to carry your Civil Identity card with you at all times." He shows me a black-and-green card with my intake photo watermarked at the top. "The CI card contains galvanic workings, so do not bend or fold it as that may damage its circuitry."
+Mirsi fits a soft, plain pink gown over my shoulders, completing the little ritual, and I exhale. That's it. I'm a free woman now, just like that.
 
-He returns it to the folio and pulls out another card, this one black with pink text. "As a probationary releasee, you are also required to carry your prisoner of war identity card," he continues. "You will be required to carry this card until such time as you are granted citizenship and your brand is voided." He taps the back of his neck; I flinch. "You must present these cards whenever you are asked by a uniformed officer of the Provisional Government, including any uniformed officer of Society Expeditionary Force 'Scarlet.' Failure to do so is a civil infraction and may result in brief confinement and corporal punishment, though it is not ground for cancellation of release."
+One of the officers opens up a small paper folio. "These are your identity documents," he says to me in awkward Zia Ţai. "Per the Provisional Code, you are required to carry your Civil Identity card with you at all times." He shows me a black-and-green card with my intake photo watermarked at the top. "The CI card contains galvanic workings, so do not bend or fold it as that may damage its circuitry."
+
+He returns it to the folio and pulls out another card, this one black with pink text. "As a probationary releasee, you are also required to carry your prisoner of war identity card," he continues. "You will be required to carry this card until such time as you are granted citizenship and your brand is voided." He taps the back of his neck; I flinch. "You must present these cards whenever you are asked by a uniformed officer of the Provisional Government, including any uniformed officer of Society Expeditionary Force 'Scarlet.' Failure to do so is a civil infraction and may result in brief confinement and corporal punishment, though it is not grounds for cancellation of release."
 
 He slips the cards back into the folio and hands it to me; I take it gingerly, feeling like I've just been handed serious contraband. "The folio also contains your release paperwork and further information on the terms of your release; it is translated into Zia Ţai, Khmaira, and Kapagirwe. Are you fluent in at least one of those tongues?"
 
@@ -63,7 +65,7 @@ The officer nods, and squeezes me gently on the shoulder, startling me. "Congrat
 
 _"Ari vara sheno messe, Mirsil-surin,"_ he tells Mirsi, who smiles and nods.
 
-_"E-elen vine, san. Hante."_
+_"E-elen vine, san. Hanit."_
 
 With that, the officers depart, leaving the door ajar behind them. Mirsi hugs me again as soon as they're gone; I can feel her shivering with giddiness in my arms.
 
