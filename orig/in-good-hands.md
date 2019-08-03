@@ -444,6 +444,7 @@ All I can do is sit there in tears and call her name, wretchedly, over and over 
 I can’t let go of her hand.
 
 %prev friends-and-foes.html Friends and Foes
+%next eyes-of-the-storm.html Eyes of the Storm
 
 %is coda ils/violet.png
 

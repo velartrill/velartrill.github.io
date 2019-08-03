@@ -10,7 +10,7 @@
 		<name>lexi hale</name>
 		<uri>https://hale.su/</uri>
 	</author>
-	 <updated>2019-07-31T18:32:58-07:00</updated> 
+	 <updated>2019-08-03T15:56:42-07:00</updated> 
 
 	 <entry>
 		 <title>Into the Valley</title>
@@ -610,8 +610,17 @@
 		 <title>In Good Hands</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/in-good-hands.html"/>
 		 <id>urn:uuid:ba3534ed-9b0e-4e99-aecf-3eb792e38617</id>
-		 <updated>2019-07-31T18:31:17-07:00</updated>
+		 <updated>2019-08-03T14:02:44-07:00</updated>
 		 <summary type="html"><![CDATA[<p>Reality comes in flickers and flashes. Warm, soft hands on my body. Darkness. An urgent voice. Silence. A ceiling, a spinning fan. Darkness.</p><p><a href="http://ʞ.cc/fic/spirals/in-good-hands.html">[read more]</a></p>]]></summary>
+		 <category term="updated"/>
+	 </entry>
+
+	 <entry>
+		 <title>Eyes of the Storm</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/eyes-of-the-storm.html"/>
+		 <id>urn:uuid:be9798f0-2e9a-42b0-b122-10221ec8ceb8</id>
+		 <updated>2019-08-03T15:56:27-07:00</updated>
+		 <summary type="html"><![CDATA[<p>“Rei?”</p><p><a href="http://ʞ.cc/fic/spirals/eyes-of-the-storm.html">[read more]</a></p>]]></summary>
 		 <category term="new"/>
 	 </entry>
 
