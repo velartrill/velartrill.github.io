@@ -98,7 +98,7 @@ I examine my bare body critical-like in the mirror, turning this way and that, n
 That's… new.
 
 I pour a bit of my usual perfumes and soaps in the ceramic water-vessel and hold it under the port as it fills. I dip a cloth in and dab at my cheeks, the hot water on my face and breasts doing as much as the fresh cherry-blossom scent to soothe my lurking anxiety somewhat. Satisfied that I'm not going to walk out of the bedroom looking and smelling like a _pien şai_ that's been rutting in a dumpster, I dress myself. A _ţue giem_-style skirt at my waist, a soft tan _şiang_ wrapped snugly ’round my bosom, and a layered silk cardigan draped over my shoulders — just the right balance between classy, comfy, and conservative. Finally, I pluck a peony bloom from the *sháng* Vi always keeps so well stocked and slip the stem into my dark red curls — pink blossoms above the left ear is a bit much for a woman of my low birth even if it's not *technically* against _çe Zia,_ but with society falling slowly to bits I can't imagine anyone will demand I bare my back for inspection. May as well enjoy the decline in what little ways I can.
-
+z
 I know I shoulda let Vi dress and wash me. I know how much she craves a real, respectable life and our circumstances are cruel enough on her already without me keeping her from her _zèņ tsí_ — but I don't mean to dishonor her; it's just one of those things I gotta do for myself now and then, tradition be damned. Especially after last night — I'm feeling the need to take some charge over my own body. If Vi feels denied over it, I got no shortage of ways to make her feel mine again.
 
 I pad softly out into the kitchen, where Vi is perched at the bar, steaming mug in hand. She gives me a fragile smile when she sees me, proffering a coffee pot. If the sight of me fresh-washed and clothed hurts her, she doesn't let it show.
@@ -273,7 +273,7 @@ He looks away. "Seli and I are pretty much all that's left of the Sixth and that
 
 I nod slowly. "I'm… glad to hear it. Just… just hear I recognize and respect it, what you've suffered, and you have my ear and my compassion, for what it's worth. That's damn close to the high water mark for bad." God, how my whining must have sounded to him last night—
 
-He nods, biting his lip. "I… yeah. Going through something like that changes you, I won't deny it."
+He nods, biting his lip. "I… yeah. Thank you, Rei. Going through something like that changes you, I won't deny it."
 
 I squeeze his hand. "Is that why Seli's so…?"
 
@@ -285,7 +285,7 @@ I raise my eyebrows. "You make it sound like your *state* cares about your socia
 
 I gaze into his sparkling green eyes with renewed interest. I never would have imagined the warm, open, gentle man I met last night could have possibly been such a deeply battered soldier. I took him for an idealist, maybe — a kid who'd never seen the truth of war, who'd bought the propaganda hook, line, and sinker, and just hadn't had a chance yet to be let down by the state he thought so high of. But this?
 
-This… don't quite fit with my picture of the world. Assuming he's not just lying for my benefit… but something in Lena's eyes makes it hard for me to believe he could lie to me about something like this. Spies and thieves can and will say anything to get what we want, but soldiers — they're different breed, lucky enough to still have the luxury of honor. Am I a fool for assuming a Green might be so similar?
+This… don't quite fit with my picture of the world. Assuming he's not just lying for my benefit… but something in Lena's eyes makes it hard for me to believe he could lie to me about something like this. Spies and thieves can and will say anything to get what we want, but soldiers — they're a different breed, lucky enough to still have the luxury of honor. Am I a fool for assuming a Green might be so similar?
 
 Well. Another data point to file away, at least.
 
@@ -311,7 +311,7 @@ He laughs as he holds out his mug. "Just Lena's fine, Miss Violet," he replies i
 
 He touches my leg, patting me just above the knee. "You didn't turn out so bad, Rei."
 
-"Don't say that so confident. You haven't read my dossier."
+"Don't say that so confident. You ain't read my dossier."
 
 "I don't need a dossier to know when I admire a woman," he replies warmly.
 
@@ -337,7 +337,7 @@ Coffee nearly spills out my nose.
 
 "Yep, she holds your hand in the field while we hold down the fort at home."
 
-"…I really wishing someone had *told* me that before I accepted her fucking offer," I blurt. "Khata'e's dripping tits — so what, I'm the brains, she's the brawn?"
+"…I really wish someone had thought to *tell* me that before I accepted her fucking offer," I blurt. "Khata'e's dripping tits — so what, I'm the brains, she's the brawn?"
 
 "Whew; you're right," Lena tells Vi, "she really *is* a smartass." Vi giggles.
 
@@ -347,9 +347,9 @@ Coffee nearly spills out my nose.
 
 Vi slips between us and leans back against him, resting her legs in my lap again as he rubs her shoulders. She looks so happy cuddled up between us that I can't help but smile, stroking her thighs as she shivers in Lena's grip. Tomboy fits in too damn well here.
 
-I gaze into the bright silver irises beneath her blissfully fluttering lashes, and it finally dawns on me this must be  a dream come true for her. She's always been a flirt, always craved company and companionship, but this goes so much deeper than that. Finally, she has someone to bear *witness.* Someone to *see* her being the wife she's always wanted, always tried so hard to be to me.
+I gaze into the bright silver irises beneath her blissfully fluttering lashes, and it finally dawns on me this must be  a dream come true for her. She's always been a flirt, always craved company and companionship, but this goes so much deeper than that. Finally, she has someone to bear *witness.* Someone to *see* her being the wife she's always wanted, always tried so hard to be to me, law be damned.
 
-And then it hits me why she was so disappointed I didn't fuck Lena, and it breaks my heart a little. If I had — we'd finally be a real, respectable Imperial household in her eyes. Me to bring home the rice, her to cook and tend to me, and Lena the modest, gentle, obedient husband from a good family to safeguard our future.
+And then it hits me why she was so disappointed I didn't fuck Lena, and it breaks my heart a little. If I had — we'd finally be a real, respectable Zyahua household in her eyes. Me to bring home the rice, her to cook and tend to me, and Lena the modest, gentle, obedient husband from a good family to safeguard our future.
 
 I'm a goddamn spy. My insight is supposed to be better than this. Now I just feel even worse about what I did this morning. I didn't just take away her wifely duties from her — I showed her up in front of the first person she ever got to show off our domestic life to, even if that was a Green who can't possibly understand what things like that mean on a planet full of Zyahua.
 
@@ -389,7 +389,7 @@ Realization dawns and it's her turn to shush me with a hand to the lips. "You *k
 
 I laugh weakly, ruffling her hair. "That's on account of I been trained how — y'ain't a spy and I don't want you to be. I want you to have a nice, safe, comfy life where you don't ever gotta worry about worse'n whether we've got enough *bai sam* for dinner."
 
-She smiles. "I want that too," she murmurs. "We got plenty for tonight, by the by. Tomorrow though I think we'll have to fit in a trip to the market."
+She smiles. "I want that too," she murmurs. "We got plenty for tonight, by the by. Tomorrow though I think we'll have to fit in a trip to market."
 
 "I got your back on that op," I say, and she giggles, then stops suddenly.
 
@@ -401,7 +401,7 @@ She takes my hands, holds them palm up. "I thought it was just coffee jitters, m
 
 I sigh. "I know. I'm—"
 
-"Ain't like you to get like this." She looks back up at me, worried eyes boring deeply into mine. "Last night messed you right up, didn't it, babe?"
+"Ain't like you to get like this." She looks back up at me, worried eyes boring deeply into mine. "Last night messed you right up, didn't it, hon?"
 
 I swallow hard. My chest is quivering now. "N-now there *you* go reading *my* mind."
 
@@ -415,7 +415,7 @@ And there it is, the thing I've been trying so hard not to think about.
 
 "…I don't know." I look back up. "But… but we got Lena and Seli to protect us now if… if things get bad again."
 
-She squeezes my hand. "Promise me you'll take Lena with when you go out. Leastways ’til this shaky shit stops."
+She squeezes my hand. "Promise me you'll take Lena with any time you go out. Leastways ’til this shaky shit stops."
 
 "I promise."
 
@@ -425,7 +425,7 @@ I kiss her on the lips again, long and hard this time, slipping my hand under he
 
 "You like that boy, don't you."
 
-She nods, blushing even harder. "You like him too. Don't even try'n lie to me, babe."
+She nods, blushing even harder. "You like him too. Don't even try'n lie to me, hon."
 
 It's my turn to blush. "I… I think it could be nice to have him around," I stammer.
 
@@ -433,11 +433,11 @@ She gives me a coy look. "Could be even nicer to have him in bed~"
 
 *"Vi."*
 
-"I'm jus’ saying… it gets awful cold some nights… having some nice soft female bodies to keep him warm while Seli's on guard'd be a real proper way to show him our *appreciation~"*
+"I'm jus’ saying… it gets awful cold some nights… having some nice soft womanly bodies to keep him warm while Seli's on guard'd be a right proper way to show him our *appreciation~"*
 
 "I swear to God, Vi—"
 
-"I heard that noise you made when he laid hands on you," she continues gleefully. "The way you jus’ trailed off with that cute little whimper. Like you were jus' thinking about allll the things he could do to you with that powerful little body of his~"
+"I done heard that noise you made when he laid hands on you," she continues gleefully. "The way you jus’ trailed off with that precious little whimper. Like you were jus' thinking about allll the things he could do to you with that powerful little body of his~"
 
 "Violet, *you—"*
 
@@ -447,9 +447,9 @@ She gives me a coy look. "Could be even nicer to have him in bed~"
 
 She giggles delightedly, caressing my chest. *"Golly* then, your nipples sure are stiff all'a sudden—"
 
-"Maybe that's on account of the cute li'l girlie in my lap, not the goddamn *help,* you thought of that?"
+"Maybe that's on account of the pretty li'l girlie in my lap, not the goddamn *help,* you thought of that?"
 
-She just laughs. "It's adorable how you jus' keep straight on arguin’ even though we *both* know clear what you think of him. I don't think I ever seen you so flustered before, sure as shit not by a *boy."*
+She just laughs. "It's adorable how you jus' keep straight on arguin’ even though we *both* know clear what you think of him. I don't think I ever seen you so flustered 'afore, sure as shit not by a *boy."*
 
 "I—"
 
@@ -487,15 +487,15 @@ My cheeks are so hot you could touch off a det-cord on them. "I… I think so…
 
 "Oh, Vi."
 
-I hug her tight as she cries in my lap, her shoulders and chest convulsing. "I never th-thought— after m-m-my m-ma threw me out— I never thought I’d have a— a wife and a boy and a home, even if—"
+I hug her tight as she cries in my lap, her shoulders and chest convulsing. "I never th-thought—" she stammers, "—after m-m-my m-ma threw me out— I never ever thought I’d have a— a woman all my own and a man and a proper home, even if—"
 
-"Shh. It's okay. It's okay. I know." I kiss her trembling lips… and make up my mind.
+"Shh. It's okay. It's okay. I know." I kiss her trembling lips— and make up my mind.
 
 "I am gonna make this work," I tell her.
 
 "M-make what—?"
 
-"This whole arrangement. Lena, Seli, Rose, and me. I am gonna make it work, come storm or come snow. For you. Even if it does means working one-on-one with that handsy bitch — I don't want to take this away from you. No matter what the cost."
+"This whole arrangement. Lena, Seli, Rose, and me. I am gonna make it work, come storm or come snow. For you. Even if it does means working one-on-one with that handsy bitch — I don't want to take this away from you. No matter what it cost."
 
 She's sobbing again, thanking me half-hysterically, over and over again. I just hold her, petting and stroking her, until the tears have blown over and her breathing begins to calm.
 
@@ -509,7 +509,7 @@ She gives me a fragile smile. "It's okay."
 
 "Are you sure?"
 
-"Be kinda silly for you wash all over just on account of me."
+"Be kinda silly for you to wash all over again just on account of me."
 
 I laugh. "Vi, I barely washed in the first place. And you know how helpless I am when it comes to my hair."
 
@@ -535,15 +535,15 @@ She laughs at me. "Come on, my tits aren't even that good, Rei. I'm damn near tw
 
 *"Nnnh.* You would, you fuckin' slut." She kisses me distractedly for a moment, before pulling away and patting me on the shoulder. "Come on, Rei. Down on your knees."
 
-I kneel down and she pulls up a stool behind me, squeezing my waist between her thighs as she sits down to wash my hair. She digs her fingers in and pulls my head back, turning me this way and that as she pours hot water down my scalp. She's always so good at keeping it out of my eyes. She rubs in an oil that helps the tangles come loose, and spends a few minutes tugging and brushing them all apart, until my dark red frizzy hair is all free again. More water, soaps, and oils, then she rinses my hair and squeezes it part dry. She presses a sweep of front curls down above my eyes so they dry in the right shape, then stands and tugs me to me feet.
+I kneel down and she pulls up a stool behind me, squeezing my waist between her thighs as she sits down to wash my hair. She digs her fingers in and pulls my head back, turning me this way and that as she pours hot water down my scalp. She's always so good at keeping it out of my eyes. She rubs in an oil that helps the tangles come loose, and spends a few minutes tugging and brushing them all apart, until my dark red frizzy hair is all free again. More water, soaps, and oils, then she rinses my hair and squeezes it part dry. She presses a sweep of front curls down above my eyes so they dry in the right shape, then stands and tugs me to my feet.
 
-"All done," she murmurs happily, toweling me off. She dresses me in the same clothes, and expertly wraps locks of wet hair around the stem of the peony to hold it in place. "There," she says proudly, standing back and admiring her handiwork. "You look fit for Court."
+"All done," she murmurs happily, toweling me off. She dresses me in the same clothes, and expertly wraps locks of my wet hair around the stem of the peony to hold it in place. "There," she says proudly, standing back and admiring her handiwork. "You look fit for Court."
 
 "You know what they do to commonfolk at Court?" I ask her, stepping out of the way so she can wash herself. She shakes her head.
 
 "No, what?"
 
-"They starve ’em for a week, beat ’em black and blue, and strip 'em half naked so's the Empress'll have something fragile and pretty to look at," I tell her. "On account of how boorish and plain we all are. Sometimes they cut ’em up all decorative-like too."
+"They starve ’em for a week, beat ’em black and blue, and strip 'em half naked so's the Empress'll have something fragile and pretty to look at," I tell her. "On account of how boorish and plain we all are. Sometimes they cut on ’em all decorative-like too."
 
 *"La dè nai,"* she exclaims. "You're shitting me."
 
@@ -583,7 +583,7 @@ He hands me my mug back as I sit down. "What was that all about?" he asks gently
 
 "…eh. Zyahua shit," I say finally. "You prob'ly wouldn't understand."
 
-He frowns quizzically, glancing between us. "But…" He nods toward Vi. "Isn't she… Khmai?" he asks hesitantly, like it's the dumbest question in the world.
+He frowns quizzically, glancing between us. He nods toward Vi. "Isn't she… Khmai?" he asks hesitantly, like it's the dumbest question in the world.
 
 I laugh awkwardly. "That she is but I didn't exactly know how to raise her Khmai."
 
@@ -597,19 +597,19 @@ I look at Vi for a moment, and then back at Lena. I reach out, and take his hand
 
 "Hey. What's up, Rei?"
 
-"You ain't intruding," I tell him softly. "Me and Vi, we've been talking — we… we both want you to have a place in this household. You and Seli both, if that's a thing y'all want." I give him a bashful smile. "We're together in this as… as comrades, and that's close enough to family for me."
+"You ain't intruding," I tell him softly. "Me and Vi, we've been talking — we… we both want you to have a place in this household. You and Seli both, if that's a thing y'all want." I give him a bashful smile. "We're together in this as… as comrades, and that's near enough to family as either of us has ever had."
 
-Lena's eyes widen. "Well, aren't you opening right up all of a sudden," he teases. "I'd be delighted, and I'll talk to Seli."
+Lena's eyes widen in surprise. "Well, aren't you opening right up all of a sudden," he teases. "I'd be delighted, and I'll talk to Seli."
 
 "You're both welcome at the dinner table tonight," I tell him, squeezing his hand and withdrawing. "Vi and I play *due sham* after drinks sometimes — that sound at all up your alley?"
 
-"*Strip* _due sham~"_ Vi corrects me cheekily. Red-faced, I glare at her.
+"*Strip* _due sham~"_ Vi corrects me cheekily. I glare at her.
 
 *"Only sometimes!"*
 
 Lena laughs. "I think," he said, "I can speak for me and Seli both when I say we'd be honored to join you for cards. …Just," he adds to Vi with a wink, "don't invite Seli to play strip *anything* unless you fancy ending up butt naked at the table."
 
-"Don't you giving her *ideas,* tomboy."
+"Don't you go giving her *ideas,* tomboy."
 
 %prev in-good-hands.html In Good Hands
 

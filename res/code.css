@@ -12,7 +12,7 @@ code {
 	border: 1px solid #2A0017;
 	font-family: "Inconsolata", monospace;
 }
-code.listing {
+code.listing, pre {
 	display: block;
 	white-space: pre-wrap;
 	padding: 0.5em 1em;

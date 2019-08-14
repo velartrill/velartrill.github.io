@@ -73,7 +73,7 @@ I laugh bitterly through the tears. “Wh-why are you being so… so nice to the
 
 “Oh, I know. Give us a chance, though. We might surprise you.” Lena touches my arm gently. “You look like you’re doing a little better. Is there anything I can get for you, do for you?”
 
-I take a deep breath. "I'm… I'm sorry, this is… this is kinda of silly, I just…" I look down, clasping my wrist awkwardly. "Could you just, um. Hold my hand again, for a bit? Tonight's— tonight's been a lot."
+I take a deep breath. "I'm… I'm sorry, this is… this is kinda silly, I just…" I look down, clasping my wrist awkwardly. "Could you just, um. Hold my hand again, for a bit? Tonight's— tonight's been a lot."
 
 "You bet." Lena doesn't even sound surprised, gently prying my wrist from between my fingers and taking my palm in both his hands. For a career soldier, his touch is so warm and soft. "What's so silly about that?"
 
@@ -187,7 +187,7 @@ But.
 
 He's so kind.
 
-Lena's never once hurt me. He never once forced me. He held back Cougar for me so I could murder the son of a bitch — like it was *nothing,* restraining that ’roided-up wild *animal* of a man — but every time Lena's touched *me,* it's been with gentleness and tenderness. The only time he's let me feel so much as a taste of that power I know he has in him is when I asked him plain for it. And I know if I told him to stop he would in a heartbeat.
+Lena's not once hurt me. He not once forced me. He held back Cougar for me so I could murder the son of a bitch — like it was *nothing,* restraining that ’roided-up wild *animal* of a man — but every time Lena's touched *me,* it's been with gentleness and tenderness. The only time he's let me feel so much as a taste of that power I know he has in him is when I asked him plain for it. And I know if I told him to stop he would in a heartbeat.
 
 And I don't want him to stop.
 
@@ -203,7 +203,7 @@ I take a deep breath.
 
 I'll never be able to wield the kind of power the Greens do so easily, and now I know it's out there… I'm going to live in fear of it for the rest of my goddamn life.
 
-But here's one of them and… he seems like he's on my side. At least for the moment.
+But here's one of them, comforting me and carressing me, and… he seems like he's on my side. At least for the moment.
 
 And something about being in that powerful fucking grip, knowing the hands on my body belong to someone who'd kill for my safety, makes me feel fucking giddy inside. And I just want to bask in it.
 
@@ -235,7 +235,7 @@ I am so glad he can't see my face right now.
 
 *"…really?"* I murmur, genuinely startled. I was sure he'd never let me live this down. "My girl sure don't think so."
 
-Lena sighs. "Stars and skies, this Empire is a weird-ass place. Nobody'd think twice about it back home. And nobody'd ever make fun of you for it. We respect our comrades' needs, and we do everything we can to see not one goes unmet."
+Lena sighs. "Stars and skies, this Empire is one weird-ass place. Nobody'd think twice about it back home. And nobody'd ever make fun of you for it. We respect our comrades' needs, and we do everything we can to see not one goes unmet."
 
 "Answer me something true?"
 
@@ -273,7 +273,7 @@ He pats me on the shoulder. "Well, we really don't have bougies or bluebloods, s
 
 "So they're not cunning, dastardly archvillainesses who live and breathe raw power?"
 
-"You've been watching too much *Space Admiral Starling,"* I reply. "No, they're clueless. Soft, silly, and easy marks, totally lost in their own worlds. And this girl was no exception. She had no idea what she was doing, and her bodyguards— well. Graycloaks are always morons, no matter what planet you’re on or whose land you’re in. Grabbing her was one of my easiest ops. There was this awful soulless tavern — long since burned to the ground, thank God — where she'd go in High Gate to get drunk on overpriced _bai dien_ and lose mommy's money at _due sham._ We bagged and dragged her on the way home, brought her to the safehouse, tied her to a chair, the usual. Pulled the gangster act, told her she was muscling in on our territory — I had fun dressing for that part. You know what she said next?”
+"You've been watching too much *Space Admiral Starling,"* I reply. "No, they're clueless. Soft, silly, and easy marks, totally lost in their own worlds. And this girl was no exception. She had no idea what she was doing, and her bodyguards— well. Graycloaks are always morons, no matter what planet you’re on or whose land you’re in. Grabbing her was one of my easiest ops. Up in High Gate there was this awful soulless tavern — long since burned to the ground, thank God — where she'd go to get drunk on overpriced _bai dien_ and lose mommy's money at _due sham._ We bagged and dragged her on the way home, brought her to the safehouse, tied her to a chair, the usual. Pulled the gangster act, told her she was muscling in on our territory — I had fun dressing for that part. You know what she said next?”
 
 “Lemme guess. ‘Do you have any idea who I am?’”
 
@@ -305,7 +305,7 @@ That boy is *dangerously* perceptive.
 
 “Only if you ask nicely.”
 
-“So I had Eagle — this big hulking brute of a woman, you’d think she was Imperial Guard or something — just cut the bitch’s fancy clothes straight off her. And _La dè nai_ but I have *never* seen someone so *angry*. Just wouldn’t stop lecturing us about how we were going to pay for every copper she’d spent on that outfit. So I sit down, grab her by the hair, show her my favorite knife; told her she had one last chance to talk before things got ugly.” I laugh ruefully. “I admit, I really thought that would be enough to break her. And she talked, alright. About how her bodyguards would ‘make me swallow that knife’ and ‘shit it back out of my ass,’ and she just kept going until Daisy — sweet, mousy little girl who looked half again too young to be in the business, absolute fiend with anything galvanic — took a sparker to her neck.”
+“So I had Eagle — this big hulking brute of a woman, you’d think she was Imperial Guard or something — just cut the bitch’s fancy clothes straight off her; figured that might shut her up. And _La dè nai_ but I have *never* seen someone so *angry*. Just wouldn’t stop lecturing us about how we were going to pay for every copper she’d spent on that outfit. So I sit down, grab her by the hair, show her my favorite knife; told her she had one last chance to talk before things got ugly.” I laugh ruefully. “I admit, I really thought that would be enough to break her. And she talked, alright. About how her bodyguards would ‘make me swallow that knife’ and ‘shit it back out of my ass,’ and she just kept going until Daisy — this sweet, mousy little thing who looked half again too young to be in the business, absolute fiend with anything galvanic — took a sparker to her neck.”
 
 “How long did it take after that?”
 
@@ -323,9 +323,9 @@ I grin. “What do you think? —*nnh.”*
 
 “Nope. I had HQ run the names right away. They were just other noble kids, from families hers were feuding with.”
 
-"Damn. For a spoiled brat she sure had some gall."
+"Damn. For such a spoiled brat she sure had some gall."
 
-“I know, right? I’m not gonna lie, at that point I was just *angry.* I didn’t care if it was necessary anymore, I just wanted to break the little shitbag. Send her home with a nice deep scar in her psyche, something so she could never forget what it was like to be truly helpless in someone else’s power.” I look down, my cheeks suddenly burning again, squeezing my wrists awkwardly — and Lena, bless him, reads my fucking mind.
+“I know, right? I’m not gonna lie, at that point I was just *angry.* I didn’t care if it was even necessary, I just wanted to break the little shitbag. Send her home with a nice deep scar in her psyche, something so she could never forget what it was like to be truly helpless in someone else’s power.” I look down, my cheeks suddenly burning again, squeezing my wrists awkwardly — and Lena, bless him, reads my fucking mind.
 
 He lets go of my shoulders and takes me by the hands instead, holding me expertly so I can't slip free of his control. A sensation of warmth floods through me, a little rush of relief and release. His grip is so… comfortable.
 
@@ -339,7 +339,7 @@ Like I can just let go.
 
 Is this how Vi feels when she falls asleep in my arms?
 
-“So I don’t mind telling you,” I murmur, “I just went in there and I was like, okay you little shit, you think you’re pretty smart, huh? You know what smart girls get around here? She unhinges her jaw like’s she’s fixing to mouth off again and I just smack her in the face. ‘You don’t get to talk,’ I tell her. ‘You are gonna stay completely quiet for the next five minutes and if I hear a single peep out of you, it’s gonna be another five minutes, and if I run out of fun places to spark you, I’ll just let the cute little Khmai girl with the evil gleam in her eye have a turn until you learn how to follow orders. You should see that contraption she's got set up in the other room; I don't even know what all those electrodes are *for.’* I didn't even know purebloods *could* go so pale as she did when she heard Daisy giggle.”
+“So I don’t mind telling you,” I murmur, “I just went in there and I was like, okay you little shit, you think you’re pretty smart, huh? You know what smart girls get around here? She unhinges her jaw like’s she’s fixing to mouth off again and I just smack her in the face. ‘You don’t get to talk,’ I tell her. ‘You are gonna stay completely quiet for the next five minutes and if I hear a single peep out of you, it’s gonna be another five minutes, and if I run out of fun places to spark you, I’ll just let that cute little Khmai girl with the evil gleam in her eye have a turn until you learn how to follow orders. You should see that contraption she's got set up in the other room; I don't even know what all those electrodes are *for.’* I didn't even know purebloods *could* go so pale as she did when she heard Daisy giggle.”
 
 “You sound like our drill sergeant back in training.”
 
@@ -397,9 +397,9 @@ I rest my forehead against his neck, closing my eyes. His skin's so smooth — n
 
 "I'm pretty sure someone would have told me. What made you think I was?"
 
-"I— well, I just— you really don't see it? Look how fucking Cougar looked compared to you. Or most men, anyway."
+"I— well, I just— you really don't see it? Look how fucking Cougar looked compared to you. Or most men, for that matter."
 
-"I think I'm pretty average as far as men of the People go." Lena puts an arm around my shoulder, softly running his fingers through my hair. "But now you mention it, I guess I have kind of noticed most of the other races— their men look… rougher, I guess. Kaparttu aside, anyway, but I mean they all dress so alike it's almost hard to tell sometimes."
+"I think I'm pretty average as far as men of the People go." Lena puts an arm around my shoulder, softly running his fingers through my hair; I shiver, instinctively nuzzling his neck. "But now you mention it, I guess I have kind of noticed most of the other races— their men look… rougher, I guess. Kaparttu aside, anyway, but I mean they all dress so alike it's almost hard to tell sometimes."
 
 "It's *normal* for Green men to look so… so feminine?" I shake my head. "Put your hair down and I'd probably have taken you for a woman outright. Especially with that cute voice of yours."
 
@@ -419,7 +419,7 @@ He laughs. "I do my best."
 
 “…stars and skies, tell me that didn’t work.”
 
-“It worked. It fucking worked. I can’t believe it worked but it worked. She and the Duchess fell for it both. Next thing we know, the old bat was up to her neck in a goddamn gang war. So the gang was pissed at her. Her own militia was pissed at her. The local justiciar was pissed at her, because she was raking in so much money just for not convicting. So she had an angry blackrobe coming for her, trying to stir up trouble, making her waste political capital defending her kin from trumped-up charges. I think she may have been trying to just burn the family out completely. I left before it all went down but I heard on the grapevine a few years later her Radiance completely stripped the family of their title, left them landless gentry with scarce a penny to their names, and she had the full backing of the peerage to do it. Gave the duchy to the daughter of some sycophant from Carnelian, and it sounded like she cleaned things up pretty well."
+“It worked. It fucking worked. I can’t believe it worked but it worked. She and the Duchess fell for it both. Next thing we know, the old bat was up to her neck in a goddamn gang war. So the gang was pissed at her. Her own militia was pissed at her. The local justiciar was pissed at her, because she was raking in so much money just for not convicting. So she had an angry blackrobe coming for her, trying to stir up trouble, making her waste political capital defending her kin from trumped-up charges. I think the gown may have been trying to just burn the family out completely. I left before it all went down but I heard on the grapevine a few years later that her Radiance completely stripped the family of their title, left them landless gentry with scarce a penny to their names, and she had the full backing of the peerage to do it. Gave the duchy to the daughter of some sycophant from Carnelian, and it sounded like she cleaned things up pretty well."
 
 “So tell me — after all this fighting the opium trade, how’d you come to shack up with a junkie?”
 
@@ -437,7 +437,7 @@ I sit up. "Hey, Lena — I'm sorry, I—"
 
 Less than half a minute later, I’m crouched on my bed and screaming his name.
 
-Vi’s not breathing. I can barely make out a heartbeat. I’m still screaming his name when he grabs me by the shoulders, pulls me back gently so he can see to her. The world’s a blur; it comes in flashes and glimpses. Lena yelling something into a black band around his wrist. Leaning over her, getting her oxygen like a pro. The woman — the woman I haven't exchanged so much as a word with — in the room, opening up satchels of equipment, needles, vials; they’re fitting something over her face— chirping from a machine—
+Vi’s not breathing. I can barely make out a heartbeat. I’m still screaming his name when he grabs me by the shoulders, pulls me back gently so he can see to her. The world’s a blur; it comes in flashes and glimpses. Lena yelling something into a black band around his wrist. Leaning over her, getting her oxygen like a pro. Seli — the woman I haven't exchanged so much as a word with — in the room, opening up satchels of equipment, needles, vials; they’re fitting something over her face— chirping from a machine—
 
 All I can do is sit there in tears and call her name, wretchedly, over and over again.
 
