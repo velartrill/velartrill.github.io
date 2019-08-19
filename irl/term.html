@@ -332,6 +332,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <code class="listing"><span class="pragma">#include</span> <span class="str">&lt;stdlib.h&gt;</span>
 <span class="pragma">#include</span> <span class="str">&lt;unistd.h&gt;</span>
+<span class="pragma">#include</span> <span class="str">&lt;signal.h&gt;</span>;
 <span class="pragma">#define</span> say(str) write(1,str,sizeof(str))
 
 <span class="type">void</span> cleanup(<span class="type">void</span>) {
@@ -401,6 +402,7 @@ typedef <span class="type">uint8_t</span> bar_t;
 <code class="listing"><span class="pragma">#include</span> <span class="str">&lt;unistd.h&gt;</span>
 <span class="pragma">#include</span> <span class="str">&lt;termios.h&gt;</span>
 <span class="pragma">#include</span> <span class="str">&lt;stdlib.h&gt;</span>
+<span class="pragma">#include</span> <span class="str">&lt;signal.h&gt;</span>;
 <span class="pragma">#define</span> say(str) write(1, str, sizeof(str))
 
 <span class="type">struct termios</span> initial;

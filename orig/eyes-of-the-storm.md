@@ -589,7 +589,7 @@ I laugh awkwardly. "That she is but I didn't exactly know how to raise her Khmai
 
 "Right." Lena nods. "So you're both… *culturally* Zyahua, I guess?"
 
-I glance at Vi. She shrugs and nods. "Something like that," I say in Khmaira, which makes Lena laugh. "So, any plans after Rose is done pushing me around and feeling me up at the safehouse?" I ask.
+I glance at Vi. She shrugs and nods. "Something like that," I say in Khmaira, which makes Lena laugh. "So, any plans after Rose is done pushing me around and feeling me up at the safehouse?"
 
 "Well, I was thinking I'd help Violet make dinner this evening," he replies, "but apart from that -- we're intruding on your time enough as it is. Gotta leave you some time to yourselves, _ne?"_
 
