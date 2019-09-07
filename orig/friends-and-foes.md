@@ -379,7 +379,7 @@ He nods. “The Empire… the Empire’s pretty much gone, Rhea. The Empress is 
 
 My knees feel weak. My cigarette slips from between my fingers and plunges from the balcony, the tiny flicker of flame swallowed up in an instant by the dark streets below. I gasp for air. This can’t be true, this can’t be true, this can’t—
 
-“Rhea?” Dimly I feel Lena arms around me. “Rhea, you’re hyperventilating. Rhea, look at me…”
+“Rhea?” Dimly I feel Lena's arms around me. “Rhea, you’re hyperventilating. Rhea, look at me…”
 
 The world feels like it’s going black. The darkness closing in on me and swallowing up the whole universe. The stars are going out.
 
