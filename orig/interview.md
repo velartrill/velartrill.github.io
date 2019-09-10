@@ -1,73 +1,177 @@
 # Interview
 % by Lexi Summer Hale
+% with style set/society.css
+
 She has no idea how long it's been.
 
-In the bleak, windowless stone cell there is nothing but the cot, a lamp up above casting dim, sterile light through the tiny room, and a heavy metal door without so much as a knob, or even a keyhole. No clock to tell her the time, nothing but the beating of her own heart to tell her it's passing at all. The sheets are far too thin, and she's doubled them up as best she can, huddled shivering underneath to protect her naked, still-wet body from the chill.
+There is very little in the bleak, windowless stone cell. A cot. A lamp up above that casts the tiny room in dim, sterile light. A heavy metal door without so much as a knob, or even a keyhole. Nothing else. No clock to tell her the time, nothing but the beating of her own heart to tell her it's passing at all. The sheets are far too thin, and she's doubled them up as best she can, huddled shivering underneath to protect her naked, still-damp body from the chill.
 
-She starts when she hears the digital blare and quiet *thunk* of the door unlocking. Her instincts shriek at her to get to her feet, stand at attention; she ignores them. Heart pounding, she fixes her eyes on the door as it slides back, and a figure steps into the cell. A woman. Not particularly tall but well-built; her bare arms are a show of sleek, taut muscle, and her abs are visible even through her uniform.
+She starts when she hears the resounding digital blare and quiet *thunk* of the door unlocking. Her instincts shriek at her to get to her feet, stand at attention, but she doesn't have it in her anymore to obey them. Heart pounding, she fixes her eyes on the door as it slides back, and a figure steps into the cell. A woman. Not particularly tall but well-built; her bare arms are a show of sleek, taut muscle, and her abs are visible even through her uniform.
 
 A uniform Cassil Tegvari recognizes all too well.
 
-Dark, green flex-fabric robes wrap tightly around the officer's body, accentuating the curves of her back and hips, around which is tied a short black sash. A heavy fabric *shevtalven* is strapped across her chest to protect her heart and lungs from blades or bullets; black armbands with white emblems encircle her upper arms. Her legs are covered by silver leggings that reach just below her knees. Elegant leather combat gauntlets, the same color and material as her boots, run from her knuckles to just below her elbow. It's the unmistakable garb of a Shevran footsoldier.
+Dark, green flex-fabric robes wrap tightly about the officer's body, accentuating the curves of her back and hips, around which is tied a short black sash. A heavy fabric *shevcal* is strapped across her chest to protect her heart and lungs from blades and bullets; black armbands with white emblems encircle her upper arms. Her legs are covered by silver leggings that reach just below her knees. Elegant leather combat gauntlets, the same color and material as her boots, run from her knuckles to her elbow. It's the unmistakable garb of a Shevran footsoldier.
 
 The girl buries her head in the pillow again.
 
 "Cassil, right?" The officer's tones are almost kind; nothing like what Cassil expected from this place. She mumbles something into the pillow in reply.
 
-Footsteps. She cracks an eyelid, turning her head to see the officer kneeling down by the bunk, holding up a neatly folded grey *rancal.* "I brought you clothing," she says gently.
+Footsteps. She cracks an eyelid, turning her head to see the officer kneeling down by the bunk, holding up a neatly folded grey *rancal.* "I brought you clothing," she says quietly.
 
-Part of Cassil wants to just turn away, close her eyes, and lay there catatonic until the woman goes away. But the tiny rational part of her that's left knows full well they'll keep her here forever if she doesn't cooperate -- they have all the time in the world, and she's cold, alone, and miserable. Cooperation is her only hope of getting out of here.
+Part of Cassil wants to just turn away, close her eyes, and lay there catatonic until the woman goes away. But the tiny rational part of her that's still conscious knows full well they'll keep her here forever if she doesn't cooperate -- they have all the time in the world, and she's cold, alone, and miserable. Cooperation is her only hope of getting out of here.
 
 And a robe will at least make the chill a bit more bearable.
 
-With a quivering hand she reaches out. Between the terror, fury, and temperature she's shaking like a leaf in the wind; the officer catches her wrist and tugs gently. "On your feet, comrade," she says. It's an order,  but her tone isn't any less kind.
+With a quivering hand she reaches out. Between the terror, fury, and temperature she's shaking like a leaf in the wind; the officer catches her wrist and tugs gently. "On your feet, comrade," she says. It's an order, but a gentle one.
 
-Reluctantly, cheeks burning, Cassil forces herself to stand. As the blankets fall away from her body the cold attacks her with newfound ferocity, and she can barely keep her knees from giving in, can barely control her hands enough to clasp them behind her back.
+Reluctantly, cheeks burning, Cassil forces herself to stand. As the blankets fall away from her slight frame, the cold attacks her body with renewed ferocity, and she can barely keep her knees from giving in, can barely control her hands enough to clasp them behind her back.
 
-The officer motions for her to turn, and as she does grips Cassil by the hair, forcing her head down with a fluid, practiced motion. The girl lets out a whimper as a cold steel reader plate is pressed to the back of her neck; she hears a handset chirp. The Shevran goon releases her hair and takes her by the shoulder, tugging lightly until Cassil turns back to face her.
+The officer motions for her to turn, and as she does grips Cassil by the hair, forcing her head down with a fluid, practiced motion. The girl lets out a whimper as a cold steel reader plate is pressed to the back of her neck; she hears a handset chirp. The Shevran thug releases her hair and takes her by the shoulder, tugging lightly until Cassil turns back to face her.
 
-"Cassil Tegvari you indeed are," the woman tells her, holstering her handset and proferring the robe. "Do you need help getting dressed?"
+"Cassil Tegvari you indeed are," the woman says, holstering her handset and proferring the robe. "Do you need help getting dressed?"
 
-"…who are you?" Cassil demands weakly, taking the robe and trying to wind it about her body, but the tremors keep her from making much progress. "What do you want?"
+"…who are you?" Cassil demands weakly, snatching the robe and trying to don it, though the tremors keep her from making much progress. "What the fuck do you want?"
 
-"My name is Safris," the woman replies, stepping behind Cassil and taking the robe from her hands, winding it quickly about the girl's torso. "And you're being awfully impertinent for someone in your position, don't you think, _shevan?"_ Her tone is light and teasing; no sign of anger or offense.
+_"Safris-varlas valte,"_ the woman replies, stepping behind Cassil and taking the garment from her hands. She winds it quickly about the girl's torso. "And you're being awfully impertinent for someone in your position, don't you think, _shevan?"_ Her tone is light and teasing; no sign of anger or offense.
 
-"Whatever," Cassil responds sullenly, folding her arms. The feeling of fabric on her body again is an enormous relief; despite her detainee greys' meager protection against the chill, she feels… not safe, but infinitely less vulnerable. Calmer, more collected.
+"Whatever." Cassil folds her arms and stares at the wall. The feeling of fabric on her body again is an enormous relief; despite how little protection the detainee greys offer her from the chill, she feels… not safe, but infinitely less vulnerable.
 
-Safris takes her by the upper arm, but before Cassil can even open her mouth to protest, her trembling legs give out beneath her and she stumbles. Safris quickly catches her by the waist, helps her back to the bed. "Are you injured?" she asks, sitting next to the girl and touching her on the shoulder.
+"Come." Safris takes hold of her upper arm to lead her out of the room, but before Cassil can even open her mouth to protest, her trembling legs give out beneath her and she stumbles. Safris quickly catches her by the waist and helps her back to the bed. "Are you injured, comrade?" the officer asks, worry evident in her voice as she sits next to the girl.
 
-Cassil shakes her head silently. Tears are streaming down her cheeks now, and she can't meet Safris' gaze.
+Cassil shakes her head silently, pulling the blankets back up over her body. Tears are streaming down her cheeks now, and she can't meet Safris' gaze.
 
-Safris frowns, tilting her head. "I can summon a medic if you need one—? Or—" She stops as the girl's shoulders begin to shake and Cassil buries her head in her hands. "You're not in very good shape, are you, Cassi?" she says quietly, her tone shifting by several degrees of intimacy.
+Safris frowns, tilting her head. "I can summon a medic if you need one—? Or—" She stops as the girl's shoulders start to shake. Cassil buries her head in the pillow.
 
-Cassil just shakes her head, and begins to sob.
+"You're not in very good shape, are you, Cassi?" Safris says quietly, her tone shifting by several degrees of intimacy.
 
-Safris scoots closer, puts an arm around Cassil's shoulder, and the girl collapses against her side, eyes and nose already red from crying. With her free hand Safris touches her softly on the cheek, and Cassil rests her head against the other woman's shoulder.
+Cassil just shakes her head, and begins to quietly sob.
 
-The warmth from Safris' body is enough to drive out the chill, and bit by bit the shivering slows and the tears ebb. When she finally dares open her eyes, Safris takes her by the hands.
+Safris scoots closer, puts an arm around Cassil's waist, and the girl collapses against her side, eyes and nose already red from crying. Safris puts a hand around the back of the girl's neck, squeezing softly. "Shh," she murmurs; "it's okay."
 
-"Are you going to be able to walk?" the officer asks. "I can fetch a wheelchair if need be--"
+The warmth from Safris' body is enough to drive out the chill, and bit by bit the shivering slows; the tears ebb. The officer shows no sign of hurry or irritation, holding Cassil tightly until she finally opens her eyes and, with difficulty, sits up again.
+
+"Why are you being… *nice* to me?" she asks. She can't make herself look Safris in the eye.
+
+"Because you're one of us. What more reason do I need?" Safris' tone shifts, becoming more professional, but the warmth remains. "Are you going to be able to walk? I can fetch a wheelchair if need be--"
 
 Cassil shakes her head. "I'm f-- I'm fine," she mumbles.
 
-"If you're sure." Safris stands, tugging Cassil by her wrists, and reluctantly the girl gets to her feet. She's unsteady, but Safris takes firm hold of her and guides her to the door. They step through into a small alcove, and Safris nods towards what's probably a one-way mirror on the wall. There's another blare and the second door ahead of them unbolts itself, sliding slowly back to reveal a long dimly-lit corridor outside.
+"I'll be the judge of that." Safris stands, tugging Cassil by her wrists, and reluctantly the girl gets to her feet. She's unsteady, but Safris takes firm hold of her, one hand on her upper arm, the other at her waist, and guides her towards the door. Something about the way the officer is touching her makes Cassil feel… strangely comfortable and safe, and she almost doesn't want her to let go. They pass into a small security chamber, and Safris keys her handset. After a moment, there's another blare and the second door ahead of them unbolts itself, sliding slowly back to reveal a long, dark corridor outside.
 
-Safris is joined by two further officers outside the cell, one of whom takes hold of Cassil's other arm. The other stays well ahead of them, and the girl notices a sidearm holstered at his thigh.
+There are two more officers standing at the outer door to the cell, one of whom takes Cassil by the other arm as she and Safris emerge -- half supporting her, half restraining her. The other stays well ahead of the trio, and a chill runs down Cassil's spine when she notices a sidearm holstered at his thigh.
 
-*What have I gotten myself into?*
+*What have I gotten myself into this time?*
 
-The team escorts her through the maze of hallways, past a checkpoint where her identity implant is scanned yet again, and finally into a bleak gray room with a tall ceiling and two chairs on either side of a small metal table — one bolted to the floor. Cassil notices an angled mirror high up along the wall -- almost certainly a one-way window.
+The team escorts her through a maze of hallways, past a checkpoint where her identity implant is scanned yet again, and finally through another thick steel door into a bleak gray room. A metal table takes up the center of the room, with chairs on either side — one of them bolted to the floor. The ceiling rises high over their heads, and Cassil notices an angled mirror high up along the wall -- almost certainly a one-way window. 
 
-Safris and the other woman guide Cassil to the chair and seat her in it. Cassil can't even muster the energy to struggle as they fasten her wrists with a pair of handcuffs bolted to the tabletop -- the wide, padded kind they use when they mean to keep you cuffed for a good long time.
+*Who's watching us up there?*
 
-Safris fastens the final strap and steps back, keying her handset. "Clear," she calls, nodding to the other officers, who step back and file out of the room. Safris walks over to the door, clasping her hands behind her back and inclining her head as a tall, lanky figure steps into the room.
+Safris and the other woman lead Cassil to a chair and seat her there carefully. Cassil can't even muster the energy to struggle as they fasten her wrists with a pair of handcuffs bolted to the tabletop -- the big padded kind they use when they mean to keep you cuffed for a good long time.
 
-"Good evening, Ward Cassil." Cassil fixes her eyes dully on the newcomer as she seats herself across from the girl. The woman is dressed in a uniform like Safris' but without the breastplate or gauntlets -- a bureaucrat, not a fighter. She doffs her beret as she sits, flipping open a laptop with her spare hand, scrutinizing the screen as she speaks. "My name is Seruan. I'm pleased we can finally meet, and I apologize for the delay."
+Safris fastens the final strap and steps back, keying her handset. "Clear," she calls, nodding to the other officers, who back away and file out of the room. Safris takes up a post by the door, clasping her hands behind her back and inclining her head respectfully to the tall, lanky figure who enters into the room.
 
-"Just 'Seruan'?" Cassil retorts. "What about your fancy title, *comrade?"*
+"Good evening, Cassil-_shevan."_
 
-Seruan doesn't take the bait. "My full title is Shevran Mediator Seruan Fesmadi, if you wish to know," she replies mildly. "May I review the facts of you situation, so as to ensure we are both on the same page?"
+The girl fixes her eyes dully on the newcomer as she seats herself at the table, the way a wild animal caught in a trap might look up at an approaching hunter. The woman is dressed in a uniform like Safris' but without the breastplate or gauntlets -- a bureaucrat, not a fighter. She flips open a laptop with her free hand, and scrutinizes the screen as she speaks. "My name is Seruan. I'm pleased we can finally meet, and I apologize for the delay."
 
-Cassil shrugs. "Whatever."
+"Just 'Seruan'?" Cassil glares. "What about your fancy title, *comrade?"*
 
-Seruan's gaze turns back to the laptop, the blue light of its screen reflecting in her emerald eyes. "You are Ward Cassil of Commune Tegvar," she begins, "identity code two-six-ten-two-fifteen, age seventeen, "
+Seruan doesn't take the bait. "My full title is Shevran Mediator Seruan Fesmadi, if you wish to know," she replies mildly. "Now, if you don't mind, I would like for us to review the facts of your situation, so as to ensure we're both on the same page for this interview."
+
+Cassil shrugs. "Whatever. Not like listening to you would hurt as much as getting flogged again." She hesitates. "Probably," she adds, eyeing Seruan carefully.
+
+"Your cooperation is appreciated." Seruan's gaze turns back to the laptop, the blue light of its screen reflecting in her emerald eyes. "You are Cassil Mirsali Roshi Tegvari," she begins, "ward two-six-ten-two-fifteen of _Rantal_ Tegvar, age seventeen years. You are currently assigned to your commune's unskilled labor pool. You have been subjected to Militia discipline seven times in the past year for various infractions, ranging from insubordination and disrespectful conduct to misuse of telecommunications infrastructure, truancy, and evasion of duty. Do you contest any of these facts?"
+
+For a moment, the only sound is the hum of the ventilation ducts. "…no," Cassil finally says, gritting her teeth.
+
+"Very good." Seruan pauses to key something into the laptop before returning her gaze to Cassil. "Do you know why you're here, comrade?"
+
+"You tell me."
+
+A small smile flits across Seruan's face, so subtle and so fast that Cassil almost doesn't notice it. "As you wish," the mediator replies. "You are in Shevran custody due to the incident that transpired on the twenty-sixth night of the third moon this year." She tents her fingers absently. "Ordinarily, even such a blatant case of insubordination and sedition from a mere ward of the People would not be cause for Shevran intervention. However, your recent past has been marked by persistent mutinous conduct. After a review of available materials and consultation with your _virtash_ it was judged necessary to intervene and preempt the Militia's authority in this instance."
+
+There's a hint of her usual fire in Cassil's voice now. "That's a real pretty way to say you're locking me up because I wasn't interested in sucking off that useless tw—"
+
+"You are not here to be punished." Seruan's voice remains implacably gentle. "You have been subjected to no end of corporal punishment for your transgressions, to apparently little effect — if anything, it seems to have amplified your misbehavior. That tells me something is wrong." She glances at the laptop again. "To permit the status quo to continue unmoderated would risk undermining the long-term community cohesion of Rantal Tegvar, and pose an immediate risk to your own wellbeing. Would you agree with that?"
+
+Cassil narrows her eyes. "My 'wellbeing'? Is that a threat?"
+
+Seruan favors her with an amused smile. "Comrade Cassil, if I meant to threaten you with bodily harm I would do so plainly. I assure you, nothing can be further from my intentions."
+
+"Then what the fuck do you mean?"
+
+"I see two ways in which the Tegvar situation is to your detriment," says Seruan. "Firstly, community cohesion is a matter that affects every citizen -- and ward, for that matter. Any damage that your reckless behavior does to your _rantal_ will ultimately entail you in its aftermath. Secondly: in theory, corporal punishment serves two purposes. Primarily it is intended to inflict a severe but transient trauma that will force the subject into a state of vulnerability conducive to reintegration and to interruption of antisocial patterns. But that trauma also functions as a blunt form of aversion therapy, reducing the likelihood of repeat offense outright. To this end, it is usually quite effective—"
+
+*"Aversion therapy?"* Cassil clenches her fists. "They *beat* me. They beat me and shocked me and it went on and on and on and I was fucking *begging* them to stop and I couldn't stop crying and you think that was supposed to be *good for me!?* I have fucking *nightmares* I'm back there, back in that fucking cell and I can't move and the pain won't fucking stop. Sometimes my… my partner wakes me up because I was *crying in my sleep."* She takes a deep breath. "What the *fuck* is *wrong* with you?"
+
+"That is precisely my point, comrade," Seruan says softly. "Practice is at times messier than theory. In your case, for instance. You do not appear to benefit from the normal aversive and re-integrative effects of corporal punishment -- instead, you appear to be trapped in a vicious cycle of purposeless trauma that simply drives you to further act out. This benefits no one, you least of all."
+
+Cassil's mouth moves wordlessly for a moment. Seruan continues: "I chose to intervene because it has become apparent that a solution needs to be found outside the everyday channels. One that will both preserve Tegvar's community cohesion *and* your emotional wellbeing. "
+
+"'Community cohesion'!" Cassil erupts mockingly. "Good fucking luck. If you think *I'm* the problem—"
+
+"I do not think you are 'the problem.'" Seruan tilts her head slightly. "I would however appreciate your insight into the situation."
+
+Cassil laughs weakly. "Oh, that's fucking rich. You want *my* 'insight', now?"
+
+Seruan neither laughs nor smiles. "I do, comrade," she replies evenly.
+
+"Fine. You want to know the problem?" Cassil's knuckles have gone white. "The problem is that the Regional Steering Committee is full of self-absorbed, clueless hacks who think they're fucking demigods because someone gave them a fancy uniform. And either nobody cares or they're too afraid to *do* anything because then it's *insubordination* and they all know what happens to traitors like me. Never mind that Sarlen and her cronies can't even fucking keep the lights on half the time. And now we're being worked half to death to build materiel we don't even fucking need at the same time the vertical farms are barely putting out enough food to keep us alive. Because it's apparently not bad enough that we're not even allowed to choose what we eat or when to go to bed or anything else about our lives. Because it's not bad enough that we're all being indoctrinated with messed-up fucking politics from the Central Worlds and get *beat* any time we have the temerity to think for ourselves." She scowls. "Not that there's any fucking point in telling *you* that, if your accent is anything to go by."
+
+Throughout the diatribe, Seruan was carefully taking notes. She spends a few more moments typing before turning her gaze back to Cassil. "Thank you for your input, comrade," she says. "I appreciate that you are willing to share your perspective so honestly. It will aid me considerably in identifying the ultimate sources of this conflict and formulating a plan to eliminate them."
+
+"I'm just sure." Cassil glares. "I'm just a fucking child to you. A loud, inconvenient child who causes problems and won't do as she's told. All you care about is shutting me up. That's the only problem you're trying to solve."
+
+"No," Seruan replies. "You're a mature young woman, Cassil, not some child mouthing off. You are correct that dissent is a problem, but perhaps not in the way you think. Dissent is a symptom — sometimes of immaturity, sometimes of one's inability to see the whole picture, but sometimes of a system that is genuinely broken. I won't insult you by predicting which category yours falls into; this investigation has barely even begun. But if you think I do not take your words seriously because of your age, you are mistaken."
+
+Cassil blinks. "This 'investigation'?"
+
+Seruan inclines her head. "I intend to evaluate your claims fully. You do not know me, Cassil, but I am quite familiar with you — I have reviewed a great deal of your writing, your interpersonal communiqués, and your counseling records. It is clear that you have well-developed critical thinking skills, which could do much to better the lot of your community and comrades if they could be put to good use. Neither I nor your counselor believe that your current role as an unskilled laborer is at all appropriate for you, and I would like to put you up to be assessed for apprenticeship into the Tegvari civil service."
+
+Cassil stares. “What? That’s -- you’re trying to, what, keep me busy so I can’t cause problems? Alienate me from the people who’ve been listening to me? No. No, that’s fucking bullshit.”
+
+"Trying to alienate you from your friends and comrades would be an unforgivable act," Seruan replies quietly. "Cassil-_shevan_, I am suggesting this role because I believe there has been a severe breakdown in trust between the Tegvari civil service and the people it is responsible for. If anything, I hope you will in time play a part in bridging that gap -- and perhaps gain a certain amount of insight that will enable you to better formulate your critiques, as well as fully understand the purpose of some of the policies you have criticized -- the 'ideology the Central Worlds are forcing on you,' as you so colorfully put it."
+
+"I don't fucking *believe* this." The chains clank and rattle as Cassil yanks them as far as her restraints will allow. "You kidnap me and have me humiliated and chained up just to *offer me a job?* That's insane. It doesn't make any fucking sense."
+
+"There’s nothing unusual about this," Seruan answers. "The Shevran are not simply enforcers; we are counselors and mediators as well. Cooperation, trust, and kindness accomplish far more than cruelty ever can on its own -- it's how we won the War, after all. And it is my role to preserve the People against the destructive forces that come from within. They might manifest as a rebellious brat who needs some sense knocked into her -- or perhaps as a governing body that needs profligate actors purged from its ranks. If there is any truth at all to what you have told me, there is a very real possibility that some of the members of the R7SC have been placed in an inappropriate role. It will be my duty to correct the situation and discipline any who have betrayed the trust your community placed in them. Is that sufficient for you to cease your disruptive behavior, comrade?"
+
+"No. No, it fucking isn't. You're just saying that to get me to shut up. All of it — it's just another fucking lie." Cassil scowls. "You think I don't see exactly what's going on here? All this -- all this fear and suffering you've put me through, you were just trying to… to soften me up so I'd be more pliable. More *vulnerable.* So you could get into my head. Screw with my mind. Convince me you're actually the good guys somehow! No. No, nothing you say or do is going to change the fact that I'm going to spend the rest of my life being *spied on* and told what to do and flogged when I do things you don’t like. The Society’s a bullshit fucking scam and the only thing that would make me *'cease my disruptive behavior'* would be to set it on fire and tear it all down." Cassil's heart is racing, her throat dry, and the words come out before she realizes what she's saying. She pales, immediately regretting it — suddenly feeling very, very small and alone.
+
+She stares numbly down at the cuffs on her wrists as the panic begins to set in.
+
+*I'm sorry, Nili. I'm so sorry. I fucked up bad this time.*
+
+The mediator gazes at her for a moment, tapping the desk with her fingers, her expression betraying nothing. The silence while Cassil awaits the blow of the headsman's axe is agonizing.
+
+*Please— please don't take me away from her. I'll do anything. Please.*
+
+"Comrade Cassil," Seruan says finally, reaching out and shutting the laptop, "I would like to make a deal with you."
+
+"Yes?" Cassil answers in a small voice.
+
+"Have you ever heard of Rantal Varshal?"
+
+Cassil shakes her head meekly.
+
+"I'm going to send you some materials. Classified internal Shevran records and documentation. I will warn you up front that some of it is quite disturbing and graphic. I would like you to spend the next half-moon or so familiarizing yourself with it, and once you've done so I'd like to sit down and have a discussion with you -- one where you *aren't* chained to a table in a holding facility. Does that sound agreeable to you?"
+
+The girl stares in confusion for a moment. "Wh-why— I, I don't— *that's all!?"*
+
+"One of us has to start trusting the other — and if you won't trust me, then I have to trust you. For now, let's just leave it at that. You seem to be confident in your ability to deduce the *why*s yourself, so I shall allow you to do so in the comfort of your own dormitory."
+
+"Y-you're just… going to let me go? If I agree to… to read some sh— some, uh, things?"
+
+Seruan smiles gently. "That's correct, Cassil."
+
+*Thank you thank you thank you thank you—*
+
+"O-okay. I… I will. Um. M-ma'am."
+
+"Excellent. I'm glad we could come to an arrangement. I will be in touch." Seruan stands — reaching out to touch Cassil softly on the shoulder. The friendly gesture is so startling the girl actually flinches. "I will not take up any more of your time. *Pel a nil, surin."*
+
+Cassil is still sitting there shellshocked when Safris and the other officers come to remove her restraints and lead her away.
+
+% to pub/vt/fic/spirals
+% path fic/Spirals
+% in arc Society
