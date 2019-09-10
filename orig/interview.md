@@ -16,7 +16,7 @@ The girl buries her head in the pillow again.
 
 "Cassil, right?" The officer's tones are almost kind; nothing like what Cassil expected from this place. She mumbles something into the pillow in reply.
 
-Footsteps. She cracks an eyelid, turning her head to see the officer kneeling down by the bunk, holding up a neatly folded grey *rancal.* "I brought you clothing," she says quietly.
+Footsteps. She cracks an eyelid, turning her head to see the officer kneeling down by the bunk, holding up a neatly folded white *rancal.* "I brought you clothing," she says quietly.
 
 Part of Cassil wants to just turn away, close her eyes, and lay there catatonic until the woman goes away. But the tiny rational part of her that's still conscious knows full well they'll keep her here forever if she doesn't cooperate -- they have all the time in the world, and she's cold, alone, and miserable. Cooperation is her only hope of getting out of here.
 
@@ -34,7 +34,7 @@ The officer motions for her to turn, and as she does grips Cassil by the hair, f
 
 _"Safris-varlas valte,"_ the woman replies, stepping behind Cassil and taking the garment from her hands. She winds it quickly about the girl's torso. "And you're being awfully impertinent for someone in your position, don't you think, _shevan?"_ Her tone is light and teasing; no sign of anger or offense.
 
-"Whatever." Cassil folds her arms and stares at the wall. The feeling of fabric on her body again is an enormous relief; despite how little protection the detainee greys offer her from the chill, she feels… not safe, but infinitely less vulnerable.
+"Whatever." Cassil folds her arms and stares at the wall. The feeling of fabric on her body again is an enormous relief; despite how little protection the white detainee uniform offers her from the chill, she feels… not safe, but infinitely less vulnerable.
 
 "Come." Safris takes hold of her upper arm to lead her out of the room, but before Cassil can even open her mouth to protest, her trembling legs give out beneath her and she stumbles. Safris quickly catches her by the waist and helps her back to the bed. "Are you injured, comrade?" the officer asks, worry evident in her voice as she sits next to the girl.
 
