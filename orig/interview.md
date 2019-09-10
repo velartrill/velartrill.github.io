@@ -80,7 +80,7 @@ Seruan doesn't take the bait. "My full title is Shevran Mediator Seruan Fesmadi,
 
 Cassil shrugs. "Whatever. Not like listening to you would hurt as much as getting flogged again." She hesitates. "Probably," she adds, eyeing Seruan carefully.
 
-"Your cooperation is appreciated." Seruan's gaze turns back to the laptop, the blue light of its screen reflecting in her emerald eyes. "You are Cassil Mirsali Roshi Tegvari," she begins, "ward two-six-ten-two-fifteen of _Rantal_ Tegvar, age seventeen years. You are currently assigned to your commune's unskilled labor pool. You have been subjected to Militia discipline seven times in the past year for various infractions, ranging from insubordination and disrespectful conduct to misuse of telecommunications infrastructure, truancy, and evasion of duty. Do you contest any of these facts?"
+"Your cooperation is appreciated." Seruan's gaze turns back to the laptop, the blue light of its screen reflecting in her emerald eyes. "You are Cassil Mirsali Roshi Tegvari," she begins, "ward two-six-ten-two-fifteen of _Rantal_ Tegvar, age seventeen years. You are currently assigned to your commune's unskilled labor pool. You have been subjected to Homeguard discipline seven times in the past year for various infractions, ranging from insubordination and disrespectful conduct to misuse of telecommunications infrastructure, truancy, and evasion of duty. Do you contest any of these facts?"
 
 For a moment, the only sound is the hum of the ventilation ducts. "…no," Cassil finally says, gritting her teeth.
 
@@ -88,7 +88,7 @@ For a moment, the only sound is the hum of the ventilation ducts. "…no," Cassi
 
 "You tell me."
 
-A small smile flits across Seruan's face, so subtle and so fast that Cassil almost doesn't notice it. "As you wish," the mediator replies. "You are in Shevran custody due to the incident that transpired on the twenty-sixth night of the third moon this year." She tents her fingers absently. "Ordinarily, even such a blatant case of insubordination and sedition from a mere ward of the People would not be cause for Shevran intervention. However, your recent past has been marked by persistent mutinous conduct. After a review of available materials and consultation with your _virtash_ it was judged necessary to intervene and preempt the Militia's authority in this instance."
+A small smile flits across Seruan's face, so subtle and so fast that Cassil almost doesn't notice it. "As you wish," the mediator replies. "You are in Shevran custody due to the incident that transpired on the twenty-sixth night of the third moon this year." She tents her fingers absently. "Ordinarily, even such a blatant case of insubordination and sedition from a mere ward of the People would not be cause for Shevran intervention. However, your recent past has been marked by persistent mutinous conduct. After a review of available materials and consultation with your _virtash_ it was judged necessary to intervene and preempt the Homeguard's authority in this instance."
 
 There's a hint of her usual fire in Cassil's voice now. "That's a real pretty way to say you're locking me up because I wasn't interested in sucking off that useless tw—"
 
