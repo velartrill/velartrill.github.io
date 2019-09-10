@@ -173,5 +173,5 @@ Seruan smiles gently. "That's correct, Cassil."
 Cassil is still sitting there shellshocked when Safris and the other officers come to remove her restraints and lead her away.
 
 % to pub/vt/fic/spirals
-% path fic/Spirals
+% path fiction/Spirals
 % in arc Society
