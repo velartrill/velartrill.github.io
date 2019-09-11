@@ -4,7 +4,7 @@
 
 Niltar doesn't move when she hears knuckles rapping on her door. She doesn't move even when the lock chirps and the door slides back, despite the fact that she's lying half-dressed in bed, the bedclothes in chaos around her, her pillows stained with tears and her sheets stained with blood.
 
-"Hey, the UC teacher is getti—oh, fuck, holy fuck, Nili—!"
+"Hey, our UC instructor is getti—oh, fuck, holy fuck, Nili—!"
 
 Niltar doesn't respond as he slams the door and runs to her side. "Nili? Nili, please tell me you're okay…"
 
@@ -76,7 +76,7 @@ He opens to door to find a young, short boy in a robe as golden as his fluffy, s
 
 Livkir pats him gently on the shoulder. "Hey, it's okay, you don't need to be so formal. It's good to meet you, Shalcas. Are you a friend of Niltar's?"
 
-"Um, I— not really, I don't, um, don't really have many… any friends here, uh, yet." Shalcas hesitates. "I'm-- I'm so sorry if I'm interrupting, it's just-- well-- I, um, it's this Geography project, I got assigned to work with Cassil, only, well, she hasn't shown up to class, the teacher didn't know where she was, um-- she said Niltar might--?"
+"Um, I— not really, I don't, um, don't really have many… any friends here, uh, yet." Shalcas hesitates. "I'm-- I'm so sorry if I'm interrupting, it's just-- well-- I, um, it's this Geography project, I got assigned to work with Cassil, only, well, she hasn't shown up to class, the instructor didn't know where she was, um-- she said Niltar might--?"
 
 Livkir takes a deep breath. "Maybe you should come in," he says, opening the door and stepping back. Shalcas hesitantly steps over the threshold, and gasps sharply when he sees Niltar.
 
