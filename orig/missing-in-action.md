@@ -4,7 +4,7 @@
 
 Niltar doesn't move when she hears knuckles rapping on her door. She doesn't move even when the lock chirps and the door slides back, despite the fact that she's lying half-dressed in bed, the bedclothes in chaos around her, her pillows stained with tears and her sheets stained with blood.
 
-"Hey, our UC instructor is getti—oh, fuck, holy fuck, Nili—!"
+"Hey, you, our UC instructor is starting to ge— oh, fuck, holy fuck, Nili—!"
 
 Niltar doesn't respond as he slams the door and runs to her side. "Nili? Nili, please tell me you're okay…"
 
@@ -52,7 +52,7 @@ Slowly and reluctantly, she complies. Livkir finishes tying the last pad in plac
 
 "I don't fucking know."
 
-Livkir sighs, and reaches under her pillow, pulling out the small metal flick knife Niltar always carries. "Thank you for being as predictable as usual, Nil," he says, ruffling her hair and clipping the knife to his robe. She scowls.
+Livkir sighs, and reaches under her pillow, pulling out the little serrated flick knife Niltar always carries. "Thank you for being as predictable as usual, Nil," he says, ruffling her hair and clipping the knife to his robe. She scowls.
 
 "That's mine."
 
