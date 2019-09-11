@@ -42,9 +42,9 @@ After a pause, she ruefully mumbles, "Don't have any." Livkir sighs.
 
 "Why? What's the fucking point?"
 
-"The *fucking point,* Nili," Livkir replies, punching her gently on the shoulder, "is getting to see how happy you'll be when she comes back and holds you again. Okay? Hold that bandage, will you?"
+"The *fucking point,* Nili," Livkir replies, punching her gently in the shoulder, "is getting to see how happy you'll be when she comes back and holds you again. Okay? Hold that bandage, will you?"
 
-Slowly and reluctantly, she complies. Livkir finishes tying the last pad in place, and releases her arm. "Fuck. Okay. There. No more blood loss." He sighs. "Now we just need to get your sheets washed, and your kit restocked. Again." He sits down next to her. "Where's the knife?"
+Slowly and reluctantly, she complies. Livkir finishes tying the last pad in place, and releases her arm. "Fuck. Okay. There. No more blood loss." He exhales raggedly. "Now we just need to get your sheets washed, and your kit restocked. Again." He sits down next to her. "Where's the knife?"
 
 "What do you mean."
 
@@ -52,19 +52,19 @@ Slowly and reluctantly, she complies. Livkir finishes tying the last pad in plac
 
 "I don't fucking know."
 
-Livkir sighs, and reaches under her pillow, pulling out the small metal folding knife Niltar always carries. "Thank you for being as predictable as usual, Nil," he says, ruffling her hair and clipping the knife to his robe. She scowls.
+Livkir sighs, and reaches under her pillow, pulling out the small metal flick knife Niltar always carries. "Thank you for being as predictable as usual, Nil," he says, ruffling her hair and clipping the knife to his robe. She scowls.
 
 "That's mine."
 
 "And you can have it back when I'm sure you're not going to do anything stupid with it. —Trying to fight me for it counts as stupid, Nili," he adds, as she swings a weak blow at him; he easily catches her wrist and pins her arm to the bed. "We both know how that ends."
 
-Niltar just crumples, rolling over on her side away from him and starting to sob again. Livkir strokes her back and pulls her gently into a sitting position; she collapses against his side, and he holds her close as she shakes quietly in his arms.
+Niltar just crumples, rolling over on her side away from him and starting to sob again. Livkir strokes her back and pulls her gently into a sitting position; she collapses against his side, and he holds her close as she trembles quietly in his arms.
 
-"I promise you, I'm gonna--" he begins, but stops short at the sound of a faint, hesitant knock on the door. Niltar immediately begins to tremble.
+"I promise you, I'm gonna--" he begins, but stops short at the sound of a faint, hesitant knock on the door. Niltar flinches, eyes suddenly fearful.
 
 "They're coming for me," she whispers, clinging to him. "They're coming for me too."
 
-"Shhh." Livkir hugs her tight. "I don't think *they'd* knock so quiet. I'll go take care of it, whoever it is."
+"Shhh." Livkir hugs her tight. "I don't think *they'd* be so polite as to knock. I'll go take care of it, whoever it is."
 
 He opens to door to find a young, short boy in a robe as golden as his fluffy, short-cropped hair standing outside the dormitory. The boy looks up in surprise, eyes widening with recognition.
 
@@ -76,7 +76,7 @@ He opens to door to find a young, short boy in a robe as golden as his fluffy, s
 
 Livkir pats him gently on the shoulder. "Hey, it's okay, you don't need to be so formal. It's good to meet you, Shalcas. Are you a friend of Niltar's?"
 
-"Um, I— not really, I don't, um, don't really have many… any friends here, uh, yet." Shalcas hesitates. "I'm-- I'm so sorry if I'm interrupting, it's just-- well-- I, um, it's this Geography project, I got assigned to work with Cassil, only, well, she hasn't shown up to class, the instructor didn't know where she was, um-- she said Niltar might--?"
+"Um, I— not really, I don't, um, don't really have many… any friends here, uh, yet." Shalcas hesitates. "I'm-- I'm so sorry if I'm interrupting, it's just-- well-- I, um, it's this Geography project, I got assigned to work with Cassil, only, well, she hasn't shown up to class in days, the instructor didn't know where she was, um-- she said Niltar might--?"
 
 Livkir takes a deep breath. "Maybe you should come in," he says, opening the door and stepping back. Shalcas hesitantly steps over the threshold, and gasps sharply when he sees Niltar.
 
@@ -94,7 +94,7 @@ Livkir pulls out a chair, lifting some underwear and painting supplies off of it
 
 Shalcas' eyes widen. "C-can you-- can you describe the uniform?"
 
-"Uh, yeah." Livkir purses his lips, pausing for a moment to think. "It was… very green. Dark green. Lots of leather, black gauntlets. They were armed, too. And they just walked straight through all the security locks like they weren't even there. Definitely not Homeguard, they were way too slick-- I guess that means something to you, huh?"
+"Uh, yeah." Livkir purses his lips, pausing for a moment to think. "It was… very green. Dark green. Lots of leather, black boots and gauntlets. They were armed, too. And they just walked straight through all the security locks like they weren't even there. Definitely not Homeguard, they were way too slick-- I guess that means something to you, huh?"
 
 Shalcas is nodding slowly. "That… sounds like exactly who I was afraid it was. Stars and skies, what did Cassil even *do* to get the *Shevran* on her case? She's only, what, seventeen?"
 
@@ -108,7 +108,7 @@ Shalcas is nodding slowly. "That… sounds like exactly who I was afraid it was.
 
 "Nonono! It's okay, it's okay!" Livkir exclaims as Shalcas starts to stand. "You didn't do anything wrong. You've been super helpful, actually. And please, call me Liv."
 
-"O-oh!" Shalcas offers him a fragile smile, blushing faintly. "W-well then, um-- m-my friends used to call me Shay?"
+"O-oh!" Shalcas offers him a fragile smile, blushing faintly. "W-well then, um-- m-my friends-- well-- *people* used to call me Shay?"
 
 "Shay it is then." Livkir takes a deep breath. "So, like-- how do you know all this stuff? --And what do you mean, *used* to call you?"
 
@@ -122,7 +122,7 @@ Shalcas is nodding slowly. "That… sounds like exactly who I was afraid it was.
 
 "It… it is. Could be worse, though," he adds darkly.
 
-"I'm so sorry." Livkir touches him gently on the shoulder. "You're such a kind, cute, thoughtful kind of guy. If you need help, you know, meeting people, I'm happy to help." He squeezes Niltar tightly. "You know, after-- after we track Cas down and get her back."
+"I'm so sorry." Livkir touches him gently on the shoulder. "You're such a kind, cute, thoughtful kind of guy. If you need help, you know, meeting people, I'm happy to introduce you to some people." He squeezes Niltar tightly. "You know, after-- after we track Cas down and get her back."
 
 Shalcas blushes even deeper. "Th-tha-that's so kind of you, Livki--uh, Liv. Um. Is-- is there any way I can help?"
 
