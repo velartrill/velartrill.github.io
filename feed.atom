@@ -10,7 +10,7 @@
 		<name>lexi hale</name>
 		<uri>https://hale.su/</uri>
 	</author>
-	 <updated>2019-09-10T12:10:53-07:00</updated> 
+	 <updated>2019-09-10T22:41:19-07:00</updated> 
 
 	 <entry>
 		 <title>Into the Valley</title>
@@ -628,17 +628,26 @@
 		 <title>Interview</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/interview.html"/>
 		 <id>urn:uuid:e48350ed-56d9-4a30-aeed-749fd437e3b1</id>
-		 <updated>2019-09-10T12:09:15-07:00</updated>
+		 <updated>2019-09-10T22:38:34-07:00</updated>
 		 <summary type="html"><![CDATA[<p>She has no idea how long it’s been.</p><p><a href="http://ʞ.cc/fic/spirals/interview.html">[read more]</a></p>]]></summary>
-		 <category term="new"/>
+		 <category term="updated"/>
 	 </entry>
 
 	 <entry>
 		 <title>DSM/WPA Theater Practice Guidelines (Revision 7)</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/ranlin.html"/>
 		 <id>urn:uuid:fd758670-f62e-4fe5-b352-6fd4ba850e98</id>
-		 <updated>2019-08-08T10:36:50-07:00</updated>
+		 <updated>2019-09-10T14:10:49-07:00</updated>
 		 <summary type="html"><![CDATA[<p>This document is issued and controlled under the authority of the local office of the DSM/WPA, the Wartime Practice Authority of the Directorate of Surgery and Medicine. It is issued to medical personnel operating in a specific wartime theater to familiarize them with conditions on the ground, including biomedical idiosyncracies, logistical constraints, potential patient populations, and the local norms of care.</p><p><a href="http://ʞ.cc/fic/spirals/ranlin.html">[read more]</a></p>]]></summary>
+		 <category term="updated"/>
+	 </entry>
+
+	 <entry>
+		 <title>Missing in Action</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/missing-in-action.html"/>
+		 <id>urn:uuid:98829483-e35f-4a6f-9e93-81359e47cc1e</id>
+		 <updated>2019-09-10T22:40:38-07:00</updated>
+		 <summary type="html"><![CDATA[<p>Niltar doesn’t move when she hears knuckles rapping on her door. She doesn’t move even when the lock chirps and the door slides back, despite the fact that she’s lying half-dressed in bed, the bedclothes in chaos around her, her pillows stained with tears and her sheets stained with blood.</p><p><a href="http://ʞ.cc/fic/spirals/missing-in-action.html">[read more]</a></p>]]></summary>
 		 <category term="new"/>
 	 </entry>
 
