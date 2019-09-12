@@ -48,7 +48,7 @@ Slowly and reluctantly, she complies. Livkir finishes tying the last pad in plac
 
 "What do you mean."
 
-"Don't play dumb with me, Nili. Where's your knife?"
+"Don't play dumb with me, Nili. *Where's* your *knife?"*
 
 "I don't fucking know."
 
@@ -66,7 +66,7 @@ Niltar just crumples, rolling over on her side away from him and starting to sob
 
 "Shhh." Livkir hugs her tight. "I don't think *they'd* be so polite as to knock. I'll go take care of it, whoever it is."
 
-He opens to door to find a young, short boy in a robe as golden as his fluffy, short-cropped hair standing outside the dormitory. The boy looks up in surprise, eyes widening with recognition.
+He opens the door to find a young, short boy in a robe as golden as his fluffy, short-cropped hair standing outside the dormitory. The boy looks up in surprise, eyes widening with recognition.
 
 "O-oh! C-comrade L-Livkir, sir," he stammers, "I— I thought-- I'm so s-sorry, I was, um, I was looking for Niltar—?"
 
@@ -76,7 +76,7 @@ He opens to door to find a young, short boy in a robe as golden as his fluffy, s
 
 Livkir pats him gently on the shoulder. "Hey, it's okay, you don't need to be so formal. It's good to meet you, Shalcas. Are you a friend of Niltar's?"
 
-"Um, I— not really, I don't, um, don't really have many… any friends here, uh, yet." Shalcas hesitates. "I'm-- I'm so sorry if I'm interrupting, it's just-- well-- I, um, it's this Geography project, I got assigned to work with Cassil, only, well, she hasn't shown up to class in days, the instructor didn't know where she was, um-- she said Niltar might--?"
+"Um, I— not really, I don't, um, don't really know many… many people here, uh, yet." Shalcas hesitates. "I'm-- I'm so sorry if I'm interrupting, it's just-- well-- I, um, it's this Geography project, I got assigned to work with Cassil, only, well, she hasn't shown up to class in days, the instructor didn't know where she was, um-- she said Niltar might--?"
 
 Livkir takes a deep breath. "Maybe you should come in," he says, opening the door and stepping back. Shalcas hesitantly steps over the threshold, and gasps sharply when he sees Niltar.
 
@@ -190,11 +190,11 @@ Shalcas looks away. "F-fine," he mumbles.
 
 "Just doing my civic duty," Lisuan purrs, "making sure poor Nili still has enough sense left in that feral little brain of hers to keep her dorm *up to regulation."* She glances around, and clicks her tongue. "Which, by the look of things, she doesn't." She reaches for the small slate clipped at her waist. "Oh, don't fret, dear," she adds, ruffling Niltar's hair. "I'm sure no matter how many lashes you earn *this* time you'll just go crying to your _virtash_ to get out of it. As *always."*
 
-"Don't you *fucking* touch me—!" Livkir has to grab Niltar by the arm to stop her from loosing a swing at Lisuan. "Liv, let *go* of me! Bitch, I am going to—"
+"Don't you *fucking* touch me—!" Livkir has to grab Niltar by the arm to stop her from taking a swing at Lisuan. "Liv, let *go* of me! Bitch, I am going to—"
 
 "Calm down and be civil, right, Nili?" Livkir looks up desperately at Lisuan. "Lisi, please, you don't need to keep escalating. Not right now."
 
-Lisuan stepped closer, leaning down until her face is less than an inch from Niltar's. "Is that right, Nili?" she murmurs. "Am I being a bother?" She takes Niltar's chin between her thumb and forefinger. "Should I leave you to *mourn* your precious *girlfriend* in peace?"
+Lisuan steps closer, leaning down until her face is less than an inch from Niltar's. "Is that right, Nili?" she murmurs. "Am I being a bother?" She takes Niltar's chin between her thumb and forefinger. "Should I leave you to *mourn* your precious *girlfriend* in peace?"
 
 Niltar spits in her face, yanking away. "Fuck you. Fuck *both* of you. Go get your bitch ass bent, Lisuan. I sincerely hope you die in pain."
 
@@ -220,7 +220,7 @@ Livkir releases Niltar as the door closes behind Lisuan and she immediately roun
 
 Nili struggles to break Livkir’s grip. “And I would have fucking *given* her one, you wet *fucking* doormat—”
 
-“You were going to give her *exactly* what she wanted! You can’t beat her at her own game!” Livkir caught Niltar in a headlock. “You’re not going to hurt her with your fists — even you did, she’d probably enjoy it!”
+“You were going to give her *exactly* what she wanted! You can’t beat her at her own game!” Livkir catches Niltar in a headlock. “You’re not going to hurt her with your fists — even you did, she’d probably enjoy it!”
 
 “You’d fucking know, you’re apparently her *bitch* now—” Niltar digs her nails into Livkir’s arm. “Let *go of me!”*
 
@@ -278,7 +278,7 @@ Shalcas looks away. "The Shevran are… they are a complicated agency."
 
 The boy nods slowly. "I'm… I'm really not supposed to talk about this, but, well— they evacuated me when I was young. From… where I lived before here. It was kind of a big deal when it went down. And they… they saved me from some… really bad stuff. There was this one officer who probably saved my life. I just… I'm really grateful to them for that, and I really admire them, I think they're good people, truly, it's just…" He clasps his hands in his lap. "They're not part of the normal world. The Shevran doesn't come in unless the normal world has stopped working and needs to be… beaten back into shape. Every single agent who talked to me-- they were all so kind and caring and strong, every single one of them, but… I-- I don't really know how to put this into words."
 
-He gazes out the window for a moment. "I guess it's kinda like… they're used to playing by such different rules. They do things very differently, and they're… they're very forceful, and they're very strict. The kind of people who always use the _'val'_ pronoun and never ever say _'elen,'_ you know what I mean? They come in from the outside and they impose a new order, and they don't always think very much about the one that was already in place. Or they don't trust them. Or something. They… they expect total submission from everyone all the time. And one way or another they'll get it."
+He gazes out the window for a moment. "I guess it's kinda like… they're used to playing by such different rules. They do things very differently, and they're… they're very forceful, and they're very strict. The kind of people who always use the _'[val](glossary.html#ranuir.d.val)'_ pronoun and never ever say _'[elen](glossary.html#ranuir.d.elen),'_ you know what I mean? They come in from the outside and they impose a new order, and they don't always think very much about the one that was already in place. Or they don't trust it. Or something. They… they expect total submission from everyone at all times. And they're incredibly powerful, so one way or another… they'll get it."
 
 Livkir reaches out and rests a hand on Shalcas' shoulder. "Thank you for talking to us about this, Shay," he murmurs. "It sounds like it's not easy."
 
@@ -300,7 +300,7 @@ Livkir pats him on the shoulder. "Of course. You sat straight through a genuine 
 
 *"Fuck you!"* Niltar's voice is muffled by a pillow.
 
-"Wow, really? I'm… thank you." Shalcas stares up at Livkir, expression full of gratitude. "The cliques are usually so hard to get into here."
+"Wow, really? I'm… that means so much to me." Shalcas stares up at Livkir, eyes full of gratitude. "The cliques are usually so hard to get into here."
 
 "You're helping us get Cas back." Niltar sits up, glaring at him. "Of course you're our friend now, are you shitting me?"
 
