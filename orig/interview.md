@@ -52,7 +52,11 @@ The warmth from Safris' body is enough to drive out the chill, and bit by bit th
 
 "Why are you being… *nice* to me?" she asks. She can't make herself look Safris in the eye.
 
-"Because you're one of us. What more reason do I need?" Safris' tone shifts, becoming more professional, but the warmth remains. "Are you going to be able to walk? I can fetch a wheelchair if need be--"
+"Would you prefer I was mean to you?" Safris murmurs, stroking her shoulder. "Pushed you around and called you names? I can do that too, if it would make you more comfortable."
+
+"…I— I'm being serious."
+
+"So am I." Safris gives her a friendly little scritch on the back of the neck. "You're one of us. What more reason do I need to be kind?" Her tone shifts, becoming more professional, but the warmth remains. "Are you going to be able to walk? I can fetch a wheelchair if need be--"
 
 Cassil shakes her head. "I'm f-- I'm fine," she mumbles.
 

@@ -40,6 +40,8 @@ After a pause, she ruefully mumbles, "Don't have any." Livkir sighs.
 
 "No fucking chance in Haven. I am not going to abandon you, and Cas sure as fuck hasn't abandoned you either." He finishes bandaging her left arm, then starts on her right. "I don't care how many times I have to patch you up."
 
+%img ils/niltar.png
+
 "Why? What's the fucking point?"
 
 "The *fucking point,* Nili," Livkir replies, punching her gently in the shoulder, "is getting to see how happy you'll be when she comes back and holds you again. Okay? Hold that bandage, will you?"
@@ -57,6 +59,8 @@ Livkir sighs, and reaches under her pillow, pulling out the little serrated flic
 "That's mine."
 
 "And you can have it back when I'm sure you're not going to do anything stupid with it. —Trying to fight me for it counts as stupid, Nili," he adds, as she swings a weak blow at him; he easily catches her wrist and pins her arm to the bed. "We both know how that ends."
+
+%img ils/livkir.png
 
 Niltar just crumples, rolling over on her side away from him and starting to sob again. Livkir strokes her back and pulls her gently into a sitting position; she collapses against his side, and he holds her close as she trembles quietly in his arms.
 
@@ -97,6 +101,8 @@ Shalcas' eyes widen. "C-can you-- can you describe the uniform?"
 "Uh, yeah." Livkir purses his lips, pausing for a moment to think. "It was… very green. Dark green. Lots of leather, black boots and gauntlets. They were armed, too. And they just walked straight through all the security locks like they weren't even there. Definitely not Homeguard, they were way too slick-- I guess that means something to you, huh?"
 
 Shalcas is nodding slowly. "That… sounds like exactly who I was afraid it was. Stars and skies, what did Cassil even *do* to get the *Shevran* on her case? She's only, what, seventeen?"
+
+% img ils/shalcas.png
 
 "Seventeen, yeah. Hang on, the Shevran?" Livkir stares. "You mean, as in, like -- the *Shevran* Shevran? The fucking *Control Council* Shevran?"
 
@@ -309,8 +315,9 @@ Livkir pats him on the shoulder. "Of course. You sat straight through a genuine 
 Shalcas nods slowly, licking his dry lips. "I… Yes. I think… I think I might."
 
 % prev interview.html Interview
+% next out-of-the-dark.html Out of the Dark
 
 % to pub/vt/fic/spirals
 % path fiction/Spirals
 % is arc Society
-% is coda ils/niltar.png
+% is coda ils/lisuan.png
