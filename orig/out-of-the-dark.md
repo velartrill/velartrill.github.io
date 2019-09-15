@@ -340,7 +340,7 @@ Cassil exhales deeply. "It feels so good to be wearing my own clothes again."
 
 "Lead the way," she murmurs demurely, and Safris laughs aloud.
 
-"Good girl, Cassi," she replies, favoring her with one last kiss as she reaches for the door. "Good girl."
+"Good girl, Cassi," she replies, favoring her with one last kiss. "Good girl."
 
 As Safris reaches for the door latch, Cassil nuzzles her shoulder. “Hey. For the record?”
 
