@@ -132,13 +132,13 @@ Shalcas is nodding slowly. "That… sounds like exactly who I was afraid it was.
 
 Shalcas blushes even deeper. "Th-tha-that's so kind of you, Livki--uh, Liv. Um. Is-- is there any way I can help?"
 
-Livkir hesitates. "Fuck if I know?" he says finally, "but skies above, I have no fucking idea what's going on or what to do about it and it sounds like you know a thing or to about the Shevran, so… if anyone can help us, it's probably you, Shay."
+Livkir hesitates. "Fuck if I know?" he says finally, "but skies above, I have no fucking idea what's going on or what to do about it and it sounds like you know a thing or two about the Shevran, so… if anyone can help us, it's probably you, Shay."
 
 "I'd-- I'd be happy to do anything I can! It-- it sounds like she means a lot to you."
 
 Livkir nods solemnly. "And even more to Nili."
 
-"I wondered why I didn't see her in UC the other day," Shalcas murmured. "I'm… I'm so sorry you're going through this."
+"I wondered why I didn't see her in UC the other day," Shalcas murmurs. "I'm… I'm so sorry you're going through this."
 
 "I guess you probably don't know Cas that well, then?"
 
@@ -152,7 +152,7 @@ Shalcas nodded. “One guy in the group tried to take charge and she just steamr
 
 "Is… is she y-your partner, Niltar?" Shalcas asks softly. Niltar's head droops.
 
-"She's a lot more than that," she mutters in a hollow, broken voice.
+"She's a lot more than that," she replies in a hollow, broken voice.
 
 "Cassil's Nili's *vartash,"* Livkir murmurs. Shalcas' eyes widen.
 
@@ -168,7 +168,7 @@ The bolt shoots back with an electronic chirp and the door slams open.
 
 "Nili--" Livkir whispers worriedly.
 
-"What have we here?" The girl in red walks straight up to Livkir, carelessly violating his personal space. Her lips are practically close enough to his to kiss. "I suppose I shouldn't be surprised to find you three *reprobates* conspiring in here. Oh, but--" She turns to Niltar. "--where in all Haven is dear little *Cassi?* She's been skulking around *avoiding* me for days. I really did expect I'd find her here." She turns. "So where *is* she, *Liv?* Hiding under the bed like the brave leader she is?"
+"What have we here?" The girl in red walks straight up to Livkir, carelessly violating his personal space. Her lips are practically close enough to his to kiss. "I suppose I shouldn't be surprised to find you *reprobates* conspiring in here. Oh, but--" She turns to Niltar. "--where in all Haven is dear little *Cassi?* She's been skulking around *avoiding* me for days. I really did expect I'd find her here." She turns. "So where *is* she, *Liv?* Hiding under the bed like the brave leader she is?"
 
 "Lisi," Livkir murmurs, "this is *really* not a good time—"
 
@@ -218,7 +218,7 @@ Livkir releases Niltar as the door closes behind Lisuan and she immediately roun
 
 “She isn’t— I’m not—” Livkir raises his hands. “Nili, why do you have to be this way? Novas above, she's not wrong, it really *is* like you go feral when Cas isn’t around. I don’t know how she keeps you under control!”
 
-“I’ll show you *feral!”* Niltar’s fist moves with ferocious speed and Livkir recoils, clutching at his stomach. “You’re *unbelievable!* First you want to lay down for Lisuan fucking Tegvari, then you go and try to make *me* bend over for her, what’s next, huh?” She slaps his cheek with enough force to send him stumbling. “The Heavenly Empire? You gonna crawl on all fours and beg the Empress to flog you?”
+“I’ll show you *feral!”* Niltar’s fist moves with ferocious speed and Livkir recoils, clutching at his stomach. “You’re *unbelievable!* First you want to lay down for Lisuan fucking Tegvari, then you go and try to make *me* bend over for her, what’s next, huh?” She slaps his cheek with enough force to send him stumbling. “The Empire? You gonna crawl on all fours and beg the Empress to flog you?”
 
 “G-guys—” Shalcas tries feebly to interject. Niltar ignores him.
 

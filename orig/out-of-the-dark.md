@@ -174,7 +174,7 @@ Safris runs her fingernails along the curve of Cassil's jaw, gently teasing her 
 
 The feeling of Safris’ soft lips on hers sends a jolt of pleasure and excitement through Cassil's body; she lets out a quiet gasp as the officer slips a knee between her thighs and presses firmly upwards. She effortlessly pins Cassil's wrists to the wall with a single hand, massaging the girl's breast as she teases her lips with her teeth and tongue, giggling at Cassil's futile attempt to break free. Within moments, she's reduced to a gasping, squirming mess under Safris’ hands, helpless in the grip of a woman who knows exactly how to keep her agitated and desperate. How to draw out the sensation exquisitely, hurting her just enough that she can't lie back and take it, how to make her struggle reflexively against Safris’ carefully honed and vastly more powerful body.
 
-After toying with her for a few minutes, Safris releases her wrists, and giggles, shivering a little, as Cassil slips her cold hands through the warm folds of the her Shevran uniform to caress her soft, bare skin. Safris moves closer, slowly dialing down the cruelty and pain, letting Cassil relax in her arms. She kisses the girl's forehead softly as her eyelids flutter and she slowly closes her eyes, muscles going limp in Safris’ tight, warm, unbreakable grip. Her soft murmurs are punctuated by occasional gasps and yelps of pain as Safris draws her closer and closer to climax with the finesse of an expert.
+After toying with her for a few minutes, Safris releases her wrists, and giggles, shivering a little, as Cassil slips her cold hands through the warm folds of her Shevran uniform to caress her soft, bare skin. Safris moves closer, slowly dialing down the cruelty and pain, letting Cassil relax in her arms. She kisses the girl's forehead softly as her eyelids flutter and she slowly closes her eyes, muscles going limp in Safris’ tight, warm, unbreakable grip. Her soft murmurs are punctuated by occasional gasps and yelps of pain as Safris draws her closer and closer to climax with the finesse of an expert.
 
 "You like being on top, don't you, Cassi?" she teases, interspersing her words with soft kisses to the girl's lips. "I can tell you're not used to the submissive role at all." She swats Cassil's rear, eliciting a yelp of protest. "Pity. It suits you."
 
@@ -276,7 +276,7 @@ Cassil rolls her eyes. "Since when do you care about what happens to random fuck
 
 Cassil gazes into her eyes. "You really believe, don't you?" she murmurs. "In the Society, I mean."
 
-“Yeah I do, little miss rebel.” Safris pulls her into a gentle hug, stroking her back as she speaks. “In my role, I see the absolute worst the People have to offer. Corruption, cruelty, rape, and bloodshed. You know why I still believe?”
+“Yeah I do, little miss rebel.” Safris wraps her arms around her again, stroking her back as she speaks. “In my role, I see the absolute worst the People have to offer. Corruption, cruelty, rape, and bloodshed. You know why I still believe?”
 
 “Why’s that?”
 
@@ -336,7 +336,7 @@ Safris carefully wraps Cassil's _rancal_ around her body, pulling it extra tight
 
 Cassil exhales deeply. "It feels so good to be wearing my own clothes again."
 
-"I'll bet. Come on, let's get you out of here." Safris ruffles her hair, and takes her by the arm again; Cassil sighs happily at the feeling of the officer's hands on her body again.
+"I'll bet. Come on, let's get you out of here." Safris ruffles her hair, and takes her by the arm; Cassil sighs happily at the feeling of the officer's hands on her body again.
 
 "Lead the way," she murmurs demurely, and Safris laughs aloud.
 
