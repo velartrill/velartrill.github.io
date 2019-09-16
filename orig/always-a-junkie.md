@@ -159,9 +159,9 @@ My cheeks burn as the mercs parade me, shackled, past the gathered crowd and dra
 
 At least I've still plenty of drink in me.
 
-The flight north is a short one after the scramjets kick in, and it's not long before I feel rough hands on my body again. The mercs don't bother to take off my blindfold before leading me down the ramp, leaving me to totter and stumble in their grip. Hearing their laughter this time is enough to start tears of humiliation and anger burning in the corner of my eyes, and by the time I'm shoved to my knees and the blindfold finally comes off, my nose is red and my eyes are drenched. The cuffs are starting to hurt, bad.
+The flight north is a short one after the scramjets kick in, and it's not long before I feel rough hands on my body again. The mercs don't bother to take off my blindfold before leading me down the ramp, leaving me to totter and stumble in their grip. The cuffs are starting to hurt, bad. Hearing their laughter this time is enough to start tears of humiliation and anger burning in the corner of my eyes, and by the time I'm shoved to my knees and the blindfold finally comes off, my nose is red and my eyes are drenched. 
 
-As I furiously try to blink them clear and let them adjust to the light, the figure standing over me comes into focus. Striking blue eyes beneath long locks of rich, dark brown hair even darker than his skin, streaked at each side with lines of black dye; delicate silk robes lovingly with embroidered with intricate floral patterns and flowing ocean scenes; an Imperial dueling sword fastened in its decorated sheath.
+As I furiously try to blink them clear and let them adjust to the light, the figure standing over me comes into focus. Striking blue eyes beneath long locks of rich, dark brown hair even darker than his skin, streaked at each side with lines of black dye; delicate silk robes lovingly embroidered with intricate floral patterns and flowing ocean scenes; an Imperial dueling sword fastened in its decorated sheath.
 
 Above me stands the Lord of Opium. Oravdenel Sedvesêra, master of Sŷralën, kingpin of kingpins — indisputably the wealthiest, most powerful, most ruthless man in all of Saravan.
 
@@ -467,7 +467,7 @@ Orrie's as Sara as they come, and he always talks about how hard it was to find 
 
 Sometimes I wonder if there isn't something *else* hidden away inside her. Because there's only one kind of person I've seen with bodies like that before. And there's rumors that during the War, *their* blood did more than stain battlefields; that their seed found purchase even among us foreign barbarians. Which wouldn't surprise me in the slighest. Love blossoms in strange places sometimes.
 
-And… knowing Orrie as well as I do, probably better even than his sister does these days… it does seem like exactly the kind of the kind of shit he'd pull. Just to give his heiress a secret little edge over the competition.
+And… knowing Orrie as well as I do, probably better even than his sister does these days… it does seem like exactly the kind of shit he'd pull. Just to give his heiress a secret little edge over the competition.
 
 Seeing how she killed her first assassin at age 15, with a combat knife straight through the ribs and into the heart — a split second before he spattered her father's brains all over the wall — it sure seems to be working.
 
