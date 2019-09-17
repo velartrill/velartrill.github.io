@@ -46,7 +46,7 @@ After a pause, she ruefully mumbles, "Don't have any." Livkir sighs.
 
 "The *fucking point,* Nili," Livkir replies, punching her gently in the shoulder, "is getting to see how happy you'll be when she comes back and holds you again. Okay? Hold that bandage, will you?"
 
-Slowly and reluctantly, she complies. Livkir finishes tying the last pad in place, and releases her arm. "Fuck. Okay. There. No more blood loss." He exhales raggedly. "Now we just need to get your sheets washed, and your kit restocked. Again." He sits down next to her. "Where's the knife?"
+Slowly and reluctantly, she complies. Livkir finishes tying the last pad in place, and releases her arm. "Fuck. Okay. There. No more open wounds." He exhales raggedly. "Now we just need to get your sheets washed, and your kit restocked. Again." He sits down next to her. "Where's the knife?"
 
 "What do you mean."
 
