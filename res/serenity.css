@@ -432,6 +432,16 @@ nav {
         margin-right: 2ex;
         content: "⮜"; }
 
+blockquote {
+  margin: 0;
+  padding: 0.1px 1em;
+  /* heavy sigh */
+  background: rgba(0, 0, 0, 0.5);
+  border: 1px solid hsl(var(--hue), 60%, calc(var(--bright) + 20%));
+  border-left: 5px solid hsl(var(--hue), 60%, calc(var(--bright) + 20%));
+  outline: 1px solid hsl(var(--hue), 100%, calc(var(--bright) - 8%));
+  font-size: 90%; }
+
 /* endnote mechanism */
 @media screen {
   a.endnote-link[href], a.endnote-link[href]:focus {

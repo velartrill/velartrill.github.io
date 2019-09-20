@@ -395,6 +395,20 @@ nav {
 	}
 }
 
+blockquote {
+	$color: hsl(var(--hue), 60%, calc(var(--bright) + 20%));
+	margin: 0;
+	padding: 0.1px 1em; /* heavy sigh */
+	//background: hsl(var(--hue), 84%, calc(var(--bright) - 5%));
+	background: rgba(0,0,0,0.5);
+
+	border: 1px solid $color;
+	border-left: 5px solid $color;
+	outline: 1px solid hsl(var(--hue), 100%, calc(var(--bright) - 8%));
+
+	font-size: 90%;
+}
+
 /* endnote mechanism */
 @if $endnote == yes {
 	@media screen {

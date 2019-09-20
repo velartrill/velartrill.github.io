@@ -202,7 +202,7 @@ Shalcas looks away. "F-fine," he mumbles.
 
 Lisuan steps closer, leaning down until her face is less than an inch from Niltar's. "Is that right, Nili?" she murmurs. "Am I being a bother?" She takes Niltar's chin between her thumb and forefinger. "Should I leave you to *mourn* your precious *girlfriend* in peace?"
 
-Niltar spits in her face, yanking away. "Fuck you. Fuck *both* of you. Go get your bitch ass bent, Lisuan. I sincerely hope you die in pain."
+Niltar spits in her face, yanking away. "Fuck you. Fuck *both* of you. Go suck off a rakewyrm, Lisuan. I sincerely hope you die in pain."
 
 Lisuan straightens her back and smirks, casually wiping the spit from her face. "When I do," she says, holding up the slate and tapping idly at the screen, "it will be in service of the People. I'm sorry you won't be able to say the same -- but we all know you're just going to spend the rest of your life limping along in Cassi's shadow, you poor thing. I doubt very much you'll even make citizen, if *this—"* She gestures about the room, pausing to yank open a cupboard and click her tongue in disapproval. "—is the sort of discipline you're capable of." She clears her throat. "Unwashed clothing in dormitory, three demerits. Clothing on the floor, three demerits. Blocked walkways, two demerits. Unmade bed, two demerits. Disorganized cabinets, one demerit. Disobedience to dorm monitor, ten demerits. Poor posture, one demerit. Total, *twenty-two* demerits, which is, I believe, a new *record* for this quarter." She beams at Niltar. "Congratulations, dear. And as for you—" She turns to face Shalcas. "I'll be *most* curious to see what your new rating is in class tomorrow," she purrs. "Later, boys~"
 
