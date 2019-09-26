@@ -66,9 +66,16 @@
 	width: device-width;
 }
 
+%root {
+	// this pseudo-class is used to improve compat
+	// with CSS1 renderers that don't support :root
+	font-size: 14pt;
+}
+
 :root {
+	@extend %root;
 	--hue: 338;
-	--width: 30em;
+	--width: 35rem;
 	--bright: 12%;
 	--link-br: 73%;
 	--hover: 22%;
@@ -81,13 +88,13 @@
 }
 
 body {
+	@extend %root;
 	margin-top: 1em;
 	padding: 0 1em;
 	font-family: mincho, "GaramondNo8",
 	             "Garamond Premier Pro",
                  "EB Garamond", serif;
 
-	font-size: 14pt;
 	hanging-punctuation: first last force-end;
 	text-align: justify;
 
@@ -138,12 +145,15 @@ img { max-height: 100vh; }
 h1, h2, h3, h4, h5, h6 { /* sigh */
 	all: unset;
 	display: block;
+	text-align: left;
 
-	@media screen {
-		a[href] {
-			text-decoration: none;
+	a[href] {
+		@media screen {
 			color: hsl(var(--hue),60%,80%);
 			&:hover { color: var(--fg-color); }
+		}
+		@media print {
+			text-decoration: none;
 		}
 	}
 
@@ -164,7 +174,7 @@ h1, h2, h3, h4, h5, h6 { /* sigh */
 
 p {
 	margin: 0.7em 0;
-	line-height: 1.4em;
+	line-height: 1.5em;
 }
 
 del {
@@ -395,32 +405,87 @@ nav {
 	}
 }
 
-blockquote {
-	$color: hsl(var(--hue), 60%, calc(var(--bright) + 20%));
-	margin: 0;
+%box {
+	page-break-inside: avoid;
 	margin-left: 1em;
 	margin-right: 1em;
 	padding: 0.1px 1em; /* heavy sigh */
 	//background: hsl(var(--hue), 84%, calc(var(--bright) - 5%));
-	background: rgba(0,0,0,0.5);
-
-	//border: 1px solid $color;
-	border-left: 5px solid $color;
-	outline: 1px solid hsl(var(--hue), 100%, calc(var(--bright) - 8%));
-
 	font-size: 90%;
+
+	@media screen {
+		background: rgba(0,0,0,0.5);
+		outline: 1px solid hsl(var(--hue), 100%, calc(var(--bright) - 8%));
+	}
 
 	&>& { margin-bottom: 1em; }
 	&+& { margin-top: 1em; }
 }
+
+blockquote {
+	@extend %box; 
+	margin: 0;
+	border-left: 5px solid hsl(var(--hue), 60%, calc(var(--bright) + 20%));
+	@media print {
+		border-color: black;
+	}
+}
+
+aside {
+	--asize: 28px;
+	--padsize: 4px;
+	@extend %box;
+	position: relative;
+	margin: 0 -1em;
+	padding-left: calc(var(--asize) + (var(--padsize) * 2) + 0.5em;
+	&::before {
+		line-height: 55px;
+		display: block;
+		position: absolute;
+		left: 0;
+		padding: 0 var(--padsize);
+		height: 100%;
+		content: "➤";
+		color: black;
+		font-size: var(--asize);
+		@media screen {
+			background: hsl(var(--hue), 60%, calc(var(--bright) + 20%));
+		}
+	}
+}
+
+@media (min-width: 60em) {
+	aside {
+		// float: right;
+		position: absolute;
+		left: calc(var(--width) + (50vw - (var(--width) / 2)));
+		margin: 0;
+		// width: 70%;
+		// margin-left: 0.5em;
+		// margin-right: calc(-1 * (50vw - (var(--width) / 2)) + 10em);
+	}
+}
+
 /* endnote mechanism */
 @if $endnote == yes {
+	.endnote .entry a.backlink {
+		text-decoration: underline !important;
+		font-weight: bold; 
+	}
 	@media screen {
 		%el {
+			display: inline-block;
 			text-decoration:none;
 			color: var(--fg-color);
 			background-color: hsl(var(--hue),60%,25%);
-			padding: 0.2em 0.4em;
+
+			/* yes, this is weird. unfortunately padding
+			 * doesn't work to provide a consistent height -
+			 * webkit uses x-height as the font's bounding
+			 * box whereas blink uses the em square. */
+			height: 100%;
+			padding: 0 0.4em;
+			margin: 0em;
 
 			/* the following two stanzas are unfortunately
 			 * necessary and i don't know why; trying to
@@ -431,8 +496,8 @@ blockquote {
 		}
 		a[href].endnote-link {
 			@extend %el;
-			&:focus {
-				@extend %el; // this might be bullshit
+			&:focus, &:hover:focus {
+				@extend %el; // this is such bullshit but necessary
 			}
 			&:hover {
 				background-color: hsl(var(--hue),76%,35%) !important;
@@ -442,50 +507,88 @@ blockquote {
 		}
 
 		.endnote {
-			position: fixed;
 			bottom: 0.5em;
 
-			display: none; // hide until needed
+			/* try to only use the popup mechanism in browsers
+			 * that can support it - this is a little wacky */
+			@supports(position: fixed) {
+				position: fixed;
+				display: none; // hide until needed
+				
+				border: 1px solid rgba(255,255,255,0.5);
+				background-color: hsl(var(--hue),61%,15%);
+				--box-shadow-color: hsla(var(--hue),54%,30%,0.7);
+				box-shadow: 0 0 40px 0 var(--box-shadow-color);
 
-			border: 1px solid rgba(255,255,255,0.5);
-			background-color: hsl(var(--hue),61%,15%);
-			--box-shadow-color: hsla(var(--hue),54%,30%,0.7);
-			box-shadow: 0 0 40px 0 var(--box-shadow-color);
-			padding: .5em 1em;
-
-			/* center the element */
-			left: 0; right: 0;
-			max-width: 30em; /* same width as body */
-			margin:auto;
+				/* center the element */
+				left: 0; right: 0;
+				max-width: calc(var(--width) + 2em); /* same width as body */
+				margin:auto;
+			}
 
 			&:target { display: block; }
+			> * { font-size: 90%; }
 
 			.entry {
 				margin-left: 0em;
+				padding: 0.7em 1.0em;
 				text-indent: -0.5em;
+				max-height: calc(100vh - 2em);
+				overflow-x: visible;
+				overflow-y: auto;
+				line-height: 1.4em;
+				a.backlink { text-decoration: none; }
 			}
-			.ui {
-				/* hover it over the corner of the interface */
-				position: absolute;
-				top: -1.2em;
-				right: -1em;
+			.ui { display: none; }
+			@supports(position: fixed) {
+				.ui {
+					display: block;
+					
+					/* hover it over the corner of the interface */
+					position: absolute;
+					top: -1.2em;
+					right: -0.8em;
 
-				background-color: hsl(var(--hue),51%,5%);
-				border: 1px solid rgba(255,255,255,0.5);
-				padding: 0.1em .5em;
+					background-color: hsl(var(--hue),51%,5%);
+					border: 1px solid rgba(255,255,255,0.5);
+					padding: 0.1em .5em;
 
-				a[href] {
-					text-decoration: none;
-					font-weight: bold;
+					a[href] {
+						text-decoration: none;
+						font-weight: bold;
+					}
+					
+					/* this is kinda silly */
+					&:hover  { border-style: outset; }
+					&:active { border-style: inset;  }
 				}
 			}
 		}
 	}
 
 	@media print {
-		.endnote .ui { display: none; }
 		a[href].endnote-link {
 			text-decoration: none;
+			color: black;
+		}
+		.endnote {
+			.ui { display: none; }
+			.entry a.backlink {
+				color: black;
+			}
+		}
+	}
+
+	/* this is a grotesque hack and i don't understand
+	 * why it works, but: for some reason, the following
+	 * line does not succeed in removing the underline in
+	 * Dillo (which doesn't obey media queries or feature
+	 * queries properly), so we have to rely on the
+	 * glitched behavior of !important to produce the
+	 * desired effect. */
+	@supports(position: fixed) {
+		.endnote .entry a.backlink {
+			text-decoration: none !important;
 		}
 	}
 }
