@@ -30,23 +30,28 @@
 //@import url(https://fonts.googleapis.com/css?family=EB+Garamond&display=swap);
 @import "font";
 
-// currently don't feel like the glow looks good on my site
-// anymore; it's also very un-minimalistic, which goes
-// against my entire ethos. leaving a switch in place in case
-// i change my mind later tho
-	$glow: no;
+$use: [endnote, pathbar, directory, code, hilite];
 
-// include code for the endnote mechanism?
-	$endnote: yes;
+// glow: currently don't feel like the glow looks good on my
+//       site anymore; it's also very un-minimalistic, which
+//       goes against my entire ethos. leaving a switch in
+//       place in case i change my mind later tho
+// endnote (~2kb): include code for the endnote mechanism
+// pathbar (~100b): include styles to make <h1> and <h3> suitable for
+//          use as a pathbar at the top of the document?
+// directory: include styles for automatic "directory lists,"
+//            lists with descriptive bodies indented under an
+//            emphasized (bold) link or other title element?
+// code (~0.5kb): includes styles for inline code and code
+//                listings 
+// hilite (~1kb): includes styles for highlighting parts of
+//                code listings 
 
-// include styles to make <h1> and <h3> suitable for use as
-// a pathbar at the top of the document?
-	$pathbar: yes;
-
-// include styles for automatic "directory lists," lists with
-// descriptive bodies indented under an emphasized (bold) link
-// or other title element?
-	$directory: yes;
+@function using($feature) {
+	@if $use!=[] and index($use, $feature)
+	      { @return true;  }
+	@else { @return false; }
+}
 
 @font-face {
 	/* if there's any japanese text in the document,
@@ -84,7 +89,7 @@
 ::selection {
 	background-color:hsl(var(--hue),100%,60%);
 	color:white;
-	@if $glow == yes { text-shadow:none; }
+	@if using(glow) == yes { text-shadow:none; }
 }
 
 body {
@@ -100,7 +105,7 @@ body {
 
 	@media print {
 		--faint-color: #666;
-		@if $glow == yes { text-shadow:none; }
+		@if using(glow) { text-shadow:none; }
 		color: black;
 	}
 	@media screen {
@@ -113,7 +118,7 @@ body {
 
 		background: var(--bg-color);
 		color: var(--fg-color);
-		@if $glow == yes {
+		@if using(glow) {
 			--glow-color: hsl(var(--hue),60%,61%);
 			text-shadow: 0px 0px 30pt var(--glow-color);
 		}
@@ -161,11 +166,9 @@ h1, h2, h3, h4, h5, h6 { /* sigh */
 	margin-top: 0.3em;
 }
 
-@for $i from 1 to 6 {
-	h#{$i} { font-size: 1em + (1em / $i); }
-}
+@for $i from 1 to 6 { h#{$i} { font-size: 1em + (1em / $i); } }
 
-@if $pathbar == yes {
+@if using(pathbar) {
 	@media screen {
 		/* dim the pathbar */
 		h1, h3 { a[href] { color: hsl(var(--hue),50%,70%); } }
@@ -180,6 +183,61 @@ p {
 del {
 	color: var(--faint-color);
 	text-decoration-color: hsl(var(--hue), 80%, 60%);
+}
+
+@if using(code) {
+	%listing, p code {
+		display: inline-block;
+		background-color: hsl(var(--hue), 71%, 25%);
+		font-size: 0.8em;
+		height: 100%;
+		padding: 0 0.5em;
+		// border-radius: 0.3em;
+		text-shadow: 0px 1.2px 0px #2A0017;
+		border: 1px solid #2A0017;
+		font-family: "Inconsolata", monospace;
+		
+		box-shadow: 0 0 5px -2px black inset;
+
+		@if using(hilite) {
+			strong { /* keywords */
+				color: hsl(var(--hue), 100%, 70%);
+			}
+			var { /* variable names */
+				color: hsl(calc(var(--hue) - 30), 80%, 50%);
+			}
+			dfn { /* literals */
+				color: hsl(calc(var(--hue) + 30), 50%, 60%);
+			}
+			em { /* strings */
+				font-style: italic;
+				color: hsl(calc(var(--hue) - 20), 90%, 70%);
+			}
+			i { /* comments */
+				font-style: italic;
+				color: hsl(var(--hue), 30%, 30%);
+			}
+			b { /* pragmata */
+				font-weight: normal;
+				color: hsl(calc(var(--hue) - 20), 50%, 65%);
+			}
+			cite { /* imports */
+				font-style: normal;
+				color: hsl(calc(var(--hue) - 40), 70%, 70%);
+			}
+		}
+	}
+
+	body > code,
+	code.listing {
+		@extend %listing;
+		display: block;
+		box-shadow: 0 0 8px -2px black inset;
+		white-space: pre-wrap;
+		padding: 0.5em 1em;
+		line-height: 1.2em;
+		tab-size: 4;
+	}
 }
 
 a[href] {
@@ -200,11 +258,10 @@ a[href] {
 		text-decoration-width: 1px; // it'll look nice when CSS4 gets here
 		text-underline-offset: 2px;
 		  
-		@if $glow == yes {
+		@if using(glow) {
 			text-shadow: 0px 0px 30pt hsl(var(--hue),60%,40%);
 		}
 
-		
 		%linkbody &:focus, %linkbody &:hover:focus { 
 			/* a11y: keyboard users need an unambiguous, easy-to
 			 * spot identifier for what's currently focused. this
@@ -242,7 +299,7 @@ a[href] {
 	}
 }
 
-@if $directory == yes {
+@if using(directory) {
 	div.dir > div {
 		/* for div-type directory lists */
 		> *:first-child { font-weight: bold; }
@@ -264,7 +321,7 @@ ol, ul {
 		color: hsl(var(--hue), 40%, 60%);
 	}
 
-	@if $directory == yes {
+	@if using(directory) == yes {
 		&.dir > li {
 			margin-left: 2em;
 			&::before { margin-left: -2em; }
@@ -315,7 +372,7 @@ hr {
 		top: 0.8em;
 		color: hsl(var(--hue),50%,40%);
 		font-size: 60%;
-		@if $glow == yes {
+		@if using(glow) {
 			text-shadow: 0px 0px 15px hsl(var(--hue),30%,70%),
 				4px 0px 0px var(--bg-color),
 				-4px 0px 0px var(--bg-color);
@@ -458,7 +515,7 @@ aside {
 	aside {
 		// float: right;
 		position: absolute;
-		left: calc(var(--width) + (50vw - (var(--width) / 2)));
+		left: calc(10px + var(--width) + (50vw - (var(--width) / 2)));
 		margin: 0;
 		// width: 70%;
 		// margin-left: 0.5em;
@@ -467,7 +524,7 @@ aside {
 }
 
 /* endnote mechanism */
-@if $endnote == yes {
+@if using(endnote) {
 	.endnote .entry a.backlink {
 		text-decoration: underline !important;
 		font-weight: bold; 
@@ -541,6 +598,10 @@ aside {
 			}
 			.ui { display: none; }
 			@supports(position: fixed) {
+				%uilink { 
+					text-decoration: none;
+					font-weight: bold;
+				}
 				.ui {
 					display: block;
 					
@@ -549,16 +610,18 @@ aside {
 					top: -1.2em;
 					right: -0.8em;
 
-					background-color: hsl(var(--hue),51%,5%);
+					a[href] { @extend %uilink; }
+
+					background: hsl(var(--hue),51%,5%);
 					border: 1px solid rgba(255,255,255,0.5);
 					padding: 0.1em .5em;
-
-					a[href] {
-						text-decoration: none;
-						font-weight: bold;
-					}
 					
-					/* this is kinda silly */
+				}
+				a[href].ui {
+					@extend %uilink;
+					background: hsl(var(--hue),51%,5%) !important;
+					cursor: default;
+
 					&:hover  { border-style: outset; }
 					&:active { border-style: inset;  }
 				}

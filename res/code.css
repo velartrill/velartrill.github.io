@@ -2,23 +2,6 @@
  *  ~ lexi hale <lexi@hale.su>
  *  ? for use with serenity.scss */
 
-code {
-	display: inline-block;
-	background-color: #7C174E;
-	font-size: 0.8em;
-	padding: 0.1em 0.5em;
-	border-radius: 0.3em;
-	text-shadow: 0px 1.2px 0px #2A0017;
-	border: 1px solid #2A0017;
-	font-family: "Inconsolata", monospace;
-}
-code.listing, pre {
-	display: block;
-	white-space: pre-wrap;
-	padding: 0.5em 1em;
-	line-height: 1.2em;
-	tab-size: 4;
-}
 code em { color: #e48ad1; }
 code .type { color: #FF71DF; font-weight: bold; }
 code .pragma { color: #E48AD1; }
