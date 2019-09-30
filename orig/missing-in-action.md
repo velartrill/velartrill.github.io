@@ -148,7 +148,7 @@ Livkir smiles sadly. "That's our Cas, alright. I bet she whipped you all into sh
 
 Shalcas nodded. “One guy in the group tried to take charge and she just steamrolled him. After that… I was just too terrified to do anything but follow orders. So it just completely fell apart when she… disappeared.”
 
-“She’s… pretty fucking terrifying,” murmurs Niltar, though it's clear she's struggling to speak. “And I… I’ve never known anyone so passionate. There was so much shit she thought was beneath her but… she gets so fired up when she finds something worth her time.” Her voices starts to tremble. “Or… s-someone. I guess.”
+“She’s… pretty fucking terrifying,” murmurs Niltar, though it's clear she's struggling to speak. “And I… I’ve never known anyone so passionate. There was so much shit she thought was beneath her but… she gets so fired up when she finds something worth her time.” Her voice starts to tremble. “Or… s-someone. I guess.”
 
 "Is… is she y-your partner, Niltar?" Shalcas asks softly. Niltar's head droops.
 

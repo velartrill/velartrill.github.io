@@ -202,7 +202,7 @@ I'm fond of Uptown, I'll admit. It's unlike the pitiful slums where the petty la
 
 I'm on high alert, but we pass homes, apartment blocks, restaurants, shops, and a shrill-voiced dowager beating a slave in the middle of the street without incident. "No black-windowed coach?" I ask Lena. "Normally this is the part where I get manhandled by goons and dragged halfway across the city in handcuffs and a blindfold."
 
-"Well, I was just going to show you the way to the safehouse," he replies, "but if you'd prefer to be manhandled~"
+"Well, I was just going to show you the way to the safehouse," he replies, "but if you'd prefer to be handcuffed and manhandled~"
 
 I clear my throat, reddening. "…just like that? You're trusting me with your secrets already?"
 
@@ -222,11 +222,11 @@ I gravitate towards the far corner, finding an empty bench I can survey the whol
 
 Something… changes. My heart starts racing out of nowhere, and suddenly I feel very, very small. Small and vulnerable. My back and my thighs are suffused with phantom pain— and for a brief moment, lost in some mad delirium, I imagine I see *her* sitting next to me. Curly red hair cascading down her shoulders, freckled cheeks, with all those sharp little scars that decorate her body—
 
-—and then I blink my watery eyes, and the image is gone, and Lena is sitting next to me again, gazing at me quizzically. Slowly I regain control of my body, trying to fight the feeling of helplessness and force my brain back into spy mode. It's like I've suddenly been locked out of my years of training and decades of experience and all of a sudden I'm just a fragile civilian again. I realize my head is resting on his shoulder, and sit up straight, cheeks burning.
+—and then I blink my watery eyes, and the image is gone, and Lena is sitting next to me again, gazing at me quizzically. Slowly I regain control of my body, trying to fight the feeling of helplessness and force my brain back into "spy" mode. It's like I've suddenly been locked out of my years of training and decades of experience and all of a sudden I'm just a fragile civilian again. I realize my head is resting on his shoulder, and sit up straight, cheeks burning.
 
 "You doing all right there, Rei?" he asks.
 
-I look away, but he catches me by the chin, pulls my head back to face him. He cups my cheeks in his hands, ignoring my attempts to pull away and brushing the tears away from my eyes with his thumb. Something about the tenderness and warmth of his touch just makes me want to cry all the harder, but I manage to muster some final shred of dignity and hold back the tears this time.
+I look away, but he catches me by the chin, pulls my head back to face him. He cups my cheeks in his hands, ignoring my attempts to pull away and brushing the tears away from my eyes with his thumb. Something about the tenderness and warmth of his touch just makes me want to cry all the harder, but I manage to muster some final shred of dignity.
 
 "You wanna tell me about it?" he asks.
 
@@ -234,7 +234,7 @@ I shake my head.
 
 He pats my cheek. "Alright. That's okay. Anything I can do in the meantime?"
 
-"I—" I swallow hard, try to find the right words for a moment before I give up and scoot closer. He wraps his arms around me and hugs me tightly, and hesitantly, I let my head rest against his shoulder.
+"I—" I swallow hard, try to find the right words for a moment before I give up and scoot closer. He wraps his arms around me and hugs me tightly, and hesitantly, I let my head rest against his shoulder again.
 
 "Nobody's treated you like this in a while, have they, Rei?"
 
@@ -247,11 +247,11 @@ I shake my head.
 
 I feel humiliated. But he doesn't laugh. He doesn't mock me. He just holds me tight, hugs me close to his chest. Ruffles my hair, tells me it's okay, tells me to take my time. I just want to blurt it out and get it over with but I can't make the words come out.
 
-"I was sh-sh-shadowing him," I finally manage. "They had to go into the city every now'n again to buy the drugs, so I found the d-d-dealer and I just wait until he shows up. And I follow him out into the forest and they catch me." I'm hyperventilating, I realize. My words are spilling out my mouth like an overflowing bucket. "It was a week before I could escape. A w-w-week. They had me for a wh-whole week—"
+"I was sh-sh-shadowing him," I finally manage. "They had to go into the city every now'n again to buy the drugs, so I found the d-d-dealer and I shadow her all day and I just wait until he shows up. And I follow him out into the forest and they catch me." I'm hyperventilating, I realize. My words are spilling out my mouth like an overflowing bucket. "It was a week before I could escape. A w-w-week. They had me for a wh-whole week—"
 
 "Who—?" Lena murmurs.
 
-"Him. From the other night." I can't make myself say his name. "He caught me out in the forest and I— I was there f-f-for a week. A whole week. They used me. They used me and used me and used me. I can't make them stop. They won't stop hurting me, they're tearing my clothes off and he won't stop choking me, I can't breathe, I can't— he's—"
+"Him. From the other night." I can't make myself say his name. "He caught me out in the forest and I— I was there f-f-for a week. A whole week. They used me. They used me and use me and use me. I can't make them stop. They won't stop hurting me, they're tearing my clothes off and he won't stop choking me, I can't breathe, I can't— he's—"
 
 "Rhea. Hey." Lena hugs me tightly. "It's all over. It was all a long time ago—"
 
@@ -265,13 +265,13 @@ I feel humiliated. But he doesn't laugh. He doesn't mock me. He just holds me ti
 
 "He was gonna do it all over again. In my own fucking home." I can't see for the tears filling my eyes. "He was gonna hold me down and tear off my clothes again and— and he's gonna do it to Vi, and—"
 
-"And he's dead. He's dead, Rei. We killed him. You put a bullet square between his eyes, we both saw it happen. He can't hurt you anymore."
+"And he's dead. He's dead, Rei; stone cold dead. We killed him. Together. You put a bullet square between his eyes, we both saw it happen. He can't hurt you anymore."
 
 "He was supposed to burn. He was supposed to burn with the others! The justiciar— they told me— they told me they had them all, they—"
 
 "Rei. Nothing is gonna happen to you. Nothing is gonna happen to Violet. We are not going to let anything happen. *I* am not going to let anything happen. Never, never fucking again, you hear me?" Even Lena sounds agitated now, fury and indignation simmering in his voice. "Nobody is ever going to use you again."
 
-"I thought I was gonna die. It hurt so bad. I tried and tried and I couldn't get any air. Everything would go black and then suddenly I'm on the ground and he's kicking me, taking his clothes off— every time I tried to fight back he'd just grab me around the throat and I thought I was gonna die until I was t-too scared to fight, I just let him because I didn't want to die—"
+"I thought I was gonna die. It hurt so bad. I tried and tried and I couldn't get any air. Everything would go black and then suddenly I'm on the ground and he's kicking me, taking his clothes off— every time I tried to fight back he'd just grab me around the throat and I thought I was gonna die until I was t-too scared to fight, I just let him because I didn't want to die and he made me bleed every single time—"
 
 I bury my head in Lena's shoulder, and he holds me tight as the tears stream from my eyes and my whole body reverberates with the force of my sobs.
 
@@ -298,6 +298,10 @@ He tilts his head. "I don't understand. You were practically crying, you couldn'
 
 
 "You sure love being manhandled, don't you?"
+
+# Old Friends
+- rei needs to recruit Daisy, who's popped up on the grid in town
+- insert at beginning: Lena taking rei through new equipment
 
 %path fic/Spirals
 %to pub/vt/fic/spirals

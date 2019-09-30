@@ -351,6 +351,7 @@ As Safris reaches for the door latch, Cassil nuzzles her shoulder. “Hey. For t
 “I don’t know.” Safris grins. “I might fuck some loyalty into you yet.”
 
 %prev missing-in-action.html Missing in Action
+%next damage-control.html Damage Control
 
 %to pub/vt/fic/spirals
 % path fiction/Spirals
