@@ -255,7 +255,7 @@ I scoff. "Per whose command?"
 
 The guard hesitates. "Well. Yours, I suppose, madame."
 
-"So open the damned gate. I'll attend to her chastisement for sneaking down here, never you fear."
+"So open the damned gate. I'll attend to her chastisement for sneaking down here to have her way with the prisoners, never you fear."
 
 "I, er… as you command, madame." Fear of my wrath evidently outweighing her confusion and commitment to protocol, the guard scribbles something quickly in her ledger and flicks a switch. I breathe a sigh of relief as the gates grind back, and lead Lishuen through to the ascender capsule.
 
