@@ -20,7 +20,7 @@ Livkir sighs. "You really still think I'm just putting up with you for Cas' sake
 
 After a long moment, she gives a small nod, burying her face in a pillow.
 
-"Nil. You are a brilliant, passionate, thoughtful, creative, incredibly fun girl. The dysfunction isn't all you are; it never has been. All those nights the three of us spent together — did you think I was just pretending to laugh at your jokes? To be interested in all your stories about subnet drama? Stars and skies, Nili, I've had one of your paintings up over the sofa for years." He ruffles her hair. "Did you really think all of that was insincere?"
+"Nil. You are a brilliant, passionate, thoughtful, witty, creative, incredibly fun girl. The dysfunction isn't all you are; it never has been. All those nights the three of us spent together — did you think I was just pretending to laugh at your jokes? To be interested in all your stories about subnet drama? Stars and skies, Nili, I've had one of your paintings up over the sofa for years." He ruffles her hair. "Did you really think all of that was insincere?"
 
 She exhales. "I… I guess." Livkir rolls his eyes.
 
