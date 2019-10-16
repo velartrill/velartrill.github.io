@@ -1,4 +1,5 @@
 # Reunited
+% by Lexi Hale
 
 The first few rays of golden sunlight pierce Niltar's eyes as she stirs in bed. She winces, turning her head away from the window, momentarily confused by the unfamiliar surroundings -- and then as her memories begin to catch up with her, her eyes start to sting with all-too-familiar tears.
 
@@ -44,7 +45,7 @@ Livkir laughs. "No, silly. I just kept trying 'til I got a smile out of you." He
 
 "Well, yeah, I'm not some big dumb *boy,*" Niltar mutters, nuzzling his cheek.
 
-"It's not just that. You're way more responsive than any other girl I've ever cuddled with or fucked. That a _ceshvol_ thing or something?"
+"It's not just that. You're way more responsive than any other girl I've ever cuddled with or fucked. That a _ceshvol_ thing or is that just you?"
 
 She shrugs. "Maybe? Never asked." In a quieter voice she adds, "Probably has something to do with going all those years without anyone so much as laying a hand on me."
 
@@ -86,11 +87,11 @@ Livkir gives her a faintly sad smile, rubbing the back of her neck, a little mor
 
 He tousles her hair. "I'd love to. Come on, turn over."
 
-Niltar twitches slightly as he works her over, massaging her with just enough force to send little jolts of pain through her nerves. "…ahh, gosh. I d-don't deserve this," she whispers, eyelids fluttering. "I don't deserve *you*."
+Niltar twitches slightly as he works her over, massaging her with just enough force to make her nerves light up with little sparks of pain. "…ahh, gosh. I d-don't deserve this," she whispers, eyelids fluttering. "I don't deserve *you*."
 
 "Sure you do," he replies lightly. "I don't ever want you to be lonely again, Nili. I don't want you to suffer. We swore we'd all look after each other, take care of each other for as long as we live. You deserve that kind of safety and security after everything you've been through."
  
-She responds with just a happy little murmur, the way she always does when she's too overwhelmed with happiness and gratitude to speak.
+She responds with just a quiet little murmur, the way she always does when she's too overwhelmed with happiness and gratitude to speak.
 
 "So *this* is how Cas keeps you under control, huh?" Livkir teases. "Just massages the defiance out of you each morning? I'll have to remember this next time you start swinging punches at me."
 
@@ -112,7 +113,7 @@ Livkir rolls his eyes. "I swear I'm not fucking Lisuan. That girl is too hardcor
 
 "I… maybe?"
 
-"And she toys with people. She drags out fights way longer than she needs to. Shows off her bruises like trophies. Also like — you know how she gets when she's fighting. Her face, her body language -- the longer the fight goes on, the more *excited* she gets." He loosens his grip, strokes her tender skin with one hand, her flank with the other. "I don't know, I think there's something up with that."
+"And she toys with people. She drags out fights way longer than she needs to. Shows off her bruises like trophies. Also like — you know how she gets when she's fighting. Her face, her body language -- the longer the fight goes on, the more *excited* she gets." He loosens his grip, strokes her neck with one hand, her flank with the other. "I don't know, I think there's something up with that."
 
 Niltar laughs quietly. "That almost makes me wonder… maybe she's just using our UC sessions for the same thing I got myself flogged for." She flashes a cruel little smile. "Maybe she's just as desperate as I was."
 
@@ -126,3 +127,20 @@ Livkir laughs. "Okay, yeah. That's a point." He scritches the back of her neck a
 
 Livkir sighs, rolling his eyes. "You're ridiculous," he repeats, putting a hand on the side of her neck, stroking her softly.
 
+"If it *was* true you'd obviously be out cozying up to her, trying to be her friend the same way you do every single other lost, lonely soul in Tegvar."
+
+"That's not… well, that's not *completely* true—"
+
+Niltar just snickers. "Liv, I love you but you are the most predictable person in our cohort. You--" She stops, as Likvir reaches past her for a slate on the bedside table. "What's up?"
+
+"It's for you," he says after a moment, handing it back to her.
+
+Niltar presses her finger to the print reader and her eyes widen as the screen fills with text. Livkir raises his eyebrows.
+
+"What--"
+
+*"It's from Cas."*
+
+---
+
+For the first time since Safris woke her in her cell, Cassil lets herself relax. The soft, warm seats of the interurban train are a welcome comfort after days of bleak imprisonment. The 
