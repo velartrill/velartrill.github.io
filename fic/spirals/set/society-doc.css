@@ -25,9 +25,14 @@
 	margin-right: 0.3em;
 	font-weight:normal;
 }
-.ci td i { font-weight: 100; }
+.ci td i {
+	font-weight: 100; 
+}
+.ci td i:not(:only-child) {
+	font-size: 0.9em;
+}
 .ci tr {
-	font-family: "Alegreya Sans", "Open Sans", sans-serif;
+	font-family: "Alegreya Sans", "Open Sans", "M+ 1c", sans-serif;
 }
 .ci th { text-align: right; }
 .ci td, .ci th { padding: .2em .4em; }

@@ -156,6 +156,31 @@
   src: local("EB Garamond Regular"), local("EBGaramond-Regular"), url(https://fonts.gstatic.com/s/ebgaramond/v10/SlGUmQSNjdsmc35JDF1K5GR1SDk.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
 
+/* fonts to display IPA characters */
+@font-face {
+  font-family: "ipa";
+  unicode-range: u+0250-02af;
+  src: local("Junicode"), url("/res/Junicode.woff") format("woff"); }
+
+@font-face {
+  font-family: "ipa";
+  unicode-range: u+0250-02af;
+  font-weight: bold;
+  src: local("Junicode Bold"), url("/res/Junicode-Bold.woff") format("woff"); }
+
+@font-face {
+  font-family: "ipa";
+  unicode-range: u+0250-02af;
+  font-weight: bold;
+  font-style: italic;
+  src: local("Junicode Bold Italic"), url("/res/Junicode-BoldItalic.woff") format("woff"); }
+
+@font-face {
+  font-family: "ipa";
+  unicode-range: u+0250-02af;
+  font-style: italic;
+  src: local("Junicode Italic"), url("/res/Junicode-Italic.woff") format("woff"); }
+
 @font-face {
   /* if there's any japanese text in the document,
 	 * do what we can to make sure it's not hideous */
@@ -184,7 +209,7 @@
 body {
   margin-top: 1em;
   padding: 0 1em;
-  font-family: mincho, "GaramondNo8", "Garamond Premier Pro", "EB Garamond", serif;
+  font-family: mincho, ipa, Garamond, GaramondNo8, "Garamond Premier Pro", "Adobe Garamond Pro", "Adobe Garamond", "EB Garamond", "Junicode", serif;
   hanging-punctuation: first last force-end;
   text-align: justify;
   /* browser specific hacks */ }
@@ -202,6 +227,12 @@ body {
       margin-top: 1em;
       background: var(--bg-color);
       color: var(--fg-color); } }
+  @media all and (min-resolution: 400dpi) and (max-width: 1080px) {
+    body {
+      max-width: calc(1080px - 1em);
+      margin: auto;
+      margin-top: 1em;
+      margin-bottom: 1em; } }
   body::-webkit-scrollbar {
     width: 20px; }
   body::-webkit-scrollbar-track {
@@ -237,19 +268,41 @@ h1, h2, h3, h4, h5, h6 {
       text-decoration: none; } }
 
 h1 {
-  font-size: 2em; }
+  font-size: 1.6666666667em; }
+  section > h1 ~ * {
+    margin-left: 1em; }
 
 h2 {
-  font-size: 1.5em; }
+  font-size: 1.3333333333em; }
+  h2::before {
+    display: inline;
+    margin-right: 0.2em; }
+  section > h2 ~ * {
+    margin-left: 2em; }
 
 h3 {
-  font-size: 1.3333333333em; }
+  font-size: 1em; }
+  h3::before {
+    display: inline;
+    margin-right: 0.2em; }
+  section > h3 ~ * {
+    margin-left: 3em; }
 
 h4 {
-  font-size: 1.25em; }
+  font-size: 0.6666666667em; }
+  h4::before {
+    display: inline;
+    margin-right: 0.2em; }
+  section > h4 ~ * {
+    margin-left: 4em; }
 
 h5 {
-  font-size: 1.2em; }
+  font-size: 0.3333333333em; }
+  h5::before {
+    display: inline;
+    margin-right: 0.2em; }
+  section > h5 ~ * {
+    margin-left: 5em; }
 
 @media screen {
   /* dim the pathbar */
@@ -265,50 +318,53 @@ del {
   text-decoration-color: hsl(var(--hue), 80%, 60%); }
 
 body > code,
-code.listing, p code {
+pre > code,
+code.listing, p code, li code {
   display: inline-block;
   background-color: hsl(var(--hue), 71%, 25%);
   font-size: 0.8em;
-  height: 100%;
   padding: 0 0.5em;
   text-shadow: 0px 1.2px 0px #2A0017;
   border: 1px solid #2A0017;
   font-family: "Inconsolata", monospace;
   box-shadow: 0 0 5px -2px black inset; }
-  body > code strong, code.listing strong, p code strong {
+  body > code strong, pre > code strong, code.listing strong, p code strong, li code strong {
     /* keywords */
     color: hsl(var(--hue), 100%, 70%); }
-  body > code var, code.listing var, p code var {
+  body > code var, pre > code var, code.listing var, p code var, li code var {
     /* variable names */
     color: hsl(calc(var(--hue) - 30), 80%, 50%); }
-  body > code dfn, code.listing dfn, p code dfn {
+  body > code dfn, pre > code dfn, code.listing dfn, p code dfn, li code dfn {
     /* literals */
     color: hsl(calc(var(--hue) + 30), 50%, 60%); }
-  body > code em, code.listing em, p code em {
+  body > code em, pre > code em, code.listing em, p code em, li code em {
     /* strings */
     font-style: italic;
     color: hsl(calc(var(--hue) - 20), 90%, 70%); }
-  body > code i, code.listing i, p code i {
+  body > code i, pre > code i, code.listing i, p code i, li code i {
     /* comments */
     font-style: italic;
     color: hsl(var(--hue), 30%, 30%); }
-  body > code b, code.listing b, p code b {
+  body > code b, pre > code b, code.listing b, p code b, li code b {
     /* pragmata */
     font-weight: normal;
     color: hsl(calc(var(--hue) - 20), 50%, 65%); }
-  body > code cite, code.listing cite, p code cite {
+  body > code cite, pre > code cite, code.listing cite, p code cite, li code cite {
     /* imports */
     font-style: normal;
     color: hsl(calc(var(--hue) - 40), 70%, 70%); }
 
 body > code,
+pre > code,
 code.listing {
   display: block;
   box-shadow: 0 0 8px -2px black inset;
   white-space: pre-wrap;
   padding: 0.5em 1em;
   line-height: 1.2em;
-  tab-size: 4; }
+  tab-size: 4;
+  width: 100%;
+  overflow: scroll; }
 
 @media print {
   a[href] {

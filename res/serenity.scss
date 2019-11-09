@@ -28,7 +28,7 @@
 /* bring in a fallback font in case the user doesn't have
  * a garamond on hand */
 //@import url(https://fonts.googleapis.com/css?family=EB+Garamond&display=swap);
-@import "font";
+@import "font.scss";
 
 $use: [endnote, pathbar, directory, code, hilite];
 
@@ -96,9 +96,10 @@ body {
 	@extend %root;
 	margin-top: 1em;
 	padding: 0 1em;
-	font-family: mincho, "GaramondNo8",
+	font-family: mincho, ipa, Garamond, GaramondNo8,
 	             "Garamond Premier Pro",
-                 "EB Garamond", serif;
+				 "Adobe Garamond Pro", "Adobe Garamond",
+                 "EB Garamond", "Junicode", serif;
 
 	hanging-punctuation: first last force-end;
 	text-align: justify;
@@ -121,6 +122,14 @@ body {
 		@if using(glow) {
 			--glow-color: hsl(var(--hue),60%,61%);
 			text-shadow: 0px 0px 30pt var(--glow-color);
+		}
+	}
+	@media all and (min-resolution: 400dpi) and (max-width: 1080px) {
+		max-width: calc(1080px - 1em);
+		margin: auto;
+		margin: {
+			top: 1em;
+			bottom: 1em;
 		}
 	}
 
@@ -166,7 +175,21 @@ h1, h2, h3, h4, h5, h6 { /* sigh */
 	margin-top: 0.3em;
 }
 
-@for $i from 1 to 6 { h#{$i} { font-size: 1em + (1em / $i); } }
+@for $i from 1 to 6 {
+	h#{$i} {
+		font-size: ((6em - $i) / 6) * 2;
+		@if $i >= 2 {
+			&::before {
+				display: inline;
+				margin-right: 0.2em;
+			}
+		}
+
+		section > & ~ * {
+			margin-left: 1em * $i;
+		}
+	}
+}
 
 @if using(pathbar) {
 	@media screen {
@@ -186,11 +209,10 @@ del {
 }
 
 @if using(code) {
-	%listing, p code {
+	%listing, p code, li code, {
 		display: inline-block;
 		background-color: hsl(var(--hue), 71%, 25%);
 		font-size: 0.8em;
-		height: 100%;
 		padding: 0 0.5em;
 		// border-radius: 0.3em;
 		text-shadow: 0px 1.2px 0px #2A0017;
@@ -229,6 +251,7 @@ del {
 	}
 
 	body > code,
+	pre > code,
 	code.listing {
 		@extend %listing;
 		display: block;
@@ -237,6 +260,8 @@ del {
 		padding: 0.5em 1em;
 		line-height: 1.2em;
 		tab-size: 4;
+		width: 100%;
+		overflow: scroll;
 	}
 }
 

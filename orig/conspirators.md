@@ -9,13 +9,13 @@ With his cap and sun-spectacles on, Lena might almost pass for Kaparttu if he we
 
 "The magic of requisitions," he replies. "Cute sandals you got there."
 
-"Thanks." I gaze fondly at the pair, flexing my toes. "Bought 'em at market when I was seventeen. Only thing I have left of my homeworld, really." No, that's wishful thinking. I still have the memories too.
+"Thanks." I gaze fondly at the pair, flexing my toes. "Bought 'em at market when I was seventeen. Only thing I have left of my homeworld, really." No, that's wishful thinking. I still have the memories, too.
 
 He whistles. "They're sturdier than they look. They've lasted all those years?"
 
 I nod. "Near on a dozen now. Been to the cobbler's a few times but none the worse for wear. Back on Sapphire they make things to last."
 
-He finishes lacing up and stands. His movements are so… easy and fluid; his body language practically screams confidence and power. "Do you miss Sapphire?" he asks, eyes fixing on mine.
+He finishes lacing up and stands. His movements are so… easy and fluid; his body language practically screams confidence and power. "Do you miss Sapphire?" he asks, eyes alighting on mine.
 
 I shrug. "It's just a place. Wasn't as though I had me a particular good life there, anyhow. How's about you? You miss… wherever you come from?" I ain't shy of eye contact but something about Lena's attention feels… overwhelming, right now.
 
@@ -33,7 +33,7 @@ He's quiet for a moment, his gaze dropping. "Ah. Yeah," he says finally. "That."
 
 "You think I'm running from something."
 
-"There's three things’ as'll make a woman — or a man, I s'pose — choose to keep on fightin’ when she's all alone and lost it all to war. There's anger, right. Your standard lust for vengeance, to get back at the  people who took your comrades from you even if it costs you your life, on account of it not matterin' much anymore without them. But you ain't the revenge-minded kind, I see that in you plain, and if I ain't badly mistaken you got things to live for yet.
+"There's three things’ as'll make a woman — or a man, I s'pose — choose to keep on fightin’ when she's all alone and lost it all to war. There's anger, right. Your standard lust for vengeance, to get back at those as took your comrades from you even if it costs you your life, on account of it not matterin' much anymore without them. But you ain't the revenge-minded kind, I see that in you plain, and if I ain't badly mistaken you got things to live for yet.
 
 "Then there's fear for the folks back home — knowing their lives all rest on your shoulders. I reckon there's some of that still in you, but it's like you said; war's damn near done with. Sounds like Team Empress don't pose too much more a threat to your kind, with the bloodthirsty old biddy dead and Carnelian ash.
 
@@ -49,7 +49,7 @@ When you're a spy long enough, you come to feel the little shifts and eddies in 
 
 "How's that? What's it mean, then?"
 
-"It means someone who's… trained to understand how we all think, how people *work,"* he replies after a moment of thought. "See, back home everyone has a *virtash* they see now and again, to… well. They help you learn how to process and manage your emotions as you mature, help you connect with the right people, that kind of thing. And they help you heal when your mind is… wounded? Traumatized? They're sort of like… medics, but for the spirit, not the body. Is there a Zia Ţai word for that, do you know?"
+"It means someone who's… trained to understand how we all think, how people *work,"* he replies after a moment of thought. "See, back home everyone has a *virtash* they talk to now and again, to… well. They help you learn how to handle your emotions as you mature, help you connect with the right people, that kind of thing. And they help you heal when your mind is… wounded? Traumatized? They're sort of like… medics, but for the spirit, not the body. Is there a Zia Ţai word for that, do you know?"
 
 I hesitate. "I… don't know. We got the priestesses, I suppose? Though their advice is as liable to be chickenshit as gold."
 
@@ -61,7 +61,7 @@ I hesitate. "I… don't know. We got the priestesses, I suppose? Though their ad
 
 I narrow my eyes. "You think I'm *damaged,* now?"
 
-He laughs, putting a hand around the scruff of my neck and tugging me gently closer; I stumble, suddenly disoriented. "Rei, you are *so* damaged. Hey, don't give me that look — it's not an insult." He squeezes the back of my neck gently and my heart starts pounding like crazy. "You've been through some bad things, by the sound of it, and you haven't had much in the way of support all these years. I'm hoping that being with us will give you a chance to heal up a bit, get your feet on solid ground."
+He laughs, putting a hand around the scruff of my neck and tugging me gently closer; I stumble, suddenly disoriented. "Rei, you are *so* damaged. Hey, don't give me that look — it's not an insult." He squeezes the back of my neck gently and my heart starts pounding like crazy. "You've been through some bad things, by the sound of it, and you haven't had much in the way of support all these years. I'm hoping that being with us will give you a chance to heal up a bit, get your feet on solid ground. Maybe you'll even find it in you to relax every now and then."
 
 Something about the way he's holding me is just… paralyzing. I can't pull away, I can't look away, I can't mount even a token resistance. My limbs are trembling, my lips moving mutely as I grope in the dark for words that won't come. The strange feeling of helplessness sends a jolt of panic up my spine but my mind feels… pinned down, trapped in his grip, and I can't hardly think. Lena gazes deep into my eyes for a moment; the intensity of his stare feels like a white-hot blade through my spirit. Finally, he pulls me closer and hugs me tight. Gratefully, I wrap my shaking arms around his back and bury my head in his shoulder. I can feel tears trickling down my cheek. Tears of what, I don't know.
 
@@ -102,7 +102,7 @@ I give a weak laugh. "Ashes, Lena, I don't even half know what *this damage* is.
 "Alright. That's all I ask."
 
 
-Lena stops me with a hand to my chest, glancing to and fro before stepping out into the corridor. He cases it, quickly but thoroughly, checking sight-lines and glancing around corners, before nodding to me and beckoning. I follow, pulling the door shut behind me, listening careful for the click of the self-locking mechanism, and can't help but do my own recon as I walk towards him. I'm not used to having someone else to do the hard work for me, and as much as I know his senses are far keener'n mine, I can't quite silence the steady stream of what-ifs from that dark, paranoid little part of my brain. The part of my brain that keeps me alive.
+Lena stops me with a hand to my chest, glancing to and fro before stepping out into the corridor. He cases it quickly but thoroughly, checking sight-lines and glancing around corners, before nodding to me and beckoning. I follow, pulling the door shut behind me, listening careful for the click of the self-locking mechanism, and can't help but do my own recon as I walk towards him. I'm not used to having someone else to do the hard work for me, and as much as I know his senses are far keener'n mine, I can't quite silence the steady stream of what-ifs from that dark, paranoid little part of my brain. The part of my brain that keeps me alive.
 
 He doesn't seem to take it as a sign of distrust, though. Just smiles that little smile of his, touches me real soft on the shoulder and directs me down the hallway. "You know I live here, right," I murmur, and he laughs.
 
@@ -120,7 +120,7 @@ He takes my hand as we walk, fingers entwining with mine, and I catch myself squ
 
 Why does the boy delight in tormenting me so?
 
-"Or," he continues gleefully, as I continue to stammer, "you could just admit that some basic intimacy is nice when you're feeling rattled. But that would be a little too easy for a super-spy like you, wouldn't it?"
+"Or," he continues gleefully, as I continue to stammer, "you could just admit that some basic intimacy is nice when you're feeling rattled. But that would be a little too easy for an ice-cold professional super-spy like you, wouldn't it?"
 
 *"I--"*
 
@@ -130,7 +130,7 @@ For a moment I just stare at the carpet underfoot. "Not really," I mutter finall
 
 "Has this ever happened before?" He squeezes my hand again, looking up at me with his piercing green eyes. I can't meet his gaze.
 
-"Only once," I reply at length. The chime rings and the ascender capsule slides slowly into view, the gate lattice unlatching. Lena pulls it open and leads me gently through, shutting it behind us.
+"Only once," I reply at length. The chime rings and the ascender capsule rises slowly into view, the gate lattice unlatching. Lena pulls it open and leads me gently through, shutting it behind us.
 
 "Lobby, please," he says to the attendant, a mousy little Marakki woman I haven't seen before. Instinctively I take stock of her, parsing out the little details of her body language, the lines and folds of her uniform, the way the fabric of her clothing distorts as her body moves. The bruise under her left eye. No concealed weapon, no martial training — my rational mind scoffs at the thought; a Marak? She'd break her arm if she so much as threw a punch at me. I relax fractionally, offering her a token smile as she twiddles the dials and switches that control the contraption we're riding in.
 
@@ -142,7 +142,7 @@ I can tell by his expression he thinks I'm being evasive. He lifts my palm with 
 
 "Oh. Right. That." I look away again.
 
-"You said it happened before?" He steps closer, leaving me backed into the corner,  touching me softly on the neck as he takes me by the hand. I can feel my heart pounding; an image filling my mind unbidden of Lena pressing his knee up between my inner thighs and pinning my wrists to the wall — *focus,* you hormonal fucking teenager of a woman. _Sang giun La nai!_
+"You said it happened before?" He steps closer, leaving me cornered, touching me softly on the neck as he takes me by the hand. I can feel my heart pounding; an image filling my mind unbidden of Lena pressing his knee up between my inner thighs and pinning my wrists to the wall — *focus,* you hormonal fucking teenager of a woman. _Sang giun La nai!_
 
 "I— I, I—" I stammer, trying to meet his gaze and flinching away. He frowns, squeezing my neck a little, rubbing the tender spot behind my ear with his thumb — *God, why does that feel so good* — and taking another step closer.
 
@@ -158,7 +158,7 @@ I nod shakily, exhaling raggedly as he pulls me into a hug and burying my face i
 
 I can't help but laugh. Promises! What youthful naïveté. Still, I can't deny being held like this… makes me feel so warm and safe that his words ring true all the same.
 
-We're nearing the lobby so reluctantly, I disentangle myself. Lena steps back, letting me out of the corner, and as I move to his side I offer him my hand, which he takes with a smile. "Attagirl, red."
+We're nearing the lobby, so reluctantly I disentangle myself. Lena steps back, letting me out of the corner, and as I move to his side I offer him my hand, which he takes with a smile. "Attagirl, red."
 
 _"Kire misekan,"_ I tell the attendant as the elevator alights on the ground floor, and she looks so startled to hear her native tongue on the lips of Zyahua. She babbles something I can't understand in reply but I nod and smile anyway as Lena leads me out into the lobby. Never hurts to be kind to the service staff — they're the ones with the all keys, as the bluebloods so often forget.
 
@@ -178,7 +178,7 @@ The day-clerk smiles up at me, setting his quill aside. "Never better, young mis
 
 "Likewise, master Hawthorn," Lena replies in Khmaira, and Hawthorn's smile broadens.
 
-"It's certainly far past time the young lady found a decent boy to settle down with," he remarks conspiratorially, winking at Lena. "With such a fine facility for language, no less! She does have fine taste, does she not?"
+"It's certainly far past time the young lady found a decent boy to settle down with," he remarks conspiratorially, winking at Lena. "With such a fine facility for tongues, no less! She does have fine taste, does she not?"
 
 Of course he had to go there. "Come on," I say, tugging Lena's shoulder and rolling my eyes. "We don't want to be late, and Hawthorn'll talk your ear off all day if you let him."
 
@@ -190,15 +190,15 @@ Hawthorn lets out a wheezy laugh. "Don't let her tough hide fool you, boy — Wr
 
 "Quite the opposite, I hear," Lena replies casually, and I can't keep my eyes from widening.
 
-*"Okay time to go,"* I blurt, yanking desperately on his arm, and *finally, Khata'e be blessed,* he listens.
+*"Okay time to go,"* I blurt, yanking desperately on his arm, and *finally, Khata'e be sanctified,* he listens.
 
 "Well, it was a pleasure, master Hawthorn," he says, bowing slightly. "We simply *must* speak more when we've time."
 
 "Take care, dear boy! I shall be seeing a great deal more of you, I hope." Hawthorn holds up a hand in farewell as Lena turns, and I practically drag him out the front door.
 
-The streets of Chandler's Landing can never be said to be truly deserted, not even during the darkest hours of the night, but the mid-day bustle has calmed since noon. Despite it's name, the city is industrial to the core, and nearly half the population are working-class commoners -- "proletarians," as Lena might say. By and large they're squirreled away in the great Eastgate foundries and will be 'til shift's end at sunset, now that the lunchtime hours have come to their close. In any case, scarce few can bear the heavy costs of Uptown life; most of the folks we pass are messengers, slaves, the odd tradeswoman or apprentice, and greycloaks on patrol.
+The streets of Chandler's Landing can never be said to be truly deserted, not even during the darkest hours of the night, but the mid-day bustle has calmed since noon. Despite its name, the city is industrial to the core, and nearly half the population are working-class commoners -- "proletarians," as Lena might say. By and large they're squirreled away in the great Eastgate foundries and will be 'til shift's end at sunset, now that the lunchtime hours have come to their close. In any case, scarce few can bear the heavy cost of Uptown life; most of the folks we pass are messengers, slaves, the odd tradeswoman or cowled apprentice, and greycloaks on patrol.
 
-I'm fond of Uptown, I'll admit. It's unlike the pitiful slums where the petty laborers eat and shit and fuck and not much else, but also the soulless, sterile hauteur of the White Thorn District. It's got class *and* character -- and most important of all, rates just low enough that someone of my station can eke out a cozy living.
+I'm fond of Uptown, I'll admit. It's unlike the pitiful slums where the petty laborers eat and shit and fuck and not much else, but lacks the soulless, sterile hauteur of the White Thorn District. It's got class *and* character -- and most important of all, rates just low enough that someone of my station can eke out a cozy living.
 
 I'm on high alert, but we pass homes, apartment blocks, restaurants, shops, and a shrill-voiced dowager beating a slave in the middle of the street without incident. "No black-windowed coach?" I ask Lena. "Normally this is the part where I get manhandled by goons and dragged halfway across the city in handcuffs and a blindfold."
 
@@ -210,19 +210,19 @@ Lena laughs. "Rei, do you really think we only have one safehouse in this city?"
 
 "I… suppose not."
 
-"Down here." He tugs my arm, and we turn right towards a flight of stairs down into the Underground. The little voice in the back of my head pipes up again and I rummage in my purse for my passbook -- my *real* fake one, not my government-issue fake one -- to make sure it's stamped with this moon's rail pass. With stakes this high, getting caught out for a *fare evasion charge* would be the height of all irony.
+"Down here." He tugs my arm, and we turn right towards a flight of stairs down into the Underground. The little voice in the back of my head pipes up again and I rummage in my purse for my passbook -- my *real* fake one, not my government-issue fake one that's almost certainly being tracked -- to make sure it's stamped with this moon's rail pass. With stakes this high, getting caught out on a *fare evasion charge* would be the height of all irony.
 
 But the stamp is there all right, up in the corner next to a ration debit, and I breathe a quiet sigh of relief as I slip it back into my purse. "Which line?" I ask Lena, and he points.
 
 "The Circulator. We're just a couple stops northbound."
 
-Uptown Station is one of the main changeover points in the network, and it's about as busy as train stations get. There's an arrival near every minute, and occasionally an express comes barreling through towards the outer boroughs or Shrike's Corner. As we near the northbound platform, the noise rises and rises, a din of screeching wheels, raised voices, and motors -- none of the snorts, whinnies, and endless whuffling of _şue phin,_ horse, and _pien şai_ that I grew so accustomed to from the streetcars of my homeworld, where you'd think nobody'd ever heard of galvanics or steam engines. Say what you will about the Duchess, but she runs a tight ship.
+Highmarket Station is one of the main changeover points in the network, and it's about as busy as train stations get. There's an arrival near every minute, and occasionally an express comes barreling through towards the outer boroughs or Shrike's Corner. As we near the northbound platform, the noise rises and rises, a din of screeching wheels, raised voices, and motors -- none of the snorts, whinnies, and endless whuffling of _şue phin,_ horse, and _pien şai_ that I grew so accustomed to from the streetcars of my homeworld, where you'd think nobody'd ever heard of galvanics or steam engines. Say what you will about the Duchess, but she runs a tight ship.
 
 I gravitate towards the far corner, finding an empty bench I can survey the whole platform from, and Lena follows my cue, sitting down next to me, and putting an arm around my shoulders.
 
 Something… changes. My heart starts racing out of nowhere, and suddenly I feel very, very small. Small and vulnerable. My back and my thighs are suffused with phantom pain— and for a brief moment, lost in some mad delirium, I imagine I see *her* sitting next to me. Curly red hair cascading down her shoulders, freckled cheeks, with all those sharp little scars that decorate her body—
 
-—and then I blink my watery eyes, and the image is gone, and Lena is sitting next to me again, gazing at me quizzically. Slowly I regain control of my body, trying to fight the feeling of helplessness and force my brain back into "spy" mode. It's like I've suddenly been locked out of my years of training and decades of experience and all of a sudden I'm just a fragile civilian again. I realize my head is resting on his shoulder, and sit up straight, cheeks burning.
+—and then I blink my watery eyes, and the image is gone, and Lena is sitting next to me again, gazing at me quizzically. Slowly I regain control of my body, trying to fight the feeling of helplessness and force my brain back into spy mode. It's like I've suddenly been locked out of my years of training and decades of experience and all of a sudden I'm just a fragile civilian again. I realize my head is resting on his shoulder, and sit up straight, cheeks burning.
 
 "You doing all right there, Rei?" he asks.
 
@@ -245,13 +245,13 @@ I shake my head.
 
 "Lena… can you hold me for a bit?" "You asked about… about my hands shaking. Last time that happened was wh— whe— I— I, I—" I feel like my tongue's tripped over the words in my mouth and I can't make them come out. I stutter helplessly for a moment, and suddenly my whole body is shaking. Then I feel the sting of tears in the corners of my eyes, and the next thing I know I'm curled up in a ball on Lena's lap, silently sobbing, my face buried in his shoulder.
 
-I feel humiliated. But he doesn't laugh. He doesn't mock me. He just holds me tight, hugs me close to his chest. Ruffles my hair, tells me it's okay, tells me to take my time. I just want to blurt it out and get it over with but I can't make the words come out.
+I feel humiliated. But he doesn't laugh. He doesn't mock me. He just holds me tight, hugs me close to his chest. Ruffles my hair, tells me it's okay, tells me to take my time. I just want to blurt it out and get it over with but I can't make the goddamned words come out.
 
-"I was sh-sh-shadowing him," I finally manage. "They had to go into the city every now'n again to buy the drugs, so I found the d-d-dealer and I shadow her all day and I just wait until he shows up. And I follow him out into the forest and they catch me." I'm hyperventilating, I realize. My words are spilling out my mouth like an overflowing bucket. "It was a week before I could escape. A w-w-week. They had me for a wh-whole week—"
+"I was sh-sh-shadowing him," I finally manage. "They had to go into the city every now'n again to buy the drugs, so I found the d-d-dealer and I shadowed her all day and I just wait until he shows up. And I follow him out into the forest and they catch me." I'm hyperventilating, I realize. My words are spilling out my mouth like an overflowing bucket. "It was a week before I could escape. A w-w-week. They had me for a wh-whole week—"
 
 "Who—?" Lena murmurs.
 
-"Him. From the other night." I can't make myself say his name. "He caught me out in the forest and I— I was there f-f-for a week. A whole week. They used me. They used me and use me and use me. I can't make them stop. They won't stop hurting me, they're tearing my clothes off and he won't stop choking me, I can't breathe, I can't— he's—"
+"Him. From the other night." I can't make myself say his name. "He caught me out in the forest and I— I was there f-f-for a week. A whole week. They used me. They use me and use me and use me. I can't make them stop. They won't stop hurting me, they're tearing my clothes off and he won't stop choking me, I can't breathe, I can't— he's—"
 
 "Rhea. Hey." Lena hugs me tightly. "It's all over. It was all a long time ago—"
 
@@ -265,25 +265,25 @@ I feel humiliated. But he doesn't laugh. He doesn't mock me. He just holds me ti
 
 "He was gonna do it all over again. In my own fucking home." I can't see for the tears filling my eyes. "He was gonna hold me down and tear off my clothes again and— and he's gonna do it to Vi, and—"
 
-"And he's dead. He's dead, Rei; stone cold dead. We killed him. Together. You put a bullet square between his eyes, we both saw it happen. He can't hurt you anymore."
+"And he's dead. He's dead, Rei; stone cold dead. We killed him. Together. You put a bullet square between his eyes, we both saw it happen. He can't hurt you anymore. He can't hurt Violet."
 
 "He was supposed to burn. He was supposed to burn with the others! The justiciar— they told me— they told me they had them all, they—"
 
 "Rei. Nothing is gonna happen to you. Nothing is gonna happen to Violet. We are not going to let anything happen. *I* am not going to let anything happen. Never, never fucking again, you hear me?" Even Lena sounds agitated now, fury and indignation simmering in his voice. "Nobody is ever going to use you again."
 
-"I thought I was gonna die. It hurt so bad. I tried and tried and I couldn't get any air. Everything would go black and then suddenly I'm on the ground and he's kicking me, taking his clothes off— every time I tried to fight back he'd just grab me around the throat and I thought I was gonna die until I was t-too scared to fight, I just let him because I didn't want to die and he made me bleed every single time—"
+"I thought I was gonna die. It hurt so bad. I tried and tried and I couldn't get any air. Everything would go black and then suddenly I'm on the ground and he's kicking me, taking his pants off— every time I tried to fight back he'd just grab me around the throat and I thought I was gonna die until I was t-too scared to fight, I just let him because I didn't want to die and he made me bleed every single time—"
 
 I bury my head in Lena's shoulder, and he holds me tight as the tears stream from my eyes and my whole body reverberates with the force of my sobs.
 
-"I'm so sorry," Lena says at length. "No wonder— God within, I'm a fucking asshole. I'm so sorry, Rei."
+"I'm so sorry," Lena says at length. "No wonder— blood and fire, I'm a fucking asshole. I'm so sorry, Rei."
 
-"Wh-what—? Wh-what for—"
+"Wh-what—? What f-for—"
 
 "The way I— the way I've been touching you—" He shakes his head. "God, no wonder you freaked when I touched your neck. I won't ever do that again, I promise."
 
 "Why…? What do you mean?"
 
-He idly strokes my cheek with his thumb. "Rei, when you go through something that bad— well, it's like a scar, right? You get in a knife fight and the would heals up but there's still a mark years later, it still hurts when you press on it. The soul's no different. Doesn't matter than I'm not him. I was still a man grabbing you by the neck."
+He idly strokes my cheek with his thumb. "Rei, when you go through something that bad— well, it's like a scar, right? You get in a knife fight and the wound heals up but there's still a mark years later, it still hurts when you press on it. The soul's no different. Doesn't matter that I'm not him. I was still a man grabbing you by the neck."
 
 "…no. No, it wasn't like that."
 
@@ -296,7 +296,7 @@ He tilts his head. "I don't understand. You were practically crying, you couldn'
 "I don't— I don't know how to explain it. It's like pain. There's pain that feels bad, like stubbing your toe, but then there's pain that feels good, like you rubbing my back. I felt… raw and overwhelmed and it just— I felt so close to you—"
 
 
-
+ 
 "You sure love being manhandled, don't you?"
 
 # Old Friends

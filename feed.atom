@@ -10,7 +10,7 @@
 		<name>lexi hale</name>
 		<uri>https://hale.su/</uri>
 	</author>
-	 <updated>2019-09-19T20:44:47-07:00</updated> 
+	 <updated>2019-10-25T19:00:36-07:00</updated> 
 
 	 <entry>
 		 <title>Into the Valley</title>
@@ -259,7 +259,7 @@
 		 <title>Everything has changed</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/everything-has-changed.html"/>
 		 <id>urn:uuid:736c215c-c4e0-460a-9397-2ec2c6786a7c</id>
-		 <updated>2019-07-10T18:26:13-07:00</updated>
+		 <updated>2019-10-20T17:25:48-07:00</updated>
 		 <summary type="html"><![CDATA[<p><em>now—</em></p><p><a href="http://ʞ.cc/fic/spirals/everything-has-changed.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -268,7 +268,7 @@
 		 <title>Everything is going to change</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/everything-is-going-to-change.html"/>
 		 <id>urn:uuid:3b23e5ea-6e9d-471b-b3c6-1d5952ed59d2</id>
-		 <updated>2019-07-10T18:26:06-07:00</updated>
+		 <updated>2019-10-20T17:26:00-07:00</updated>
 		 <summary type="html"><![CDATA[<p><em>then…</em></p><p><a href="http://ʞ.cc/fic/spirals/everything-is-going-to-change.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -279,6 +279,15 @@
 		 <id>urn:uuid:3d6dd9b7-99fd-47b9-b7d0-f85a31f0d834</id>
 		 <updated>2019-07-10T15:49:30-07:00</updated>
 		 <summary type="html"><![CDATA[<p>Incense smoke curls and wafts about the small ritual chamber. The woman in grey, whose skin is still wet under her thin, tight robes, touches her bare feet together, puts her hands to her heart, and inclines her head as the shipwright enters. A mane of long white hair drifts behind sim, spreading and whirling in the air as ser pitch-black form blots out the candlelight.</p><p><a href="http://ʞ.cc/fic/spirals/freedom.html">[read more]</a></p>]]></summary>
+		 <category term="updated"/>
+	 </entry>
+
+	 <entry>
+		 <title>Spirals: Glossary</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/glossary.html"/>
+		 <id>urn:uuid:70133522-7a86-43d5-a08a-b428ea2880d3</id>
+		 <updated>2019-09-25T23:56:07-07:00</updated>
+		 <summary type="html"><![CDATA[<p>This is a list of common words in the major languages of the Haven galaxy, as well as notes on how to pronounce those languages. The notation "ex. <i>chapter</i>" beneath an entry links to where a word's use or meaning is explained in detail within the narrative.</p><p><a href="http://ʞ.cc/fic/spirals/glossary.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
 
@@ -376,7 +385,7 @@
 		 <title>Pact</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/pact.html"/>
 		 <id>urn:uuid:199074c8-4932-415b-8144-66b75f7e26f8</id>
-		 <updated>2019-07-10T18:28:45-07:00</updated>
+		 <updated>2019-10-08T09:42:14-07:00</updated>
 		 <summary type="html"><![CDATA[<p>As her privy council assembles in the Grand Library, Dove catches Iris by the doorway and pulls her aside. “Can I… have a moment? Before we get started?”</p><p><a href="http://ʞ.cc/fic/spirals/pact.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -403,7 +412,7 @@
 		 <title>Ranuir: A Reference Grammar</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/ranuir-ii.html"/>
 		 <id>urn:uuid:8e36b792-aec6-4d2b-acb8-9bd1ce48a250</id>
-		 <updated>2019-09-17T11:10:02-07:00</updated>
+		 <updated>2019-10-15T22:37:19-07:00</updated>
 		 <summary type="html"><![CDATA[<p>The pronoun you're probably going to be using the most is <i>an</i>. It's a first-person pronoun. That means it's used to talk about you, the speaker, or groups including you. <i>An</i> works just like any other noun. You make it accusative by suffixing it with <i>-a</i>, genitive with <i>-i</i>, and locative with <i>-it</i>. Let's practice a little below.</p><p><a href="http://ʞ.cc/fic/spirals/ranuir-ii.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -412,7 +421,7 @@
 		 <title>Ranuir: A Reference Grammar</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/ranuir.html"/>
 		 <id>urn:uuid:a905a3bb-4ba7-43ee-a7a7-5f8674416c25</id>
-		 <updated>2019-07-14T21:58:03-07:00</updated>
+		 <updated>2019-10-15T22:37:00-07:00</updated>
 		 <summary type="html"><![CDATA[<p>In romanized text, all phonemes are represented by the same character as in the IPA representation above, with the exception of /k/ ‹c›, /w/ ‹u›, /j/ ‹i›, /ɹ/ ‹r›, /ʃ/ ‹sh›, and /ɑ/ ‹a›.</p><p><a href="http://ʞ.cc/fic/spirals/ranuir.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -565,7 +574,7 @@
 		 <title>Darkest Before Dawn</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/darkest-before-dawn.html"/>
 		 <id>urn:uuid:b93a7d83-6d09-4f06-b254-8d6249433a21</id>
-		 <updated>2019-08-29T15:55:18-07:00</updated>
+		 <updated>2019-10-05T23:42:23-07:00</updated>
 		 <summary type="html"><![CDATA[<p>I can hear the screams before the ascender capsule’s gates even retract.</p><p><a href="http://ʞ.cc/fic/spirals/darkest-before-dawn.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -646,7 +655,7 @@
 		 <title>Missing in Action</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/missing-in-action.html"/>
 		 <id>urn:uuid:98829483-e35f-4a6f-9e93-81359e47cc1e</id>
-		 <updated>2019-09-19T20:44:19-07:00</updated>
+		 <updated>2019-09-29T19:23:06-07:00</updated>
 		 <summary type="html"><![CDATA[<p>Niltar doesn’t move when she hears knuckles rapping on her door. She doesn’t move even when the lock chirps and the door slides back, despite the fact that she’s lying half-dressed in bed, the bedclothes in chaos around her, her pillows stained with tears and her sheets stained with blood.</p><p><a href="http://ʞ.cc/fic/spirals/missing-in-action.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -655,7 +664,7 @@
 		 <title>Out of the Dark</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/out-of-the-dark.html"/>
 		 <id>urn:uuid:1b4e7eb1-055f-4b2e-81fc-642be2f00c7a</id>
-		 <updated>2019-09-15T15:32:23-07:00</updated>
+		 <updated>2019-09-29T19:22:57-07:00</updated>
 		 <summary type="html"><![CDATA[<p>Cassil glances morosely at the cell door as she hears the buzzer sound. Safris again takes up position by the entrance as a short, mousy woman in civilian dress steps into the room.</p><p><a href="http://ʞ.cc/fic/spirals/out-of-the-dark.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -664,9 +673,9 @@
 		 <title>Damage Control</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/damage-control.html"/>
 		 <id>urn:uuid:64a35d93-66b7-49ff-875a-1e3b56703d0b</id>
-		 <updated>2019-09-19T20:44:31-07:00</updated>
+		 <updated>2019-09-30T05:13:24-07:00</updated>
 		 <summary type="html"><![CDATA[<p>Livkir’s dorm is an impeccably tidy place. The aura of coziness and tranquility that it seems to give off is enough to subdue even Niltar, who’s curled up quietly on the sofa under a couple of fluffy blankets, only her reddened eyes and sodden handkerchief attesting to her emotional state. She barely reacts when Livkir sits down next to her and puts an arm around her shoulder, but he’s known her long enough to recognize the subtle little shift in her body language that tells him his presence is wanted.</p><p><a href="http://ʞ.cc/fic/spirals/damage-control.html">[read more]</a></p>]]></summary>
-		 <category term="new"/>
+		 <category term="updated"/>
 	 </entry>
 
 </feed>
