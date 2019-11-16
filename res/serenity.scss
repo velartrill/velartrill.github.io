@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6 { /* sigh */
 
 @for $i from 1 to 6 {
 	h#{$i} {
-		font-size: ((6em - $i) / 6) * 2;
+		font-size: (((6em - $i) / 6) * 2) + 0.3em;
 		@if $i >= 2 {
 			&::before {
 				display: inline;
@@ -186,7 +186,7 @@ h1, h2, h3, h4, h5, h6 { /* sigh */
 		}
 
 		section > & ~ * {
-			margin-left: 1em * $i;
+			margin-left: 0.5em * $i;
 		}
 	}
 }

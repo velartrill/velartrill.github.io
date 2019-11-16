@@ -106,6 +106,10 @@ ol.exercise li::before { display: none; }
 }
 .deflist {
 	columns: 2;
+	margin-left: 3em;
+}
+.box .deflist {
+	margin: 0;
 }
 .deflist div {
 	margin-left: 1em;

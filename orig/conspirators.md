@@ -240,6 +240,10 @@ He pats my cheek. "Alright. That's okay. Anything I can do in the meantime?"
 
 I shake my head.
 
+There's a screech of metal on metal, and he pats my shoulder as my gaze darts to the approaching train. "Here we go."
+
+My legs are unsteady as I get to my feet
+
 
 
 
