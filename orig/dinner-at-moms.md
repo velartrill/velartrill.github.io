@@ -370,6 +370,7 @@ Jasmine nods distantly. {kp/Stay safe out there,} she murmurs as the Sisterhood 
 Sashuan leads Jasmine gently back inside, shutting the door. For a while they just stand there, and Sashuan holds Jasmine tight as tears trickle down her cheeks, until Lily finally comes to fetch them back to the dinner table.
 
 % prev mirin-a-surin.html <i>Mirin a surin</i>
+% next meet-the-new-boss.html Meet the New Boss
 
 % in setting Spirals
 % in arc War
