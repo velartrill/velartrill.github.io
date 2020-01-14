@@ -559,9 +559,8 @@ blockquote {
 aside {
   --asize: 28px;
   --padsize: 4px;
-  position: relative;
-  margin: 0 -1em;
-  padding-left: calc(var(--asize) + (var(--padsize) * 2) + 0.5em); }
+  padding-left: calc(var(--asize) + (var(--padsize) * 2) + 0.5em);
+  transform: translateY(-50%); }
   aside::before {
     line-height: 55px;
     display: block;
@@ -575,12 +574,11 @@ aside {
     @media screen {
       aside::before {
         background: hsl(var(--hue), 60%, calc(var(--bright) + 20%)); } }
-
-@media (min-width: 60em) {
-  aside {
-    position: absolute;
-    left: calc(10px + var(--width) + (50vw - (var(--width) / 2)));
-    margin: 0; } }
+  @media (min-width: 60em) {
+    aside {
+      position: absolute;
+      left: calc(10px + var(--width) + (50vw - (var(--width) / 2)));
+      margin: 0; } }
 
 /* endnote mechanism */
 .endnote .entry a.backlink {

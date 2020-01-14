@@ -517,9 +517,8 @@ aside {
 	--asize: 28px;
 	--padsize: 4px;
 	@extend %box;
-	position: relative;
-	margin: 0 -1em;
 	padding-left: calc(var(--asize) + (var(--padsize) * 2) + 0.5em;
+	transform: translateY(-50%);
 	&::before {
 		line-height: 55px;
 		display: block;
@@ -534,10 +533,7 @@ aside {
 			background: hsl(var(--hue), 60%, calc(var(--bright) + 20%));
 		}
 	}
-}
-
-@media (min-width: 60em) {
-	aside {
+	@media (min-width: 60em) {
 		// float: right;
 		position: absolute;
 		left: calc(10px + var(--width) + (50vw - (var(--width) / 2)));
@@ -547,6 +543,7 @@ aside {
 		// margin-right: calc(-1 * (50vw - (var(--width) / 2)) + 10em);
 	}
 }
+
 
 /* endnote mechanism */
 @if using(endnote) {
