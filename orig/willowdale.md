@@ -1,5 +1,5 @@
 *ESTEEMED READER:*
-*It is our sumptuous pleasure and highest possible honor to present to you this article penned by famed woman of letters her Sublime Magnificence the Dame Starling Stoneweaver, by grace of the her Serene Radiance the Tenth Empress the most eminent knight-luminary of the Historic Order of the Weathered Redoubt. There can be no doubt that the article which below graces our humble pages will most splendidly enrich your worldly wisdom.*
+*It is our sumptuous pleasure and highest possible honor to present to you this article penned by famed woman of letters her Sublime Magnificence the Dame Starling Stoneweaver, by grace of the her Serene Radiance the Tenth Empress the most eminent knight-luminary of the Historic Order of the Weathered Redoubt. There can be no doubt that the article which below graces our humble and unworthy pages will most splendidly enrich your worldly wisdom.*
 # The Incident at Willowdale
 % by h.S.M. D. Starling Stoneweaver, H.O. W.R.
 
