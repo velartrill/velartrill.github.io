@@ -185,7 +185,7 @@ Is he a… do they even have…?
 
 “Lena, come over here!” Rose waves. “Let me introduce you properly.”
 
-Lena walks over to the couch, perches on the armrest next to me. “Rhea,” Rose says, turning back to me, “let me introduce to your new bodyguard, Lenshal Casvari Listeli.”
+Lena walks over to the couch, perches on the armrest next to me. “Rhea,” Rose says, turning back to me, “let me introduce to your new bodyguard, Lenshal Casvari Listali.”
 
 “You can just call me Lena.” Lena offers me his hand, smiling warmly, and I shake it hesitantly. His grip is even stronger than Rose’s. “I know you Zyahua tend to have trouble with closed syllables.”
 
@@ -399,4 +399,4 @@ The world can't be over just like that.
 %in arc War
 
 %with character Rhea Moonbeam
-%with character Lenshal Casvari Listeli
+%with character Lenshal Casvari Listali

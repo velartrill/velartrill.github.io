@@ -59,7 +59,7 @@ I laugh bitterly through the tears. “Wh-why are you being so… so nice to the
 
 “How’s that, exactly?”
 
-“You know, if things had gone real different? If we’d lost the war, if the Big Three went under and the Shadows slagged Tel Casran instead if Carnelian? People like me and Rose, we’d never stop fighting. We’d spend the rest of our lives trying to break free and rebuild what the Empress took from us. Down to the last man.” Lena sits back, resting his arm casually on the couch-back behind me. “You, though. Let me ask you. If you weren’t being paid to fight for the Empire? If you could live a comfortable life and keep your girl safe without doing any of it, would you?”
+“You know, if things had gone real different? If we’d lost the war, if the Big Three went under and the Shadows slagged Tel Casran instead of Carnelian? People like me and Rose, we’d never stop fighting. We’d spend the rest of our lives trying to break free and rebuild what the Empress took from us. Down to the last man.” Lena sits back, resting his arm casually on the couch-back behind me. “You, though. Let me ask you. If you weren’t being paid to fight for the Empire? If you could live a comfortable life and keep your girl safe without doing any of it, would you?”
 
 “Of course I would! Wouldn’t you? If you could be safe and comfortable without ever putting yourself in harm’s way for the Greens—”
 

@@ -17,15 +17,15 @@ I nod. "Near on a dozen now. Been to the cobbler's a few times but none the wors
 
 He finishes lacing up and stands. His movements are so… easy and fluid; his body language practically screams confidence and power. "Do you miss Sapphire?" he asks, eyes alighting on mine.
 
-I shrug. "It's just a place. Wasn't as though I had me a particular good life there, anyhow. How's about you? You miss… wherever you come from?" I ain't shy of eye contact but something about Lena's attention feels… overwhelming, right now.
+I shrug. "It's just a place. Wasn't as though I had me a particular good life there, anyhow. How's about you? You miss… wherever you come from?" I ain't shy of eye contact but something about Lena's attention feels… overwhelming, right now, and it's a struggle to keep his gaze.
 
-"Tel Listel." Lena smiles wistfully. "I do.  But I need to see this through, you know? It wouldn't feel right, crawling back to homespace with my tail between my legs and leaving a job unfinished."
+"Tel Listal." Lena smiles wistfully. "I do.  But I need to see this through, you know? It wouldn't feel right, crawling back to homespace with my tail between my legs and leaving a job unfinished."
 
 I gaze at him appraisingly. "You sure that's all it is?"
 
 He raises his eyebrows. "What do you mean?"
 
-"What you told me about your unit — how many people left on Tel Listel do you actually still know by name, Lena?"
+"What you told me about your unit — how many people left on Tel Listal do you actually still know by name, Lena?"
 
 He's quiet for a moment, his gaze dropping. "Ah. Yeah," he says finally. "That."
 
@@ -37,13 +37,11 @@ He's quiet for a moment, his gaze dropping. "Ah. Yeah," he says finally. "That."
 
 "Then there's fear for the folks back home — knowing their lives all rest on your shoulders. I reckon there's some of that still in you, but it's like you said; war's damn near done with. Sounds like Team Empress don't pose too much more a threat to your kind, with the bloodthirsty old biddy dead and Carnelian ash.
 
-"There's something else, though." I look him in the eye, my hand moving to the side of his neck. "You been fighting this war since I was a girl. Twenty damn years of your life, give or take. War's most everything you know, and when you get home, one lonely survivor of the Sixth, well — what have you really got to look forward to there, anyhow?"
+"There's something else, though." I look him in the eye, my hand moving to the side of his neck. "You been fighting this war since I was a girl. Twenty damn years of your life, give or take. War's most everything you know, and when you get home, one lonely survivor of the Sixth, well — what have you really got to look forward to there, anyhow? You even still know how to be a civilian anymore, Lena?"
 
 Lena takes a deep breath. "Y-you put all that together on your own, did you, Rhea-*virtash?"* he asks in a quivering voice, lips a-tremble, eyes widening. His gaze damn near burns, but with effort I hold it.
 
-*"Virtash?"* I ask, blinking. It feels good to hear the boy stammer for just a fleeting moment, to see that façade of pure confidence and strength falter. Despte the pointed ears, he suddenly looks a lot more human to my jaded eyes.
-
-When you're a spy long enough, you come to feel the little shifts and eddies in the currents of power around you almost like a sixth sense hooked straight into your soul. And for a moment there, I felt the playing field tilt decisive-like in my direction.
+*"Virtash?"* I ask, blinking. It feels good to hear the boy stammer for just a fleeting moment, to see that façade of pure confidence and strength falter. When you're a spy long enough, you come to feel the little shifts and eddies in the currents of power around you almost like a sixth sense hooked straight into your soul. And for a moment there, I felt the playing field tilt decisive-like in my direction. Despite the pointed ears, Lena suddenly looks a lot more human to my jaded eyes.
 
 "Right. S-sorry. Um…" Lena hesitates, closing his eyes for a moment, collecting himself; I can see his manner shift right before my eyes. The self-control it takes to bounce back so damn quickly — tomboy's made of stern stuff. "Sorry, it's not a bad thing or anything," he begins finally, "I don't know if you have a word for it."
 
@@ -51,7 +49,7 @@ When you're a spy long enough, you come to feel the little shifts and eddies in 
 
 "It means someone who's… trained to understand how we all think, how people *work,"* he replies after a moment of thought. "See, back home everyone has a *virtash* they talk to now and again, to… well. They help you learn how to handle your emotions as you mature, help you connect with the right people, that kind of thing. And they help you heal when your mind is… wounded? Traumatized? They're sort of like… medics, but for the spirit, not the body. Is there a Zia Ţai word for that, do you know?"
 
-I hesitate. "I… don't know. We got the priestesses, I suppose? Though their advice is as liable to be chickenshit as gold."
+I hesitate. "I… don't know. We got the priestesses, I suppose? Though their advice is as liable to be chickenshit as gold, seeing how they pull it straight from their rear ends most of the time."
 
 "…that explains a lot," Lena murmurs, his tone sympathetic.
 
@@ -75,17 +73,17 @@ I am so glad Vi isn't here to see this.
 
 He holds me there in the foyer for a few long minutes, until some sense finally begins to reassert itself. Slowly, reluctantly, I pull away, and he lets me. I flinch away from his gaze. "I'm— I'm sorry," I mumble, humiliated; "I—"
 
-"Hey. It's okay." Lena pats my shoulder. "See, when I say you're damaged, Rei? It's things like this. You put up a real good façade but it keeps cracking, and I keep seeing little glimpses of the woman you are deep down."
+*"It's okay,"* Lena repeats, patting my shoulder. "See, when I say you're damaged, Rei? It's things like this. You put up a real good façade but it keeps cracking, and I keep seeing little glimpses of the woman you are deep down."
 
 I squeeze my arm. "D-do you now."
 
-He laughs softly. "You're not the only one can read people. Hey. It's okay. We don't gotta talk about it now. I don't want to force you too far outta your comfort zone. Just… know that when you're ready to talk, or any time you need comfort, I'm here."
+He laughs softly. "You're not the only one can read people. Hey. It's okay. We don't gotta talk about it just now. I don't want to force you *too* far outta your comfort zone. Just… know that when you're ready to talk, or any time you need comfort, I'm here."
 
 "…th-thank you," I mumble, cheeks burning.
 
 "Can I ask you something?"
 
-With difficulty, I force myself to look at him. Trying to meet his gaze feels like trying to steer a skittish *şue phin;* my body don't want to, no matter how desperate I am to save face. "Yeah, sh-shoot," I reply, and I realize I'm tugging the folds of my robe together across my body, my arms crossing down by my thighs. *What in ash is* wrong *with me?*
+With difficulty, I force myself to look at him. Trying to meet his gaze feels like trying to steer a skittish *şue phin;* my body don't want to cooperate, no matter how desperate I am to save face. "Yeah, sh-shoot," I reply, and I realize I'm tugging the folds of my robe together across my body, trying to cover my bare skin, my arms crossing defensively down by my thighs. *What in ash is* wrong *with me?*
 
 "We have a *virtash* in our group. If she'd be willing to sit down and talk to you, is that something you'd be up for giving a try?"
 
@@ -102,7 +100,7 @@ I give a weak laugh. "Ashes, Lena, I don't even half know what *this damage* is.
 "Alright. That's all I ask."
 
 
-Lena stops me with a hand to my chest, glancing to and fro before stepping out into the corridor. He cases it quickly but thoroughly, checking sight-lines and glancing around corners, before nodding to me and beckoning. I follow, pulling the door shut behind me, listening careful for the click of the self-locking mechanism, and can't help but do my own recon as I walk towards him. I'm not used to having someone else to do the hard work for me, and as much as I know his senses are far keener'n mine, I can't quite silence the steady stream of what-ifs from that dark, paranoid little part of my brain. The part of my brain that keeps me alive.
+Lena stops me with a hand to my chest, glancing to and fro before stepping out into the corridor. He cases it quickly but thoroughly, checking sight-lines and behind corners, before nodding to me and beckoning. I follow, pulling the door shut behind me, listening careful for the click of the self-locking mechanism, and can't help but do my own recon as I walk towards him. I'm not used to having someone else to do the hard work for me, and as much as I know his senses are far keener'n mine, I can't quite silence the steady stream of what-ifs from that dark, paranoid little part of my brain. The part of my brain that keeps me alive.
 
 He doesn't seem to take it as a sign of distrust, though. Just smiles that little smile of his, touches me real soft on the shoulder and directs me down the hallway. "You know I live here, right," I murmur, and he laughs.
 
@@ -128,7 +126,7 @@ Why does the boy delight in tormenting me so?
 
 For a moment I just stare at the carpet underfoot. "Not really," I mutter finally, as Lena flicks the call switch in the ascender alcove.
 
-"Has this ever happened before?" He squeezes my hand again, looking up at me with his piercing green eyes. I can't meet his gaze.
+"Has this ever happened before?" He squeezes my hand again, looking up at me with his piercing green eyes. I still can't meet his gaze.
 
 "Only once," I reply at length. The chime rings and the ascender capsule rises slowly into view, the gate lattice unlatching. Lena pulls it open and leads me gently through, shutting it behind us.
 
@@ -142,9 +140,9 @@ I can tell by his expression he thinks I'm being evasive. He lifts my palm with 
 
 "Oh. Right. That." I look away again.
 
-"You said it happened before?" He steps closer, leaving me cornered, touching me softly on the neck as he takes me by the hand. I can feel my heart pounding; an image filling my mind unbidden of Lena pressing his knee up between my inner thighs and pinning my wrists to the wall — *focus,* you hormonal fucking teenager of a woman. _Sang giun La nai!_
+"You said it happened before?" He steps closer, leaving me cornered, touching me softly on the neck as he squeezes my hand. I can feel my heart pounding; an image filling my mind unbidden of Lena pressing his knee up between my inner thighs and pinning my wrists to the wall — *focus,* you hormonal fucking teenager of a woman. _Sang giun La nai!_
 
-"I— I, I—" I stammer, trying to meet his gaze and flinching away. He frowns, squeezing my neck a little, rubbing the tender spot behind my ear with his thumb — *God, why does that feel so good* — and taking another step closer.
+"I— I, I—" I stammer, trying to meet his gaze again but still flinching away. He frowns, squeezing my neck a little, rubbing the tender spot behind my ear with his thumb — *God, why does that feel so good* — and taking another step closer.
 
 "Hey," he says, his voice full of concern. "We don't have to talk about it now, okay? Looks like it was something bad, and I don't want to drag you back through that."
 
@@ -156,11 +154,11 @@ I nod shakily, exhaling raggedly as he pulls me into a hug and burying my face i
 
 "Just remember, it's gonna be okay. Okay? You have my word, one way or another."
 
-I can't help but laugh. Promises! What youthful naïveté. Still, I can't deny being held like this… makes me feel so warm and safe that his words ring true all the same.
+I can't help but laugh. Promises! What youthful naïveté. Still, I can't deny being held like this… makes me feel so warm and safe that his words ring true all the same. Even if I know they're not, just here in this moment, I'm sore tempted to close my eyes and let myself believe.
 
 We're nearing the lobby, so reluctantly I disentangle myself. Lena steps back, letting me out of the corner, and as I move to his side I offer him my hand, which he takes with a smile. "Attagirl, red."
 
-_"Kire misekan,"_ I tell the attendant as the elevator alights on the ground floor, and she looks so startled to hear her native tongue on the lips of Zyahua. She babbles something I can't understand in reply but I nod and smile anyway as Lena leads me out into the lobby. Never hurts to be kind to the service staff — they're the ones with the all keys, as the bluebloods so often forget.
+_"Kire misekan,"_ I tell the attendant as the elevator alights on the ground floor, and she looks so startled to hear her native tongue on the lips of a Zyahua. She babbles something I can't understand in reply but I nod and smile anyway as Lena leads me out into the lobby. Never hurts to be kind to the service staff — they're the ones with the all keys, as the bluebloods so often forget.
 
 "You speak Kimer Marakki?" Lena asks, sounding surprised. "You didn't mention that the other night."
 
@@ -186,7 +184,7 @@ Hawthorn lets out a wheezy laugh. "Don't let her tough hide fool you, boy — Wr
 
 "Is she, now?" Lena asks, the corner of his lip curling upward as he leans forward, ignoring my increasingly urgent tugs on his arm. "Do tell!"
 
-"Oh, yes, as fine a woman as there ever was," Hawthorn continues merrily. "As generous as the day is long and a solid friend when push comes to shove. Why, I can't count all the favors and advice she's given me over the years — and such a gentle soul, truly! You're in for a bright future if you can keep her affections, my lad — she'd no more beat a husband than her own wife, I daresay."
+"Oh, yes, as fine a woman as ever there was," Hawthorn continues merrily. "As generous as the day is long and a solid friend when push comes to shove. Why, I can't count all the favors and advice she's given me over the years — and such a gentle soul, truly! You're in for a bright future if you can keep her affections, my lad — she'd no more beat a husband than her own wife, I daresay."
 
 "Quite the opposite, I hear," Lena replies casually, and I can't keep my eyes from widening.
 
@@ -210,13 +208,13 @@ Lena laughs. "Rei, do you really think we only have one safehouse in this city?"
 
 "I… suppose not."
 
-"Down here." He tugs my arm, and we turn right towards a flight of stairs down into the Underground. The little voice in the back of my head pipes up again and I rummage in my purse for my passbook -- my *real* fake one, not my government-issue fake one that's almost certainly being tracked -- to make sure it's stamped with this moon's rail pass. With stakes this high, getting caught out on a *fare evasion charge* would be the height of all irony.
+"Down here." He tugs my arm, and we turn right towards a flight of stairs down into the Underground. The little voice in the back of my head pipes up again and I rummage in my purse for my passbook -- my *real* fake one, not my government-issue fake one that's almost certainly being tracked -- to make sure it's stamped with this moon's rail passes. With stakes this high, getting caught out on a *fare evasion charge* would be the height of all irony.
 
-But the stamp is there all right, up in the corner next to a ration debit, and I breathe a quiet sigh of relief as I slip it back into my purse. "Which line?" I ask Lena, and he points.
+But the stamps are there all right, up in the corner next to a ration debit, and I breathe a quiet sigh of relief as I slip it back into my purse. "Which line?" I ask Lena, and he points.
 
 "The Circulator. We're just a couple stops northbound."
 
-Highmarket Station is one of the main changeover points in the network, and it's about as busy as train stations get. There's an arrival near every minute, and occasionally an express comes barreling through towards the outer boroughs or Shrike's Corner. As we near the northbound platform, the noise rises and rises, a din of screeching wheels, raised voices, and motors -- none of the snorts, whinnies, and endless whuffling of _şue phin,_ horse, and _pien şai_ that I grew so accustomed to from the streetcars of my homeworld, where you'd think nobody'd ever heard of galvanics or steam engines. Say what you will about the Duchess, but she runs a tight ship.
+Highmarket Station is one of the main changeover points in the network, and it's about as busy as train stations get. Something like six different companies serve the platforms here. There's an arrival near every minute, and occasionally an express comes barreling through towards the outer boroughs or Shrike's Corner. As we near the northbound platform, the noise rises and rises, a din of screeching wheels, raised voices, and motors -- none of the snorts, whinnies, and endless whuffling of _şue phin,_ horse, and _pien şai_ that I grew so accustomed to from the streetcars of my homeworld, where you'd think nobody'd ever heard of galvanics or steam engines. Say what you will about the Duchess, but she runs a tight ship.
 
 I gravitate towards the far corner, finding an empty bench I can survey the whole platform from, and Lena follows my cue, sitting down next to me, and putting an arm around my shoulders.
 
