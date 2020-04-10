@@ -5,7 +5,7 @@ I drape my coat awkwardly across the over-full coatrack, absentmindedly kicking 
 
 I pad softly down the dark hall, idly rubbing my hands together and breathing deeply of the warm air. As I turn down the leftward corridor into the east wing, I find the door to the guest room ajar, but I knock all the same before I enter. Light from the great picture window spills out into the hallway as I push the door open, that unique sparkling white of a glowing sun reflecting off fresh-fallen snow. Maybe someday I'll be able to see that kind of sunlight again without my heart pounding like a cannon in my chest.
 
-From where I stand I can just see the edge of Cormorant Court through the window, encircled by the high wall of terraced apartments. The great fountain in the center of the memorial walls is frozen solid. A little white cap of snow sits on the head of the statue perched atop it, its wings spread across the heavens and beak towards the sun. Sometimes I think Egret built the memorial here just because she didn't want to see that bird every time she looked out her office window, and truth be told I couldn't blame her. But for all the pain and sorrow that wells up in my heart whenever I look at the thing, there's still something comforting about having it so near. About touching my hand to the cold marble of the walls, tracing my fingers across the lettering of names that were once as familiar to me as Bear's or… or Cormorant's. I've spent more than a few sleepless nights sitting out there, back pressed up against the Ninth's own memorial stone, a cigarette at my lips, staring up into the twirl of snowflakes cascading down from the sky. 
+From where I stand I can just see the edge of Cormorant Court through the window, encircled by the high wall of terraced apartments. The great fountain in the center of the memorial walls is frozen solid. A little white cap of snow sits on the head of the statue perched atop it, its wings spread across the heavens and beak towards the sun. Sometimes I think Egret built the memorial here just because she didn't want to see that bird every time she looked out her office window, and truth be told I couldn't blame her. But for all the pain and sorrow that wells up in my heart whenever I look at the thing, there's still something comforting about having it so near. About touching my hand to the cold marble of the surrounding walls, tracing my fingers across the lettering of names that were once as familiar to me as Bear's or… or Cormorant's. I've spent more than a few sleepless nights sitting out there, back pressed up against the Ninth's own memorial stone, a cigarette at my lips, staring up into the twirl of snowflakes cascading down from the sky. 
 
 Fantasizing about what I'd say to them all if I could steal away just one more moment with each.
 
@@ -59,7 +59,7 @@ She's silent for a moment. Then: "I wish you'd put a bullet through my head 'ste
 
 "Spar!" I stare at her, hands faltering. "Spar, don't say such horrible things."
 
-"Shoulda done me like you did Weasel when that mortar got him. Ain't no difference."
+"Shoulda done me like you did Weasel when that mortar got him. Weren't no difference."
 
 For a moment, the gun is in my hand again, the reek of sulfur and death all around me, my friend's blood spattered across my greatcoat. And then before I can so much as scream it's gone. The bandage roll falls from my hand. My chest shudders as I try to breathe in. "Don't," I manage finally, touching Sparrow on the cheek. "Don't, Spar, no. No. This is not the same."
 
@@ -71,7 +71,7 @@ For a moment, the gun is in my hand again, the reek of sulfur and death all arou
 
 "*Useless!?*" I grab her by the shoulders. "You are a *God*-damned *hero,* Sparrow Fenwild. You've been giving all your damn life. Isn't it about time you sat the fuck down and let the rest of us show some gratitude?"
 
-"What do you think? If you went and asked any random fuck down at the tavern what he thought of some stupid good-for-nothing bitch getting fat off his work and giving nothing back to no one for it? What do you think he'd say, Kess?"
+"What do you think? If you went and asked any ol' fuck down at the tavern what he thought of some stupid good-for-nothing bitch getting fat off his work and giving nothing back to no one for it? What do you think he'd say, Kess?"
 
 "You know what, let's go ask!" I stand, glaring down at her. "Let's go to the tavern and I'll find someone to ask. And I'll tell him everything you did for the fight. How many lives you saved. And I'll show him all the scars you got for your trouble. At *age fucking nineteen.* And I'll tell him what they did to you. And I'll ask him what he thinks you're due. 'Cause what do you think he'll say, Spar?"
 
