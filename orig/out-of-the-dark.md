@@ -36,7 +36,7 @@ Cassil waves a hand. "Yeah, whatever, go ahead."
 
 Images of Niltar's years of accumulated scar tissue flash through Cassil's mind. *Please, please let her be okay.* "No, I didn't."
 
-"Good to hear. Did you feel detaining personnel acted outside of standard protocols in any way that was unnecessarily cruel?"
+"Good to hear. Did you feel detaining personnel violated protocols for treatment of detainees in any way or were unnecessarily cruel?"
 
 "They made me stand in a cold shower after they fucking stripped me."
 
@@ -110,11 +110,19 @@ For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, 
 
 "Do you wish to be issued any extra clothing prior to your discharge, or are you comfortable leaving in just the clothes you came in?"
 
-"I don't need anything extra."
+"I don't need anything ext--" She pauses. "…where are we?"
 
-"Alright. Are there any other comments, concerns, or requests you would like to be entered into the record?"
+"The planetary capital."
 
-Cassil barely restrains her instinct to mouth off again, and mutely shakes her head. *I need to get out of here and back to Nili as fast as possible. That's all that matters. Don't fuck this up again, you stupid bitch. I used up all my good luck for today already.*
+"Oh. In that case, um. Maybe a jacket. And leggings?"
+
+"That will not be a problem. Are the current sizes on file for you up to date and correct?"
+
+"They are."
+
+"Excellent! Are there any other comments, concerns, or requests you would like to be entered into the record?"
+
+Cassil barely restrains her instinct to mouth off again, and mutely shakes her head. *I need to get out of here and back to Nili as fast as possible. That's all that matters. Don't fuck this up again, you stupid bitch; don't let them goad you. I used up all my good luck for today already.*
 
 "I'm sorry, but can you please answer *verbally,* _shevan?_"
 
