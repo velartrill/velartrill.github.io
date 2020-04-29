@@ -119,7 +119,7 @@
 		<p>however, there's a problem. the reason html *has* targets is so that users can be directed to a specific place on a long page. it lets you implement tables of contents, for instance. so whenever you click on a link to a target, the page will jump so as to place that target at the very top of the screen.</p>
 		<p>this is a problem for a lot of :target use cases; there's no simple way to disable this behavior without resorting to javascript, so most keep just keep using javascript anyway to show and hide their elements without fucking around with the :target class.</p>
 		<p>however! there is one exception to the jumping behavior, and that is if the element targetted <em>cannot</em> be placed at the top of the screen - that is, if it has the property <code>position: fixed</code>.</p>
-		<p>this lets you do some nifty hacks, such as the <a href="../stories/spirals/talk-like-a-void-pirate.html">gracefully degrading, printer-friendly endnote popup system</a> i use for some of my writing.</p>
+		<p>this lets you do some nifty hacks, such as the <a href="../fic/spirals/talk-like-a-void-pirate.html">gracefully degrading, printer-friendly endnote popup system</a> i use for some of my writing.</p>
 		<p>but, if you want to use it to show and hide and element that's <em>inline</em>, that moves with the rest of the page and that the browser <em>can</em> move to the top of the screen, the <code>position:fixed</code> trick doesn't help you.</p>
 		<p>not on its own, anyway.</p>
 		<p>a CSS operator that's particularly useful in gross hacks like these is the + operator. when you say, for instance, <code>p + h1</code> you tell the browser to select all &lt;h1&gt; elements that directly follow a &lt;p&gt; element.</p>

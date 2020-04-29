@@ -1,6 +1,6 @@
 /* [ʞ] serenity.scss <https://hale.su/serenity.html>
  *  ~ lexi hale <lexi@hale.su>
- *  © GNU affero general public license
+ *  © GNU affero general public license v3
  *  $ sassc -t compressed serenity.{scss,css}
 
  * a stylesheet designed for flexibility and for minimalistic,
@@ -296,15 +296,6 @@ a[href] {
 			background: var(--fg-color) !important;
 			box-shadow: 0 0 30px var(--ul-c);
 			text-decoration: none;
-
-			/* the box is very "bleeding-edge" sharp by default so
-			 * we use padding to give it some white space; otherwise
-			 * it'll look *exactly* like terminal reverse video */
-			padding: 0.2em 0.3em;
-
-			/* the extra padding will disrupt layout sometimes; let's
-			 * avoid that where we can*/
-			margin: 0 -0.3em;
 
 			/* browsers normally supply their own (ugly, useless) 
 			 * indicator; we suppress these by blanking outline */
