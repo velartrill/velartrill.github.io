@@ -231,13 +231,13 @@ We make it to the end of the corridor before a jailer turns the corner. I quicke
 
 *“‘Is aught amiss?’”* I cry mockingly, not bothering to stop; the guard has to turn and hurry after us. I try to keep my voice just low enough not to attract further attention. “I should say so! ’Tis not enough the incompetence of our mere interrogators — nay, even your feckless lot must imitate them! Are your *honored colleagues* smuggling drink or worse to work, woman?”
 
-“I— I am so sorry, your magnificence, for whatever has befallen— I— need I summon a healer, or—?” Her hand hovers near the transmit button on the far-caster. I grit my teeth.
+“I— I am so sorry, your magnificence, for whatever has befallen— I— need I summon a healer, or—?” Her hand hovers near the transmit contact on the far-caster. I grit my teeth.
 
 “Perhaps instead of pestering your betters, you obsequious runt, you would be more gainfully employed in the bettering of your craft! Perhaps, say, in that arcane art of *fastening a manacle* — such that the scum of the dungeons are afforded *fewer* opportunities to wound the high and honorable of courtly society!”
 
 Her eyebrows rise in alarm. “Has— has there been an escape? I’ve heard naught of it—”
 
-“Very nearly so, but had there been, neither of us would yet draw breath to tell you of it, and a living *devil* would now stalk these halls, thirsting for righteous Zyahua blood! God within but those wretched Greens — they may almost look human, but make no mistake, they are anything but! And now, for want of a chain, an invaluable captive lies dead and a woman of the Court is wounded, all on account of your dismal comrades’ laxity!” I wave a finger at her. “Fie! Get you gone from my sight, or I may select your tender flesh to exercise my vexation upon!”
+“Very nearly so, but had there been, neither of us would yet draw breath to tell of it, and a living *devil* would now stalk these halls, thirsting for righteous Zyahua blood! God within but those wretched Greens — they may almost look human, but make no mistake, they are anything but! And now, for want of a chain, an invaluable captive lies dead and a woman of the Court is wounded, all on account of your dismal comrades’ laxity!” I wave a finger at her. “Fie! Get you gone from my sight, or I may select your tender flesh to exercise my vexation upon!”
 
 That does the job. Bowing and scraping, the jailer backs away, burbling fearful platitudes all the while. I hear Lishuen let out a relieved sigh, and pat her shoulder awkwardly. “Nearly there.”
 
@@ -245,7 +245,7 @@ That does the job. Bowing and scraping, the jailer backs away, burbling fearful 
 
 We round another corner, and the ascender shaft is in sight. One obstacle left.
 
-The gateway guard claps her hand to her heart again as we approach, rising from her seat, but her eyes furrow at the sight of my accomplice. "Evening, again, Dame Raven. Ah, er—"
+The gateway guard claps her hand to her heart again as we approach, rising from her seat, but her eyebrows furrow at the sight of my accomplice. "Evening, again, Dame Raven. Ah, er—"
 
 "My idiot apprentice," I return quickly. "Open the gates, woman."
 
