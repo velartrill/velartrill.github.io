@@ -7,19 +7,19 @@ My mistress was not, by any measure, a good woman, and I think she herself would
 
 ’Tis quiet enough in the deserted office I can hear the tumbler's pins click into place. The lock turns and with effort I slide open the heavy steel door, wincing at the creak it makes. Automatic luminators spring to life, dimly illuminating a huge room filled with rows upon rows of heavy, numbered lock-boxes. Fingering the master key on my ring, I set off down the corridor.
 
-Power is a tricky thing. Not even we of the Privy Council can enforce our every whim upon the world, even if we may fancy so from time to time — ’tis the sovereign alone to whom that privilege adheres, and she who forgets this singular principle will be hard-pressed to survive the deadly, fast-paced game of courtly politics. Many in high office make the arrogant mistake of thinking the power they wield *belongs* to them, of thinking it earned rather than given, and invriably learn of their error from the blade of the headsman’s axe. But Kestrel was a wiser woman than that, and taught me many subtler weapons to wield than a demanding, pompous voice. "No matter how silken your robe nor fancy your hat, never let yourself forget the art of common skullduggery, nor think yourself above it;" so went her mantra. I’m not sure I’ve ever felt so grateful for her years of patient tutelage as I do at this moment.
+Power is a tricky thing. Not even we of the Privy Council can enforce our every whim upon the world, even if we may fancy so from time to time — ’tis the sovereign alone to whom that privilege adheres, and she who forgets this singular principle will be hard-pressed to survive the deadly, fast-paced game of courtly politics. Many in high office make the arrogant mistake of thinking the power they wield *belongs* to them, of thinking it earned rather than gived -- and invariably they learn of their error from the blade of the headsman’s axe. But Kestrel was a wiser woman than that, and taught me many subtler weapons to wield than a demanding, pompous voice. "No matter how silken your robe nor fancy your hat, never let yourself forget the art of common skullduggery, nor think yourself above it;" so went her mantra. I’m not sure I’ve ever felt so grateful for her years of patient tutelage as I do at this moment.
 
 Row 12. I turn, heading down the row, keeping my eyes fixed on the box designations. My destination is halfway to the far wall, a black, sturdy safe just like all the others, two identifying Old Script characters painted carefully across the the faceplate with a calligrapher’s brush. Into the slot I slide in the master key, a simple strip of metal engraved with the emblem of the Crown, looking more than an ornament than anything else — the locks here operate on magnetic principles alone, and are reputed to be unpickable. The barrel turns.
 
-Having tasted real power, I understand the temptation of forgetfulness all too well. Ever intoxicated by the bowing and scraping of servants, the ease by which the strokes of my pen beget suffering and death, I could well have forgotten that the women and men who carry out my bidding do not serve *me* — and indeed would gladly throw me to the _pien şai_ if it bought them even the pettiest rise in station. I may wear a vizier’s robes, but they are loaned, not woven by my own hands. The finely filigreed structure of Imperial power long predated my birth, and shall long survive my death. And while her Serene Radiance did deign to permit me a hand on the reins, the _şue phin_ I drive is not mine to ride where I wish — and she is far from tame.
+Having tasted real power, I understand the temptation of forgetfulness all too well. Ever intoxicated by the bowing and scraping of servants, the ease by which the strokes of my pen beget suffering and death, I could well have forgotten that the women and men who carry out my bidding do not serve *me* — and indeed would gladly throw me to the _pien şai_ if it bought them even the pettiest rise in station. I may wear a vizier’s robes, but they are loaned, not woven by my own hands. The finely filigreed structure of Imperial power long predated my birth, and shall long survive my death. And while her Serene Radiance did deign to permit me a hand on the reins, the _şue phin_ I ride is not mine to drive where I wish — and she is far from tame.
 
-The articles I seek are within the box, each secured in a labeled cloth bag. I remove them one by one — a sleek, delicately forged sidearm; a few magazines of ammunition; a strange, boxy little mechanism that looks something like a farcaster; a galvanic camera; a metal slate of uncertain purpose; odds and ends besides — and stow them away in my satchel, filling up the evidence-bags with crumpled paper to conceal their emptiness from a casual glance. Finished, I relock the safe and set off further down the row.
+The articles I seek are within the safe, each secured in a labeled cloth bag. I remove them one by one — a sleek, delicately forged sidearm whose simple elegance would bring even a master gunsmith to tears; a few magazines of ammunition; a strange, boxy little mechanism that looks something like a farcaster; a galvanic camera; a metal slate of uncertain purpose; odds and ends besides — and stow them away in my satchel, filling up the evidence-bags with crumpled paper to conceal their emptiness from a casual glance. Finished, I relock the safe and set off further down the row.
 
 All power flows from a sovereign, Kestrel taught me. When you wield the power of a great sovereign in accordance with her will, it will flow easily and true, effortlessly solidfying a handful of words into a spear of godly force that will strike far across space, shatter the foundation of worlds and alter the fate of nations. But when you try to wield that power against its own sovereign, it will revolt, kick and buck and spit until you are thrown from the saddle and trampled in the dirt by the same energies that you once unwisely imagined yourself the master of.
 
 Box 2267 is, per the registry, not yet assigned a case; ’tis meant to be empty. It is not so. I collect the handful of documents, slips, and booklets I stowed within for safekeeping before I head back out of the vault. I peek cautiously out from behind the door to ensure the hallways are empty before I step out into the dim lighting of the evidence chamber, locking the vault behind me. One last task lies ahead — but a cathartic one.
 
-The institutions that form the sinew of political might are designed for a specific purpose: their structure delineates how they can and cannot be used. To we who sit near t;he apex where that complex web of ecosystems is knotted into one, their actual structure can become perilously opaque — too used are we to the convenience of secretaries and flunkies, whose thankless task it is to translate and transmit our words down the veins and arteries of that voluminous hierarchy until they reach the common thugs who will finally carry them out. This is the trap that the powerful set for the disloyal, the tripwire that must be avoided if you've any design against your sovereign’s interest. ’Tis where you must resort again to common skullduggery, and where you must wield only with surgical precision the power bestowed upon you. You must prevent it from rebellion by the simple expedient of convincing it that you are acting in accordance with your sovereign’s will — even when nothing could be further from the truth.
+The institutions that form the sinew of political might are designed for a specific purpose: their structure delineates how they can and cannot be used. To we who sit near the apex where that complex web of ecosystems is knotted into one, their actual structure can become perilously opaque — too used are we to the convenience of secretaries and flunkies, whose thankless task it is to translate and transmit our will down the veins and arteries of that voluminous hierarchy until it reaches the common thugs who will finally carry it out. This is the trap that the powerful set for the disloyal, the tripwire that must be avoided if you've any design against your sovereign’s interest. ’Tis where you must resort again to common skullduggery, and where you must wield only with surgical precision the power bestowed upon you. You must prevent it from rebellion by the simple expedient of convincing it that you are acting in accordance with your sovereign’s will — even when nothing could be further from the truth.
 
 The offices of my subordinates are not nearly so well appointed as my own. This part of the complex is full of little rooms for the little people, the secretaries, agents, and researchers who make up the bulk of the Office for Defense of the Throne — the ones who do the actual work of defending that throne. I catch sight of one lit office, someone working late on a case, and duck my head as I pass her window.
 
@@ -33,7 +33,7 @@ The room inside is conspicuously tidy, all its contents impossibly clean and wel
 
 It is a somewhat desperate ploy and I am uncertain if it will buy me any time at all. But if fortune favors me tonight, I might castrate two _pien şai_ with but a single razor — deflect suspicion from my own shoulders for a time, and place its weight instead upon the most vexingly efficient and cunning of my subordinates. Mistress Moonhollow’s skill as a detective is second only to her fanatical devotion to the Tenth Empress, and it has been clear from the day I met her that she thirsts after my coveted seat on the Privy Council. Most direly of all, she is without a doubt the bloodhound who shall be set upon my scent if my treason is discovered — as it doubtless soon shall be — and she is not properly neutralized. I have lain the best false trail I can, given the circumstances, but I doubt that it will fool a woman of her caliber for so much as half a moment.
 
-I make my carefully back to my office, sneaking awkwardly past a number of night-guards. Mine is not the body of a youthful spy, quick of foot and suited to such cloak-and-dagger derring-do, but one wracked by disastrous pregnancies and beset by the many aches and pains of advancing age. ’Tis with a sinking feeling that I realize how such frailty could well undo me.
+I make my way carefully back to my office, sneaking awkwardly past a number of night-guards. Mine is not the body of a youthful spy, quick of foot and suited to such cloak-and-dagger derring-do, but one wracked by disastrous pregnancies and beset by the many aches and pains of advancing age. ’Tis with a sinking feeling that I realize how such frailty could well undo me.
 
 Lishuen is sprawled out on my sofa when I return, clutching a pillow to her chest, which rises and falls in the slow, gentle rhythm of a sleeper’s breath. I seat myself on the table across from her, lean forward, and quietly whisper her name. Instantly she’s wide awake, scrambling to her feet, looking back and forth with terrified eyes as she tries to back away.
 
@@ -49,7 +49,7 @@ She takes a deep breath, nods.
 
 Another nod. “They… they had me again,” she mumbles in a small voice.
 
-“I— I am sorry.” I reach down for my satchel; she starts reflexively at the motion. “Might your feel any better with this at hand?” I inquire, retrieving her firearm and ammunition. Her eyes go wide and she seizes the weapon immediately.
+“I— I am sorry.” I reach down for my satchel; she starts reflexively at the motion. “Might you feel better at ease with this at hand?” I inquire, retrieving her firearm and ammunition. Her eyes go wide and she seizes the weapon immediately.
 
 “Thank you, thank you, thank you,” she gushes, holding it tightly like it might leap from her grasp at any moment. With difficulty, she slots in a magazine and wraps her hand around the grip; the status lamp on the back of the weapon immediately comes to life and she emits an exclamation I don’t understand, but the tone of her voice is one of relief.
 
@@ -57,7 +57,7 @@ She releases the gun and slips it under her pillow, giving me a grateful smile. 
 
 “I brought you some other things as well.”
 
-She reaches in, and her face lights up as she pulls out the small grey metal slate from the evidence locker. “My laptop,” she murmurs, pressing her hand to the front and lifting the top away. It pivots upward like the cover of a book, revealing a panel full of small buttons, almost like a miniature keyboard. She presses one of them repeatedly, but nothing happens, and she sighs. “Battery’s dead. Shouldn’t be s-surprised. Fuck, I never thought I’d s-s-see this thing again.” She flashes me a little smile, putting it back in the bag. “I’ll figure out some way to charge it later. Thank you, I— I wasn’t sure you’d make it back.”
+She reaches in, and her face lights up as she pulls out the small grey metal slate from the evidence locker. “My _sortal_,” she murmurs, pressing her hand to the front and lifting the top away. It pivots upward like the cover of a codex, revealing a panel full of small buttons, almost like a miniature keyboard. She presses one of them repeatedly, but nothing happens, and she sighs. “Battery’s dead. Shouldn’t be s-surprised. Fuck, I never thought I’d s-s-see this thing again.” She flashes me a little smile, putting it back in the bag. “I’ll figure out some way to charge it later. Thank you, I— I wasn’t sure you’d make it back.”
 
 “I made you a promise, Lishue— Lishi,” I answer gently. “I wasn’t about to break it.”
 
@@ -79,7 +79,7 @@ I give her a gentle smile. “I told you I had a plan.”
 
 She looks up at me, a fragile smile on her dry, wounded lips. “Two cubes, if that’s okay?” More quietly, she adds, “It’s… it’s my favorite too.”
 
-“I’ll heat some water right up.” I open up the wall compartment that so artfully conceals the tap and glassware from view, and press the switch at the base of my galvanic boiler. Any old-money courtier would be appalled by the flagrant disrespect for tradition and ritual, particularly in front of a guest, but from my present company I doubt I need fear judgment for my uncultured, heathen ways.
+“I’ll heat some water right up.” I open up the wall compartment that so artfully conceals the tap and glassware from view, and press the switch at the base of my galvanic boiler. Any old-money courtier would be appalled by the flagrant disrespect for tradition and ritual, particularly in front of a guest, which is precisely why I keep the thing hidden away — but from my present company I doubt I need fear judgment for my uncultured, plebeian ways.
 
 A lamp lights up inside the boiler and it starts hissing as it fills with bubbling water. I fill a cup at the tap and walk back to Lishuen, who sits up and takes it eagerly. I watch in silence as she downs nearly the entire cup in one go.
 
@@ -89,7 +89,7 @@ She stares at the cup in her hands for a long moment before answering. “I don�
 
 “I don’t,” I reply apologetically, “but I can check. Would you like that?”
 
-She nods. I stand again, wincing at the jolt of pain that courses through my thighs as I do, and make my way over to my desk. I unclip my necklace and set the amulet into a slot on the teletype. The elegant brass-and-wood machine comes smoothly to life, lights spreading across its base and illuminating the keys from beneath. New Script runes glow beneath my fingers, and the print-head chatters to life. Out of habit, I reach out to tighten the feed cable at its base as the roll of control tape starts to turn, lines of text scrolling past. Most of it is an inscrutable, intimate litany meant for _tian bèi_ versed in the arcane lore of machine spirits, but finally it prints a sequence of familiar lines and ceases to move.
+She nods. I stand again, wincing at the jolt of pain that courses through my thighs as I do, and make my way over to my desk. I unclip my necklace and set the amulet into a slot on the spirit-'writer. The elegant brass-and-wood machine comes smoothly to life, lights spreading across its base and illuminating the keys from beneath. New Script runes glow beneath my fingers, and the print-head chatters to life. Out of habit, I reach out to tighten the feed cable at its base as the roll of control tape starts to turn, lines of text scrolling past. Most of it is an inscrutable, intimate litany meant for _tian bèi_ versed in the arcane lore of machine spirits, but finally it prints a sequence of familiar lines and ceases to move.
 
 % set align center
 
@@ -101,11 +101,11 @@ I set my fingers to the keyboard and begin to key in commands. Lishuen watches m
 
 “I’ve a cabinet with feed-endings,” I tell her. “Might they suffice for your purposes?”
 
-“M-maybe? I… I don't know. I'm sorry. Um. May… may I try? If— if I can get my handset working again.”
+“M-maybe? I… I don't know. I'm sorry. Um. May… may I try? If— if I can get my handset working again—”
 
-"By all means, then. Permit  me but a moment." I find the entry I want and strike a key. The machine begins to chatter rapidly, switching from the little feed-tape to its parchment tray, printing out Lishuen’s — or “Serenity’s” — detainee profile in the cold, sharp, sensible letters of the New Script, so unlike the fluid, intricate glyphs of the Old I so greatly prefer. While it prints, I move my chair over to the power cabinet, which I unlock and slide carefully open, wary of disjoining my teletype. “Let me help you over?” I ask, turning to Lishuen.
+"By all means, then. Permit  me but a moment." I find the entry I want and strike a key. The machine begins to chatter rapidly, switching from the little feed-tape to its parchment tray, printing out Lishuen’s — or “Serenity’s” — detainee profile in the cold, sharp, sensible letters of the New Script, so unlike the fluid, intricate glyphs of the Old I so greatly prefer. While it prints, I move my chair over to the power cabinet, which I unlock and slide carefully open, wary of disjoining my typewriter from its communion with the distant thought-engines of the palace. “Let me help you over?” I ask, turning to Lishuen.
 
-She nods, taking a deep breath. She feels steadier on her feet already as I guide her to the chair, if only just. I hand her the satchel as she sits and she extracts the bundle of wiring, along with a few other devices. She spends a few moments leaning over the power sockets and fiddling with cables before there’s a sharp *crack* and sparks briefly illuminate her. Lishuen lets out a frightened cry, pulling away like a stung wild animal. The chair she’s sitting on nearly topples and I barely catch it in time.
+She nods, taking a deep breath. She feels steadier on her feet already as I guide her to the chair, if only just. I hand her the satchel as she sits and she extracts the bundle of wiring, along with a few other devices. She spends a few moments leaning over the power feeds and fiddling with lines before there’s a sharp *crack* and sparks briefly illuminate her. Lishuen lets out a frightened cry, pulling away like a stung wild animal. The chair she’s sitting on nearly topples and I barely catch it in time.
 
 “It’s okay, it’s okay,” I try to reassure her. “That happens all the—” I stop.
 
@@ -117,7 +117,7 @@ And again, whatever frightful state has come over her, something about speaking 
 
 “Whatever is the matter, dear?” I ask, squeezing her hand softly. She shakes her head violently.
 
-_“Shosi shanvol. Shosi, shosi, shosi shanvol—”_
+_“Shanvol shosi. Shosi, shosi, shosi shanvol—”_
 
 “Lishi, I… I’m sorry, I don’t know what that means.”
 
@@ -165,11 +165,11 @@ She looks away for a moment but then nods, resting her soft cheek in my open pal
 
 From the moment I first laid eyes on her, the girl seemed so… normal, so plain, so human. She's shown no preternatural feats of might, nor speed, nor reflex; strange though her color might be, it is no stranger than the dark grey skin and brilliant white hair of the Khmai, nor the Kaparttu with their radiant golden irises, nor the eerie slimness of the Void-dwelling Nikeri whose piracy and slavetaking terrorise the Rim. But this — this queer mutation is unlike anything I have ever seen in a human body. So minuscule, and yet so strange: where the helix of my own ears is blunt and round, hers tapers up to a soft, elegant point, almost like the tip of a leaf, and so utterly unlike any other of Haven's diverse and numerous races. So… alien.
 
-I am suddenly reminded of the docile, friendly hounds so many women of the City keep as pets. Reminded of the fierce, feral sabrewolf stock whence they descend. So similar in body but for the wolf's majestic coat, proof against the cold and snow; her long, piercing fangs, ready to tear into unwary _pien şai,_ — and her sharp, pointed ears, always alert for the sounds of prey.
+I am suddenly reminded of the docile, friendly hounds so many women of the City keep as pets. Reminded of the fierce, feral sabrewolf stock whence they descend. So similar in body but for the wolf's majestic coat, proof against the cold and snow; her long, piercing fangs, ready to tear into unwary _pien şai_ — and her sharp, pointed ears, always alert for the sounds of prey.
 
 What in Haven have I gotten myself into?
 
-Up close, Lishuen's wounds look dire, and it almost would seem a miracle that none have yet festered. I know better, however, for ’tis part of the interrogator's protocol to wet open wounds with alcohols and purifying agents, as a means to ensure that no prisoner is rescued from our care us by an untimely death — and to greatly magnify the pain already inflicted.
+Up close, Lishuen's wounds look dire, and it almost would seem a miracle that none have yet festered. I know better, however, for ’tis part of the interrogator's protocol to wet open wounds with alcohols and purifying agents, as a means to ensure that no prisoner is rescued from our care by an untimely death — and to greatly magnify the pain already inflicted.
 
 I gaze into her green eyes as they flutter open again for a moment. They're so… so gentle, so timid, so… frightened. Human or not, she is, in this moment, fragile and vulnerable, lost in a world with more predators than prey. The drive to protect her that wells up in my heart is one I have not felt in many a year, but its ferocity is all the more overpowering for its strangeness.
 
@@ -179,7 +179,7 @@ I nod. “I fear so. Be that as it may, I’ve a proper coat and boots for you; 
 
 She swallows, nods. "Th-thank you." She looks up at me. "If… if this is Carnelian, that means… we have an embassy here, don't we? Envoys from the People?"
 
-I was expecting this. I nod. "I know you must wish desperately to be with your own kind again, but the security ’round the embassy complex is simply too tight. It's under the watch of the Imperial Guard itself. If we were to go within sight of it we should both be undone."
+I was expecting this. I nod. "I know you must wish desperately to be among your own kind again, but the security ’round the embassy complex is simply too tight. It's under the watch of the Imperial Guard itself. If we were to go within sight of it we should both be undone."
 
 She nods. "I… I figured, but… if I can get my radio handset working…" She gazes out the window. "Maybe we could get close enough to get word. To let them know I'm…" Fresh tears well up in her eye. "…alive," she mumbles. "Trying to… to come home. They might still be able to help. And… my friends, my… the people I love…" She shakes her head violently. "I don't want them to think I'm gone." Her voice cracks and she buries her head in a pillow.
 
@@ -215,9 +215,9 @@ She nods, and I stand, heading for my desk. I glance at the open feed cabinet an
 
 "I'm sure, please. I'll be fine." Lishuen grabs the handset from the card table and I help her make her way back to the cabinet. As she fiddles with the cables, I retrieve the printed pages from the teletype and power it back off, returning the amulet to its place around my neck.
 
-Lishuen lets out a delighted exclamation. I turn to find her holding up the handset, which is lit up across the face, a miniature screen full of symbols I don't recognize. "It's working," she murmurs. "Oh, thank God, the converter works."
+Lishuen lets out a delighted exclamation. I turn to find her holding up the handset, which is lit up across the face, a miniature imager full of symbols I don't recognize. "It's working," she murmurs. "Oh, thank God, the converter works."
 
-"I'm glad you didn't go through all that for nothing." I reply.
+"I'm glad you didn't go through all that for nothing," I reply.
 
 She nods. "Oh, my gosh. Okay. Um." She looks up at me. "Could you… could you maybe fetch my other things from the table?"
 
@@ -231,7 +231,7 @@ She nods. "Oh, my gosh. Okay. Um." She looks up at me. "Could you… could you m
 
 I touch her gently on the shoulder. "I'm sorry," I murmur.
 
-Her eyes are tearing up again. With a violent motion, she folds the sheaf roughly in half and thrusts it at me. "Take this," she mumbles. "I can't… I need to focus right now."
+Her eyes are tearing up again. With violent motions, she folds up the sheaf and thrusts it at me. "Take this," she mumbles. "I can't… I need to focus right now."
 
 I stow the papers safely in an inner pocket of my robe, and watch idly as Lishuen hooks the rest of her galvanic equipment into the feed relay. One by one, the machinery comes to life, little lamps lighting up around the edges. It's hard to guess at what most of it is for — Green tech has long been a subject of fables
 
@@ -251,7 +251,7 @@ I grimace. “Even I haven't the power to subvert that. Anything we do requiring
 
 She glances up at me. “That’s… lower than I expected.”
 
-I sigh. “My grandparents immigrated from the Traverse. We’ve only had a few generations to build any social credit. Still, it’s enough for most purposes.”
+I sigh. “My grandparents immigrated from the Traverse. They were common folk. We’ve only had a few generations to build any social credit. Still, it’s enough for most purposes.”
 
 
 
@@ -259,7 +259,7 @@ I sigh. “My grandparents immigrated from the Traverse. We’ve only had a few 
 
 “Oh, we stopped using them a long time ago. Like, centuries before the Great War I think.”
 
-“What on Carnelian do you use instead?” I ask, my curiosity piqued. “Simple telegrams? Surely you must have some efficient manner of speaking to your computation engines.”
+“What on Carnelian do you use instead?” I ask, my curiosity piqued. “Simple telegrams? Surely you must have some efficient manner of conversing with your great thought-engines.”
 
 Lishuen shakes her head, pointing to the device with the miniature keyboard on the table. “We just use portables like that. They talk to each other on wireless. If I had power I could show you.”
 
@@ -278,3 +278,7 @@ Lishuen shakes her head, pointing to the device with the miniature keyboard on t
 
 % to pub/vt/fic/spirals
 % path fiction/Spirals
+
+-- whenever we were about to meet anyone of significance, Kestrel would always, just before they entered the room, whisper to me some unseemly detail of the woman's private life, some dark little secret that the tabloids would pay for in blood and platinum, words that could unmake decades -- sometimes centuries -- of achievement and destroy overnight a family name. she told me in her later years that it was always her design to keep any of the haughty grandeur with which those of the Court always carry themselves from impressing itself too greatly upon my developing psyche. "When you look a fine Duchess in the eye," she said, "I don't want you to see the gleaming gems, the gaudy hat, the cringeing servants -- I want her still half-dressed in her courtly robes, bending her butlers over bannisters and fucking them 'til they bleed, all the while beating them with her sandals and screaming, *take that, Lady Nightingale*." *these people are beneath us, Raven,* she refrained from saying, in words so clear I heard them anyway -- *i could not chance the risk that you might ever take them seriously.*
+
+it was, too, potent training in the art of restraining one's girlish giggles in the presence of magnates.
