@@ -31,7 +31,7 @@ Jasmine shakes her head sleepily. “Nuh-uh. That’s… what is that, uh… *al
 
 “…like how she’s always so excited to see you.”
 
-Sashuan nods. “Exactly. So that’s _cardin_ — _ceshvol_ is what happens when someone has _cardin_ already and ends up getting abandoned. Like, when someone who’s integrated really deep into your life suddenly goes away and it’s like they take part of you with them.”
+Sashuan nods. “Exactly. So that’s _cardin_ — _ceshvol_ is what happens when someone has _cardin_ already and ends up getting abandoned. Like, when someone who’s dug really deep into your life suddenly goes away and it’s like they take part of you with them.”
 
 “…oh.”
 
@@ -45,7 +45,7 @@ Sashuan nods. “Exactly. So that’s _cardin_ — _ceshvol_ is what happens whe
 
 Sashuan nods. “That’s… like I said, I’m no _virtash_, but that’s about as classic _ceshvol_ as it gets.”
 
-Jasmine is silent for a moment. “So between… what happened to Dad… Mom spending most of Rosie’s life at work, and leaving her to look after the kids… then how Rosie lost her girlfriend *and* a boyfriend—” She lays back down, staring at the ceiling. “If… if you’re right, she must be hurting so badly.”
+Jasmine is silent for a moment. “So between… what happened to Dad… Mom spending most of Rosie’s life at work, and leaving her to look after the kids… then how Rosie lost a girlfriend *and* her boyfriend—” She lays back down, staring at the ceiling. “If… if you’re right, she must be hurting so badly.”
 
 “That’s what I’m afraid of.” Sashuan purses her lips. “When you told me that thing about how she’s not eating… I mean, she’s got a handy justification for it and all, but it sounds to me like self harm. Or… or worse.”
 

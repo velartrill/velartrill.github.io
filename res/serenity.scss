@@ -222,27 +222,18 @@ del {
 		box-shadow: 0 0 5px -2px black inset;
 
 		@if using(hilite) {
-			strong { /* keywords */
-				color: hsl(var(--hue), 100%, 70%);
-			}
-			var { /* variable names */
-				color: hsl(calc(var(--hue) - 30), 80%, 50%);
-			}
-			dfn { /* literals */
-				color: hsl(calc(var(--hue) + 30), 50%, 60%);
-			}
-			em { /* strings */
-				font-style: italic;
-				color: hsl(calc(var(--hue) - 20), 90%, 70%);
-			}
-			i { /* comments */
-				font-style: italic;
-				color: hsl(var(--hue), 30%, 30%);
-			}
+			strong { /* keywords */  color: hsl(var(--hue), 100%, 70%); }
+			var    { /* variables */ color: hsl(calc(var(--hue) - 30), 80%, 50%); }
+			dfn    { /* literals */  color: hsl(calc(var(--hue) + 30), 50%, 60%); }
+			em     { /* strings */   color: hsl(calc(var(--hue) - 20), 90%, 70%); }
+			i      { /* comments */  color: hsl(var(--hue), 70%, 70%); }
+			  em i { font-style: italic; }
+
 			b { /* pragmata */
 				font-weight: normal;
 				color: hsl(calc(var(--hue) - 20), 50%, 65%);
 			}
+
 			cite { /* imports */
 				font-style: normal;
 				color: hsl(calc(var(--hue) - 40), 70%, 70%);

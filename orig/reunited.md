@@ -21,7 +21,7 @@ Livkir sighs. "You really still think I'm just putting up with you for Cas' sake
 
 After a long moment, she gives a small nod, burying her face in a pillow.
 
-"Nil. You are a brilliant, passionate, thoughtful, witty, creative, incredibly fun girl. Broken, sure, but the dysfunction isn't all you are; it never has been. All those nights the three of us spent together — did you think I was just pretending to laugh at your jokes? To be interested in all your stories about subnet drama? Stars and skies, Nili, I've had one of your paintings up over the sofa for years." He ruffles her hair. "Did you really think all of that was insincere?"
+"Nil. You are a brilliant, passionate, thoughtful, witty, creative, incredibly fun girl. Broken, sure, but your issues aren't all you are; they never have been. All those nights the three of us spent together — did you think I was just pretending to laugh at your jokes? To be interested in all your stories about subnet drama? Stars and skies, Nili, I've had one of your paintings up over the sofa for years." He ruffles her hair. "Did you really think all of that was insincere?"
 
 She exhales. "I… I guess." Livkir rolls his eyes.
 
@@ -45,7 +45,7 @@ Livkir laughs. "No, silly. I just kept trying 'til I got a smile out of you." He
 
 "Well, yeah, I'm not some big dumb *boy,*" Niltar mutters, nuzzling his cheek.
 
-"It's not just that. You're way more responsive than any other girl I've ever cuddled with or fucked. That a _ceshvol_ thing or is that just you?"
+"It's not just that. You're way more responsive than any girl I've ever been with. That a _ceshvol_ thing or is that just you?"
 
 She shrugs. "Maybe? Never asked." In a quieter voice she adds, "Probably has something to do with going all those years without anyone so much as laying a hand on me."
 
@@ -65,7 +65,7 @@ He leans closer. "Always."
 
 Niltar sighs. "Sal put a stop to it when he figured it out. I cried in his office and I begged him not to. That was actually what ended up with him introducing Cas to me. She wasn't even supposed to be my _vartash_ at first, just… someone who could 'meet my needs,' was how Sal put it."
 
-"Someone to cuddle with?"
+"Someone to hold you?"
 
 Niltar looks away. "Someone to hurt me. So I could have those sensations without causing trouble for anyone else."
 
@@ -73,7 +73,7 @@ Niltar looks away. "Someone to hurt me. So I could have those sensations without
 
 "It just… I don't know. Sal thinks it's just 'cause I spent all that time with nothing else like intimacy in my life except for beatings, and it burned some kind of connection into my brain circuits between… pain and feeling safe. Or not alone. Or something." She shrugs. "All I know is, when Cas would… do things to me, it felt so good. *Feels* so good," she corrects herself, glancing away, cheeks aglow with embarassment.
 
-Livkir gazes at her for a long moment, then pulls her head in under his chin and hugs her tightly. "I don't know what to say," he murmurs at last. "I just… I'm sorry I never made the effort to get to know you back then. I'm so sorry you had to be so alone. Nobody should ever have to go through something like that, least of all someone with *ceshvol.*"
+Livkir gazes at her for a long moment, then pulls her head in under his chin and hugs her tightly. "I don't know what to say," he murmurs at last. "I just… I'm sorry I never made the effort to get to know you back then. I'm so sorry you had to be so alone. Nobody should ever have to go through something like that, least of all someone with your damage."
 
 "Turned out alright, didn't it?" Niltar shrugs as Livkir loosens his grip, looking up into his brilliant green eyes. "Like… I don't know. I don't think of it like that. Being able to feel pain the way I do… I treasure it, Liv, I really do. Maybe that's a fucked up thing to say but— nothing else feels the same. Nothing else pushes that same set of buttons. It's so special and intimate and being able to share that with Cas… sometimes it almost makes me feel like it was meant to be this way."
 
@@ -89,7 +89,7 @@ He tousles her hair. "I'd love to. Come on, turn over."
 
 Niltar twitches slightly as he works her over, massaging her with just enough force to make her nerves light up with little sparks of pain. "…ahh, gosh. I d-don't deserve this," she whispers, eyelids fluttering. "I don't deserve *you*."
 
-"Sure you do," he replies lightly. "I don't ever want you to be lonely again, Nili. I don't want you to suffer. We swore we'd all look after each other, take care of each other for as long as we live. You deserve that kind of safety and security after everything you've been through; you sure have been here for me when I needed it."
+"Sure you do," he replies lightly. "I don't want you to be lonely again, Nili. I don't want you to suffer. We swore we'd all look after each other, take care of each other for as long as we live. You deserve that kind of safety and security after everything you've been through; you sure have been here for me when I needed it."
  
 She responds with just a quiet little murmur, the way she always does when she's too overwhelmed with happiness and gratitude to speak.
 
@@ -224,3 +224,7 @@ She crosses her arms. "Loser has to choke down a bottle of Fernhollow Reserve?"
 "You think I won't be able to?"
 
 "Honey, I *know* you won't." Livkir tugs his robe taut across his chest, finishing the wrap with a few practiced motions. "This is going to be one brutal lesson in humility for you."
+
+
+
+The quartermaster eyes Livkir as he reaches for a slate. "The 1387 vintage?" he asks. "Someone lose a bet or something?"

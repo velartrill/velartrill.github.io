@@ -249,7 +249,7 @@ My legs are unsteady as I get to my feet
 
 I feel humiliated. But he doesn't laugh. He doesn't mock me. He just holds me tight, hugs me close to his chest. Ruffles my hair, tells me it's okay, tells me to take my time. I just want to blurt it out and get it over with but I can't make the goddamned words come out.
 
-"I was sh-sh-shadowing him," I finally manage. "They had to go into the city every now'n again to buy the drugs, so I found the d-d-dealer and I shadowed her all day and I just wait until he shows up. And I follow him out into the forest and they catch me." I'm hyperventilating, I realize. My words are spilling out my mouth like an overflowing bucket. "It was a week before I could escape. A w-w-week. They had me for a wh-whole week—"
+"I was sh-sh-shadowing him," I finally manage. "They had to go into the city every now'n again to buy the drugs, dumb fucks couldn't manage to grow the vine on their own, so I found the d-d-dealer and I shadowed her all day and I just wait until he shows up. And I follow him out into the forest and they catch me." I'm hyperventilating, I realize. My words are spilling out my mouth like an overflowing bucket. "It was a week before I could escape. A w-w-week. They had me for a wh-whole week—"
 
 "Who—?" Lena murmurs.
 
