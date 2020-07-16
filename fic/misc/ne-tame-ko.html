@@ -8,7 +8,7 @@
 		td, th {
 			padding: .5em;
 		}
-		aside {
+		.box {
 			color: white;
 			border: 1px solid white;
 			padding: .5em;
@@ -17,7 +17,7 @@
 			margin: auto;
 			margin-bottom: 1em;
 		}
-		aside > h1 {
+		.box > h1 {
 			text-align: center;
 			font-size: 15pt;
 			border-bottom: 1px solid white;
@@ -42,7 +42,7 @@
 <p>we're going to solve it in a way that is both more aesthetically pleasing, and more easily parsed by the human brain. i think.</p>
 <h2>phonology</h2>
 <p>as the salient aspect of the language is its unique grammar, phonology is mostly irrelevant, but a reference pronunciation is given here for the sake of convenience. this should not be taken as an endorsement of attempts to speak this language.</p>
-<aside>
+<div class="box">
 	<h1>consonants</h1>
 	<table align="center">
 		<tr><td></td>									<th>labial</th>	<th>alveolar</th>	<th>velar</th></tr>
@@ -50,15 +50,15 @@
 		<tr><th align="right">stop</th>		<td>p b</td>		<td>t d</td>			<td>k g</td></tr>
 		<tr><th align="right">fricative</th>	<td>f v</td>		<td>s z</td>			<td>x gh</td></tr>
 	</table>
-</aside>
+</div>
 <p>consonants are evenly distributed between three places (labial, dental, velar) and three manners (nasal, stop, fricative) of articulation. stops and fricatives have an additional voicing contrast. alveolar fricatives palatalize (/s/ → [ʃ], /z/ → [ʒ]) before high vowels; alveolar stops become homorganic affricates. for clarity, syllables like ‹ti› or ‹de› may be written ‹tsi› or ‹dze›, but this is not obligatory. /n/ palatalizes as [ɳ] and /ŋ/ as [ɳ͡ŋ]</p>
-<aside>
+<div class="box">
 	<h1>vowels</h1>
 	<table align="center">
 		<tr><th align="right">vowel</th>				<td>a</td>		<td>e</td>		<td>i</td>		<td>o</td>		<td>u</td></tr>
 		<tr><th align="right">pronunciation</th>	<td>[ɑ]</td>	<td>[e]</td>	<td>[i]</td>	<td>[o]</td>	<td>[u]</td></tr>
 	</table>
-</aside>
+</div>
 <h2>grammar</h2>
 <p>a key feature of Ne Ta-me ko is that all lexical items (and many more items besides) are split into two "tags." an example is the verb <i>Ta-me</i>, "speak", which is composed of the tags <i>Ta</i> and <i>me</i>. why is the capitalization signifcant? what do the dashes mean? we'll get to that in a moment.</p>
 <p>these tags are inextricable aspects of the word itself, and cannot be separated into constituent meanings. they <i>can</i>, however, be separated grammatically. let's take a look at this in action. below, the syntax of a simple sentence is given.</p>
@@ -69,7 +69,7 @@
 <p>you may notice some unusual notation in these phrase structure rules. we'll get to that in a moment. first, let's talk about semantics. the most basic form of clause is comprised of a verb phrase and, optionally, a noun phrase. Ne Ta-me ko is an ergative-absolutive language. The absolutive argument is coded within the VP; the ergative, if any, is placed after it.</p>
 <p>"now hang on a minute," you may be rightfully interjecting, shaking your fist and pointing your finger. "what the hell is up with these brackets? this isn't a phrase structure grammar, this is gibberish!</p>
 <p>let's take a look at some examples, dear reader, and see if you can't figure out exactly what those brackets denote.</p>
-<aside>
+<div class="box">
 	<h1>vocabulary</h1>
 	<div style="columns: 2">
 		<div><b>Nga-be</b> <i>adj.</i> angry</div>
@@ -80,7 +80,7 @@
 		<div><b>Ngi-si</b> <i>pn.</i> English</div>
 		<div><b>Ta-go</b> <i>v.</i> despise</div>
 	</div>
-</aside>
+</div>
 <dl>
 	<dt><b>(1)</b> Nga Xo-va be</div></dt>									<dd><i>angry person</i></dd>
 	<dt><b>(2)</b> Su Xo-va ka</div></dt>									<dd><i>foolish person</i></dd>
@@ -95,14 +95,14 @@
 <p>Ne Ta-me ko is a very flexible language, allowing the speaker to express only that which is relevant to the situation at hand. a sentence may be as simple as an unadorned verb, e.g. "Ta-me", meaning "speak". any and all arguments may be omitted if they can be inferred from context.</p>
 <h2>relativization</h2>
 <p>relativization is Ne Ta-me ko is very straightforward. a relative clause describing the noun phrase is simply embedded within the body of the noun.</p>
-<aside>
+<div class="box">
 	<h1>vocabulary</h1>
 	<div style="columns: 2">
 		<div><b>Bo-ghi</b> <i>adj.</i> apple</div>
 		<div><b>Dze-pa</b> <i>adj.</i> delicious</div>
 		<div><b>Xu-se</b> <i>v.</i> eat</div>
 	</div>
-</aside>
+</div>
 <dl>
 	<dt><b>(7)</b> Bo-ghi</div></dt>																	<dd><i>an apple</i></dd>
 	<dt><b>(8)</b> Bo Xu-se ghi</div></dt>															<dd><i>an eaten apple, an eating apple, an apple to be eaten</i></dd>
@@ -114,14 +114,14 @@
 <p>the astute reader may note from (9) in particular that the relativization structure assigns no particular role to the noun phrase relativized. it may be ergative, absolutive, genitive, or even simply topical. while this may seem at first blush profoundly ambiguous, you will discover, as have the speakers of Japanese, that it is an extraordinarily flexible and expressive construct. the liberation of relativization from grammatical role affords us many simplifications of grammar, including the elimination of complementization as a distinct construct.</p>
 <h2>complementization</h2>
 <p>due to the nature of relativization, complementization can be accomplished with no further grammar. the clause can simply be placed within a generic word such as <i>Ne-ko</i> "thing", <i>Dzi-tsi</i> "event, happening", <i>Gho-za</i> "case, eventuality", or <i>Fi-zi</i> "problem, incident".</p>
-<aside>
+<div class="box">
 	<h1>vocabulary</h1>
 	<div style="columns: 2">
 		<div><b>Go-dzi</b> <i>v.</i> be happy because of, like</div>
 		<div><b>Fa-zu</b> <i>v.</i> be angry because of, hate</div>
 		<div><b>Ngi-nge</b> <i>n.</i> lizard</div>
 	</div>
-</aside>
+</div>
 <dl>
 	<dt><b>(13)</b> Go Xo-va dzi.</div></dt>														<dd><i>A person is happy.</i></dd>
 	<dt><b>(14)</b> Go Ngi-nge dzi Ne Dzi Nga Xo-va be ge ko.</div></dt>		<dd><i>The lizard is happy the angry person is dead.</i></dd>
