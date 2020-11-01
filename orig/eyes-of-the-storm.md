@@ -63,7 +63,7 @@ Seli pulls a small black band out of the briefcase, and takes Vi’s hand. Vi ye
 
 “We call it a _taicon,”_ Lena murmurs, holding up his own wrist and showing me one latched there as well. “Helps us stay in touch in the field when we’re in plain clothes. And it’s got electrodes underneath that press up against the skin and measure your vitals.”
 
-“If her oxygen saturation drop, then I know,” says Seli. “If her heart rate drop, then I know. If she fall, then I know.” As if to demonstrate, she taps Vi’s bracelet and hers and Lena’s both light up. “So this no happen again. Two more minutes, all it would have took.” She holds up two fingers as if to emphasize. “Two. Then she would died. Incredibly lucky was this. Luck will no save her next time.”
+“If her oxygen saturation to drop, then I know,” says Seli. “If her heart rate to drop, then I know. If she to fall, then I know.” As if to demonstrate, she taps Vi’s bracelet and hers and Lena’s both light up. “So don't to happen again. Two more minutes, all it would took.” She holds up two fingers as if to emphasize. “Two. Then she would died. Incredibly lucky was this. Luck don't to save her next time.”
 
 “That’s… that’s a radio? So small?”
 
@@ -99,7 +99,7 @@ That's… new.
 
 I pour a bit of my usual perfumes and soaps in the ceramic water-vessel and hold it under the port as it fills. I dip a cloth in and dab at my cheeks, the hot water on my face and breasts doing as much as the fresh cherry-blossom scent to soothe my lurking anxiety somewhat. Satisfied that I'm not going to walk out of the bedroom looking and smelling like a _pien şai_ that's been rutting in a dumpster, I dress myself. A _ţue giem_-style skirt at my waist, a soft tan _şiang_ wrapped snugly ’round my bosom, and a layered silk cardigan draped over my shoulders — just the right balance between classy, comfy, and conservative. Finally, I pluck a peony bloom from the *sháng* Vi always keeps so well stocked and slip the stem into my dark red curls — pink blossoms above the left ear is a bit much for a woman of my low birth even if it's not *technically* against _çe Zia,_ but with society falling slowly to bits I can't imagine anyone will demand I bare my back for inspection. May as well enjoy the decline in what little ways I can.
 
-I know I shoulda let Vi dress and wash me. I know how much she craves a real, respectable life and our circumstances are cruel enough on her already without me keeping her from her _zèņ tsí_ — but I don't mean to dishonor her; it's just one of those things I gotta do for myself now and then, tradition be damned. Especially after last night — I'm feeling the need to take some charge over my own body. If Vi feels denied over it, I got no shortage of ways to make her feel mine again.
+I know I shoulda let Vi dress and wash me. I know how much she craves a real, respectable life and our circumstances are cruel enough on her already without me keeping her from her wifely duties — but I don't mean to dishonor her; it's just one of those things I gotta do for myself now and then, tradition be damned. Especially after last night — I'm feeling the need to take some charge over my own body. If Vi feels denied over it, I got no shortage of ways to make her feel mine again.
 
 I pad softly out into the kitchen, where Vi is perched at the bar, steaming mug in hand. She gives me a fragile smile when she sees me, proffering a coffee pot. If the sight of me fresh-washed and clothed hurts her, she doesn't let it show.
 
@@ -303,7 +303,7 @@ I nod, smiling back. "Any time, Lena."
 
 He laughs as he holds out his mug. "Just Lena's fine, Miss Violet," he replies in Khmaira. She blushes, nodding.
 
-"Forgive the girl, she's as traditional as they come," I tell him, blowing a kiss at Vi. "My fault for trying so hard to raise her right, I s'pose."
+"Forgive the girl, she's as traditional as they come," I tell him, blowing a kiss at Vi. "My fault for trying so hard to teach her right, I s'pose."
 
 "Really? You're the reason she's so prim and proper?" He tilts his head slightly. "Can't say I see the resemblance," he says teasingly.
 
@@ -349,9 +349,9 @@ Vi slips between us and leans back against him, resting her legs in my lap again
 
 I gaze into the bright silver irises beneath her blissfully fluttering lashes, and it finally dawns on me this must be  a dream come true for her. She's always been a flirt, always craved company and companionship, but this goes so much deeper than that. Finally, she has someone to bear *witness.* Someone to *see* her being the wife she's always wanted, always tried so hard to be to me, law be damned.
 
-And then it hits me why she was so disappointed I didn't fuck Lena, and it breaks my heart a little. If I had — we'd finally be a real, respectable Zyahua household in her eyes. Me to bring home the rice, her to cook and tend to me, and Lena the modest, gentle, obedient husband from a good family to safeguard our future.
+And then it hits me why she was so disappointed I didn't fuck Lena, and it breaks my heart a little. If I had — we'd finally be a real, respectable Zyahua household in her eyes. Me to bring home the rice, her to cook and tend to me, and Lena the modest, gentle, obedient husband from a good family to look after the spawn and safeguard our future.
 
-I'm a goddamn spy. My insight is supposed to be better than this. Now I just feel even worse about what I did this morning. I didn't just take away her wifely duties from her — I showed her up in front of the first person she ever got to show off our domestic life to, even if that was a Green who can't possibly understand what things like that mean on a planet full of Zyahua.
+I'm a goddamn spy. My insight is supposed to be better than this. Now I just feel even worse about what I did this morning. I didn't just deny her her _zèņ tsí_ — I showed her up in front of the first person she ever got to show off our domestic life to, even if that was a Green who can't possibly understand what things like that mean on a planet full of Zyahua.
 
 *La dè nai* I am such a fucking asshole.
 
@@ -441,9 +441,9 @@ She gives me a coy look. "Could be even nicer to have him in bed~"
 
 "Violet, *you—"*
 
-"Have you ever felt anyone so strong?" She shivers delightedly. "Mm, it's *such* a rush, being jus' locked up *tight* in his grip like that~"
+"Have you ever felt anyone so strong?" She shivers delightedly. "Mm, it's *such* a rush, being jus' wrapped up *tight* in his grip like that~"
 
-*"Violet Brightmoon,* you *cruel* little thing, I swear to *God within* I brought you up better'n this—"
+*"Violet Brightmoon,* you *cruel* little thing, I swear to *God within* I taught you better'n this—"
 
 She giggles delightedly, caressing my chest. *"Golly* then, your nipples sure are stiff all'a sudden—"
 
@@ -473,7 +473,7 @@ Before I can say anything, she kisses me.
 
 "What'd all he do to you?" she murmurs slyly as she pulls back. I sigh.
 
-"He just… held me tight in his lap and he pet me and he hurt me with his hands while we talked and it felt so good, Vi. It felt so good. I didn't realize how bad I needed someone to just… hold me down and torture me a while."
+"He just… held me tight in his lap and he pet me and he hurt me with his hands while we talked and it felt so good, Vi. It felt so good. I didn't realize how bad I needed someone to just… hold me down and mess me up a bit."
 
 "So he's good for you!"
 
@@ -529,7 +529,7 @@ _"Mitiku Khata'e,_ you're so *distractiiing,"* she complains, flustered.
 
 _"Mitiku la'u kushata jurume,"_ I respond teasingly. *Your tits are distracting.*
 
-She laughs at me. "Come on, my tits aren't even that good, Rei. I'm damn near twenty-five and I'm still half as fucking flat as when I was *sixteen."*
+She laughs at me. "Come *on,* my tits ain't even that good, Rei. I'm damn near twenty-five and I'm still half as fucking flat as when I was *sixteen."*
 
 "You ain't *flat,* hon." I ruffle her hair. "You're small, okay, but you ain't *flat.* Your chest is good and firm for its size; way more so'n mine. Look—" I smack the underside of one of my breasts with the back of a hand. "I need a damn bra just to go running or they bounce all over like this, and they go all pointy as soon as I take my tops off. You look like you're made of goddamn iron; it's hot as hell." I squeeze her taut breast softly, and she squirms, yelping quietly as I finger her nipple — but pulling closer, pressing up against me. "And *God* I envy how sensitive you are."
 
@@ -557,9 +557,9 @@ She gazes off into the distance. "I don't think I am," she says slowly. "I keep 
 
 I exhale, and kiss her on the back of the neck. "I'm… I'm glad, Vi, honestly. If… if that changes, if it hits you for real, you come tell me straight, yeah?"
 
-"Yeah. I will." She nods, and turns back to her beauty routine. I have to restrain the urge to help — it ain't proper to, and it'd just upset the girl if I broke with tradition again. I'd be making a house-slave of myself in her eyes, literally, and that's the last thing she wants me to be — might actually be *worse* than shaming her in front of Lena the way I did, and I've made her cry enough for one lifetime.
+"Yeah. I will." She nods, and turns back to her beauty routine. I have to restrain the urge to help — it ain't proper to, and it'd just upset the girl if I broke with tradition again. I'd be making a house-slave of myself in her eyes, literal-like, and that's the last thing she wants me to be — might actually be *worse* than shaming her in front of Lena the way I did, and I've made her cry enough for one lifetime.
 
-This is all my own damn fault for getting her *Baroness Sunvale's Illustrated Primer for Young Ladies of Marriagiable Age.* And teaching her to read in the first place. God help me, I made a prim little blueblood out of a homeless junkie.
+This is all my own damn fault for using *Baroness Sunvale's Illustrated Primer for Young Ladies of Marriagiable Age* when I was teaching her to read. God help me, I made a prim little blueblood out of a homeless junkie.
 
 It's kind of adorable though, I gotta admit.
 
@@ -585,7 +585,7 @@ He hands me my mug back as I sit down. "What was that all about?" he asks gently
 
 He frowns quizzically, glancing between us. He nods toward Vi. "Isn't she… Khmai?" he asks hesitantly, like it's the dumbest question in the world.
 
-I laugh awkwardly. "That she is but I didn't exactly know how to raise her Khmai."
+I laugh awkwardly. "That she is but I didn't exactly know how Khmai bring up their kids."
 
 "Right." Lena nods. "So you're both… *culturally* Zyahua, I guess?"
 

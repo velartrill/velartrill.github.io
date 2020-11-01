@@ -8,7 +8,7 @@ Cassil glances morosely at the cell door as she hears the buzzer sound. Safris a
 
 Cassil stares at the ceiling. "Exit interview?"
 
-"It's just a quick questionnaire we like to get filled out before we release prisoners," Mirvit says quickly. "It'll only be a few minutes of your time."
+"It's just a quick questionnaire we like to get filled out before we discharge those in our custody," Mirvit says quickly. "It'll only be a few minutes of your time."
 
 "Does this mean I'm going to be released soon?"
 
@@ -82,7 +82,7 @@ For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, 
 
 "Do you wish to be released on your own recognizance or would you prefer to be released into the custody of another, whether a formally recognized *vartash* or otherwise?"
 
-"On my own, thank you."
+"On my own, *thank* you."
 
 "Would you like any medical or psychological attention prior to release?"
 
@@ -92,7 +92,11 @@ For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, 
 
 "…maybe some painkillers for the trip back."
 
-"Noted. Do you feel physically and emotionally safe returning to your _rantal_ of origin?"
+"Migraine abortives, anti-inflammatories, or exorphine agents?"
+
+"Um. Which one is fent again?"
+
+"That would be an exorphine. Noted. Do you feel physically and emotionally safe returning to your _rantal_ of origin?"
 
 "I guess."
 

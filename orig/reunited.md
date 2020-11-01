@@ -45,9 +45,9 @@ Livkir laughs. "No, silly. I just kept trying 'til I got a smile out of you." He
 
 "Well, yeah, I'm not some big dumb *boy,*" Niltar mutters, nuzzling his cheek.
 
-"It's not just that. You're way more responsive than any girl I've ever been with. That a _ceshvol_ thing or is that just you?"
+"It's not just that. You're way more responsive than any girl I've ever been with. What's up with that, Nil?"
 
-She shrugs. "Maybe? Never asked." In a quieter voice she adds, "Probably has something to do with going all those years without anyone so much as laying a hand on me."
+She shrugs. "Dunno." In a quieter voice she adds, "Probably has something to do with going all those years without anyone so much as laying a hand on me."
 
 "…oh, Nili. No wonder you didn't want to sleep alone."
 
@@ -61,17 +61,17 @@ He leans closer. "Always."
 
 "I think that's why Sal was so worried yesterday. He thought I was doing the same old shit again."
 
-"Come *here.*" Livkir pulls her back into his arms and he feels her muscles slacken instinctively, the way they always do when she wants to be held. "Stars above, Nili, you poor thing. How long did that go on?"
+"Come *here.*" Livkir pulls her back into his arms and he feels her muscles slacken instinctively, the way they always do when she wants to be held. "Stars above, Nil, you poor thing. How long did that go on?"
 
-Niltar sighs. "Sal put a stop to it when he figured it out. I cried in his office and I begged him not to. That was actually what ended up with him introducing Cas to me. She wasn't even supposed to be my _vartash_ at first, just… someone who could 'meet my needs,' was how Sal put it."
+Niltar sighs. "Sal put a stop to it when he figured it out. I cried in his office and I begged him not to. That was actually what ended up with him introducing Cas to me. She wasn't even supposed to be my _vartash_ at first, just… someone to be with. Someone to keep me company and keep me warm at night." She looks down. "That was the idea, anyway."
 
-"Someone to hold you?"
+"…what do you mean?"
 
-Niltar looks away. "Someone to hurt me. So I could have those sensations without causing trouble for anyone else."
+Niltar looks away. "I couldn't deal. It wasn't enough. I was begging her to hurt me in the end, to cuff me and beat me the way they did before. When she finally gave in a little…" She shivers. "I think that was when I started falling hard for her."
 
-"You *wanted* to be hurt?"
+Livkir's eyes open wide. "You *wanted* to be hurt?"
 
-"It just… I don't know. Sal thinks it's just 'cause I spent all that time with nothing else like intimacy in my life except for beatings, and it burned some kind of connection into my brain circuits between… pain and feeling safe. Or not alone. Or something." She shrugs. "All I know is, when Cas would… do things to me, it felt so good. *Feels* so good," she corrects herself, glancing away, cheeks aglow with embarassment.
+"It just… I don't know. Sal thinks it's just 'cause I spent all that time with nothing else like intimacy in my life except for beatings, and it burned some kind of connection into my brain circuits between… pain and feeling safe. Or not alone. Or something." She shrugs. "All I know is, when Cas would… do things to me, it felt so good. *Feels* so good," she corrects herself, glancing away, cheeks aglow with embarassment. "Better than a hug ever could."
 
 Livkir gazes at her for a long moment, then pulls her head in under his chin and hugs her tightly. "I don't know what to say," he murmurs at last. "I just… I'm sorry I never made the effort to get to know you back then. I'm so sorry you had to be so alone. Nobody should ever have to go through something like that, least of all someone with your damage."
 
@@ -93,7 +93,7 @@ Niltar twitches slightly as he works her over, massaging her with just enough fo
  
 She responds with just a quiet little murmur, the way she always does when she's too overwhelmed with happiness and gratitude to speak.
 
-"So *this* is how Cas keeps you under control, huh?" Livkir teases. "Just massages the defiance out of you each morning? I'll have to remember this next time you start swinging punches at me."
+"So *this* is how Cas keeps you under control, huh?" Livkir teases. "I'll have to remember this next time you start swinging punches at me."
 
 "I— I'm r-really sorry—"
 
@@ -157,7 +157,49 @@ Livkir shrugs. "Well, we've got to learn how Saluin and his lot do things in the
 
 ---
 
-Niltar's still blushing faintly as she steps out of the showers assigned to the cohort's male half, distractedly wrapping a towel around her upper body. Livkir, towel around his waist, takes her by the arm and orienting her in the direction of her own dormitory.
+Cassil attracts odd glances as she makes her way through the crowd. Unfamiliar faces are not exactly uncommon here, but with her head down and shoulders hunched, she stands out in a sea of smiles and soft, friendly chatter. The noise rolls over her and she shivers at its texture; she doesn't need to listen carefully to place the dialect of the people surrounding her.
+
+*This is our capital.* Ours. *Why the fuck are* they *the only ones here?*
+
+A series of faintly musical chimes rings out. The unfamiliar sound of a decelerating maglev catches her attention, and she spares an upward glance at the intercity liner. It glides effortlessly toward her, silent but for an eerie electronic warbling and the quiet whoosh of air as it slows from frightening speed to a complete halt in moments. The huge vehicle stretches upwards and away into the distance, dwarfing the little trams and streetcars that she's used to travelling on.
+
+They offered her a choice. A priority seat on a Core Line hauler, back to Tegvar in two hours tops. "Why? So you can keep tossing me around in the dark like a sack of _neshral?"_ she spat. The other choice was travel auth for a half-day surface rail trip to the other side of the continent, which she picked without hesitation.
+
+She's starting to regret it.
+
+The crowd moves as if directed by a single overriding consciousness, flowing with perfect grace into orderly queues around her. Cassil feels the urge to make a scene, push and shove and force her way through, give these snobby fucks something to raise their eyebrows about — but no. *I need to get back to her. That's all that matters. No more taking chances.* Gritting her teeth, she lets her programming take over, watching herself slip into place in the line from a distance as though her body's on autopilot, hands clasped dutifully behind her back, and bitterly swallows her self-disgust.
+
+This would be humiliating enough if she wasn't surrounded by _vintashar._
+
+A transit cop smiles at her as she boards; she rewards him with a glare and stalks off towards the stairs. There's no pass for him to check -- that all happened automatically the moment she stepped on board the train, and the absence of blaring alarms was all the paperwork she needed. *I bet they don't put cops on their own trains. He's just there to keep us rowdy colonials in line.* She grits her teeth. *Why can't you smug fucking* suftefinar *just go home.*
+
+She climbs all the way to the third floor, and settles into a nook by the wall where she can see most of the coach, leaning gratefully back into the warm, soft cushion that wraps around the seat. It's mostly empty up here. The Centrals won't come up this far until the seats below are all filled, one by one, and that's not likely to happen with a crowd this size. She stares out the window, past the tracks and into the lush tropical forest that the station's architecture winds artfully through. *They won't even pick their own train seats. How emasculated can you get—*
+
+"Forgive me, young comrade?"
+
+Cassil spins, eyes fixing on the interloper, heart pounding all over again. It's the cop from earlier. She shrinks back into the seat. *"What do you want?"* she growls, trying to sound dangerous and cringeing inwardly when she hears the fear in her own voice. Her rough colonial cadences crackle and spit like sparks from a raw wire. The cop raises an eyebrow.
+
+"I hope you will forgive the intrusion." He inclines his head. Around them, the train comes to life, and Cassil is pressed back into the seat by the sudden force of the acceleration. The officer doesn't even appear to notice, effortlessly keeping his footing. "It is most highly irregular for such a young woman to travel unaccompanied on an intercity route, and—"
+
+"I have every right to be here!" Her knuckles whiten. "I haven't done anything wrong."
+
+"…unquestionably so," the officer concurs, taking a step back and regarding her carefully. "I did not mean to imply otherwise, comrade. My intent was only to inquire after your wellbeing; clearly you are in an unusual and unfamiliar situation."
+
+She stares at him for a moment, as though he's a riddle that will unravel itself if she just looks hard enough. His handset sits in its holster on his crisp and spotless dress uniform, a grenade waiting for its pin to be pulled. "I'm fine," she says. ""I'm *fine,* okay?"
+
+He bows. "To hear this gladdens me greatly." She flinches as he touches her softly on the shoulder. "May we in any way be of service to ease the burden of your voyage?"
+
+Her eyes search his face for an answer that isn't forthcoming. His pretty green eyes  and dimpled cheeks radiate nothing but innocent concern, tousles of platinum-blond hair that curl out from underneath his beret gently understating his authority. "I'm fine," she says again, more quietly, in a voice now simply sullen and exhausted. "Please just leave me alone."
+
+"As you wish. Please do not hesitate to summon me should you require any assistance whatsoever." He backs away, inclining his head again. "A pleasant journey to you, comrade."
+
+"Whatever," she mutters, turning back to staring out the window, watching his reflection until he's out of sight. Only then does her heartbeat start to slow.
+
+Sucking in a deep breath of air, she props her feet up on the opposing seat, and presses a switch on the table in front of her. A neatly concealed compartment pops open, and she pulls a slate from its dock.
+
+---
+
+Niltar's still blushing faintly as she steps out of the shower-hall assigned to the cohort's male half, distractedly wrapping a towel around her upper body. Livkir, towel around his waist, takes her by the arm and orients her in the direction of her own dormitory.
 
 "I had no idea you were so into boys, Nili," he teases; her cheeks redden further.
 
@@ -167,7 +209,7 @@ Niltar's still blushing faintly as she steps out of the showers assigned to the 
 
 Niltar looks away. "He just wanted an excuse to stand around showing off his muscles, I'll bet you anything."
 
-"Here's a crazy thought." Livkir pats her back as he pulls open the door to her dorm. As they step inside, the recessed lamps light up to a gentle purple glow, Niltar's favorite color. "Have you ever thought about, I don't know — just flirting with people you're attracted to and seeing where it goes?"
+"Here's a crazy thought." Livkir pats her back as he pulls open the door to her dorm. As they step inside, the recessed lamps in the ceiling light up to a gentle purple glow, Niltar's favorite color. "Have you ever thought about, I don't know — just flirting with people you're attracted to and seeing where it goes?"
 
 *"How the fuck am I supposed to do that."*
 
@@ -183,7 +225,7 @@ Livkir pauses by the door. "You gonna be okay dressing on your own? Or do you wa
 
 She gives him an awkward, guilty nod. "S-sorry, I just—"
 
-*"Nili.* It's okay. You don't need to explain _ceshvol_ to me." Livkir rolls his eyes, letting the door click shut behind him. Niltar fastens the tail of her robe behind her and grabs the towel, idly drying her hair. Her eyes are wild, and there's a frantic note in her voice as she looks up at Livkir.
+*"Nili.* It's okay. You don't need to keep explaining your anxieties to me." Livkir rolls his eyes, letting the door click shut behind him. Niltar fastens the tail of her robe behind her and grabs the towel, idly drying her hair. Her eyes are wild, and there's a frantic note in her voice as she looks up at Livkir.
 
 "Why is everyone being so *nice* to me, Liv?"
 
@@ -199,15 +241,15 @@ She gives him an awkward, guilty nod. "S-sorry, I just—"
 
 Niltar laughs unsteadily, heading for the door. "Bull-*shit.* Skies above, you're always such a… you always think the best of everyone. Always come up with the sunniest, happiest possible reasons for anything--"
 
-"I'm serious, Nil." Livkir follows her out into the hall, gently steering her towards his dorm. "Come on, you can't seriously expect everyone to treat you the way they used to for the rest of their lives just because of how you were when you were a teenage kid?"
+"I'm serious, Nil." Livkir follows her out into the hall, gently steering her towards his dorm. "Come on, you can't seriously expect everyone to keep treating you the way they used to for the rest of their lives just because of how you were when you were a kid?"
 
 "What, are they all going to just magically forget that shit I pulled at--"
 
 "I might suggest, Nili," Livkir interrupts, taking her by the cheek and lifting her chin to make her look him in the eye, "that *you're* the one who's thinking too *little* of people."
 
-She scoffs derisively. "Come *on*--"
+She scoffs derisively, pulling away like a frightened animal. "Come *on*--"
 
-"Dead serious, Nil. Remember what they taught us in Political Economy? You judge a theory by its predictive value."
+"Dead serious, Nil. Remember what they taught us in Pol Econ? You judge a theory by its predictive value."
 
 "What? What's that got--"
 
@@ -228,3 +270,12 @@ She crosses her arms. "Loser has to choke down a bottle of Fernhollow Reserve?"
 
 
 The quartermaster eyes Livkir as he reaches for a slate. "The 1387 vintage?" he asks. "Someone lose a bet or something?"
+
+-- saluin meeting
+-- upcoming wargames offworld
+-- saluin volunteers to be one of those staying behind, in order to take care of niltar & cas, she's aghast and feels horribly guilty
+-- saluin arranges permission for niltar and livkir to travel out of tegvar to meet cassil at a train station
+-- they wind up on the same train with lisuan, who is travelling to a neighboring rantal to attend a leadership seminar of some sort
+-- they meet up with cassil. on the way back, they lose contact with tegvar
+-- slave-raiders from imperial space take advantage of skeleton crew of adults when everyone else has shipped out to try and kidnap the kids, lisuan and cassi have to organize resistance and force them out
+-- where did the raiders get their intel? MYSTERY1

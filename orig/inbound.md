@@ -368,7 +368,7 @@ The commander inclines her head to Sashuan. "I— I greatly appreciate it,  comr
 
 The commander nods. "Copy that. Well done, all of you. You're clear to depart; we'll clean up here."
 
-The Sisterhood soldiers begin herding the intending passengers, many of whom ran at the first sign of violence, back into line, and the train guard motions for Jasmine to step forward. "Alright, you. You're up next."
+The Sisterhood soldiers begin herding the intending passengers, many of whom bolted at the first sign of violence, back into line, and the train guard motions for Jasmine to step forward. "Alright, you. You're up next."
 
 Timidly, Jasmine holds up her identicard, and the soldier scans it carefully. She looks back up in surprise.
 
@@ -380,17 +380,17 @@ Jasmine blinks. "I-- I'm so sorry, do I know--"
 
 "…sorta. Um. We had to move it a few times… it's just off Sandcrest nowadays. It's… pretty much just the Greens running it now though. Sometimes they listen to me." She smiles apologetically. "I know that name should ring a bell--"
 
-"Not really, I was just the muscle anyway." Clarity laughs. "I was there with Highmother Harmony a couple years back when she brought over your funding for third moon. We weren't there for long but you really made an impression on me, you know? Looking up to a Khmai, now that was disorienting!"
+"Not really, I was just the muscle anyway." Clarity laughs. "I was there with Highmother Harmony a couple years back when she brought over your funding for Jademoon. We weren't there for long but you really made an impression on me, you know? Looking up to a Khmai, now that was disorienting!"
 
 *"Clar,"* her partner injects disapprovingly.
 
-Clarity raises her hands. "I know, I know. I'll stop holding you all up. Just, Jasmine, I'm so glad you're finally getting the attention you deserve. Hey, if you ever feel like getting drinks and catching up some evening, I'm bunked at the Old Square Chapterhouse. Come hit me up when I'm off duty? *Maybe bring the Green?"* she mouths, flashing Sashuan a grin.
+Clarity raises her hands. "I know, I know. I'll stop holding you all up. Just, Jasmine, I'm so glad you're finally getting the attention you deserve. Hey, if you ever feel like getting drinks and catching up some evening, I'm bunked at the Old Square Chapterhouse. My shift ends at ten _ţua lam tsue_ past sundown; come hit me up when I'm off duty? *Maybe bring the Green?"* she mouths, flashing Sashuan a grin.
 
 Jasmine smiles faintly. "Y-yeah. Sure. That sounds nice."
 
 "Attagirl! Go on, go on, you're free to board." She claps Jasmine on the back, gently urging her through the doors. Both women instinctively head towards the furthest corner of tram, somewhere that'll give them a full view of their surroundings. Jasmine's heart is still pounding in her ears as they seat themselves.
 
-This tram is different from any she's ever ridden before. The interior is sleek and spotless, as if it just rolled off the assembly line not two hours prior. She glances around, looking for the driver, and it takes her to moment to realize she's secluded in the locked compartment past the frontmost doors of the tram, not sitting out in the open to take fares. She notices surveillance cameras discreetly mounted to the ceiling, and shivers.
+This tram is different from any she's ever ridden before. The interior is sleek and spotless, as if it just rolled off the assembly line not two hours prior. She glances around, looking for the operator, and it takes her to moment to realize the driver's secluded in the locked compartment past the frontmost doors of the tram, not sitting out in the open to take fares. She notices surveillance cameras discreetly mounted to the ceiling, and shivers.
 
 "You doing okay?" Sashuan murmurs, putting an arm around her shoulder.
 
@@ -438,7 +438,7 @@ The question takes Sashuan off balance. "I… you mean, as a punishment?"
 
 "Yeah."
 
-"Well, I…" Sashuan hesitates. "You know, I don't know. I'm barely involved with the penal process. Why do you ask?"
+"Well, I…" Sashuan hesitates. "You know, I don't know. I'm barely involved with the penal process, it mostly sees to itself. Why do you ask?"
 
 Jasmine shrugs. "No reason."
 
@@ -496,7 +496,7 @@ Light suddenly floods the tram again and Jasmine blinks rapidly as her eyes adju
 
 Jasmine shivers. "I… shit. It's… it's a good thing you caught it."
 
-"Believe me, we're not taking any chances. First thing we do once the dust has settled is inspect all the infrastructure. There were a couple of big disasters out corewards a few years ago, not long after we started winning here and there. Drinking buddy of mine was one of the first responders at one of them, actually. He says they were still pulling bodies out of the wreckage a fortnight later."
+"Believe me, we're not taking any chances. First thing we do once the dust has settled is inspect all the infrastructure. There were a couple of big disasters out corewards a few years ago, not long after we started winning here and there. Some were deliberate sabotage, of course, but less than you'd expect. Drinking buddy of mine was one of the first responders at one of them, actually. He says they were still pulling bodies out of the wreckage a fortnight later."
 
 "Khata'e's swollen *ass."*
 
@@ -512,9 +512,9 @@ Jasmine is quiet for a moment. "I'm… I'm glad you were able to keep anyone mor
 
 *"This train is now approaching Anchor Isle Transit and Ingress Center, Ward 3. If you have boarded this train in error and do not have authorization to enter Ward 3, surrender yourself to onboard security personnel immediately."*
 
-The transit center is nothing like Jasmine remembers. As they exit the tram tunnel, she looks around in surprise to realize the train is indoors; a massive multilevel facility surrounds them, filled with arriving trains, security cameras, and armed soldiers. Sisterhood uniforms mix with *rancalar*, body armor, and hardsuits; Jasmine shivers at the sight of a *randanin* in full plate carrying a rifle in his hands.
+The transit center is nothing like Jasmine remembers. As they exit the tram tunnel, she looks around in surprise to realize the train is indoors; a massive multilevel facility surrounds them, filled with arriving trains, security cameras, and armed soldiers. Sisterhood uniforms mix with Front leathers, body armor, and even the occasional *rancal* or hardsuit; Jasmine shivers at the sight of a *randanin* in full plate stroll past carrying a rifle in his hands.
 
-Rifles! What overkill. To a baseline human like her, a naked, unarmed Green is already so dangerous that nothing short of a landmine or a deadman-switched suicide bomb is likely to pose a threat to them. It's hard not to see them as shorter Imperial Guard in a new outfit.
+Rifles! Power armor! What overkill. To a baseline human like her, a naked, unarmed Green is already so dangerous that no one weapon short of a landmine or a deadman-switched suicide bomb is likely to pose a real threat to them. It's hard not to see them as pointy-eared little Imperial Guard in a new outfit.
 
 "This is our stop," Sashuan murmurs, patting her on the back.
 
@@ -528,11 +528,15 @@ Sashuan laughs. "I can think of sixteen different ways someone could have smuggl
 
 *"I thought you said we were safe."*
 
-"All I said was we were about as safe as it gets in Ward Four. Compared to what I'm used to back home, that's not saying much at all. C'mon."
+"All I said was we were about as safe as it gets in Ward Four. Compared to what I'm used to back home, that's not saying much at all. All the tradecraft in the galaxy won't get you past Society security if you're not supposed to be there. Not in one piece, anyway. C'mon."
 
-Sashuan leads her outside as the tram doors open. Jasmine tries to take in the hectic environment as security staff herd them off the ingress platform through a row of turnstiles. Sterile electric lamps bathe the stone-floored complex in an actinic radiance, their light reflecting off metal like a bright summer sun on the rippling waves of the ocean. Announcements blare in four languages from loudspeakers overhead, and they meld into a throng of people in all sorts of outfits and uniforms as Sashuan tugs Jasmine after her.
+Sashuan leads her outside as the tram doors open. Jasmine tries to take in the hectic environment as security staff herd them off the ingress platform through a row of turnstiles. The two meld into a throng of people in all sorts of outfits and uniforms as Sashuan tugs Jasmine after her. Sterile electric lamps bathe the stone-floored complex in an actinic radiance, their light reflecting off metal like a bright summer sun on the rippling waves of the ocean. Announcements blare in four languages from loudspeakers overhead. 
 
-_Rantashar_ are all over the place here, from uniformed officers to armed soldiers to clerks, administrators, and bureaucrats. Sashuan greets all of them enthusiastically, occasionally pausing to hug someone she knows. The sound of spoken Ranuir melds with the ambient chatter of all the region's other languages, adding an unsettling, alien note to the environment, and making Jasmine feel all the more alone and isolated, even as she can occasionally make sense of a sentence here or there.
+A small handful of _rantashar_ dots the crowd here and there, from uniformed officers to armed soldiers to clerks, administrators, and bureaucrats. Sashuan greets all of them enthusiastically, occasionally pausing to hug someone she knows. The sound of spoken Ranuir melds with the ambient chatter of all the region's other languages, adding an unsettling, alien note to the environment, and making Jasmine feel all the more alone and isolated.
+
+She can occasionally make sense of a sentence here or there, but the rich, rapid current of speech that flows from Sashuan's tongue when she's in the company of her own is nothing like the careful, tidy, and clear enunciation she always favors Jasmine with, and tidal waves of unfamiliar grammar quickly smother any brief sparks of understanding that flare up in her mind.
+
+Jasmine can't help but wonder, as she regards the *randaninar* with a dull gaze, if it might just be intentional. If she's being excluded by design.
 
 The primary security gates are right up ahead. Sashuan squeezes her hand as they approach. "We're going to have to go through different lines here. Just show them your card, do what they tell you, and it'll be okay, I promise."
 
@@ -542,7 +546,7 @@ The primary security gates are right up ahead. Sashuan squeezes her hand as they
 
 "Contraband? *Contraband?* Like *what!?* You didn't tell me about any of that--"
 
-"Do you have a gun you didn't tell me about?" Sashuan ruffles her hair. "It's *fine.* You have nothing they're interested in, I promise. I'll be waiting for you on the other side, okay?"
+"Do you have a sidearm you didn't tell me about?" Sashuan ruffles her hair. "It's *fine.* I watched you dress; you have nothing they're interested in, I promise. I'll be waiting for you on the other side, okay?"
 
 Jasmine clings to her. "And— *you'll* be okay? You're *sure?*"
 

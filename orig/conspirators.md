@@ -17,9 +17,9 @@ I nod. "Near on a dozen now. Been to the cobbler's a few times but none the wors
 
 He finishes lacing up and stands. His movements are so… easy and fluid; his body language practically screams confidence and power. "Do you miss Sapphire?" he asks, eyes alighting on mine.
 
-I shrug. "It's just a place. Wasn't as though I had me a particular good life there, anyhow. How's about you? You miss… wherever you come from?" I ain't shy of eye contact but something about Lena's attention feels… overwhelming, right now, and it's a struggle to keep his gaze.
+I shrug. "It's just a place. Wasn't as though I had me a particular good life there, anyhow. How's about you? You miss… wherever you come from?" I ain't eye-shy but something about Lena's attention feels… overwhelming, right now, and it's a struggle to keep his gaze.
 
-"Tel Listal." Lena smiles wistfully. "I do.  But I need to see this through, you know? It wouldn't feel right, crawling back to homespace with my tail between my legs and leaving a job unfinished."
+"Tel Listal." Lena smiles wistfully. "I do.  But I need to see this through, you know? Every couple moons we come up for leave, and every time they ask us we turn them down. It wouldn't feel right, crawling back to homespace with my tail between my legs and leaving a job unfinished."
 
 I gaze at him appraisingly. "You sure that's all it is?"
 
@@ -29,25 +29,29 @@ He raises his eyebrows. "What do you mean?"
 
 He's quiet for a moment, his gaze dropping. "Ah. Yeah," he says finally. "That."
 
-"I ain't been a soldier myself, but I've known ’em, worked alongside ’em, bought ’em drinks and listened to their war stories." I step closer, touching him gently on the shoulder. "Some of them, the conscripts, they just want to do their time and get back on home to their family. Some of them want to bring home slaves and spoils of war from a fresh new conquest, set up a nice, respectable city household. But folks as enlist outright — they got different tales to tell."
+"I ain't been a soldier myself, but I've known ’em, worked alongside ’em, bought ’em drinks and listened to their war stories." I step closer, touching him gently on the shoulder. "Soldiers, well, they come in all shapes and sizes but they all boil down to three basic kinds. Some of them, the conscripts, they just want to do their time and get back on home to their family. It ain't but an imposition, though there's patriotism enough to be found among the dumber sorts, and sometimes they surprise you.
 
-"You think I'm running from something."
+"Then there's the civil service families, of course. They sign up their excess daughters so the military will hammer some discipline into them and kickstart their careers with a bit of glory. For those kids, they knew it was coming from day one and what they do out on the field, it makes them or it breaks them. So they go off in high spirits and either die honorable-like, or they survive and bring home their share of the slaves and spoils of war, so they can set up a nice, respectable city household all their own." I look down, and laugh weakly. "—It was a real shock to the system when all of a sudden we started *losing.* No one knew what to do when their kids served with honor and came home with nothing to show for it.
+
+I glance up, meeting Lena's gaze for a moment. "But then there's the folks as enlist outright. They're a different breed altogether. And they got different tales to tell."
+
+Lena looks at me levelly. "You think I'm running from something."
 
 "There's three things’ as'll make a woman — or a man, I s'pose — choose to keep on fightin’ when she's all alone and lost it all to war. There's anger, right. Your standard lust for vengeance, to get back at those as took your comrades from you even if it costs you your life, on account of it not matterin' much anymore without them. But you ain't the revenge-minded kind, I see that in you plain, and if I ain't badly mistaken you got things to live for yet.
 
 "Then there's fear for the folks back home — knowing their lives all rest on your shoulders. I reckon there's some of that still in you, but it's like you said; war's damn near done with. Sounds like Team Empress don't pose too much more a threat to your kind, with the bloodthirsty old biddy dead and Carnelian ash.
 
-"There's something else, though." I look him in the eye, my hand moving to the side of his neck. "You been fighting this war since I was a girl. Twenty damn years of your life, give or take. War's most everything you know, and when you get home, one lonely survivor of the Sixth, well — what have you really got to look forward to there, anyhow? You even still know how to be a civilian anymore, Lena?"
+"There's something else, though." I look him in the eye, my hand moving to the side of his neck. "You been fighting this war since I was a girl. Twenty damn years of your life, give or take. War's most everything you know, and when you get home, two lonely survivors of the Sixth, well — what have you really got to look forward to there, anyhow? You sure you even still know how to be a civilian anymore, Lena?"
 
 Lena takes a deep breath. "Y-you put all that together on your own, did you, Rhea-*virtash?"* he asks in a quivering voice, lips a-tremble, eyes widening. His gaze damn near burns, but with effort I hold it.
 
-*"Virtash?"* I ask, blinking. It feels good to hear the boy stammer for just a fleeting moment, to see that façade of pure confidence and strength falter. When you're a spy long enough, you come to feel the little shifts and eddies in the currents of power around you almost like a sixth sense hooked straight into your soul. And for a moment there, I felt the playing field tilt decisive-like in my direction. Despite the pointed ears, Lena suddenly looks a lot more human to my jaded eyes.
+*"Virtash?"* I ask, blinking. It feels good to hear the boy stammer for just a fleeting moment, to see that façade of pure confidence and strength falter. When you're a spy long enough, you come to feel the little shifts and eddies in the currents of power around you almost like a sixth sense hooked straight into your soul. And for a moment there, I felt the playing field tilt decisive-like in my direction. Despite the pointy ears, Lena suddenly looks a lot more human to my jaded eyes.
 
 "Right. S-sorry. Um…" Lena hesitates, closing his eyes for a moment, collecting himself; I can see his manner shift right before my eyes. The self-control it takes to bounce back so damn quickly — tomboy's made of stern stuff. "Sorry, it's not a bad thing or anything," he begins finally, "I don't know if you have a word for it."
 
 "How's that? What's it mean, then?"
 
-"It means someone who's… trained to understand how we all think, how people *work,"* he replies after a moment of thought. "See, back home everyone has a *virtash* they talk to now and again, to… well. They help you learn how to handle your emotions as you mature, help you connect with the right people, that kind of thing. And they help you heal when your mind is… wounded? Traumatized? They're sort of like… medics, but for the spirit, not the body. Is there a Zia Ţai word for that, do you know?"
+"It means someone who's… trained to understand how we all think, how people *work,"* he replies after a moment of thought. "See, back home everyone has a *virtash* they talk to now and again, to… well. They help you learn how to handle your emotions as you mature, help you connect with the right people, that kind of thing. And they help you heal when your mind is… wounded? Damaged? Sick? They're sort of like… medics, but for the spirit, not the body. Is there a Zia Ţai word for that, do you know?"
 
 I hesitate. "I… don't know. We got the priestesses, I suppose? Though their advice is as liable to be chickenshit as gold, seeing how they pull it straight from their rear ends most of the time."
 
@@ -196,7 +200,7 @@ Hawthorn lets out a wheezy laugh. "Don't let her tough hide fool you, boy — Wr
 
 The streets of Chandler's Landing can never be said to be truly deserted, not even during the darkest hours of the night, but the mid-day bustle has calmed since noon. Despite its name, the city is industrial to the core, and nearly half the population are working-class commoners -- "proletarians," as Lena might say. By and large they're squirreled away in the great Eastgate foundries and will be 'til shift's end at sunset, now that the lunchtime hours have come to their close. In any case, scarce few can bear the heavy cost of Uptown life; most of the folks we pass are messengers, slaves, the odd tradeswoman or cowled apprentice, and greycloaks on patrol.
 
-I'm fond of Uptown, I'll admit. It's unlike the pitiful slums where the petty laborers eat and shit and fuck and not much else, but lacks the soulless, sterile hauteur of the White Thorn District. It's got class *and* character -- and most important of all, rates just low enough that someone of my station can eke out a cozy living.
+I'm fond of Uptown, I'll admit. It's unlike the pitiful dockside slums where the petty laborers eat and shit and fuck and not much else, but lacks the soulless, sterile hauteur of the White Thorn District. It's got class *and* character -- and most important of all, rates just low enough that someone of my station can eke out a cozy living.
 
 I'm on high alert, but we pass homes, apartment blocks, restaurants, shops, and a shrill-voiced dowager beating a slave in the middle of the street without incident. "No black-windowed coach?" I ask Lena. "Normally this is the part where I get manhandled by goons and dragged halfway across the city in handcuffs and a blindfold."
 
@@ -208,13 +212,13 @@ Lena laughs. "Rei, do you really think we only have one safehouse in this city?"
 
 "I… suppose not."
 
-"Down here." He tugs my arm, and we turn right towards a flight of stairs down into the Underground. The little voice in the back of my head pipes up again and I rummage in my purse for my passbook -- my *real* fake one, not my government-issue fake one that's almost certainly being tracked -- to make sure it's stamped with this moon's rail passes. With stakes this high, getting caught out on a *fare evasion charge* would be the height of all irony.
+"Down here." He tugs my arm, and we turn right towards a flight of stairs down into the Underground. The little voice in the back of my head pipes up again and I rummage in my purse for my passbook -- my *real* fake one, not my government-issue fake one that's almost certainly being tracked -- to reassure myself it's stamped with this moon's rail passes. With stakes this high, getting caught out on a *fare evasion charge* would be the height of all irony.
 
-But the stamps are there all right, up in the corner next to a ration debit, and I breathe a quiet sigh of relief as I slip it back into my purse. "Which line?" I ask Lena, and he points.
+But the stamps are there all right, up in the corner next to a filled-up ration debit, and I breathe a quiet sigh of relief as I slip it back into my purse. "Which line?" I ask Lena, and he points.
 
 "The Circulator. We're just a couple stops northbound."
 
-Highmarket Station is one of the main changeover points in the network, and it's about as busy as train stations get. Something like six different companies serve the platforms here. There's an arrival near every minute, and occasionally an express comes barreling through towards the outer boroughs or Shrike's Corner. As we near the northbound platform, the noise rises and rises, a din of screeching wheels, raised voices, and motors -- none of the snorts, whinnies, and endless whuffling of _şue phin,_ horse, and _pien şai_ that I grew so accustomed to from the streetcars of my homeworld, where you'd think nobody'd ever heard of galvanics or steam engines. Say what you will about the Duchess, but she runs a tight ship.
+Highmarket Station is one of the main changeover points in the network, and it's about as busy as train stations get, not just on market days. Something like six different companies serve the platforms here. There's an arrival near every minute, and occasionally an express comes barreling through towards the outer boroughs or Shrike's Corner. As we near the northbound platform, the noise rises and rises, a din of screeching wheels, raised voices, and motors -- none of the snorts, whinnies, and endless whuffling of _şue phin,_ horse, and _pien şai_ that I grew so accustomed to from the streetcars of my homeworld, where you'd think nobody'd ever heard of galvanics or steam engines. Say what you will about the Duchess, but she runs a tight ship.
 
 I gravitate towards the far corner, finding an empty bench I can survey the whole platform from, and Lena follows my cue, sitting down next to me, and putting an arm around my shoulders.
 
@@ -253,7 +257,7 @@ I feel humiliated. But he doesn't laugh. He doesn't mock me. He just holds me ti
 
 "Who—?" Lena murmurs.
 
-"Him. From the other night." I can't make myself say his name. "He caught me out in the forest and I— I was there f-f-for a week. A whole week. They used me. They use me and use me and use me. I can't make them stop. They won't stop hurting me, they're tearing my clothes off and he won't stop choking me, I can't breathe, I can't— he's—"
+"Him. From the other night." I can't make myself say his name. "He caught me out in the forest and I— I was there f-f-for a week. A whole week. They used me. They used me and use me and use me. I can't make them stop. They won't stop hurting me, they're tearing my clothes off and he won't stop choking me, I can't breathe, I can't— he's—"
 
 "Rhea. Hey." Lena hugs me tightly. "It's all over. It was all a long time ago—"
 
@@ -304,6 +308,28 @@ He tilts his head. "I don't understand. You were practically crying, you couldn'
 # Old Friends
 - rei needs to recruit Daisy, who's popped up on the grid in town
 - insert at beginning: Lena taking rei through new equipment
+
+The first thing I see when the door cracks open is the barrel of a gun.
+
+I can tell she didn't pick this place by choice. Daisy's a smart girl, and holing up in a dingy hotel full of lowlives without so much as peepholes on the door is not at all like her.
+
+Daisy's eyes widen when she recognizes me and instantly she lowers the weapon. The door slams, there's a scrabbling of metal as she unfastens the jamb-chains, and then she hauls it open again, wordlessly beckoning me inside. Apparently, I'm still on her list of friendlies.
+
+I enter, pushing the door shut behind me, and glance about casually. The room is small, a single bed pressed up against the far wall, sheets messy but surprisingly clean for the kind of place this is. A motheaten rug that even a _pien şai_ wouldn't lower itself to piss on. A folding chair and a tiny square desk covered in paperwork and notebooks, with a portable typewriter perched perilously on the edge next to a half-eaten bowl of _shé luang._ There's not even a proper washroom, just a little alcove with an auto-shower and a beat-up copper faucet, marred by visible rust and mildew. Working-class amenities, if that.
+
+She turns to me after she shuts the door, eyes wide and questioning, uncertain if she can speak freely. I nod, gesturing placatingly, and she sighs in relief. *"Nighthawk!"* she cries out. "What hole did you crawl out of?"
+
+"Good to see you too, Dee."
+
+"It's been what, nigh on a decade now?" Daisy's changed from the girl I knew back then. Taller, skinnier, more scars. Her aura of youthful innocence is nowhere to be found, replaced by a cold world-weariness, and she carries herself like a _şue phin_ poised to bolt. The years have not been kind to our little interrogatrix, not that they ever are. "Come, come here, sit down. Don't mind the bloodstains."
+
+I perch on the edge of the bed and she drags the folding chair around to face me, sitting down and clasping her hands. "Night," she blurts, "what the fuck is going on?" Before I can answer, she continues, "I have spent the last six moons chasing leads, trying to make some Matikhe-forsaken sense out of what is going on and it's— I'm not—" She gestures expansively at the mass of paperwork on her desk. "There isn't any!" she finishes, shaking her head. "There is no sense to be found. I pull one thread and the whole tapestry comes unraveled. Nothing left but a mess of yarn. Do you have any idea how many bureaucrats I've kidnapped in the past two fortnights?"
+
+Well, some things never change.
+
+Her eyes are pleading. "You found me. Okay. You're smart. Somehow, you found me. Please tell me that means— tell me you have something. Night, my paycheck's gone. I've down to stealing and working odd jobs for the Ekhtelera to keep myself fed. It's humiliating."
+
+*"Deedee."* I touch her on the shoulder. "Take a breath, you're "
 
 %path fic/Spirals
 %to pub/vt/fic/spirals

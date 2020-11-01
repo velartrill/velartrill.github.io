@@ -141,7 +141,7 @@ body {
 	}
 	&::-webkit-scrollbar-thumb {
 		// background: 
-		background: url(/res/scroller.svg), hsl(var(--hue),100%,21%);
+		background: url(scroller.svg), hsl(var(--hue),100%,21%);
 		background-size: 80%;
 		background-repeat: no-repeat;
 		background-position: center;

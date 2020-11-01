@@ -373,9 +373,9 @@ Fuck, if Lena's anyone to judge by, it can be one of the best things there is.
 
 "Thank you," I say quietly. "Nobody… nobody else has ever made me feel this way before. I don't know what it is I'm feeling, I don't know what to call it, but… it's good. It's a really, really good feeling."
 
-"I know what it is," Lena says, stroking my arm. "In Ranuir the word is *sel* but I don't think there's any real way to translate it."
+"I know what it is," Lena says, stroking my arm. "In Ranuir the word is *seliul* but I don't think there's any real way to translate it."
 
-"Well. *Sel,* then. Thank you for… for letting me experience  this."
+"Well. *Seliul,* then. Thank you for… for letting me experience  this."
 
 "I’m so sorry you've never been able to before." He hugs me softly before turning me side sideways across his lap; he touches my chin, pulling my head up to look him in the eyes, stroking my cheek softly and smiling at my blush. "I really do hope I'll be able to be a positive presence in your new life, and help look after your emotional and physical needs as well as your safety. It warms my heart to be able to."
 
@@ -405,7 +405,7 @@ I rest my forehead against his neck, closing my eyes. His skin's so smooth — n
 
 "How do you know we're the weird ones?" Lena responds teasingly. "Maybe it's *your* men who are weirdly masculine."
 
-I laugh. "Hah. Maybe it is, at that. Never would have thought about it that way."
+"Hah. Maybe it is, at that. Never would have thought about it that way."
 
 "So tell me, what happened after you broke the snotty heiress?"
 
@@ -425,7 +425,7 @@ He laughs. "I do my best."
 
 "It was never the street-level folks I was after," I reply. “You want to throw some innocent addicts to the camps, you send in the Justicariat. The whole point of our operation was we could do what the legitimate forces couldn’t do. There was never a single junkie I ever turned in, and I got real close with a few of them here, bring ’em boxes full of food and spend evenings ‘round the fire at homeless camps under the Causeway just… talking. It was wild to them ’cause here I was, this powerful outsider, treating them like human beings and just having normal human conversations with them. Well, long story short, they started to notice that anyone they mentioned to me was causing them trouble would get swept up all of a sudden just a few days later. 
 
-“So we came to have sort of an… unspoken deal. They’d help me find my way to genuinely bad people, and in turn I’d throw anyone gave them trouble straight to the justicariat. Win-win for us all. Vi…” I sigh. “Oh, she was such a mess back then. So young, never had a mother to raise her. She grew up on the street, you know? I ended up spending so much time just… looking after her, teaching her how be a woman, how to care for herself, and somewhere along the way we started falling pretty hard. One night came around and it was so damn cold out there and I just couldn’t do it anymore, couldn’t go back to my warm bed with her on the street, and I told her, Vi, come on back with me, I don’t want you out in this.” I look down. “Well, she nearly OD’d that night at my place. I gave her mouth to mouth for two hours straight until she started breathing on her own again. I’d—”
+“So we came to have sort of an… unspoken deal. They’d help me find my way to genuinely bad people, and in turn I’d throw anyone gave them trouble straight to the gowns. Win-win for us all. Vi…” I sigh. “Oh, she was such a mess back then. So young, never had a mother to raise her. She grew up on the street, you know? I ended up spending so much time just… looking after her, teaching her how be a woman, how to care for herself, and somewhere along the way we started falling pretty hard. One night came around and it was so damn cold out there and I just couldn’t do it anymore, couldn’t go back to my warm bed with her on the street, and I told her, Vi, come on back with me, I don’t want you out in this.” I look down. “Well, she nearly OD’d that night at my place. I gave her mouth to mouth for two hours straight until she started breathing on her own again. I’d—”
 
 A sudden horrible paranoia overcomes me and— fuck, I have to check.
 
@@ -435,7 +435,7 @@ I sit up. "Hey, Lena — I'm sorry, I—"
 
 “Wilco. Be back in a minute.”
 
-Less than half a minute later, I’m crouched on my bed and screaming his name.
+Moments later, I’m crouched on my bed and screaming his name.
 
 Vi’s not breathing. I can barely make out a heartbeat. I’m still screaming his name when he grabs me by the shoulders, pulls me back gently so he can see to her. The world’s a blur; it comes in flashes and glimpses. Lena yelling something into a black band around his wrist. Leaning over her, getting her oxygen like a pro. Seli — the woman I haven't exchanged so much as a word with — in the room, opening up satchels of equipment, needles, vials; they’re fitting something over her face— chirping from a machine—
 
