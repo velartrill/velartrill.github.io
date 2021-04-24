@@ -208,6 +208,17 @@ del {
 	text-decoration-color: hsl(var(--hue), 80%, 60%);
 }
 
+ins {
+	all: unset;
+	border: 1px solid black;
+	@media screen {
+		color: hsl(142, 100%, 65%);
+		background-color: hsl(142, 100%, 10%);
+	};
+	padding: 0.3ex 0.8ex;
+	font-style: italic;
+}
+
 @if using(code) {
 	%listing, p code, li code, {
 		display: inline-block;
