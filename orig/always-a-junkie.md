@@ -463,13 +463,13 @@ That makes her laugh and she kisses me again. I run my thumbnail along the rim o
 
 "I l-l-love you," she finally manages.
 
-Orrie's as Sara as they come, and he always talks about how hard it was to find a fertile pureblood whore to birth the girl. But the way she moves, the way she can wrestle grown men into submission, her taut little tits, those strangely tapered ears of hers, those tiny flecks of green scattered in her Sara-blue eyes — sometimes I wonder.
+Orrie's as Sara as they come, and he always talks about how hard it was to find a fertile pureblood whore to birth the girl. But the way she moves, the way she can wrestle grown men into submission, her taut little tits, those strangely tapered ears of hers, those tiny flecks of green scattered in her Sara-blue eyes — on their own, they'd mean nothing, but taken together, well. Sometimes I wonder.
 
-Sometimes I wonder if there isn't something *else* hidden away inside her. Because there's only one kind of person I've seen with bodies like that before. And there's rumors that during the War, *their* blood did more than stain battlefields; that their seed found purchase even among us foreign barbarians. Which wouldn't surprise me in the slighest. Love blossoms in strange places sometimes.
+Sometimes I wonder if there isn't something *else* hidden away inside her. Because there's only one kind of person I've seen with bodies like that before. And there's rumors that during the War, *their* blood did more than stain battlefields; that their seed found purchase even among us foreign barbarians. Which wouldn't surprise me in the slighest. Love blossoms in strange places sometimes. I should know.
 
 And… knowing Orrie as well as I do, probably better even than his sister does these days… it does seem like exactly the kind of shit he'd pull. Just to give his heiress a secret little edge over the competition.
 
-Seeing how she killed her first assassin at age 15, with a combat knife straight through the ribs and into the heart — a split second before he spattered her father's brains all over the wall — it sure seems to be working.
+Seeing how she killed her first assassin at age 15, with a combat knife straight through the ribs and into the heart — a split second before he could spatter her father's brains all over the wall — it sure seems to be working.
 
 One way or the other, I wonder if she knows herself. If he ever even told her.
 
@@ -497,7 +497,7 @@ I bury my tear-stained face in her chest, and stop trying to move. She rubs my b
 
 Falcon lounges on the other side of me, observing us intently as she strokes me with her free hand and toys idly with my hair. *"E—re—nè-ya-sè-ké?"* she asks haltingly.
 
-"Ëreńaskë," I tell her. I wince as she tries in vain to pronounce it again. "Look, what's— what's 'wind' in your tongue?"
+"Ëreńaskë," I tell her. I wince as she tries in vain to pronounce it again. "Look, what's— what's 'wind' in *your* tongue?"
 
 She cocks her head. _"Huin,"_ she answers.
 
@@ -546,7 +546,7 @@ My girlfriend smiles, taking my neck between her hands.
 
 "Shh. It's okay, love," she whispers in my ear, and kisses me tenderly. "It's okay."
 
-Sedyskë has always delighted in cruelty. The tears of her lovers are an ambrosia to her, and always will be. I know there's no changing her; I know that the rest of my life with her I'm going to be locked in this endless, wild dance of unimaginable pleasure and indescribable pain. People tell me I'm crazy sometimes, for loving someone so ruthless. "Why would you ever stay with her?" they ask. They tell me I'm a victim; the brainwashed, battered pet of a violent rapist. And sometimes I'm so lost in the pain that I believe it myself and all I can think to do is flee. 
+Sedyskë has always delighted in cruelty. The tears of her lovers are an ambrosia to her, and always will be. I know there's no changing her; I know that the rest of my life with her I'm going to be locked in this endless, wild dance of pleasure beyond imagining and pain beyond description. People tell me I'm crazy sometimes, for loving someone so savage, so ruthless. "Why would you ever stay with her?" they ask. They tell me I'm a victim; the brainwashed, battered pet of a violent rapist. And sometimes I'm so lost in the pain that I believe it myself and all I can think to do is flee. 
 
 But in my few lucid moments, I understand that the pain doesn't take away the pleasure, doesn't dilute it even by a drop, and it will never close my heart to her, even if sometimes I wish it would. That's the easy answer to why I stay — why I come crawling back to her every time I try to flee. I'm more addicted to her than I ever was to opium.
 

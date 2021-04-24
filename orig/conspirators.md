@@ -134,7 +134,7 @@ For a moment I just stare at the carpet underfoot. "Not really," I mutter finall
 
 "Only once," I reply at length. The chime rings and the ascender capsule rises slowly into view, the gate lattice unlatching. Lena pulls it open and leads me gently through, shutting it behind us.
 
-"Lobby, please," he says to the attendant, a mousy little Marakki woman I haven't seen before. Instinctively I take stock of her, parsing out the little details of her body language, the lines and folds of her uniform, the way the fabric of her clothing distorts as her body moves. The bruise under her left eye. No concealed weapon, no martial training — my rational mind scoffs at the thought; a Marak? She'd break her arm if she so much as threw a punch at me. I relax fractionally, offering her a token smile as she twiddles the dials and switches that control the contraption we're riding in.
+"Lobby, please," he says to the attendant, a mousy little Marak I haven't seen before. Instinctively I take stock of her, parsing out the little details of her body language, the lines and folds of her uniform, the way the fabric of her clothing distorts as her body moves. The bruise under her left eye. No concealed weapon, no martial training — my rational mind scoffs at the thought; a Marak? She'd break her arm if she so much as fired a pistol. I relax fractionally, offering her a token smile as she twiddles the dials and switches that control the contraption we're riding in.
 
 "When was that, if you don't mind me asking?"
 
@@ -212,7 +212,7 @@ Lena laughs. "Rei, do you really think we only have one safehouse in this city?"
 
 "I… suppose not."
 
-"Down here." He tugs my arm, and we turn right towards a flight of stairs down into the Underground. The little voice in the back of my head pipes up again and I rummage in my purse for my passbook -- my *real* fake one, not my government-issue fake one that's almost certainly being tracked -- to reassure myself it's stamped with this moon's rail passes. With stakes this high, getting caught out on a *fare evasion charge* would be the height of all irony.
+"Down here." He tugs my arm, and we turn right towards a flight of stairs down into the Underground. The little voice in the back of my head pipes up again and I rummage in my purse for my passbook -- my *real* fake one, not my government-issue fake one that's almost certainly being discreetly tracked -- to reassure myself it's stamped with this moon's rail passes. With stakes this high, getting caught out on a *fare evasion charge* would be the height of all irony.
 
 But the stamps are there all right, up in the corner next to a filled-up ration debit, and I breathe a quiet sigh of relief as I slip it back into my purse. "Which line?" I ask Lena, and he points.
 
@@ -253,7 +253,7 @@ My legs are unsteady as I get to my feet
 
 I feel humiliated. But he doesn't laugh. He doesn't mock me. He just holds me tight, hugs me close to his chest. Ruffles my hair, tells me it's okay, tells me to take my time. I just want to blurt it out and get it over with but I can't make the goddamned words come out.
 
-"I was sh-sh-shadowing him," I finally manage. "They had to go into the city every now'n again to buy the drugs, dumb fucks couldn't manage to grow the vine on their own, so I found the d-d-dealer and I shadowed her all day and I just wait until he shows up. And I follow him out into the forest and they catch me." I'm hyperventilating, I realize. My words are spilling out my mouth like an overflowing bucket. "It was a week before I could escape. A w-w-week. They had me for a wh-whole week—"
+"I was sh-sh-shadowing him," I finally manage. "They had to go into the city every now'n again to buy the drugs, dumb fucks couldn't even manage to grow the vine on their own, so I found the d-d-dealer and I shadowed her all day and I just wait until he shows up. And I follow him out into the forest and they catch me." I'm hyperventilating, I realize. My words are spilling out my mouth like an overflowing bucket. "It was a week before I could escape. A w-w-week. They had me for a wh-whole week—"
 
 "Who—?" Lena murmurs.
 
@@ -311,25 +311,83 @@ He tilts his head. "I don't understand. You were practically crying, you couldn'
 
 The first thing I see when the door cracks open is the barrel of a gun.
 
-I can tell she didn't pick this place by choice. Daisy's a smart girl, and holing up in a dingy hotel full of lowlives without so much as peepholes on the door is not at all like her.
+I can tell she didn't pick this place by choice. Daisy's a smart girl, and holing up in a dingy tavern full of lowlives without so much as peepholes on the door is not at all like her.
 
 Daisy's eyes widen when she recognizes me and instantly she lowers the weapon. The door slams, there's a scrabbling of metal as she unfastens the jamb-chains, and then she hauls it open again, wordlessly beckoning me inside. Apparently, I'm still on her list of friendlies.
 
-I enter, pushing the door shut behind me, and glance about casually. The room is small, a single bed pressed up against the far wall, sheets messy but surprisingly clean for the kind of place this is. A motheaten rug that even a _pien şai_ wouldn't lower itself to piss on. A folding chair and a tiny square desk covered in paperwork and notebooks, with a portable typewriter perched perilously on the edge next to a half-eaten bowl of _shé luang._ There's not even a proper washroom, just a little alcove with an auto-shower and a beat-up copper faucet, marred by visible rust and mildew. Working-class amenities, if that.
+I enter, pushing the door shut behind me, and glance about casually. The room is small, a single bed pressed up against the far wall, sheets messy but surprisingly clean for the kind of place this is. A motheaten rug that even a _pien şai_ wouldn't lower itself to piss on. A folding chair and a tiny square desk covered in paperwork and notebooks, with a portable typewriter perched perilously on the edge next to a half-eaten bowl of _shé luang,_ still hot. There's not even a proper washroom, just a little alcove with a washing pit and a beat-up copper faucet, marred by visible rust and mildew. Working-class amenities, if that.
 
 She turns to me after she shuts the door, eyes wide and questioning, uncertain if she can speak freely. I nod, gesturing placatingly, and she sighs in relief. *"Nighthawk!"* she cries out. "What hole did you crawl out of?"
 
 "Good to see you too, Dee."
 
-"It's been what, nigh on a decade now?" Daisy's changed from the girl I knew back then. Taller, skinnier, more scars. Her aura of youthful innocence is nowhere to be found, replaced by a cold world-weariness, and she carries herself like a _şue phin_ poised to bolt. The years have not been kind to our little interrogatrix, not that they ever are. "Come, come here, sit down. Don't mind the bloodstains."
+"It's been what, nigh on a decade now?" Daisy's changed from the girl I knew back then. Taller, skinnier, more scars. Her aura of youthful innocence is long gone, replaced by a cold world-weariness, and she carries herself like a _şue phin_ poised to bolt. The years have not been kind to our little interrogatrix, not that they ever are. "Come, come here, sit down. Don't mind the bloodstains."
 
 I perch on the edge of the bed and she drags the folding chair around to face me, sitting down and clasping her hands. "Night," she blurts, "what the fuck is going on?" Before I can answer, she continues, "I have spent the last six moons chasing leads, trying to make some Matikhe-forsaken sense out of what is going on and it's— I'm not—" She gestures expansively at the mass of paperwork on her desk. "There isn't any!" she finishes, shaking her head. "There is no sense to be found. I pull one thread and the whole tapestry comes unraveled. Nothing left but a mess of yarn. Do you have any idea how many bureaucrats I've kidnapped in the past two fortnights?"
 
 Well, some things never change.
 
-Her eyes are pleading. "You found me. Okay. You're smart. Somehow, you found me. Please tell me that means— tell me you have something. Night, my paycheck's gone. I've down to stealing and working odd jobs for the Ekhtelera to keep myself fed. It's humiliating."
+Her eyes are pleading. "You found me. Okay. You're smart. Somehow, you found me. Please tell me that means— tell me you have something. Night, my paycheck's gone. I'm down to stealing and working odd jobs for the Ekhtelera to keep myself fed. It's humiliating."
 
-*"Deedee."* I touch her on the shoulder. "Take a breath, you're "
+*"Deedee."* I touch her on the shoulder. "Take a breath, you're gonna pass out if you're not careful. I got something." She lets out a gasp of relief. "I don't think you're gonna like it, but—"
+
+*"The Ekhtelera,* Night. They have the operational discipline of a horny fifteen year old boy and they treat me more like a whore than an operator. If I break one more wrist they'll probably drop me for good."
+
+"Okay." I reach out hesitantly, take her by the hand. "There's more, Dee. I don't know… I don't know how much I should say here and now, I don't know how much you *want* to know—"
+
+"You are officially *scaring* me now, Night." Daisy tilts her head. "I don't think you've ever been afraid to tell me shit before."
+
+"I got a line on what happened. I'm not sure how much to trust it, but — well, shit, you tell me." I lean forward. "By the looks of it you've been digging like a _guan jèi_ that's scented _phin hue._ You got more pieces of the puzzle. What if something happened to the throneworld? What if all Carnelian went dark all at once somehow, got cut off somehow?"
+
+"'Somehow?'" Daisy gazes at me appraisingly. "It'd fit, I suppose. What are you saying, like— telegraph lines cuts?"
+
+"Lines cut, no one in, no one out. Would that make sense?"
+
+She stares at the ceiling for a moment, then leaps to her feat and turns to the pile of paperwork on her desk. I sit back, watching as she digs through, scanning frantically for details. She bends down, grabbing a pen, scribbling what look like calculations on a spare sheet of paper. Then she turns back, eyes distant.
+
+"Third day of the Carver's Moon."
+
+"You lost me."
+
+"That's when it happened. Whatever 'it' was." She's pacing now, her face awash with worry. "That much adds up. All the testimonies, all the bounced telegrams — figuring in the usual delays to Carnelian, that's when it would have happened, local time." She looks at me. "Night, what have you heard? Did the Empress interdict the whole damn planet or something crazy like that?"
+
+I look down. "I wish it was that simple." I take a deep breath. "Deedee, I — I been in contact with some folks. Folks on the other side."
+
+She cocks her head. "You're *shitting* me. Which side are we talking here?"
+
+"Greens."
+
+*"Shit!"* Daisy spits, backing away in astonishment and alarm. "Night, what the *balls*— I thought you meant, shit, I don't know, some Merekhna cell or whatever— you got your hands on a fucking *Green?* Have you been offworld or—"
+
+I wave her away. "It's not quite like that. The Greens, they've got a cell here. They came looking for me."
+
+"Are we talking agents or are you telling me there are real live shorties here on Nightshade?"
+
+"The latter."
+
+*"Shuharva alive."* Daisy's pacing again. "What the shit, we're *parsecs* from the front. What are they doing here— fuck that, how'd they even *get* here!?" She shakes her head. "You got something out of them? Something about Carnelian?"
+
+I nod. "I— really don't know how much to trust him but—"
+
+"Night, *tell me already."*
+
+"—it was the Shadows. That's what they think, anyway. He says he saw a vid—"
+
+"The Shadows? Are— They invade or something?"
+
+I look down, squeezing my hands together, feeling slightly dizzy thinking about all of this again. "They attacked our throneworld. Don't ask me how they got this far behind our lines but he says they did. Carnelian burned. Everything is gone. He doesn't know how they did it but—"
+
+Daisy's eyes glaze over. "The whole planet?" she whispers, her body swaying slightly.
+
+I nod.
+
+For a moment, Daisy is completely silent, staring at me with faraway eyes. Slowly, her limbs quivering, she sits down next to me, and stares at the floor.
+
+*"Fuck,"* she says finally, shaking her head.
+
+"Do you think— does that sound—"
+
+"I don't got anything as would prove it for certain but I sure as ash can't prove against it neither," she answers, very quietly. Daisy is not the quiet type.
 
 %path fic/Spirals
 %to pub/vt/fic/spirals

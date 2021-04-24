@@ -22,7 +22,7 @@
 
 <p>so here's a short tutorial on ansi escape codes and terminal control, because you philistines won't stop using ncurses and oh my god <em>WHY ARE WE STILL USING NCURSES IT IS THE TWENTY FIRST FUCKING CENTURY</em></p>
 
-<p>the way terminal emulators handle fancy things like color and cursor shape aren't some mysterious opaque black box you can only access through a library. accessing these capabilities is actually extremely simple; they can even be hardcoded into a text file and displayed by <code>cat</code> or <code>less</code>. or even <a href="http://ʞ.cc/ansiglot">curl</a>! the way you do this is with something called <em>ANSI escape sequences.</em></p>
+<p>the way terminal emulators handle fancy things like color and cursor shape aren't some mysterious opaque black box you can only access through a library. accessing most of these capabilities is actually extremely simple; they can even be hardcoded into a text file and displayed by <code>cat</code> or <code>less</code>. or even <a href="http://ʞ.cc/ansiglot">curl</a>! the way you do this is with something called <em>ANSI escape sequences.</em></p>
 
 <p>almost all UI changes in a terminal are accomplished through in-band signalling. these signals are triggered with the ASCII/UTF-8 character <strong>‹ESC›</strong> (<code>0x1B</code> or <code>27</code>). it's the same <strong>‹ESC›</strong> character that you send to the terminal when you press the <code>Escape</code> key on your keyboard or a key sequence involving the <code>Alt</code> key. (typing <strong>‹A-c›</strong> for instance sends the characters <strong>‹ESC›</strong> and <strong>‹c›</strong> in very rapid succession; this is why you'll notice a delay in some terminal programs after you press the escape key — it's waiting to try and determine whether the user hit <code>Escape</code> or an alt-key chord.)</p>
 
@@ -141,7 +141,7 @@
 </code>
 <p>here, the stanza <code>fmt(wfg(248) with wbg(232))</code> translates into <code>\x1b[38;5;248;48;5;232m</code>. we're hard-coding the numbers here for simplicity but as a rule of thumb, any time you're using 8-bit colors in a terminal, you should <em>always</em> make them configurable by the user.</p>
 
-<p>the opaque-seeming indexes are actually very systematic, and you can calculate which index to use for a particular color with the formula <code>16 + 36 * r + 6 * g + b</code>, where <code>r</code>, <code>g</code>, and <code>b</code> are integers ranging between 0 and 5. indices 232 through 255 are a grayscale ramp from dark (232) to light (255).</p>
+<p>the opaque-seeming indexes are actually very systematic, and you can calculate which index to use for a particular color with the formula <code>16 + 36r + 6g + b</code>, where <code>r</code>, <code>g</code>, and <code>b</code> are integers ranging between 0 and 5. indices 232 through 255 are a grayscale ramp from dark (232) to light (255).</p>
 
 <p>of course, this is still pretty restrictive. 8-bit color may have been enough for '90s CD-ROM games on Windows, but it's long past it's expiration date. using true color is much more flexible. we can do this through the escape sequence <code>\x1b[38;2;<em>(r)</em>;<em>(g)</em>;<em>(b)</em>m</code> where each component is an integer between 0 and 255.</p>
 
@@ -630,19 +630,19 @@ typedef <span class="type">uint8_t</span> bar_t;
 		if (dirty) { repaint(); dirty = false; }
 		read(1,&inkey,1);
 		switch(inkey) {
-			case <em>'i'</em>:<span class="comment">// increase meter value</span>
+			case <em>'i'</em>: <span class="comment">// increase meter value</span>
 				++meter_value; break;
-			case <em>'d'</em>:<span class="comment">// decrease meter value</span>
+			case <em>'d'</em>: <span class="comment">// decrease meter value</span>
 				--meter_value; break;
-			case <em>'b'</em>:<span class="comment">// increase meter size</span>
+			case <em>'b'</em>: <span class="comment">// increase meter size</span>
 				++meter_size; break;
-			case <em>'s'</em>:<span class="comment">// decrease meter size</span>
+			case <em>'s'</em>: <span class="comment">// decrease meter size</span>
 				--meter_size; break;
-			case <em>'c'</em>:<span class="comment">// randomize meter on color</span>
+			case <em>'c'</em>: <span class="comment">// randomize meter on color</span>
 				meter_color_on = rand(); break;
-			case <em>'r'</em>:<span class="comment">// randomize meter off color</span>
+			case <em>'r'</em>: <span class="comment">// randomize meter off color</span>
 				meter_color_off = rand(); break;
-			case <em>'h'</em>:<span class="comment">// toggle help text</span>
+			case <em>'h'</em>: <span class="comment">// toggle help text</span>
 				help_visible =! help_visible;
 				say(esca term_clear); break;
 			default: goto end;
@@ -655,17 +655,17 @@ typedef <span class="type">uint8_t</span> bar_t;
 
 <p>that's it for the tutorial. i hope you learned something and will <em>reconsider using fucking ncurses next time</em> because <em>jesus fucking christ</em>.</p>
 
-<p>yes, ncurses supplies features like window-drawing and region invalidation (to avoid terminal flicker) that are much harder to implement yourself. no, you shouldn't <em>have</em> to implement it yourself. there <em>should</em> be a modern library to <em>replace</em> curses using the capabilities outlined here. but i swear to god developers have so completely forgotten <em>how terminals work</em> that i might be one of a handful of people left on earth who actually has the knowledge to, so they all just layer their bullshit on top of ncurses (which should never have survived the '90s) instead and it's ｍａｄｄｅｎｉｎｇ．</p>
+<p>yes, ncurses supplies features like window-drawing and region invalidation (<del>to avoid terminal flicker</del> actually <a href="https://justine.lol">justine tunney</a> has pointed out that this isn’t an issue with modern terminal emulators; you can generally just redraw the whole ui every frame so region invalidation is no longer quite as useful) that are much harder to implement yourself. no, you shouldn't <em>have</em> to implement it yourself. there <em>should</em> be a modern library to <em>replace</em> curses using the capabilities outlined here. but i swear to god developers have so completely forgotten <em>how terminals work</em> that i might be one of a handful of people left on earth who actually has the knowledge to, so they all just layer their bullshit on top of ncurses (which should never have survived the '90s) instead and it's ｍａｄｄｅｎｉｎｇ．</p>
 
 <p>my hope is that this tutorial will curtail some of the more egregiously trivial uses of ncurses and provide others with the knowledge needed to implement a 21st-century terminal UI library. because i sure as fuck don't have the energy to.</p>
 
-<p>also, i'm a) a nobody and b) a woman. nothing i wrote would ever gain any traction; any project designed to supplant ncurses needs to come from someone who's actually known to the FOSS community. and a maintainer who isn't a cripple.</p>
+<p>also, i have effectively zero pull in the tech community and am also kind of a controversial character who is liable to give projects a bad reputation, which i don't normally care about but this one is <strong>important</strong>. point is, nothing i wrote would ever gain any traction; any project designed to supplant ncurses needs to come from someone who's actually known to and respected by the FOSS community. and a maintainer who isn't a cripple.</p>
 
 <p>you can find <a href="https://en.wikipedia.org/wiki/ANSI_escape_code">a fuller list of ANSI escapes at wikipedia</a>.</p>
 
 <p>oh, and before anyone starts up:</p>
 
-<p>being compatible only with ANSI-capable terminals <em>is a feature, not a bug,</em> go the fuck away. terminfo is a fucking joke. nobody needs to target obscure dumb terminals from 1983 anymore.</p>
+<p>being compatible only with ANSI-capable terminals <em>is a feature, not a bug,</em> go the fuck away. terminfo is a fucking joke. nobody needs to target obscure dumb terminals (or smart terminals, for that matter) from 1983 anymore.</p>
 
 <p><em>all sample code in this document is the sole property of the author and is released exclusively under the <a href="https://gnu.org/licenses/agpl.html">GNU AGPLv3</a>.</em></p>
 </body>
