@@ -16,7 +16,8 @@ I glance at the paper. Underneath Sparrow's name, he's written his own.
 
 I crumple, leaning heavily against him, and he puts a warm arm around my shoulder. Just like always. "Hey, now," he murmurs. "What's that about?"
 
-A hundred different memories flash through my mind, of moments just like this, amid the blood and dirt, the fearful haze of war. Bear dinging me on the helmet one night on the edge of the forest, as we sat by the campfire on first watch. Telling me 
+A hundred different memories flash through my mind, of moments just like this, amid the blood and dirt, the fearful haze of war. Bear dinging me on the helmet one night on the edge of the forest, as we sat by the campfire on first watch. Telling me to stop being so hard on myself.
+
 
 God, I can still remember that week so vividly. That horrible thump when the train derailed. The five-day loaded march to the nearest intact line on the other side of the _den tsuang_ sabotage, hacking our way through untamed wilderness with machetes with guns and food and ammo strapped to our breaking backs. The raucous cheers when that rattletrap troop train finally came into sight, amidst the thunder and torrential rains of a Cascade spring. My tears in the bunk that night, as the train creaked and clattered its way over a nameless bridge. Waking Bear despite fighting so hard to stay quiet — and exhausted though we all were, he just said — "hey now. What's that about?"
 
