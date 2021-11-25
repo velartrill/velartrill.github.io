@@ -9,7 +9,7 @@ It’s always been understood that Khata’e never comes and collects the money 
 
 *Maybe I should leave some MREs instead of coin next time,* Jasmine thinks to herself. *Maybe that would be more in the spirit of things.*
 
-The little altars and shrines that dot the streets of Khmai neighborhoods are one of the odd little exceptions to the stiflingly selfish miasma of life in the Empire. Whenever the paint gets a little too faded, someone sooner or later will come by with a fresh bucket and touch it up without ever being asked. If one of the Seven Sons loses his head to game of _zhiang_-ball, someone will come along and cement it back into place with a glob of _due jeņ_ and no expectation of payment or favor. Nobody ever really admits to doing it, of course; it would spoil the illusion to announce that mere human hands had put the pieces back together.
+There's something comforting about the little altars and shrines that dot the streets of Khmai neighborhoods, silently testifying to a race whose bonds of faith and family are still stronger than the siren song of human greed and selfishness that is chanted all about them. Whenever the altar paint gets a little too faded, someone sooner or later will come by with a fresh bucket and touch it up without ever being asked. If one of the Seven Sons loses his head to game of _zhiang_-ball, someone will come along and cement it back into place with a glob of _due jeņ_ and no expectation of payment or favor. Nobody ever really admits to doing it, of course; it would spoil the illusion to announce that mere human hands put the pieces back together — but put them back together they do. Centuries have come and gone since the Khmai were subjugated under the alien banner of God's crusading elect, but still they hold tight to the fragments of their ancient way of life; still they piece them back together time and time again that they are fractured… if not always in perfectly the same shape.
 
 Sashuan breathes a heavy sigh of relief as Jasmine unlocks the front door of the apartment complex and they step inside. She’s been glancing behind them every third step since they fled the alley. But if anyone pursued the two women, they’ve kept their distance, and now the threat, if any, has passed.
 
@@ -370,7 +370,7 @@ Jasmine nods distantly. {kp/Stay safe out there,} she murmurs as the Sisterhood 
 Sashuan leads Jasmine gently back inside, shutting the door. For a while they just stand there, and Sashuan holds Jasmine tight as tears trickle down her cheeks, until Lily finally comes to fetch them back to the dinner table.
 
 % prev mirin-a-surin.html <i>Mirin a surin</i>
-% next meet-the-new-boss.html Meet the New Boss
+% next inbound.html Inbound
 
 % in setting Spirals
 % in arc War
