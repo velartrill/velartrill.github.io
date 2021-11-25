@@ -10,15 +10,24 @@
 		<name>lexi hale</name>
 		<uri>https://hale.su/</uri>
 	</author>
-	 <updated>2021-02-17T21:25:57+01:00</updated> 
+	 <updated>2021-11-25T04:13:12+01:00</updated> 
 
 	 <entry>
 		 <title>Into the Valley</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/eriasta/into-the-valley.html"/>
 		 <id>urn:uuid:97c8133b-8038-4419-97ae-7c70b77e59d7</id>
-		 <updated>2019-05-31T05:16:27+02:00</updated>
+		 <updated>2021-05-21T23:00:53+02:00</updated>
 		 <summary type="html"><![CDATA[<p>The sun is hanging low on the horizon when Seri finally wakes. She looks around blearily, rubbing the sleep from her eyes and slowly pulling herself into a sitting position. The landscape rushing by the window is unfamiliar, all trees and distant mountain peaks buried under a thick blanket of white. It takes Seri a moment to make sense of the image, to figure out that the little tufts of light drifting from the sky are snowflakes, glittering like gemstones in the sun's deep orange halo. The gleaming coat of snow is pristine and undisturbed all around but for the occasional fallen branch and the tiny footprints of animal tracks.</p><p><a href="http://ʞ.cc/fic/eriasta/into-the-valley.html">[read more]</a></p>]]></summary>
-		 <category term="new"/>
+		 <category term="updated"/>
+	 </entry>
+
+	 <entry>
+		 <title>Respite</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/eriasta/respite.html"/>
+		 <id>urn:uuid:8735e58e-9f5f-4308-8f6a-b1e6d50b917a</id>
+		 <updated>2021-03-21T16:54:44+01:00</updated>
+		 <summary type="html"><![CDATA[<p>“Are you <em>sure</em> this is going to work?”</p><p><a href="http://ʞ.cc/fic/eriasta/respite.html">[read more]</a></p>]]></summary>
+		 <category term="updated"/>
 	 </entry>
 
 	 <entry>
@@ -151,7 +160,7 @@
 		 <title>Breach</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/breach.html"/>
 		 <id>urn:uuid:3c2fd0d0-ec67-45f5-b640-6c89e37a618e</id>
-		 <updated>2019-07-11T03:26:58+02:00</updated>
+		 <updated>2021-02-23T20:57:36+01:00</updated>
 		 <summary type="html"><![CDATA[<p><em>“Bunker is secure. I say again, bunker is secure. Minimal casualties, no friendlies down. Please advise disposition of prisoners. Over.”</em></p><p><a href="http://ʞ.cc/fic/spirals/breach.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -160,7 +169,7 @@
 		 <title>Broken Wings</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/broken-wings.html"/>
 		 <id>urn:uuid:bfe413c1-6b88-457c-b806-4c7abd89c5e8</id>
-		 <updated>2019-07-11T03:28:39+02:00</updated>
+		 <updated>2021-11-18T10:29:46+01:00</updated>
 		 <summary type="html"><![CDATA[<p>“Falcon?”</p><p><a href="http://ʞ.cc/fic/spirals/broken-wings.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -169,7 +178,7 @@
 		 <title>Comrades</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/comrades.html"/>
 		 <id>urn:uuid:d4542808-27f8-401d-926b-1f30c74d602a</id>
-		 <updated>2019-07-11T03:26:52+02:00</updated>
+		 <updated>2021-02-23T19:33:38+01:00</updated>
 		 <summary type="html"><![CDATA[<p>The dilapidated train cuts its engines as it nears the platform, one last gasp of steam belching from the locomotive. Savren raises a hand in greeting as it starts to slow, brakes grinding and screeching.</p><p><a href="http://ʞ.cc/fic/spirals/comrades.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -178,7 +187,7 @@
 		 <title>Contact</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/contact.html"/>
 		 <id>urn:uuid:31b80661-466d-41c2-8a00-f9d3bcf86985</id>
-		 <updated>2019-07-11T03:27:58+02:00</updated>
+		 <updated>2021-11-17T09:45:46+01:00</updated>
 		 <summary type="html"><![CDATA[<p>The intendant’s deck offers a view of nearly the whole camp, from Penitence Square just below out to the distant workhouse where defectors are now being sheltered. It would be a good place to command a battle, Savren thought, if you didn’t have realtime comms and a sensor grid. —Which, of course, the Rosies wouldn’t.</p><p><a href="http://ʞ.cc/fic/spirals/contact.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -250,7 +259,7 @@
 		 <title>Escalation</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/escalation.html"/>
 		 <id>urn:uuid:28d1fc1f-b488-45fe-bda8-226610f24297</id>
-		 <updated>2019-07-10T23:55:15+02:00</updated>
+		 <updated>2021-02-25T09:42:32+01:00</updated>
 		 <summary type="html"><![CDATA[<p>“You feeling better?”</p><p><a href="http://ʞ.cc/fic/spirals/escalation.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -277,8 +286,8 @@
 		 <title>Freedom</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/freedom.html"/>
 		 <id>urn:uuid:3d6dd9b7-99fd-47b9-b7d0-f85a31f0d834</id>
-		 <updated>2019-07-11T00:49:30+02:00</updated>
-		 <summary type="html"><![CDATA[<p>Incense smoke curls and wafts about the small ritual chamber. The woman in grey, whose skin is still wet under her thin, tight robes, touches her bare feet together, puts her hands to her heart, and inclines her head as the shipwright enters. A mane of long white hair drifts behind sim, spreading and whirling in the air as ser pitch-black form blots out the candlelight.</p><p><a href="http://ʞ.cc/fic/spirals/freedom.html">[read more]</a></p>]]></summary>
+		 <updated>2021-11-12T21:32:57+01:00</updated>
+		 <summary type="html"><![CDATA[<p>Incense smoke curls and wafts about the small ritual chamber. The woman in grey, whose skin is still wet under her thin, tight robes, touches her bare feet together, puts her hands to her heart, and inclines her head as the shipwright enters. A mane of long white hair drifts behind him, spreading and whirling in the air as his pitch-black form blots out the candlelight.</p><p><a href="http://ʞ.cc/fic/spirals/freedom.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
 
@@ -313,7 +322,7 @@
 		 <title>Justice</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/justice.html"/>
 		 <id>urn:uuid:a6076496-906c-4f0a-a78c-11e462940e69</id>
-		 <updated>2019-07-11T03:27:31+02:00</updated>
+		 <updated>2021-02-24T01:00:16+01:00</updated>
 		 <summary type="html"><![CDATA[<p>Her Ladyship Egret Sunshield, daughter to Raven the Baroness Sunshield and heir presumptive to Westlake Manor, Intendant of Labor Camp “Thricely Esteemed Congregation Athwart the Aperture of All Penitence” by appointment of Her Splendid Efficiency Regional Vizier for the Manufactoriat Crane Bleakmorn, with the absolute power of life and death over more than a thousand souls, is shivering, nearly naked, shackled in restraints that once held her own terrified subjects.</p><p><a href="http://ʞ.cc/fic/spirals/justice.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -358,7 +367,7 @@
 		 <title>Operations</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/operations.html"/>
 		 <id>urn:uuid:f2a475a0-504d-4c79-96b1-59da02582673</id>
-		 <updated>2019-07-11T03:27:25+02:00</updated>
+		 <updated>2021-02-23T22:46:44+01:00</updated>
 		 <summary type="html"><![CDATA[<p>The word seems to have gotten out, and prisoners are already filtering into processing. The Allies have set up folding desks, right out in the snow, and masses of deep lines have already formed. Infantry is patrolling the site heavily and Savren glimpses a friendly sniper on the balcony of a neighboring workhouse. The sight gives her a little rush.</p><p><a href="http://ʞ.cc/fic/spirals/operations.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -385,7 +394,7 @@
 		 <title>Pact</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/pact.html"/>
 		 <id>urn:uuid:199074c8-4932-415b-8144-66b75f7e26f8</id>
-		 <updated>2019-10-08T18:42:14+02:00</updated>
+		 <updated>2021-11-24T23:54:08+01:00</updated>
 		 <summary type="html"><![CDATA[<p>As her privy council assembles in the Grand Library, Dove catches Iris by the doorway and pulls her aside. “Can I… have a moment? Before we get started?”</p><p><a href="http://ʞ.cc/fic/spirals/pact.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -466,7 +475,7 @@
 		 <title>Shopping</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/shopping.html"/>
 		 <id>urn:uuid:6f6c5034-02f3-4f7e-aae0-1a522882adf4</id>
-		 <updated>2019-07-10T23:54:57+02:00</updated>
+		 <updated>2021-02-27T12:25:02+01:00</updated>
 		 <summary type="html"><![CDATA[<p>“She — she stabbed you? In the chest? Was she trying to kill you?”</p><p><a href="http://ʞ.cc/fic/spirals/shopping.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -475,7 +484,7 @@
 		 <title>Smuggler</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/smuggler.html"/>
 		 <id>urn:uuid:f9352f9b-4fd1-4dfc-a686-6f52d0183071</id>
-		 <updated>2019-07-10T23:56:08+02:00</updated>
+		 <updated>2021-02-27T18:42:32+01:00</updated>
 		 <summary type="html"><![CDATA[<p>Everyone wants smuggling to be a much more glamorous business than it is. Secret compartments, dogfights in the void, rare technologies, stolen art, secret peers, and espionage. The reality is a lot less interesting. What it all comes down to is contacts, luck, and money.</p><p><a href="http://ʞ.cc/fic/spirals/smuggler.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -484,7 +493,7 @@
 		 <title>Sparrowhawk</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/sparrowhawk.html"/>
 		 <id>urn:uuid:492acf91-3318-49b7-96fc-d3031ea961ed</id>
-		 <updated>2019-07-10T23:55:44+02:00</updated>
+		 <updated>2021-02-25T08:55:02+01:00</updated>
 		 <summary type="html"><![CDATA[<p>I wake to the rapid chirping of an alarm. Blearily, I push the blindfold off my eyes and stare at the blinking status lamps on the bedside panel until my eyes are focused enough to parse it. Approaching a waypoint. I'm finally in spitting distance of my destination. The janky old timekeeper says 0020 local, estimated. As close to “morning” as you get out here. Almost time to get burning again.</p><p><a href="http://ʞ.cc/fic/spirals/sparrowhawk.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -493,7 +502,7 @@
 		 <title>Strange Bedfellows</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/strange-bedfellows.html"/>
 		 <id>urn:uuid:15975c18-1d8a-43ef-a502-adfc5affd2b4</id>
-		 <updated>2019-07-11T03:30:25+02:00</updated>
+		 <updated>2021-11-18T10:01:12+01:00</updated>
 		 <summary type="html"><![CDATA[<p>“Her Valiance the Dame-Colonel to see you, milady.”</p><p><a href="http://ʞ.cc/fic/spirals/strange-bedfellows.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -502,7 +511,7 @@
 		 <title>Subjugation</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/subjugation.html"/>
 		 <id>urn:uuid:539fdef5-82a1-4503-b089-3b1cdb7334b9</id>
-		 <updated>2019-07-11T00:49:43+02:00</updated>
+		 <updated>2021-11-12T21:41:41+01:00</updated>
 		 <summary type="html"><![CDATA[<p>Fresh sea breeze. Light on the water. A million shades, from rose to violet to cerulean to ultraviolet and beyond. I close my eyes, inhale deeply of her scent, let the music and her touch become my whole world. She caresses my cheek, hands soft as silk, letting her nails scrape along my jawline until I shiver. Her hand closes, ever so gently, around my neck, and I gasp quietly at the touch.</p><p><a href="http://ʞ.cc/fic/spirals/subjugation.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -511,7 +520,7 @@
 		 <title>Submission</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/submission.html"/>
 		 <id>urn:uuid:09be5145-c960-4f09-a919-5d006581bbc9</id>
-		 <updated>2020-06-06T23:21:25+02:00</updated>
+		 <updated>2021-11-19T19:46:23+01:00</updated>
 		 <summary type="html"><![CDATA[<p>There aren’t many things in the universe worse to wake up to than a fireteam of Imperial Guard dragging you to your feet. By the time the girl in the tattered servant’s nightgown realizes the horrific choice she has to make — to fight to the death or face nightmarish torture for the mere hope of rescue — it’s already been made for her.</p><p><a href="http://ʞ.cc/fic/spirals/submission.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -529,7 +538,7 @@
 		 <title>Trade</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/trade.html"/>
 		 <id>urn:uuid:62722e64-3bc6-4095-a2d9-83e010f421d6</id>
-		 <updated>2019-07-10T23:55:59+02:00</updated>
+		 <updated>2021-02-27T13:11:51+01:00</updated>
 		 <summary type="html"><![CDATA[<p>“So we’re agreed then?”</p><p><a href="http://ʞ.cc/fic/spirals/trade.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -547,7 +556,7 @@
 		 <title>Upgrades</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/upgrades.html"/>
 		 <id>urn:uuid:6c7bee3d-0ade-46ce-aadd-023091416bb5</id>
-		 <updated>2019-07-10T23:56:25+02:00</updated>
+		 <updated>2021-02-28T09:53:10+01:00</updated>
 		 <summary type="html"><![CDATA[<p>With some reservations, I leave Wren on the ship. I’m a little worried she’ll feel left out, but after the clusterfuck the poor girl’s been through, she needs her rest.</p><p><a href="http://ʞ.cc/fic/spirals/upgrades.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -565,7 +574,7 @@
 		 <title>Wren</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/wren.html"/>
 		 <id>urn:uuid:38547f08-3080-47bf-8ebf-007723b6bbd0</id>
-		 <updated>2019-07-10T23:55:24+02:00</updated>
+		 <updated>2021-02-25T09:07:50+01:00</updated>
 		 <summary type="html"><![CDATA[<p>I hike up my shirt as I leave the kitchen and pull my revolver out of its hiding place. Behind me, I hear Wren gasp.</p><p><a href="http://ʞ.cc/fic/spirals/wren.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -610,7 +619,7 @@
 		 <title>Friends and Foes</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/friends-and-foes.html"/>
 		 <id>urn:uuid:716b0c7c-5b40-4d6f-83d6-2d2a6887c8a9</id>
-		 <updated>2020-03-19T22:49:05+01:00</updated>
+		 <updated>2021-11-19T01:34:14+01:00</updated>
 		 <summary type="html"><![CDATA[<p>Vi gives me a grateful, fragile smile as I drape the blanket around her shoulders. I sit down next to her, patting my lap, and she flops over, resting her head on my leg. I ruffle her soft, fluffy white hair as I lean back, staring off into space, and taking a gulp of brandy. There’s not enough drink in the worlds to take this edge off.</p><p><a href="http://ʞ.cc/fic/spirals/friends-and-foes.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -637,7 +646,7 @@
 		 <title>Interview</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/interview.html"/>
 		 <id>urn:uuid:e48350ed-56d9-4a30-aeed-749fd437e3b1</id>
-		 <updated>2019-09-13T20:10:10+02:00</updated>
+		 <updated>2021-11-19T01:35:20+01:00</updated>
 		 <summary type="html"><![CDATA[<p>She has no idea how long it’s been.</p><p><a href="http://ʞ.cc/fic/spirals/interview.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -664,7 +673,7 @@
 		 <title>Out of the Dark</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/out-of-the-dark.html"/>
 		 <id>urn:uuid:1b4e7eb1-055f-4b2e-81fc-642be2f00c7a</id>
-		 <updated>2020-04-18T17:10:56+02:00</updated>
+		 <updated>2021-11-19T01:35:03+01:00</updated>
 		 <summary type="html"><![CDATA[<p>Cassil glances morosely at the cell door as she hears the buzzer sound. Safris again takes up position by the entrance as a short, mousy woman in civilian dress steps into the room.</p><p><a href="http://ʞ.cc/fic/spirals/out-of-the-dark.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -673,7 +682,7 @@
 		 <title>Damage Control</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/damage-control.html"/>
 		 <id>urn:uuid:64a35d93-66b7-49ff-875a-1e3b56703d0b</id>
-		 <updated>2020-11-01T23:43:40+01:00</updated>
+		 <updated>2021-10-22T21:30:35+02:00</updated>
 		 <summary type="html"><![CDATA[<p>Livkir’s dorm is an impeccably tidy place. The aura of coziness and tranquility that it seems to give off is enough to subdue even Niltar, who’s curled up quietly on the sofa under a couple of fluffy blankets, only her reddened eyes and sodden handkerchief attesting to her emotional state. She barely reacts when Livkir sits down next to her and puts an arm around her shoulder, but he’s known her long enough to recognize the subtle little shift in her body language that tells him his presence is wanted.</p><p><a href="http://ʞ.cc/fic/spirals/damage-control.html">[read more]</a></p>]]></summary>
 		 <category term="updated"/>
 	 </entry>
@@ -682,9 +691,9 @@
 		 <title>Inbound</title>
 		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/inbound.html"/>
 		 <id>urn:uuid:fbb34efc-1e39-4ccf-bee7-a915364764a4</id>
-		 <updated>2020-07-20T00:00:51+02:00</updated>
+		 <updated>2021-11-19T01:34:42+01:00</updated>
 		 <summary type="html"><![CDATA[<p>The sun has barely crested the horizon by the time she’s finally shaken awake. “You sleep like a <i>pien şai</i>, woman,” Sashuan grouses as Jasmine rubs her forehead and glares blearily up at the Green. Sashuan is perched atop her in her full dress uniform, black-and-white <i>rancal</i> over snug grey leggings, black beret on her head. Her hair is still wet from the shower, and as Jasmine sits up, she catches a whiff of Sashuan’s favorite perfume.</p><p><a href="http://ʞ.cc/fic/spirals/inbound.html">[read more]</a></p>]]></summary>
-		 <category term="new"/>
+		 <category term="updated"/>
 	 </entry>
 
 	 <entry>
@@ -702,6 +711,15 @@
 		 <id>urn:uuid:24dcf310-f742-421a-b15f-04c7697ff597</id>
 		 <updated>2021-02-17T21:23:41+01:00</updated>
 		 <summary type="html"><![CDATA[<p>I drape my coat awkwardly across the over-full coatrack, absentmindedly kicking the snow off my boots and blinking as my eyes adjust from the blinding white of the sun outside. My feet are cold enough I don’t bother to take off my socks, the soft, thick pair that Daisy knitted for me in the Autumnsborough trenches, just days before the battle that took her life. Two years later they’re the only socks I have that seem able to hold their own against the cruel chill of a northern winter.</p><p><a href="http://ʞ.cc/fic/spirals/sparrow.html">[read more]</a></p>]]></summary>
+		 <category term="new"/>
+	 </entry>
+
+	 <entry>
+		 <title>Consequences</title>
+		 <link rel="alternate" href="http://ʞ.cc/fic/spirals/consequences.html"/>
+		 <id>urn:uuid:d426a759-778c-4e7a-b58c-615180e02821</id>
+		 <updated>2021-11-25T04:11:01+01:00</updated>
+		 <summary type="html"><![CDATA[<p>“You meant to keep me from the Council.”</p><p><a href="http://ʞ.cc/fic/spirals/consequences.html">[read more]</a></p>]]></summary>
 		 <category term="new"/>
 	 </entry>
 
