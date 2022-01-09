@@ -71,7 +71,7 @@ ol.exercise li::before { display: none; }
 	transition: 1s;
 	padding: 0 .3em;
 	background: hsl(var(--hue),60%,25%);
-	color: hsl(var(--hue),60%,25%);
+	color: hsla(var(--hue),60%,25%,0);
 	border: 1px solid black;
 	text-shadow: none;
 	border-radius: 3px;
