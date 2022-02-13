@@ -133,7 +133,7 @@ I stare at her. "…oh, honey."
 
 "What?"
 
-"You really don't read the news, do you?"
+"You really don't listen to the news, do you?"
 
 Bear sidles up to me as I finish lacing Sparrow's new boots up tight. "Little bit *too* thorough, weren't ya?" he murmurs, glancing sidelong at the girl. I look up at him.
 
@@ -237,7 +237,7 @@ I look away, shame abruptly suffusing my spirit. "…yeah," I murmur. "Yeah, the
 
 "—friends—colleagues—comrades—I ask you to join me in welcoming to the hallowed Senate halls an officer whose name we all know and cherish, a woman whom our *glorious* nation owes the most profound of gratitude -- and of course, her esteemed guests!"
 
-Applause, some of it wildly enthusiastic, some of it perfunctory and grudging, most of it measured and dignified, rings out as I step up onto the platform. Some of the senators bow or curtsey; a few, high-ranking military officers themselves, stand to attention and salute instead.
+Applause, some of it wildly enthusiastic, some of it perfunctory and grudging, most of it measured and dignified, rings out as their attention turns to me. Some of the senators bow or curtsey; a few, high-ranking military officers themselves, stand to attention and salute instead.
 
 "Sounds like she wants to lick your clit," Sparrow murmurs in astonishment. "Who woulda guessed a bit of power was the way to her tattered little heart?"
 
