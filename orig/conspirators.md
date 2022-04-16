@@ -387,7 +387,7 @@ I nod.
 
 For a moment, Daisy is completely silent, staring at me with faraway eyes. Slowly, her limbs quivering, she sits down next to me, and stares at the floor.
 
-*"Fuck,"* she says finally, shaking her head.
+*"Fuck,"* she says finally, shaking her head.z
 
 "Do you think— does that sound—"
 
