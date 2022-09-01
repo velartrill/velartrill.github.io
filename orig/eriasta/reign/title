@@ -1,0 +1,13 @@
+---
+title:
+  - type: main
+    text: Reign
+  - type: collection
+    text: Eriasta
+creator:
+  - role: author
+    text: Lexi Hale
+lang: en-US
+belongs-to-collection: Eriasta
+description: "A serial set on the world of Eriasta, contemporary to Flight, Reign follows the ambitious monarchs of the Onámaši Empire."
+---

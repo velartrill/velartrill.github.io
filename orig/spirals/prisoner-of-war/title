@@ -1,0 +1,13 @@
+---
+title:
+  - type: main
+    text: Prisoner of War
+  - type: collection
+    text: Spirals
+creator:
+  - role: author
+    text: Lexi Hale
+lang: en-US
+belongs-to-collection: Spirals
+description: "It is the 4th century, by the Imperial calendar, and the galaxy smolders amid the flames and ruin of war. As a hundred world wars engulf the Fringe, the First Empire begins to learn just how seriously the Society of Worlds takes its wartime oath: no comrade left behind."
+---

@@ -358,7 +358,7 @@ I turn towards her as I reach for the contact on to the wall.
 _“Coshvin, tam,”_ I call back, wiping a tear from my eye. _“Coshvin.”_
 
 % is img-oversize 40
-% img ils/raven.png
+% is coda ils/raven.png
 
 % in setting Spirals
 % in serial Raven

@@ -1,0 +1,13 @@
+---
+title:
+  - type: main
+    text: Borderworld
+  - type: collection
+    text: Spirals
+creator:
+  - role: author
+    text: Lexi Hale
+lang: en-US
+belongs-to-collection: Spirals
+description: "The lightly civilized borderworld of Saravan is a squabbling mass of feudal, anarcho-capitalist, and occasionally even socialist fiefdoms with wildly varying ideas about law and order. Most citizens of the Society of Worlds would sooner die in battle against against its pirates and slavers than peaceably visit — but there's no better place in the galaxy for spies like Nirsil Pashtasi Nussadi to do their work."
+---

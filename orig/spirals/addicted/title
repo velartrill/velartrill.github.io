@@ -1,0 +1,13 @@
+---
+title:
+  - type: main
+    text: Addicted
+  - type: collection
+    text: Spirals
+creator:
+  - role: author
+    text: Lexi Hale
+lang: en-US
+belongs-to-collection: Spirals
+description: "On the lawless borderworld of Saravan, the desperate meet the dangerous."
+---

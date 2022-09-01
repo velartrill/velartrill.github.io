@@ -1,0 +1,13 @@
+---
+title:
+  - type: main
+    text: Sparrowhawk
+  - type: collection
+    text: Spirals
+creator:
+  - role: author
+    text: Lexi Hale
+lang: en-US
+belongs-to-collection: Spirals
+description: "Captain Sparrowhawk Sundancer is a carefree smuggler with a girl in every port, an impressive collection of scars, and a past that doesn't want to let go of her."
+---

@@ -47,7 +47,7 @@ She nods and turns back to Vi, slowly sliding the syringe out. She passes it bac
 
 “Seli doesn’t talk much,” Lena says, patting me on the back. “Language was never her strong suit, and she’s always been very… focused.”
 
-Suddenly, coughs — Vi's chest is moving suddenly; she's convulsing, hacking and coughing and gasping for breath. *“Wr-Wren…?”* she chokes out, voice full of terror and confusion as she desperately calls my name, curling her body up into the fetal position.
+Suddenly, coughs — Vi's chest is moving on its own she's convulsing, hacking and coughing and gasping for breath. *“Wr-Wren…?”* she chokes out, voice full of terror and confusion as she desperately calls my name, curling her body up into the fetal position.
 
 *“Vi!”* I grab her by the shoulders, kiss her frantically on the forehead. “Vi, I'm here; I'm right here, babe. Oh thank God, oh thank *God—”*
 
@@ -65,7 +65,7 @@ Seli pulls a small black band out of the briefcase, and takes Vi’s hand. Vi ye
 
 “If her oxygen saturation to drop, then I know,” says Seli. “If her heart rate to drop, then I know. If she to fall, then I know.” As if to demonstrate, she taps Vi’s bracelet and hers and Lena’s both light up. “So don't to happen again. Two more minutes, all it would took.” She holds up two fingers as if to emphasize. “Two. Then she would died. Incredibly lucky was this. Luck don't to save her next time.”
 
-“That’s… that’s a radio? So small?”
+“That’s… that’s a farcaster? So small?”
 
 "It is, yeah," Lena confirms.
 
@@ -77,7 +77,7 @@ Seli pulls a small black band out of the briefcase, and takes Vi’s hand. Vi ye
 
 “We’ll keep watch. If anything happens, I’ll wake you first thing, you have my solemn word.” Lena ruffles my hair again, beginning to stow the medical gear. “You can rest easy knowing we’re standing guard.”
 
-I’m too tired to argue — and he’s probably right. I lay back, holding Vi close to me and pulling her head in under my chin. She murmurs sleepily. “If any… a-anything happens,” I murmur, “there’s a— in the back of the wardrobe, um, there’s a false back; the code—”
+I’m too tired to argue — and he’s probably right. I lay back, holding Vi close to me and pulling her head in under my chin. She murmurs sleepily. “If any… a-anything happens,” I babble, “there’s a— in the back of the wardrobe, um, there’s a false back; the code—”
 
 *“Rei.* Rest.” Lena closes up the last case, hefting it off the bed. “We’ll talk strategy tomorrow, all right? Right now you *both* need sleep.”
 
@@ -101,7 +101,7 @@ I pour a bit of my usual perfumes and soaps in the ceramic water-vessel and hold
 
 I know I shoulda let Vi dress and wash me. I know how much she craves a real, respectable life and our circumstances are cruel enough on her already without me keeping her from her wifely duties — but I don't mean to dishonor her; it's just one of those things I gotta do for myself now and then, tradition be damned. Especially after last night — I'm feeling the need to take some charge over my own body. If Vi feels denied over it, I got no shortage of ways to make her feel mine again.
 
-I pad softly out into the kitchen, where Vi is perched at the bar, steaming mug in hand. She gives me a fragile smile when she sees me, proffering a coffee pot. If the sight of me fresh-washed and clothed hurts her, she doesn't let it show.
+I pad softly out into the kitchen, where Vi is perched at the bar, steaming mug in hand. She gives me a fragile smile when she sees me, proffering a coffee pot. If the sight of me fresh-watered hurts her, she doesn't let it show.
 
 “Seli made _kie giang!”_ she calls, a little note of excitement in her voice.
 
@@ -129,7 +129,7 @@ I pat her on the back. "You don't gotta thank me for letting you do me a kindnes
 
 "I just— it's not— we're not—"
 
-"Damn the law. You're mine. God and the ones who matter know it, and that's what matters true. "
+"Damn the law. You're mine. Khata'e and the ones who matter know it, and that's what matters true. "
 
 “I’d ask you if you slept well, but from how you look I guess I already know the answer,” Lenshal says sympathetically, shutting the oven and setting a fresh-cooked bowl of _bai shang_ on the countertop. I stare at him.
 

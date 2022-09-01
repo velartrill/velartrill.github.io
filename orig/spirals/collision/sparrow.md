@@ -2,7 +2,6 @@
 % by Lexi Summer Hale
 % to pub/vt/fic/spirals
 % path fiction/Spirals
-% is coda ils/silverdawn.png
 % in arc League
 
 I drape my coat awkwardly across the over-full coatrack, absentmindedly kicking the snow off my boots and blinking as my eyes adjust from the blinding white of the sun outside. My feet are cold enough I don't bother to take off my socks, the soft, thick pair that Daisy knitted for me in the Autumnsborough trenches, just days before the battle that took her life. Two years later they're the only socks I have that seem able to hold their own against the cruel chill of a northern winter.
@@ -113,7 +112,7 @@ I tap the blue stripe on her uniform. "Because *this* is woefully inadequate. He
 
 Moose yawns, nodding and bouncing up from the couch. "Roger that. C'mere, hotshot." He beckons to Sparrow, ignoring her complaints as he manhandles her gently out of bed, unbuttoning the oversized pajamas I dug out of a closet for her. The poor thing looks half the size she used to, a pale sliver of a waif of a girl, nothing like the force of nature I remember, all tan, sleek, perfectly disciplined muscle and lazy grins.
 
-We all cleaned the blood and grime of battle off ourselves (and sometimes each other) butt naked in the group showers together so many times that the only remarkable thing about seeing Sparrow in her underwear is how goddamn many scars she has, some in places I don't much like to contemplate. I spot a gnarly old bullet wound from the siege of Rookshalter, where I made a real mess digging out a round I figured for sure would be filled with the usual poisons and venom — it wasn’t, of course, meaning I smashed her up all the worse inside for little more than a souvenir, not that she breathed a word in complaint. But on the whole it's a little hard to tell which ones are battle scars, which ones were torture wounds… and which ones she did to herself. Moose tugs the fresh-tailored uniform down over the girl's quivering shoulders, fastening buckles around the waist and straightening the rank strip. Sparrow catches a glimpse of herself in the mirror and starts.
+We all cleaned the blood and grime of battle off ourselves (and sometimes each other) butt naked in the group showers together so many times that the only remarkable thing about seeing Sparrow in her underwear is how goddamn many scars she has, some in places I don't much like to think on. I spot a gnarly old bullet wound from the siege of Rookshalter, where I made a real mess digging out a tox round before the poison seeped into her — the cartridge turned out to be empty, of course, meaning I smashed her up all the worse inside for little more than a souvenir, not that she breathed a word in complaint. But on the whole it's a little hard to tell which ones are battle scars, which ones were torture wounds… and which ones she did to herself. Moose tugs the fresh-tailored uniform down over the girl's quivering shoulders, fastening the buckles and straps around her waist and arms, and straightening the rank strip. Sparrow catches a glimpse of herself in the mirror and starts.
 
 "I… I look… This feels all—"
 
@@ -197,7 +196,7 @@ The entire building is filled with frantic salutes. One soldier is in such a hur
 
 Building comfort and camaraderie was so much easier before my picture was plastered over every other wall on the planet. Back then everyone expected me to prove myself, to earn their respect. Now they're trying to prove themselves to me, and it's a rare day I hear sincere laughter at my jokes, even the good ones. Everyone just says and does what they think I want to see, and unless they served alongside me it never seems to occur to them that I might not be big on superficial flattery.
 
-"Very good, ma'am," is all I get out of the lieutenant in charge, who rushed immediately to the front of the station to greet me, and while his hand drops from his brow, his posture doesn't shift. "Your orders, ma'am?"
+"Very good, ma'am," is all I get out of the lieutenant in charge, who rushed immediately to the front of the station to greet me, and while his hand drops from his brow, his posture doesn't shift. "Orders, ma'am?"
 
 "Just passing through. Open the gates, would you?" I gesture to my comrades in arms. "They're with me."
 
@@ -205,11 +204,11 @@ He salutes, turns, and snaps his fingers at the soldiers manning the inspection 
 
 "Likewise, lieutenant." I pat Sparrow on the shoulder, ushering her through ahead of me. The soldier in the inspection booth gives the uniformed waif a bemused look as she passes, and the color drains from his face as I fix a glare on him. *Show some damn respect.*
 
-You can tell how seriously the central government takes security here by the terminals in each inspection stall, symbols glowing blue on their little phosphor-matrix screens. We've made some advances with the help of our new friends, but installing a network-capable computer in every guard station and hooking them into the ISB's systems for live access to government databases is still no mean feat. Neither is training a bunch of jarheads to use the damn things, even if they'd manned the stations with Khmai alone instead of any the other tribes, the lot of us all but entirely illiterate even in our own ethnic scripts. Even with my scribal training, keying text into a terminal is a painful slow process.
+You can tell how seriously the central government takes security here by the terminals in each inspection stall, symbols glowing blue on their little phosphor-matrix screens. We've made some advances with the help of our new friends, but installing a network-capable computer in every guard station and hooking them into the ISB's systems for live access to government databases is still no mean feat. Neither is training a bunch of jarheads to use the damn things even though we tapped Khmai for operators where we could, on account of the rest of the tribes being all but entirely illiterate even in our own ethnic scripts. Even with my scribal training, keying text into a terminal is a painful slow process; I can never remember which contact goes where.
 
 We emerge from the checkpoint into the Garden Circle. A fresh tram — one of the fancy new models the senatorial elites called first dibs on — is waiting for us, its passengers emptying out through the exit lane. Given first choice, we all head instinctively towards the back, where cover is plentiful and we can survey the rest of the enclosed coach with ease. You can take a soldier out of the war, but I'm not so sure about taking the war out of the soldier.
 
-The seats are large and well-padded, with high reclining backs of the sort that would doubtless find an enthusiastic audience among elderly scholars with frail bones and ache-prone necks. Sparrow sinks down into the one in the farthest corner, and I seat myself across from her. So gallant and thoughtful of the senators to test out all this wonderful new technology for the rest of us, make sure it's safe for use by all the little people.
+The seats are large and well-padded, with high reclining backs of the sort that would doubtless find an enthusiastic audience among elderly scholars with frail bones and ache-prone necks. Sparrow sinks down into the one in the farthest corner, and I seat myself across from her. So gallant and thoughtful of the senators to test out all this wonderful new technology for the rest of us, make sure it's *safe* for all the *little people* to use.
 
 I stare moodily out the window as we accelerate, glittering snowflakes flashing past for a moment before we duck down into the tunnels. I rode the tram a lot in another, half-forgotten life back in what was once Shrike's Harbor, from a dingy hovel on Peddler's Point to the towering scribal complex on the Tanglebrook and back every working day. I think if you'd told that idealistic girl that on the other side of her dream lay electric traction, regular schedules, shock absorbers, and an end to the loud, perpetual whuffling of the poorly streetbroken _şue phin_ that used to draw the coaches, she would have signed on with the Winter Suns years earlier and fought twice as hard.
 
@@ -395,8 +394,8 @@ Sparrow nods. "Either Wagbeak really cares a lot about what we think 'bout her�
 
 "—or that was… completely sincere," I murmur, my eyes crossing slightly.
 
+% is coda ils/silverdawn.png
 % prev harmony.html Harmony
-
 % in setting Spirals
 % is chapter 10
 % with style set/league.css

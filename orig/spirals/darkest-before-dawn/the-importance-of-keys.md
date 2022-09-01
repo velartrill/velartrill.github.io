@@ -391,3 +391,4 @@ I bow again. "I shall depart for the void as soon as I have prepared the Viziera
 That hurt.
 
 That hurt a lot worse than being punched by Lishuen. More easily would I endure another bout of scarification than face Her again.
+

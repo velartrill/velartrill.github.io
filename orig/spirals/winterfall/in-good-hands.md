@@ -375,13 +375,13 @@ Fuck, if Lena's anyone to judge by, it can be one of the best things there is.
 
 "I know what it is," Lena says, stroking my arm. "In Ranuir the word is *seliul* but I don't think there's any real way to translate it."
 
-"Well. *Seliul,* then. Thank you for… for letting me experience  this."
+"Well. *Seliul,* then. Thank you for… for helping me experience  this."
 
-"I’m so sorry you've never been able to before." He hugs me softly before turning me side sideways across his lap; he touches my chin, pulling my head up to look him in the eyes, stroking my cheek softly and smiling at my blush. "I really do hope I'll be able to be a positive presence in your new life, and help look after your emotional and physical needs as well as your safety. It warms my heart to be able to."
+"I’m so sorry you've never been able to before." He hugs me softly before turning me sideways across his lap; he touches my chin, pulling my head up to look him in the eyes, stroking my cheek softly and smiling at my blush. "I really do hope I'll be able to be a positive presence in your new life, and help look after your emotional and physical needs as well as your safety. It warms my heart to be able to."
 
 I rest my forehead against his neck, closing my eyes. His skin's so smooth — not so much as a patch of stubble. It's enough to make you wonder—
 
-"Can I ask you a personal question?" I murmur.
+"Can I… ask you a real weird personal question?" I murmur.
 
 "After everything you've shared with me? Shoot."
 

@@ -1,0 +1,13 @@
+---
+title:
+  - type: main
+    text: Cohesion
+  - type: collection
+    text: Spirals
+creator:
+  - role: author
+    text: Lexi Hale
+lang: en-US
+belongs-to-collection: Spirals
+description: "Corewards of the rotting Second Empire lies the infamous Society of Worlds, a sparse and spartan people who hide their small numbers among the foliage of bountiful garden planets. Their little communes and comfortable lives belie a civilization of fanatical discipline, ruled from a secret world hidden among the stars. Her population bred carefully by calculating eugenicists and raised from infancy by agents of the state, the Society has taken the destiny of humanity forcibly into her own hands. The military prowess of her citizens, unmatched among all the people of Haven, makes quick work of the pirates and raiders and slavers who think their homes ripe for exploitation, and shall perhaps some day — perhaps even soon — again meet the wrath of the Imperial machine on the fields of battle."
+---
