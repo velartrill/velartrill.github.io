@@ -1,0 +1,569 @@
+# Inbound
+% by Lexi Summer Hale
+% with style set/league.css
+
+The sun has barely crested the horizon by the time she's finally shaken awake. "You sleep like a _pien şai_, woman," Sashuan grouses as Jasmine rubs her forehead and glares blearily up at the Green. Sashuan is perched atop her in her full dress uniform, black-and-white _rancal_ over snug grey leggings, black beret on her head. Her hair is still wet from the shower, and as Jasmine sits up, she catches a whiff of Sashuan's favorite perfume.
+
+"What the fuck, Sashi, it's still first light—"
+
+"It's almost past S9H and you're *still in bed.*" Sashuan hauls her, stumbling, to her feet, taking full advantage of her enormous physical strength. _"Pen a don_, this is the third time I've tried to wake you up—"
+
+"You never go to work this early!"
+
+"You do though." Sashuan pats her on the cheek, yanking her nightgown up over her head to an indignant yelp. "Our appointment is at S8H sharp. You know enough about the People you should want very badly not to be late." She kisses Jasmine softly on the lips, taking her sufficiently by surprise that her muscles slacken in the smaller woman's grip.
+
+"Oh, fuck, right, we have that thing—"
+
+"Fuck, indeed. You're going to finally get that job interview you've been bitching about for months. Awful, I know." Sashuan pats her rear, pointing towards the bathroom. "Go. *Shower*."
+
+"…alright, alright! You don't have to be so—"
+
+Sashuan touches a finger to Jasmine's lips. "'Alright, alright, *ma'am.*'"
+
+"—so fucking *Society* about it." Jasmine rolls her eyes, shivering in the morning chill and grabbing a towel as she heads towards the bathroom.
+
+_"Menit mire,"_ Sashuan replies playfully. _Love you too, darling._
+
+_"Rukhara la'u,"_ Jasmine replies before slamming the door. _Beast._
+
+She rests her aching head against the tiled shower wall as the hot water caresses her shoulders. It takes a few minutes before she's awake enough to feel anxious, but before long her heart is pounding and her hands quiver with the slightest tremor as she rubs the bar of soap back and forth across her skin. *It'll be fine,* she tells herself, over and over. *Sashi'll be with me. I'll be fine. Worst that can happen is I don't get the job. Right?* She bites her lip. *What're they going to think? A citizen and a… a* uastash *like me? Is that going to be a problem? No, no, no, it'll be fine,* Mitiku Khata'e, *stop* worrying *about everything, Jasmine, you're going to be fine. Everything's going to be fine. Sashi wouldn't be dragging you in there if anything bad was going to happen.*
+
+*Fuck, what am I going to wear?*
+
+She emerges from the shower ten minutes later, hair dripping wet. Sashuan's sitting on the bed, legs crossed, hands in her lap, posture sharp and perfect, and Jasmine swallows hard. Far from her usual messy hair, ragged skirts, and Matikhe-may-care attitude, her girlfriend is effortlessly radiating an aura of absolute discipline. Hair combed back and tied into a slick ponytail, skintight black uniform without a single wrinkle, back straight as a fencepost. The glimpses she's had of *this* Sashuan have been momentary, hazy goodbye kisses amid the gentle fog of sleep. Seeing her like this fully awake is… *fuck, is this what they're going to expect from me?*
+
+Sashuan smiles up at her. "Much better."
+
+Jasmine clears her throat weakly. "…Sashi?"
+
+"Yeah, hon?" 
+
+She tries to focus, calm her pounding heart. “Is there, um. Like. H-how should I dress, do you think? I mean. Since— since I need to make a good impression and all?”
+
+Sashuan smirks. “You look fine just like that, babe,” she replies innocently. Jasmine throws a pillow at her.
+
+*“Seriously.”*
+
+“Okay, okay.” Sashuan wraps her arms around the flung pillow and snuggles up to it. “You should go with, like… dark colors, for one. These are military people; you wanna look like a professional hardass. Nothing bright, no patterns, just solid colors. Black or dark grey’s best, definitely no white anywhere. —No, no, not that.” Sashuan makes a dismissive gesture at the hoodie Jasmine holds up. “Too loose. You want something skintight, bare shoulders—”
+
+“Oh come *on,”* Jasmine sneers, glancing around in search of another pillow. “You’re just trying to get me to… dress sexy so you can show me off, aren’t you? ”
+
+“Honey,” Sashuan replies, wounded, “you don’t need to dress up to be hot. And for the record, yes, I absolutely am going to show you off at every opportunity, but I’m actually being serious right now.”
+
+“So, what, sexy is formal for you people or something?”
+
+“It’s… not exactly like that?” Sashuan flops over on her back. “It’s like. You gotta look respectful, I guess. And that means, sort of, making yourself vulnerable. Your body, I mean. Not hiding yourself away. You show up in a big fluffy hoodie, everyone’s gonna take one look at you and think, ‘oh boy, that fucking _uastash_, she’s gonna be trouble, you can just tell she’s got something to hide.’ *Whereas*, you wear that lovely silky dress I got you for once, you look like a team player, and professional to boot.”
+
+Jasmine pouts. “Are leggings okay, at least?”
+
+“Only since it's cold.”
+
+“You have got to be kidding me.”
+
+Sashuan giggles. “You’ve seen how we dress, babe. I mean, I could loan you a _rancal_—”
+
+“Alright, fine! I’ll wear the dress.”
+
+“Good girl.” Sashuan stands and pads softly up behind Jasmine, wrapping her arms around her bare waist. Jasmine turns, takes Sashuan’s cheeks between her hands and kisses her tenderly on the lips. She shivers as her partner slips a leg between her thighs, rubbing up against her bare cunt. Sashuan reaches into Jasmine’s tangled hair, taking hold and pulling back, forcing Jasmine to look up at the ceiling as Sashuan takes her time nipping, kissing, and digging her teeth into her lover’s neck.
+
+“Aaah! S-so pants are forbidden, but hickeys are okay?” Jasmine manages, between gasps.
+
+“I gotta mark my property, babe.” Sashuan giggles, and Jasmine whimpers as the tip of Sashuan’s tongue teases her skin. “Oh, I bet you’d like to know what I’m doing down here, huh?” she whispers, pulling Jasmine’s head even further back. “Like to have some forewarning I’m about to savage you, huh? Too. Bad.” She punctuates the last two words with bites, and slowly releases Jasmine. She cups her hands around her partner’s neck, kissing her deeply when she tries to speak. “You’re going to have some real nice bruises before too long,” Sashuan murmurs, caressing one mark with a thumb before pressing hard against it and delightedly watching Jasmine mewl in pain. “Oh, Khata’e’s tits but I could do this to you all morning.”
+
+Jasmine’s face is a deep red. “…it feels wr-wrong how much I wish you would.”
+
+Sashuan smiles brightly up at her, patting her cheek and kissing her again before withdrawing. “Well, don't worry. We'll have plenty of time to celebrate this evening. I’ll help you get dressed.”
+
+Everyone has their little quirks and idiosyncrasies. One of Sashuan's, Jasmine's noticed, is that she almost never asks permission. Never asks what anyone wants. She just makes up her own mind about what's best for you and acts, your own feelings on the subject be damned. It's exactly the kind of thing that makes Jasmine's blood boil, all the more so for how often Sashuan seems to be exactly right about everything. But though she'd never admit it aloud, the way the girl treats her makes her feel *wanted* in a way no one else ever has.
+
+She studies herself in their full length mirror as Sashuan slips Jasmine's winter coat up over her shoulders and kisses her softly on the back of the neck. The dress looks like something she'd wear to a club, and the idea of wearing it to *work*… she quickly buttons up the coat, cheeks reddening. Sashuan smiles up at her as she turns, taking her tenderly by the waist.
+
+"Got your ID, right?"
+
+Jasmine fishes in her purse for a moment, then nods. "Yeah."
+
+"Good. Last thing we need is to get to the tram stop and not even be able to board." Sashuan offers her arm, and Jasmine takes it, squeezing her hand tightly. Sashuan pats her shoulder.
+
+"You're nervous," she observes as she pulls back the door.
+
+Jasmine nods again. "Wouldn't you be?" she replies, following her out into the corridor. 
+
+The question seems to take Sashuan off guard, and she pauses, step faltering for the briefest moment. Behind them, the door slides shut, lock clicking audibly into place. "Why would I be?" she asks, looking quizzically up at Jasmine, in the voice of one sincerely confused.
+
+Jasmine exhales, eyes turning heavenwards. "What in Haven do you— why *wouldn't* you be nervous in my shoes?"
+
+"What would I have to be nervous about?"
+
+"I— jeez, I don't know, not getting the job? Pissing off your superiors? Making an idiot of yourself in front of… everyone?"
+
+Sashuan laughs as she keys the lift panel. "What? That makes no sense. If they decided not to put me in a particular role, it'd be because I wasn't suitable. If I'm not suitable for a job, I shouldn't have it. Nothing to get emotionally invested in."
+
+Jasmine stares. "A job you were… waiting for for months? Sitting on your hands and feeling useless all the while? You'd just shrug and say 'oh well, no hard feelings' if they said no, after all that?"
+
+"What does it matter *where* I serve? So long as I'm contributing to the best of my ability?"
+
+"What does it matter!?" Jasmine practically yelps. "What does it matter whether you're *running the goddamn city* or *cleaning the goddamn toilets?* Doesn't it matter to you?"
+
+"Everyone cleans the toilets," says Sashuan with a shrug. "They rotate the really unpleasant stuff around so no one has to deal with it for too long."
+
+Jasmine rolls her eyes. *"Everyone.* I'm just sure. I'm just *sure* your boss dutifully gets down on hand and knee to scrub the porcelain whenever her number comes up."
+
+Sashuan frowns. "Of course she does. Why wouldn't she?"
+
+"I… *seriously!?"*
+
+"Seriously."
+
+"The woman with the absolute power of life and death over damn near every soul in this city? Scrubs the *toilets?"*
+
+"In this whole administrative zone, actually. And yes. What's that got to do with it anyway?"
+
+Jasmine takes a deep breath, and tries a different tack. "Can you imagine the *Duchess* mucking out toilets?"
+
+Sashuan giggles. "I don't have to imagine. She's on indefinite hard labor, after all—"
+
+"I mean *before* the occupation."
+
+"…oh." Sashuan wrinkles her brow, sounding somewhat hurt. "You're… comparing the Director to the Duchess?"
+
+Jasmine trips over her tongue trying to rephrase and apologize at the same time. "I mean— I didn't— I'm not— I'm sorry, I— not like— I didn't mean it like *that—"*
+
+"Well then, what did you mean?" Sashuan ducks aside to make way as the lift empties out, flashing a smile at a fellow citizen of the People, then tugs Jasmine's arm, leading her inside.
+
+"I mean-- why is someone so powerful doing something so… menial? I don't understand…"
+
+Sashuan sighs. "I see the problem. Jaz, honey, we talked about this--"
+
+"Come on, *please* not another lecture--"
+
+"You're using bourgeois labor values to try and make sense of proletarian ones. The Duchess *exploited* the working people. She *used* them for her own profit, giving them nothing in return beyond what was needed to keep them alive and working. The Director isn't exploiting anyone. Her job is fixing this place up and helping us win the war. Protecting the workers and looking out for their interests, because they don't know how to. She's here to *lead* us."
+
+"I'm not sure I understand the difference."
+
+"Of course you fucking do." Sashuan punches her in the shoulder. "You've *been* a leader. Or were you just exploiting all those people in the homeless shelter all along? You and all the comrades you worked with to set that place up?"
+
+For a long moment, the only sound is the whir of the slowing lift motor.
+
+"I keep seeing you make this same mistake, Jaz," Sashuan says softly, stepping in front of her and taking her by the wrists. "Just like last night. You *do* understand the difference between exploitation and leadership, but for some reason you just can't see the new government as leaders, like it's no different from the old one. All authority is bad authority to you. Like last night--"
+
+Jasmine's knuckles whiten. "Please don't bring that up, Sashi--"
+
+*"Like last night.* Jaz, I'm sorry, I can't just pretend that didn't happen. You could have got hurt, bad. If I hadn't been there…"
+
+"Well, you were, and it's fine, so--"
+
+"It's not fine." Sashuan jabs the 'close' contact as the lift door starts to open, tightening her grip on Jasmine's body. "My girlfriend came within five seconds of being *shot* last night. By someone on *our own goddamn side.* Just because she couldn't fucking *behave.* Jaz, it's like ever since the start of the Occupation, you've been seeing *us* as the bad guys all of a sudden. All your rebelliousness that was aimed at the Imperial system, you're just pointing it at us now, and you've got an itchy fucking trigger finger. All that anger and distrust and fear, we never earned that! The *Empress* did, not the Director, not that poor commissar from last night--"
+
+"Aren't we going to be late?" Jasmine interjects softly.
+
+Sashuan grits her teeth, and slams the door-open contact. "Yeah. If I keep this up. I'm sorry. I wasn't thinking."
+
+"It's okay," says Jasmine, in a voice that says nothing is okay in the slightest.
+
+It's early enough that the lobby is still mostly empty, apart from a Sisterhood officer at the information desk who looks half-asleep. None of the government offices in the building are open yet, and the few officials lucky enough to have apartments here are for the most part also lucky enough to have reasonable hours. Two Popular Front footsoldiers are standing guard at the door, and Jasmine breaths a quiet sigh of relief to find no sign of the Society soldier from the day before. "Emphasis patrolling," Sashuan called it -- people will be less likely to cause trouble if there's a chance they'll be facing off against a full-blood *randani* in combat armor, or so the thinking goes. It doesn't make the sight any less nerve-wracking.
+
+Intellectually, Jasmine *knows* the guards are there to protect her, but… the sight still sets her heart pounding as if they were greycloaks. The uniforms whose sight used to bring her a sense of warmth and safety now just fill her with fear.
+
+The chill morning air sends a shiver down her spine as the doors shut behind her. The harvest season is coming to a close, winter well on the way. Her gaze is drawn to the distant horizon, past whose jagged and towering skyline are so many farms that will soon lay fallow, putting an end to the flow of fresh grains, vegetables, and fruits into the city. News of the outside world is scarce here, but her privileged position leaves her well aware that the southern hemisphere is still largely in the hands of the enemy. Their fields will soon swell with produce for market, while the northlands will have only meat and dwindling stockpiles to rely on for nourishment. If the fertile farmlands of the South don't soon fall -- or, Khata'e forfend, the spiteful enemy salts its land before retreating -- famine will grip the North, and the shortages that came before will seem an era of ease and plenty by comparison.
+
+She feels Sashuan's soft hand in her own, and halfheartedly tightens her grip. "I hear there's been some progress with the vertical farms," the Green says, voice fragile and hollow, mind clearly fixed on the same track.
+
+"That's good," Jasmine replies quietly.
+
+"Mostly potatoes and _chue teng_ for now. Enough to keep a few thousand fed."
+
+"…per farm or…?"
+
+"Per city." Sashuan looks away, down the boulevard. "They're working on it."
+
+Curfew is still in effect, and the streets are deserted. Anyone outside right now who doesn't have permission to be is going to be hidden safely away from prying eyes. Society martial law is harsh, and there are bounties for turning in fellow civilians. As Jasmine's eyes survey the quiet street -- a street once bustling with life and activity at every hour of the day -- she can't help but wonder if it's all really necessary just to keep the peace. Or if there's something more going on.
+
+She starts at the sound of raised voices from up ahead, hand moving instinctively towards where her pocketknife would have been before the crackdown on folding blades. She hears derisive and angry Zia Ţai spoken with a thick Khmaira accent. Sashuan squeezes her shoulder as they turn the corner.
+
+Two Popular Front officers are standing up ahead, both young Khmai men. Between them is a woman, Zyahua, backed up against the wall, fumbling in her pockets, hands shaking, eyes full of fear. One officer is standing slightly back, arms folded, impassively watching his smaller companion berate her.
+
+"--so sorry, I--I have it here somewhere--"
+
+"You *have it there somewhere?*" The officer laughs aloud. "Stop wasting our time, woman. You know the law--"
+
+"I swear, I'm authorized--"
+
+"'Authorized' my ass. Look at this bitch, Laur-- thinks she's above the law. Just like every other bird in this city."
+
+"Mm," Laurel replies.
+
+The smaller man grabs the woman by her hair and she cries out in pain. "When are you lot going to learn the color of your skin and your perky tits *don't make you better'n us?*" he growls. "I'm starting to get real tire--"
+
+Laurel suddenly looks up. "Will," he murmurs.
+
+"What?" Willow glances at him, then his hand flies to the butt of his gun and he turns towards Sashuan and Jasmine. "Alright, ladies," he begins, "curfew checkpoint, you know the drill -- papers out, backs against the wa--" He stops abruptly when it belatedly dawns on him that he's talking to a Green, mouth moving silently for a moment as his brain frantically backtracks. Sashuan smiles pleasantly, brandishing her badge.
+
+"Sashuan Solnadi Vanteni, Havenrun Occupational Authority. Is something here the matter, officers?"
+
+Willow stammers for a moment. "W-well," he manages finally, "it's-- it's just a curfew violation, nothing, er, nothing you need to trouble yourself with, er." He clears his throat. "Ma'am. I-- I'm sorry to have--"
+
+"Here!" The Zyahua woman yanks an identicard from an overfull pocket and thrusts it at Willow. "Here, my card is right here!"
+
+Willow glances at her, then takes the card, examining it for a moment. "And your name is…?" he asks, eyeing the woman suspiciously.
+
+"Bluejay. Bluejay Blackbough."
+
+"…hm." He turns the card this way and that, squinting at the photo at the top, at the little "curfew exempt" glyph along the bottom. "Laur?"
+
+Laurel leans in, eyeing the card for a moment. "Card's real," he says after a moment. "Exempt is forged though." Willow nods.
+
+"Yeah. Exactly what I thought." He steps closer, grabbing Bluejay by the shoulder and shoving her face-first against the wall. "Do you know what we do to little birds what can't stay *put* in their cages?" he hisses in her ear, handcuffs materializing in his right hand.
+
+"No! No, I swear to God it wasn't forged--"
+
+"Well, that's easy enough to check!" Sashuan snatches the card and plucks her handset from her belt. Willow looks up in alarm.
+
+"The fuck are you doing-- er, m-ma'am?"
+
+Sashuan flashes him a smile as she touches the card to the back of her handset. "Running it against the master database, of course. Hm, let's see-- Bluejay… I'm sorry, what was your family name again?"
+
+"Blackbough!" Bluejay squeaks. Sashuan nods.
+
+"All in order, then. Curfew exempt from S9H forward daily."
+
+Willow blinks. "Wh-*what?"*
+
+*"Local Rationing Coordinator* Bluejay Blackbough is due in the office at S720M prompt each day of the week, *officer,*" Sashuan answers coolly. "You ought to be *ashamed.* This woman is one of the people who's responsible for *keeping us all alive* this winter."
+
+Bluejay slips free of Willow's slackening grip and snatches her identicard back. "I *told* you!" she exclaims, stuffing the card back into the depths of her purse.
+
+"I-- er-- well, I--" Willow stares up at Laurel in desperation. The larger man merely shrugs.
+
+"Tell me something, Junior Sergeant." Sashuan folds her arms. "You said something earlier that just *fascinated me.* 'You think you're above the law. Just like every other bird in this city.' Can you explain to me what you meant by that?"
+
+"You don't know how they treated us!" Willow balls his fists, anger burning right through his fear of Sashuan, who raises her eyebrows. "You didn't have to grow up being taunted and pushed around and *humiliated* every day of your life by a bunch of… uppity little bitches you could'a broke in half with your own bare hands who could still get away with whatever they wanted 'cause all a bird has to do to get you *goddamn burned alive* is to run to the nearest robe and cry rape at the top of her lungs. Who'd believe a snowhair boy's word over theirs, hey?" He glares at Bluejay, who flinches. _"Va Mati,_ Green, you have *no goddamn idea* what our lives were like a year ago. You're happy to use our muscle, our guns; happy to throw grey skin in front of red guns so's you don't get your precious armor all dinged up, but you won't even let us have a moment's justice for a lifetime of indignity—!"
+
+"How old are you, brother?" Jasmine asks quietly in Khmaira, startling the soldier into silence.
+
+"…eh?" he manages finally.
+
+"It was a simple question."
+
+"Uh… nineteen, sister."
+
+"Nineteen. Okay." Jasmine steps closer, touching her lover on the arm. "Sashuan has been fighting this battle since you were a *child*, Junior Sergeant. She's been out on these streets in rain and in snow struggling to put together a decent fighting force out of rabble like you, breaking her back building unity and common cause all while people spat on her and called her _shang guo_ and _sjakhmae_ and _umurttuki_ because they didn't fucking know any better than what they'd been taught. And she buckled down and did her job anyway, because *that's what soldiers do.* I grew up on the same Matikhe-bepissed streets that you did, so don't you dare pretend for a *moment* that you've been through worse than Sashi has. You're supposed to be a soldier, not a petulant child. *Act like it."*
+
+_"Na,_ so that makes it all okay?" Willow jabs an accusing finger at Bluejay. "Everything the _mae jaroshkho_ did to your brothers, to your uncles, our fathers; _sakir shmie,_ our sisters and mothers? I had to watch filthy little birds *rape my fucking sister* in an alley when I was fifteen years old and now you want me to smile and say it's all okay?"
+
+*"For shame,"* Sashuan growls, and Jasmine can hear real anger in her voice this time; her normally flawless command of Khmaira is wavering in face of the raw emotion. "Why can you _uastahinar_ not save your anger and aggrievement for the *enemies* of the people? Why must you harass a *comrade* for the crimes of the bourgeoisie? _Pen a don,_ it was people like you who made my job the *hardest* for the last decade -- bloody-minded nationalists who can't put aside your petty ethnic strife for long enough to put out a fire, let alone win a goddamn war. Don't you get it, child? *This is exactly what they want.* This is how they divide us, how they keep us squabbling for scraps while they feast in safety and comfort on the fruit of our blood, sweat and tears." She draws herself up. "You'll be the eighth Popular Front thugs I've had flogged this month, you know. I'm starting to doubt you'll be the last." She holds out a hand, gripping her handset in the other. "Badges."
+
+"Please, ma'am, that's not necessary."
+
+They all pivot in astonishment. Rather than flee for her life to the tram station, Bluejay is still standing there, shivering in her fur coat, purse clutched awkwardly in her hands. Sashuan stares. "I'm sorry--?"
+
+"You… you are a very generous and honorable woman, Mistress Sashuan," Bluejay warbles, "but… please don't waste your kindness on me. I don't deserve it."
+
+"What in the fuck?" Jasmine exclaims. "Why would you *say* something like that about yourself, woman?"
+
+With obvious difficulty, Bluejay meets her gaze. "Ma'am, I come from an old Civil Service family. Before the city fell, I was a tax collector. I took food and silver from working people and the Duchess paid me more than anyone who makes an honest living. There are good, honest, courageous Zyahua women out there but I am just a coward. I am exactly what Master Willow says I am, and I don't begrudge him his right to vengeance. Please save your compassion for those who deserve it. *Please* don't punish them for this."
+
+As the young woman looks away, cheeks reddening, nobody looks more surprised than Willow.
+
+This time, Laurel is the first to speak. "Come now," he scoffs, idly lighting a cigar and patting Bluejay on the shoulder. "Can't be all that bad, hey?"
+
+"…I… beg your pardon?"
+
+"If you were as bad as all that," Laurel responds, "you wouldn't be trying to make up for it all servin' the common folk." He snuffs out his match and extends a hand. "Come along, then. We'll walk you safe to your tram stop." He glances at Sashuan. "If you'll pardon us, ma'am?"
+
+Sashuan meets his gaze for a long moment before glancing at Bluejay, who nods. "Alright," she says quietly. "If I catch you at this again, you'll *wish* a flogging was all you were in for."
+
+Laurel just nods amiably. "Roger that, ma'am. You have our solemn apologies, by the by. *Ain't that right, Will.*" He smacks Willow about the ear.
+
+Willow nods frantically. "Er. Yes. Solemn apologies, yes. Yes ma'am. Won't ever happen again. Ma'am."
+
+Sashuan bores into him with a glare for a moment before returning her handset to its holster. "Dismissed," she says, taking Jasmine by the arm and walking away without another word.
+
+There are a few people huddled under the tram station shelter when they arrive and find an unoccupied bench to sit on. Functionaries in Sisterhood and P.F. uniforms, some carrying briefcases, a few others shoulder bags. The Greens have been very strict about the use of tech, and it's rare to see even old Imperial computers anywhere but government offices these days, so at the lower levels mere typewriters, teletypes, paper, and pen is how nearly everything gets done. Gone are the days of calligraphers drafting florid complaints to the local justiciar in breathless _yan tuai_ verse with a horsehair brush and six different inks, each more expensive than the last.
+
+Comms gear is kept under particularly tight scrutiny, Jasmine's noticed. The telegraph services have been completely shut down. The impossibly small wireless handsets the local soldiers carry are unlike anything she ever saw in all her years as a *tian bèi,* sleek little metal things with only a couple switches and no tuning dial, as though they're hard-locked to a single frequency. And they behave in ways Jasmine didn't think radios could -- the voice procedure the Sisterhood uses now is nothing like the one it used in the old days, back when there was one bulky transceiver per chapterhouse, rather than one per *breast pocket*. The new devices must be Green tech; there's just no other explanation. If only she could get her hands on one of the things -- Matikhe alone knows what secrets their machine-spirits could be coaxed to spill.
+
+Jasmine reaches into her purse to reassure herself she still has her identicard. The one night she went out drinking with her old colleagues and managed to forget the thing is still seared into her memories. She may not be Zyahua but winding up at a restricted train stop during curfew hours without ID would be far, far worse all the same -- though at least this time she has Sashuan to back her up. Still, not worth taking any chances. Her fingers tighten on the reassuring little strip of metal, and she lets out a quiet sigh of relief. Sashuan squeezes her hand.
+
+"It's gonna be okay, hon."
+
+"How do you know that?"
+
+Sashuan gives her a gentle smile. "Because I know the People. And because the second most powerful woman in this city is holding your hand."
+
+Jasmine slumps over, resting her head on Sashuan's shoulder. "I wish that made me feel better."
+
+Sashuan sighs, stroking her neck softly. "I'm sorry, babe." She looks up, and suddenly tugs on Jasmine's arm. "There's the tram."
+
+Two orderly lines obediently form as the tram approaches. Khmaira letters glow green in the windows, illuminated from behind and spelling out a warning: "8A42  RESTRICTED." None of the usual clues to its destination. The little lamp-boxes hanging between each pair of doors are dark, their wooden frames empty of the parchment sheets that usually depict the line's signature Old Script glyph in delicate calligraphic strokes. Jasmine takes a deep breath as the low whine of the electric motors fades out and the tram comes to a tidy halt. Two of the doors open, and Jasmine's heartbeat accelerates as Sisterhood soldiers in their familiar dark blue uniforms step out to take up position by the doors. Instinctually she scans the women for weapons, parses out their body language. She catches sight of sidearms at their thighs, blades in their boots, no sign of rifles -- standard kit for patrolwomen. They betray little beyond their usual impeccable Kaparttu calm.
+
+One of the soldiers beckons, and Sashuan takes Jasmine by the arm as their line moves forward. One by one, IDs are scanned and checked against faces, and riders are waved onto the tram. Jasmine swallows hard as they near the front of the queue. Distantly, she hears the soldier say, "Papers, please, comrade."
+
+"I'm sorry?"
+
+Jasmine's attention is immediately fixed on the scene in front of them. The script has been broken. The Zyahua woman in the pink shawl sounds confused, even frightened. The soldier furrows her brow.
+
+"This is an inter-ward route, comrade," she says gently. "I need your identity card to verify you're authorized to board. Or an enlistment booklet, maybe? Have you not ridden this line before?"
+
+"I… no, I'm sorry, I don't understand… they said… th-this was the route to Ward 3? Where my cousin lives—"
+
+The soldiers exchange glances. "Do you not have a card, ma'am?" the other says, motioning with her hands to indicate the shape of an identicard. "Did you not get one at registration?"
+
+"Wh-what do you mean, registration?"
+
+"For the citizenship rolls." The soldier looks suddenly worried. "Comrade, are you unregistered? How have you been getting your ration allotment?"
+
+"I-- um, w-well--" The fear in her voice is obvious now; she's patting down her coat, searching-- no, *feigning* a search. She's trying to give herself time to think. Panic surges through Jasmine's body and she takes a shaky step backward. She feels the urge to flee altogether but Sashuan tightens her grip on her upper arm, locking her in place. Something is about to go down.
+
+The soldier's voice is now firm; the warmth is completely gone. "Ma'am, I'm going to need to run your biometrics," she tells her, keying her radio, and the woman turns to run.
+
+Sashuan moves like a striking snake, and the next moment the woman is pinned helplessly in her grip; she cries out in alarm, frantically struggling to break free. "Oh no you don't, *comrade,*" Sashuan growls. A kitchen knife clatters onto the stone, pristine silver blade glinting in the morning sun.
+
+"Fuck you," the woman splutters, quivering like a leaf as Sashuan forces her back around to face the soldier. "Fuck you!"
+
+"Two-oh-two, base, we're gonna need to run some metrics against central," the soldier murmurs into her radio in brisk Kapagirwe, flashing Sashuan a grateful smile. "Got a runner at twenty one twenty three." There's a pause, then: *"copy two-oh-two, ready to receive."*
+
+The other soldier unholsters a bioscanner from her belt, pressing the woman's thumb against a pad and then aiming the imager at her retina, forcing her eyelid open when she tries to squeeze her eyes shut. The device chirps, and the soldier glances at her compatriot, whose hand moves to her radio. Moments later, a voice comes through urgently. "Base, two-oh-two, is subject secure?"
+
+"Subject is secure."
+
+The dispatcher sounds relieved. "You're looking at Parakeet Blackdawn; we've got two detainers on her. One for absence without leave from place of registration during curfew, one for suspicion of attempted arson at the Free Khmai administrative complex. Hold your position; we're bringing her in. Base out."
+
+The Sisterhood soldier lets out a low whistle. "Attempted arson, hey?" she says in Zia Ţai, looking Parakeet up and down. "That ring any bells, *comrade?"*
+
+"You've been a very naughty girl, Parakeet," Sashuan taunts, twisting her arm even further until she cries out in pain. "If that is your real name. You could have killed a lot of people, Par. Good, innocent people."
+
+The soldier glances at Sashuan, raising her eyebrows. "You heard about that?" she asks.
+
+"I hear about everything," Sashuan replies nonchalantly. Jasmine suddenly picks up the sound of sirens in the distance, growing closer.
+
+"Go and *fuck* yourself, you *den shá wè phin zai*," the woman cries out as the soldier fastens a pair of handcuffs tightly around her wrists. "Heretic! Filthy, ungrateful peasant! You *shit* in God's light--"
+
+Sashuan grabs the woman's tunic by its hem and yanks it upward, baring her upper back. An intricate tattoo stretches from the back of her neck to below her shoulderblades, flowers, daggers, goblets, and birds depicted in extraordinary detail and arranged in a symmetric crest. "Nobility," she observes, letting the tunic drop. "I knew it. Spoiled brat heiress, judging by her *sublime mastery* of _dai long_. Look at her hands -- hasn't done a day's honest work in her life, the parasite."
+
+The soldier whistles. "Now that's a catch. You recognize the crest?"
+
+"No. Not a big name around here, or I would. She may be from offworld. I hear Rosie nobles really get around."
+
+The soldier nods. "I'll pass that on to the investigators--"
+
+Three armored personnel carriers barrel into the square, each from a different direction, closing on the tram station. Parakeet lets out a cry of alarm. As they grind to a halt, more soldiers spill out, rifles aimed downwards but at the ready. Within moments every exit to the square is blocked off, and a fireteam led by a Sisterhood commander in dress uniform approaches the shelter.
+
+As she steps up to the idling train, the commander exchanges salutes with the train guards, while her subordinates take the shrieking Parakeet into custody. "I hear correctly, that this is the one responsible for that attempted firebombing on the seventh?" the commander asks, looking her up and down. The train guard nods.
+
+"And that's not all; perp's inked, ma'am. Our friend here who apprehended her advises she looks to be at least a minor noble, possibly an offworlder."
+
+The commander snaps her fingers, and taking Parakeet by the upper arms, three of her team drag the woman out of the station towards the waiting APC. Turning to Sashuan, she bows respectfully. "Thank you for your assistance, ma'am," she says, clasping her hands behind her back. "May I ask for your name and office, in case the investigators wish to reach out to you?"
+
+"Sashuan Solnadi Vanteni," Sashuan replies gently. The commander's eyes widen.
+
+"O-oh!" she exclaims, bowing again, much more deeply this time. "Comrade Sashuan— it's such an honor!" Her cool is completely gone, replaced by a mixture of fear and awe. "I— I'll make sure the investigators don't bother your office unless it's very important—"
+
+"Really, it's fine." Sashuan waves her away. "A lot of good people could have died the other night. If on the off chance I have something further to contribute to the investigation, it would be my personal pleasure."
+
+*"May the Empress reign ten thousand yea—"* Parakeet's final, defiant scream is abruptly muffled as they hood her and load her into the vehicle. Jasmine flinches, and Sashuan pulls her close, stroking her waist.
+
+The commander inclines her head to Sashuan. "I— I greatly appreciate it,  comrade. Thank you again." She glances at the train guards, then back to Sashuan. "Was there any sign of accomplices?" she asks. They all shake their heads.
+
+"It's strange but she seemed to be acting alone," the guard replies. "This wasn't well thought out at all. She tried to bluff herself onto a restricted tram. Didn't seem to have any intel on how we do business, and wasn't armed apart from a knife." She lifts the blade, squinting at it. "Street-legal," she adds with a note of amusement, passing it to a technician who immediately secures it in an evidence bag.
+
+The commander nods. "Copy that. Well done, all of you. You're clear to depart; we'll clean up here."
+
+The Sisterhood soldiers begin herding the intending passengers, many of whom bolted at the first sign of violence, back into line, and the train guard motions for Jasmine to step forward. "Alright, you. You're up next."
+
+Timidly, Jasmine holds up her identicard, and the soldier scans it carefully. She looks back up in surprise.
+
+"*Jasmine?* Shit, I *thought* those tats looked familiar. Girl, you've moved up in the world!"
+
+Jasmine blinks. "I-- I'm so sorry, do I know--"
+
+"Sorry, you probably don't remember me." The girl laughs sheepishly, brushing her hair out of her eyes. "Clarity. Lieutenant Clarity First Tundra's Passion. Well, I was a sublieutenant when we met -- do you still run that shelter on the Avenue of Sweet Clover?"
+
+"…sorta. Um. We had to move it a few times… it's just off Sandcrest nowadays. It's… pretty much just the Greens running it now though. Sometimes they listen to me." She smiles apologetically. "I know that name should ring a bell--"
+
+"Not really, I was just the muscle anyway." Clarity laughs. "I was there with Highmother Harmony a couple years back when she brought over your funding for Jademoon. We weren't there for long but you really made an impression on me, you know? Looking up to a Khmai, now that was disorienting!"
+
+*"Clar,"* her partner injects disapprovingly.
+
+Clarity raises her hands. "I know, I know. I'll stop holding you all up. Just, Jasmine, I'm so glad you're finally getting the attention you deserve. Hey, if you ever feel like getting drinks and catching up some evening, I'm bunked at the Old Square Chapterhouse. My shift ends at ten _ţua lam tsue_ past sundown; come hit me up when I'm off duty? *Maybe bring the Green?"* she mouths, flashing Sashuan a grin.
+
+Jasmine smiles faintly. "Y-yeah. Sure. That sounds nice."
+
+"Attagirl! Go on, go on, you're free to board." She claps Jasmine on the back, gently urging her through the doors. Both women instinctively head towards the furthest corner of tram, somewhere that'll give them a full view of their surroundings. Jasmine's heart is still pounding in her ears as they seat themselves.
+
+This tram is different from any she's ever ridden before. The interior is sleek and spotless, as if it just rolled off the assembly line not two hours prior. She glances around, looking for the operator, and it takes her to moment to realize the driver's secluded in the locked compartment past the frontmost doors of the tram, not sitting out in the open to take fares. She notices surveillance cameras discreetly mounted to the ceiling, and shivers.
+
+"You doing okay?" Sashuan murmurs, putting an arm around her shoulder.
+
+Jasmine shakes her head.
+
+"What is it?"
+
+"This is… this is just… a lot."
+
+"It's been kind of a morning, hasn't it." Sashuan pats her thigh. "You look scared, hon."
+
+Jasmine shifts in her seat. "…I am," she finally admits, looking away.
+
+Sashuan squeezes her hand, snuggling up next to her. "Jaz, this train is probably the second safest place in the ward after our flat."
+
+"Where are they taking her?"
+
+"Hm? Sorry?"
+
+"That noble girl. Where are they taking her?"
+
+"You mean the Sisterhood troops?"
+
+"Yeah."
+
+"The local intake up in the Harrows, I expect. There's one in each ward."
+
+"What'll happen to her there?"
+
+"Processing, psych eval, an interrogation or two. Then someone in Ward One takes the data and decides on her disposition."
+
+"Her… *disposition?"*
+
+Sashuan laughs quietly. "Sorry. You're new to all this. Wearing this uniform, it's so… *easy* to fall back into old habits. Old ways of thinking. And talking. I keep forgetting I'm not surrounded by seasoned soldiers anymore."
+
+Jasmine turns her gaze out the window, expression hardening. "Right. Yeah."
+
+*"This is the final stop in Ward Four. This is a restricted route. If you have boarded in error, disembark now. This is your last chance to disembark."*
+
+"What I meant was, they'll decide what happens to her. Reeducation, resettlement, sometimes just a flogging. Sometimes if the detainee's hardcore enough they'll bring her into Ward One for proper interrogation by our specialists. Occasionally they'll order people confined indefinitely, but usually only the really dangerous ones we can't put to any use."
+
+"Do they ever kill people?"
+
+The question takes Sashuan off balance. "I… you mean, as a punishment?"
+
+"Yeah."
+
+"Well, I…" Sashuan hesitates. "You know, I don't know. I'm barely involved with the penal process, it mostly sees to itself. Why do you ask?"
+
+Jasmine shrugs. "No reason."
+
+Sashuan rests her head on Jasmine's shoulder, nuzzling her gently. Jasmine keeps staring morosely out the window, even though the train tunnels offer little to see. She flinches slightly as blast doors slam shut behind the tram, cutting off the tunnel entrance with a resounding boom, and Sashuan kisses her on the cheek.
+
+"You're upset."
+
+"I'm fine."
+
+Sashuan takes her by the chin and pulls her forcibly away from the window. Jasmine's muscles strain in reflexive resistance for a moment, but then slacken in face of her partner's overwhelmingly superior strength. "You don't look fine," Sashuan replies, looking her in the eye. Jasmine's gaze drops. *"Talk to me."*
+
+"I don't know what you want me to say."
+
+"I want you to tell me what you're upset about. Come on, Jaz; use your words. You're acting like a sullen child."
+
+"Is it really that hard for you to figure out!?" Jasmine bursts out, voice suddenly raw with frustration and anger. "After everything that happened last night -- this morning -- some poor woman gets bagged and dragged by government thugs, P.F. men are strutting around beating up girls as if they own the place, _jejakhva ishmikhi_ freaks are *menacing my family--*"
+
+"Some *poor woman?*" Sashuan says incredulously. *"Government thugs?* Jasmine, listen to yourself! _Va Mati,_ what is going *on* in your pretty little head?"
+
+"Is this all just normal for you? Being… being *watched* and penned in and pushed around and watching people get kidnapped right in front of you by armed thugs driving tanks all over your dead cities and—"
+
+Sashuan grabs Jasmine around the shoulders and pulls her closer, hugging her tight enough to knock the wind out of her. "Jaz," she murmurs. "Parakeet was a bourgeois parasite who tried to kill a lot of innocent people in one of the most horrific ways there is. That commissar from last night came to check in on your family and make sure everyone was safe, not *menace* them. Those were armored personnel carriers, not tanks. And those _ishmihki_ freaks, those 'government thugs' *are the fucking Sisterhood.* Remind me how much money the Highmothers gave us all to help run the shelter over the years?" She loosens her grip a bit. "Remind me how many times they defended us against greycloaks and all the rest? Fuck, Jaz, were you even *listening* to that Clarity girl just now?"
+
+Jasmine is silent for a long moment. Finally, she goes limp in Sashuan's arms.
+
+"Jaz?"
+
+"My head hurts."
+
+Sashuan sighs. "I don't blame you." She kisses her gently on the forehead, stroking her neck. "I think you need a counselor, babe."
+
+Jasmine opens her mouth to argue, but stops herself. Instead, she just nods meekly.
+
+"If I can find one who speaks Khmaira, would you consider seeing him?"
+
+For a moment, the only sound is the scraping of wheels on rail, the hum of electric motors, the quiet rustle of paperwork and scritch-scratch of pens. Finally, Jasmine nods again. "Yeah. Sure."
+
+Sashuan hugs her again, more gently this time. "Thank you."
+
+Light suddenly floods the tram again and Jasmine blinks rapidly as her eyes adjust. She recognizes the route now; they're up on the old Hollowcleft Bridge over the bay, heading towards Breakwater Point. *We're outside. Outside the ward.* She takes a deep breath. It feels so good to see this place again, for the first time in half a year. To see the Bay of Serene Concordance stretching out beneath her towards the coastline, the distant outline of the Whispering Sea. A fragile smile flickers across her lips as a pelican soars past the window; moments later, she can hear the distant cry of seagulls. For a moment, she imagines she can even smell the fresh sea air.
+
+"Nice view, huh?" Sashuan puts an arm around her shoulder, and Jasmine nods.
+
+"This… this was always one of my favorite rides." She leans heavily against Sashuan. "When I was young, sometimes I'd sneak out onto the bridge alone at night, after the trains stopped running, and just… sit there on the edge, watching the ships come in and out down below."
+
+"They spent months shoring the damn thing up after we took control," Sashuan murmurs. "Mirishte's ass but I don't miss detouring through Ward 6 every morning. Still, our techs say if we'd run a few dozen more trips across it the entire goddamn thing would like as not have collapsed into the bay, so it was probably worth it." She scowls. "Imperial engineering at its finest."
+
+"Wait — *collapsed?*" Jasmine feels suddenly cold, lightheaded. "That… can't be right. This is the main thoroughfare between the Isles and the Mainland. A collapse—"
+
+"Would have killed hundreds, minimum; yes," Sashuan replies. "There's barely been any maintenance done in centuries."
+
+*"Centuries?"*
+
+"There's a reason they call Zyahua 'rusties' out in the Marches. And it's not just the color of their skin."
+
+Jasmine shivers. "I… shit. It's… it's a good thing you caught it."
+
+"Believe me, we're not taking any chances. First thing we do once the dust has settled is inspect all the infrastructure. There were a couple of big disasters out corewards a few years ago, not long after we started winning here and there. Some were deliberate sabotage, of course, but less than you'd expect. Drinking buddy of mine was one of the first responders at one of them, actually. He says they were still pulling bodies out of the wreckage a fortnight later."
+
+"Khata'e's swollen *ass."*
+
+"You're telling me. Point is, we learned the hard way, you don't take chances with Rosie architecture. Every city we take, there's always something. Bridges near collapse, derailments waiting to happen, refinery explosions; fuck, one of the worst ones just came down to lazy masonry. A lot of people died when the Highwall fell at Brookhaven; it brought down four or five buildings with it. A couple of them were big ones."
+
+"Shit," is all Jasmine can manage.
+
+"Almost like the people in charge of keeping shit from blowing up don't give a flying fuck as long as they don't personally have to deal with the consequences. It's an honest-to-Matikhe *miracle* the Empire didn't fall to bits all on its own long before we even came into the picture."
+
+Jasmine is quiet for a moment. "I'm… I'm glad you were able to keep anyone more from dying."
+
+"I just hope we can keep it up. Nobody's been making it easy on us." Sashuan looks down. "Least of all the people we're trying to protect."
+
+*"This train is now approaching Anchor Isle Transit and Ingress Center, Ward 3. If you have boarded this train in error and do not have authorization to enter Ward 3, surrender yourself to onboard security personnel immediately."*
+
+The transit center is nothing like Jasmine remembers. As they exit the tram tunnel, she looks around in surprise to realize the train is indoors; a massive multilevel facility surrounds them, filled with arriving trains, security cameras, and armed soldiers. Sisterhood uniforms mix with Front leathers, body armor, and even the occasional *rancal* or hardsuit; Jasmine shivers at the sight of a *randanin* in full plate stroll past carrying a rifle in his hands.
+
+Rifles! Power armor! What overkill. To a baseline human like her, a naked, unarmed Green is already so dangerous that no one weapon short of a landmine or a deadman-switched suicide bomb is likely to pose a real threat to them. It's hard not to see them as pointy-eared little Imperial Guard in a new outfit.
+
+"This is our stop," Sashuan murmurs, patting her on the back.
+
+"Here?" Jasmine blanches. "I thought were we going to ward *one--*"
+
+"We are. We transfer here, once we've gone through *real* security."
+
+"The fuck was that back there then, *fake* security?"
+
+Sashuan laughs. "I can think of sixteen different ways someone could have smuggled firearms, explosives, or hostile personnel aboard this tram just off the top of my head, so yes, 'fake security' is a good word for it."
+
+*"I thought you said we were safe."*
+
+"All I said was we were about as safe as it gets in Ward Four. Compared to what I'm used to back home, that's not saying much at all. All the tradecraft in the galaxy won't get you past Society security if you're not supposed to be there. Not in one piece, anyway. C'mon."
+
+Sashuan leads her outside as the tram doors open. Jasmine tries to take in the hectic environment as security staff herd them off the ingress platform through a row of turnstiles. The two meld into a throng of people in all sorts of outfits and uniforms as Sashuan tugs Jasmine after her. Sterile electric lamps bathe the stone-floored complex in an actinic radiance, their light reflecting off metal like a bright summer sun on the rippling waves of the ocean. Announcements blare in four languages from loudspeakers overhead. 
+
+A small handful of _rantashar_ dots the crowd here and there, from uniformed officers to armed soldiers to clerks, administrators, and bureaucrats. Sashuan greets all of them enthusiastically, occasionally pausing to hug someone she knows. The sound of spoken Ranuir melds with the ambient chatter of all the region's other languages, adding an unsettling, alien note to the environment, and making Jasmine feel all the more alone and isolated.
+
+She can occasionally make sense of a sentence here or there, but the rich, rapid current of speech that flows from Sashuan's tongue when she's in the company of her own is nothing like the careful, tidy, and clear enunciation she always favors Jasmine with, and tidal waves of unfamiliar grammar quickly smother any brief sparks of understanding that flare up in her mind.
+
+Jasmine can't help but wonder, as she regards the *randaninar* with a dull gaze, if it might just be intentional. If she's being excluded by design.
+
+The primary security gates are right up ahead. Sashuan squeezes her hand as they approach. "We're going to have to go through different lines here. Just show them your card, do what they tell you, and it'll be okay, I promise."
+
+"Wait— what? Why can't I come with you?"
+
+*"You* don't have a Society identichip hardwired into your spinal cord. So even I don't have enough power to let you skip screening here." Sashuan gives her a sad smile. "Seriously, though, it's not as big as deal as it looks. They just check to make sure you're authorized and not carrying any contraband—"
+
+"Contraband? *Contraband?* Like *what!?* You didn't tell me about any of that--"
+
+"Do you have a sidearm you didn't tell me about?" Sashuan ruffles her hair. "It's *fine.* I watched you dress; you have nothing they're interested in, I promise. I'll be waiting for you on the other side, okay?"
+
+Jasmine clings to her. "And— *you'll* be okay? You're *sure?*"
+
+*"Jasmine."* Sashuan rolls her eyes. "I come through here nearly every day. I am a Citizen of the Society of Worlds and the Occupational Liaison to the Tripartite Council. *I* do not have to worry about *anything.* I am what *other people* worry about. Okay?"
+
+Jasmine takes a deep breath. "Okay."
+
+Sashuan kisses her softly before backing away. Jasmine watches as her partner hurries down the mostly empty lane. The non-citizen lanes are much longer, but moving speedily along. A pang of fear stabs into Jasmine's heart when she realizes that the security screeners are all Greens.
+
+She fumbles in her purse distractedly, as if to make sure a firearm hasn't quietly materialized in it. She knows it's irrational but it reassures her to make certain there's nothing threatening to be found on her person.
+
+*Today,* she thinks to herself as she turns her gaze back up towards the security lanes and steps into the flow of travelers, *is going to be a long day.*
+
+% in setting Spirals
+% in arc War
+% in serial Change
+% is chapter 5
+
+% to pub/vt/fic/spirals
+% path fiction/Spirals

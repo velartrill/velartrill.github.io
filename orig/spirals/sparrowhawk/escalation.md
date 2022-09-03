@@ -26,7 +26,7 @@ Anyone fucks with Wren, and they're going to pay in blood.
 
 We leave the ship, and make our way out of the docking bay. I wave my visa at the bored greycloaks manning the re-entry gate and mercifully they let us both pass, maybe taking Wren for a slave or a wife. The blast door retracts, and the light and noise of Lotus hits us. I take a moment to close my eyes and bask in the chaos, before sizing up the scene and figuring out the best route to a voidwear shop.
 
-The causeway is vast, a rough tube hundreds of meters wide. Ads, luminators, and the odd UV panel crowd the walls, as tides of people move through, either confidently drifting up along the guide cables, nervously fiddling with those silly guide-clips they sell to landlubbers, or crawling along the walls, dodging the food-stands, haggling traders, impromptu get-togethers, and the occasional bit of street theater. There's no elevators, no rapitrans in a micrograv station; momentum's all you need to get where you're going.
+The causeway is vast, a rough tube hundreds of meters wide. Ads, luminators, and the odd UV panel crowd the walls, as tides of people move through, either confidently drifting up along the guide cables, nervously fiddling with those silly guide-clips they sell to landlubbers, or crawling along the walls, dodging the food-stands, haggling traders, impromptu get-togethers, and the occasional bit of street theater. There's no ascender tubes, no rapitrans in a micrograv station; momentum's all you need to get where you're going.
 
 "Here." I rummage through my pockets and pull out a spare comlink, which I press into Wren's hands. "Hold onto that. It's linked to my ship so if we get separated, just push the big gray button and you can talk to me, yeah?"
 
@@ -96,9 +96,9 @@ I laugh. "It's bracing! Nothing to get your blood flowing like a good knife figh
 
 "You're -- you're scaring me." Wren's eyes are wide. She's making little motions like she wants to back away, but her subconscious hasn't gotten used to microgravity yet.
 
-I grin, and snag her by the front of her shirt, pulling her closer. "I know," I say quietly, looking her right in the eyes. "And that, little Wren, is how you can tell you're safe here. Folks around these parts know better than to cross me."
+I grin, and snag her by the front of her tunic, pulling her closer. "I know," I say quietly, looking her right in the eyes. "And that, little Wren, is how you can tell you're safe here. Folks around these parts know better than to cross me."
 
-She moves her hand up to reach for my arm, and stops. Her eyes are still wide with fear but she's flushing now, a deep, crimson blush I can see even through her farmer's tan. She's feeling a lot of different things right now, and this could go a lot of ways. I decide to push her in the right direction, and let go of her shirt, taking her chin in my hand.
+She moves her hand up to reach for my arm, and stops. Her eyes are still wide with fear but she's flushing now, a deep, crimson blush I can see even through her farmer's tan. She's feeling a lot of different things right now, and this could go a lot of ways. I decide to push her in the right direction, and let go of her tunic, taking her chin in my hand.
 
 "I will always protect you, Wren. With everything I've got, you hear?" I brush the side of my vest back to let her see the revolver at my waist, letting her work out the implication.
 
@@ -134,7 +134,7 @@ The familiar blazing lights and garish advert screens of Far Rim Fabrics solidif
 
 *"Sparrow!* Fancy meeting ya here!"
 
-My arm plunges into my vest, and in one swift movement I've pulled the revolver from its holster, switched the safety, aimed, and closed my finger around the trigger. There's an electronic squawk, an audible *crack*, and a hollow-point bullet shatters against a bulkhead to our right. The cylinder clicks as the actuators line up another round. Wren screams. The recoil's jerked me backwards, and I snatch a guide cable to steady myself. My target's already ducked behind the bulkhead. She's laughing.
+My arm plunges into my vest, and in one swift motion I've pulled the revolver from its holster, switched the safety, aimed, and closed my finger around the trigger. There's a galvanic squawk, an audible *crack*, and a hollow-point bullet shatters against a bulkhead to our right. The cylinder clicks as the actuators line up another round. Wren screams. The recoil's jerked me backwards, and I snatch a guide cable to steady myself. My target's already ducked behind the bulkhead. She's laughing.
 
 "Sparrow, Sparrow, that's a mighty unkindsome way t' greet an old friend!"
 
@@ -154,7 +154,7 @@ She obeys, steadying herself on my ribs.
 
 Hawk snickers. "There's a right frightsome old bat who's enamored of my operation, name of Raven. I'm thinkin' ya might heard tell o' her."
 
-*"Raven Windhand?* You're in bed with the fuckin' Syndicate now?"
+*"Raven Starsoul?* You're in bed with the fuckin' Syndicate now?"
 
 "And they would be most displeased if that river of coin I bring in got plugged up by bullets," says Hawk, "so be a dear and put that thing away, 'fore ya wind up with ten thou on your pretty little head. 'Coz we both know right well y'ain't got no employer protectin' you -- y'always was too thick to bend knee t' your betters."
 
@@ -172,7 +172,7 @@ Slowly, begrudgingly, I lower the revolver, snapping the safety back into positi
 
 "You're *always* up to something."
 
-"Sometimes that somethin's just shoppin' for a cute bra," Hawk returns evenly. "A girl's gotta do *somethin'* with her ill-gotten gains. You of all people oughta know." She winks.
+"Sometimes that somethin's just shoppin' for cute underwear," Hawk returns evenly. "A girl's gotta do *somethin'* with her ill-gotten gains. You of all people oughta know." She winks.
 
 "And you're getting in my face *why?*"
 
@@ -196,7 +196,7 @@ Wren's shaking. I reach out to steady her. "It's okay. The pirate thug is gone."
 
 "Wh-wh-who was she? What did she -- what was that?"
 
-I grab the top of my blouse and bra, yanking them down. "See this?" I say, pointing to the deep scar across my left breast.
+I grab my breast-wrap, yanking it down. "See this?" I say, pointing to the deep scar across my left breast.
 
 Wren nods.
 

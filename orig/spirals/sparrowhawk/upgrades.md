@@ -48,7 +48,7 @@ She punches me in the shoulder. "Get real!"
 
 "I don't know, Ferret?"
 
-"Nope!" She beams. *"Raven. Fucking. Windhand.* Calls little old *me* in to get her torture machines blessed and polished. In return? She gave me *this!"* She thrusts a thick black codex into my face.
+"Nope!" She beams. *"Raven. Fucking. Starsoul.* Calls little old *me* in to get her torture machines blessed and polished. In return? She gave me *this!"* She thrusts a thick black codex into my face.
 
 "And what is, uh. That?"
 
@@ -76,7 +76,7 @@ I ruffle her hair. "Just be careful, okay? These are dangerous people you're pla
 
 I roll my eyes. "What can I say. It helps with my posture."
 
-Daisy leans in and pecks me on the cheek. "So tell me! What's this dread moon got dropped in your lap?" She shrugs out of her robe. Underneath, there's nothing but a *gorgeous* mesh bra and panties--
+Daisy leans in and pecks me on the cheek. "So tell me! What's this dread moon got dropped in your lap?" She shrugs out of her robe. Underneath, there's nothing but a *gorgeous* mesh _jin_ around her breasts--
 
 "Sparrow?"
 

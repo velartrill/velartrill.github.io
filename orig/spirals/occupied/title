@@ -1,0 +1,13 @@
+---
+title:
+  - type: main
+    text: Occupied
+  - type: collection
+    text: Spirals
+creator:
+  - role: author
+    text: Lexi Hale
+lang: en-US
+belongs-to-collection: Spirals
+description: "The military occupation of an Imperial city turns one woman's life upside down."
+---

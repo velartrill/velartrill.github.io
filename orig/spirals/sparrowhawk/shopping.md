@@ -76,13 +76,13 @@ Wren giggles. "Yes, ma'am."
 
 "Ooh! Can we get that one? It's pink!"
 
-I snag the sweater off the rack. "Here, go make sure it fits." I point at the changing rooms. "That way."
+I snag the _ţu tiau_ off the rack. "Here, go make sure it fits." I point at the changing rooms. "That way."
 
 "Thanks!"
 
 Wren launches herself in the direction of the changing rooms. I poke at some of the shirts on display. They're not really my style. Nothing here would show off my abs at all. Or my tits, for that matter--
 
-"Ferret," I say out loud. "I thought I smelled something greasy and dishonest in here."
+"Ferret," I say out loud. "I thought I smelled something sleazy and dishonest in here."
 
 "Sparrowhawk!" The little man pokes his head past a rack, and grins at me. "I was wondering when you'd do me the courtesy."
 
@@ -90,7 +90,7 @@ Wren launches herself in the direction of the changing rooms. I poke at some of 
 
 "Can't a man come to call on his dear, *dear* friends?" Three "Ferret" Skylark looks genuinely hurt. If I didn't know him, I might actually believe it.
 
-Ferret isn't much to look at. He's not much taller than me, with a mussy, unkempt head of hair, dressed in a cheap knockoff of a much more expensive suit, and carrying a swordstick in the crook of his arm. But there's not many men can make a street name stick, and he's one of them.
+Ferret isn't physically imposing. He's not much taller than me, slim with a mussy, unkempt head of hair, dressed in a cheap knockoff of a much more expensive suit, and carrying a shockprod with a retractible blade convincingly disguised as a walking stick in the crook of his arm. His features are so feminine he could almost pass for a woman if he tried, which probably has something to do with why he's the only man on Lotus with any real power. There's not many men can make a street name stick, and he's one of them.
 
 "Sure, sure," I reply. I lift up a blouse from the rack and hold it flat against my chest. "Tell me, do you think the mesh look works for me? I'm thinking of branching out, maybe trading up for something more scandalous."
 
@@ -118,15 +118,15 @@ I unzip the purse and glance inside. It's filled with platinum. "You're not even
 
 "Tell me, now I have your money, what's to keep me from dumping your ass out the nearest airlock?"
 
-"That's what we all love about you, Sparrow; your impeccable sense of humor." Ferret waves and slips out into the causeway.
+"That's what we all love about you, Sparrow; your impeccable sense of humor." Ferret waves jauntily. "Honor and grace!" With that, he slips out into the causeway.
 
 "Who was that?" asks Wren, emerging from the changing room.
 
-"An asshole with a lot of money. But some of it's mine now. How's the sweater?"
+"A grease stain shaped like a man. We do business sometimes. How's the bodywarmer?"
 
 "It's -- I don't know, it's comfortable, but it's a little snug?"
 
-"It's got to be. Baggy clothes don't work well when you got no gravity to hold them down, and they're a risk around machinery. Now let's find you a few pairs of pants."
+"It's got to be. Baggy clothes don't work well when you got no gravity to hold them down, and they're a risk around machinery. Now let's find you a few pairs of tights."
 
 "Actually I was hoping -- could I get some skirts instead?"
 
@@ -134,61 +134,73 @@ I unzip the purse and glance inside. It's filled with platinum. "You're not even
 
 Wren turns beet red. "I -- no! Why do you -- *oh."*
 
-"Yeah. Out here, people are gonna see you from all kinds of angles. Dresses and skirts are for landlubbers, not spacers. Don't worry, I'll find you some clothes can still make you feel girly."
+"Yeah. Out here, people are gonna see you from all kinds of angles. Dresses and skirts are for dirtlubbers, not void birds. Up here we got different ways to be sexy."
 
-Wren points at my bare midriff. "Like that? Sparrowhawk, we're not *all* out to get naked in front of the world."
+Wren points at my half-bare midriff. "Like that? Sparrowhawk, we're not *all* out to get naked in front of the galaxy."
 
-"Like I'd let you crib my style anyway." I pull a few more outfits off the racks. "That sweater's unisex, but see the patches on these?" I hold up a shirt. "They're reinforced to keep your breasts from bouncing all over the place. Should be a lot more comfortable than trying to make do with a landwear bra."
+"Like I'd let you crib my style anyway." I pull a few more outfits off the racks. "You can wrap a _jin_ around your breasts to keep 'em locked down" -- I indicate mine with a thumb -- "and wear a normal tunic on top of that if you don't want to bear your midriff, but see this fancy thing?" I hold up a different tunic. "The chest is reinforced; it's like a _jin_ built right into your tunic so you don't need two layers." I touch the fabric to her arm. "Feels great on the tits, too -- no seams, no rough bits; makes you feel almost naked it's so slick and soft."
 
-"They're so thin."
+She fingers the tunic curiously. "It's so thin. This isn't cotton or wool."
 
-"Made of some real special fabric, imported all the way from the League. Can't rightly figure how it must work but it'll keep heat in as long as you're at a safe temperature, and radiate it out if you start getting too hot. Expensive shit, but if you want surface comfort in the void, you won't find better."
+"It's a real special fabric, imported all the way from the League. Can't rightly figure how it must work but it'll keep heat in as long as you're at a safe temperature, and radiate it out if you start getting too hot. Expensive shit, but if you want surface comfort in the void, you won't find better."
 
 Wren's glaring at me when she comes back out of the changing room. "You just want to see how my bottom looks in these, don't you."
 
-"Your present getup isn't doing your ass any favors," I reply cheerily.
+"Your present getup isn't doing your ass any favors," I reply levelly.
 
 "I tried these on, and they made me look -- look --"
 
 "Fashion-forward and desirable as all getout?"
 
-Wren bites her lip. "These pants -- they're kinda tight across my -- my pelvis --"
+Wren bites her lip. "These pants -- they're *really* tight across my -- my pelvis --"
 
-Oh, Wren. So innocent and naïve. It's kind of adorable. "Exercise is hard; you need all the encouragement you can get," I tell her with a snicker.
+Oh, Wren. So innocent and naïve. It's kind of adorable. "Exercise is hard work, darling; you need all the encouragement you can get," I tell her with a snicker.
 
 "...you are *really* enjoying this, aren't you?"
 
-"Sure am." I toss her another set of clothes. "Here. These should be better for daily wear. I'm not gonna make you wear gym clothes everywhere."
+"Sure am."
 
-Wren catches the clothes. "Right. Okay. These look like more what people were wearing around. You were just messing with me."
+"I'm-- do people really wear things like this?" Her cheeks are burning. "Ugh, God. Where do they keep the normal leggings?"
 
-"Sure was."
+I snicker. "Those *are* normal, honey."
 
-"Was *that* my punishment for disobeying you?"
+"They are *not!*" She points at her loose, ratty old pants. *"This* is normal."
 
-I laugh. "That was your *reward* for falling in line so quick."
+"*That* is barbaric," I return calmly. "We dress like civilized people up here."
+
+"I think you mean 'oversexed,' not 'civilized,'" she grouses. "Look, can't I please just get something that doesn't-- doesn't--"
+
+"Nope. Ain't no market for it; no one wants uncomfortable clothes."
+
+Her face twists in humiliation. "But this is *really distracting*--" she tries, to no avail.
+
+"And the sooner you learn to like it, the better," I return calmly. "Ain't nothing sillier than being scared of pleasure. *Civilized* women understand that. If you're gonna have tits and a clit, you oughta treat 'em right."
+
+She glowers. "Is *this* my punishment for disobeying you?"
+
+I laugh. "This is your *reward* for falling in line so quick."
 
 Wren pales, and darts back into the changing room.
 
-Belatedly, I think to check my pockets to make sure Hawk didn't steal anything. Amazingly, all my things are still there, even the keys to *Chrysanthemum.* Not that that they'd do her much good anymore, what with not knowing how to unlock the drive and all. I had Daisy work *Chrys* over good and proper after last time, and that girl is one sneaky pagan, let me tell you -- anyone tries to break into the cargo hold is in for a *nasty* surprise, keys or no.
+Belatedly, I think to check my pockets to make sure Hawk didn't steal anything. Amazingly, all my things are still there, even the keys to *Chrysanthemum.* Not that that they'd do her much good anymore. The drive won't operate anymore without a special key sequence -- I had Daisy work *Chrys* over good and proper after last time. That girl is one sneaky pagan, let me tell you -- anyone tries to break into the cargo hold is in for a *nasty* surprise, keys or no.
 
-Wren comes out of the changing room again. "Okay. I found some things I like."
+Wren comes out of the changing room again, holding a stack of clothes. "Okay. I guess this'll have to do."
 
 "Attagirl." I wave to a clerk, and he drifts over. "We're ready to check out."
 
-"Excellent." He smiles at Wren. "Authentic Carnelian fashion here. You've expensive tastes, ma'am."
+"Excellent." He smiles at Wren. "Authentic Carnelian fashion, this _jin_. You've expensive tastes, ma'am."
 
-"Oh!" Wren looks at me. "Is that okay? I--"
+"Oh!" Wren looks at me in alarm. "Is that okay? I--"
 
 "Only the best for my crew."
 
-"That'll be... four sovereigns and nine talents."
+"That'll be… four sovereigns and nine talents," the clerk interjects. Wren blanches at the mere mention of so much money.
 
-I flip open my checkbook and write in the amount. I touch my small sapphire signet to the inkpad and press it carefully over the number before tearing out the check. The clerk inspects the paper with the air of someone used to spotting forgeries, then slips it into a binder and smiles at me. "Alright. You're all set. Have a wonderful day, ladies."
+I flip open my North Coast credit booklet and write in the amount on a slip. I touch my small sapphire signet to the inkpad and press it carefully over the number before tearing out the slip. The clerk inspects the paper with the air of someone used to spotting forgeries, then slips it into a binder and smiles at me. "Very good. You are all set, respected mistresses." He bows, one arm behind his back, a hand to his heart. "Go forth in honor and grace."
 
-"Right back at you."
+I nod to him. "Glory light your way," I respond as we turn to go.
 
-"Thank you," Wren says as we leave the store. "I mean, you were being horrible, but--"
+"Thank you," Wren says as we leave the shop. "I mean, you were being horrible, but--"
 
 "But you liked it, and I spent money on you." I ruffle her hair. "You are very welcome. It's nice to have someone to spoil sometimes."
 
@@ -202,7 +214,7 @@ She makes a face. "I didn't like it!"
 
 Wren folds her arms. "You know what, Sparrowhawk?" She takes a deep breath. *"Fuck you."*
 
-I grin, and put my arm around her shoulder. "Spoken like a true spacer. Now let's go save your planet."
+I grin, and put my arm around her shoulder. "Spoken like a true void bird. Now let's go save your planet."
 %prev escalation.html Escalation
 %next trade.html Trade
 

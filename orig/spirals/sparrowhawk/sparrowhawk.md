@@ -72,21 +72,19 @@ After filtering out the junk, my mailbox is blissfully empty besides one message
 
 `thinking of you, babe,` it reads. `wanna try and hit Glory with me again next quarter? love, Heron ♥`
 
-And there's an *attachment*. An *image*. Couple hundred kilobytes, but -- I can spare a silver or two. I tap the keypad and the screen flickers into graphics mode. A smile grows on my lips as the image slowly resolves, line by line.
+And there's an *attachment*. An *image*. Couple hundred kilobytes, but -- I can spare a silver or two. I tap the keypad and the screen blanks. A smile grows on my lips as the image slowly resolves, line by line.
 
 It's a topless selfie. Because of course it is. *Babe.* Where did she even get her hands on a print serializer out in these parts? Is she from the Core or something?
 
-Whatever. Two silver was a small price to pay for the privilege of her grayscale tits on my screen. I flick a switch on the router to splice in the archiver, slot in a high-capacity tape, and let it roll forward for a bit. It clicks to a halt as it finishes encoding the screencapture.
-
-I turn the archiver back off and switch back to text mode, flicking another switch to open a reply window. `*Fuck* yes,` I key in. The curvy Khmai letters blink into existence one by one, cursor advancing along the line. Operating the mess of hardware's all but second nature to me now. `Bring a friend next time? ;)` I add, signing it, `Sparrowhawk ♥♥`
+Whatever. Two silver was a small price to pay for the privilege of her grayscale tits on my screen. I press a contact to archive the file onto the ship's repository banks, and flick a switch to open a reply window. `*Fuck* yes,` I key in. The curvy Khmai letters blink into existence one by one, cursor advancing along the line. Operating the mess of hardware's all but second nature to me now. `Bring a friend next time? ;)` I add, signing it, `Sparrowhawk ♥♥`
 
 That girl made the cutest noises.
 
 I save the transaction table and the pricesheets locally. Once my newsreader and mailbox are done chattering with their servers, I sign off and rip the receipt out of the teletype slot. It's amazing how many people will sign back on and download whole files all over again every time they want to look something up or read a letter. There aren't a lot of traders who keep their comms bills as low as me.
 
-I spend the next few hours rearranging my schedule so I can fit in another run to Sapphire and make up some of today's losses, and before I know it *Lotus* is looming in the window. Reluctantly I key the switch to extend the radiator wings and pull a loose, soft sweater on over my sleep bra. Getting too close to the sun to keep things cozy in here; it's going to get a *lot* hotter without the radiators circulating. Pants can still wait, though. I didn't go five thousand plat into debt for a ship because I wanted to wear clothes in the Outer Void.
+I spend the next few hours rearranging my schedule so I can fit in another run to Sapphire and make up some of today's losses, and before I know it *Lotus* is looming in the window. Reluctantly I key the switch to extend the radiator wings and pull a loose, soft bodywarmer on over the snug wrap that constrains my breasts. Getting too close to the sun to keep things cozy in here; it's going to get a *lot* hotter without the radiators circulating. My leggings can still wait, though. I didn't go five thousand plat into debt for a ship because I wanted to wear clothes in the Outer Void.
 
-Bay 144 is looming up ahead. I angle the velocimeter at *Lotus* and watch the needle drop. Two. One. Zero. The fore thrusters cut as we match momentum, and a docking armature extends. The bay enfolds *Chrys*, the docking techs working their magic as clamps lock down and electromagnets latch on. Finally, the bay lights up green. *Chrys* is nestled in nice and cozy.
+Bay 144 is looming up ahead. I angle the velocimeter at *Lotus* and watch the needle drop. Two. One. Zero. The fore thrusters cut as we match momentum, and a docking armature extends. The bay enfolds *Chrys*, the docking techs working their magic as clamps lock down and galvanomagnets latch on. Finally, the bay lights up green. *Chrys* is nestled in nice and cozy.
 
 I turn to the distributor and flick down all the nonessential switches. No need to waste precious silver on power I ain't using. Around me, the ship falls silent.
 
@@ -100,7 +98,7 @@ I have a gun safe mounted under my bed where I keep my old service pistol, plus 
 
 I pull the hatchway shut behind me as I step into the airlock. I turn the crank, fastening the bolts, and lock them in position with the master key. I fix the keyring in my pocket, the small carnelian ornament on the end dangling out in free space.
 
-The airlock cycles around me. Outside, voidsuited techs cling to *Chrys* like barnacles, hooking up fuel feeds and electric lines. One catches sight of me and gives me a jaunty wave. I wave back, and step through. Into the seediest district of *Lotus.*
+The airlock cycles around me. Outside, voidsuited techs cling to *Chrys* like barnacles, hooking up fuel feeds and galvanic lines. One catches sight of me and gives me a jaunty wave. I wave back, and step through. Into the seediest district of *Lotus.*
 
 *Lotus* is an odd little station. Most split up the public bays across different docks so as to isolate the riff-raff, keep down on the violence and the opium trade, but she's old. Definitely older than the Empress. Maybe older than the Empire. Probably not a lot of modern design sensibilities to be found.
 
@@ -114,7 +112,7 @@ Dock thugs give me appraising glances here and there. I meet their gaze with cal
 
 I breathe a sigh of relief as Migrant Control comes into view. It's an altogether cleaner side to the dock. Station troops wait at the entry, rifles at the ready. In the distance, a hostel. God alone knows what horrors are to be found there.
 
-I pass through the portway to MC, ignoring the guards' careful looks. Rows of reentry lanes stretch across the facility, big glass stations here and there where staff await new arrivals. I look to each one in turn, squinting at the clerks behind the glass--
+I pass through the portway to MC, ignoring the guards' careful looks. Rows of reentry lanes stretch across the facility, secure stations here and there where staff await new arrivals. I look to each one in turn, squinting at the clerks behind the ballistic glass--
 
 Finally some god-damned luck.
 
@@ -162,7 +160,7 @@ The *dock hostel?*
 
 "She's gone." Seven turns his headset off. "I just heard her door close. She didn't even bother hanging up. Gosh, she's in a hurry."
 
-"Okay, I'm starting to get a little creeped out." I pat the back of my pants where my pistol's stowed. "Your girls gonna take issue if I show my piece?"
+"Okay, I'm starting to get a little creeped out." I pat the band of my leggings where my pistol's tucked. "Your girls gonna take issue if I show my piece?"
 
 "Hang on." Seven unholsters a radio. "Lane four to MC-sec, be advised we may have a situation brewing. Trader is a friendly, I say again, trader is a friendly. Please monitor and be prepared to assist."
 
@@ -232,7 +230,7 @@ I start up the boiler and duck out into the hallway. I spring open one of the lo
 
 Wren takes a deep, shuddering breath. "It's Hope," she mumbled. "Hope is -- there was a -- a volcano went off. A big one. It--"
 
-In the warm room and under my cozy sweater, I feel an icy chill run down my spine. "Oh no."
+In the warm room and under my cozy garments, I feel an icy chill run down my spine. "Oh no."
 
 "There's smoke and ash everywhere -- nothing's growing. The whole planet--"
 

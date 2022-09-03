@@ -2,7 +2,7 @@
 
 %byline from a serial by Lexi Summer Hale
 
-I hike up my shirt as I leave the kitchen and pull my revolver out of its hiding place. Behind me, I hear Wren gasp.
+I hike up my _kuoi tiau_ as I leave the kitchen and pull my revolver out of its hiding place. Behind me, I hear Wren gasp.
 
 "Is -- is that a *gun?"*
 
