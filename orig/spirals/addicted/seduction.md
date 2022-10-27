@@ -227,9 +227,9 @@ Taya brushes a hand against a door and the electronic lock chirps obediently. Sh
 
 I sink into the couch, resting my aching neck against the welcoming fabric. I close my eyes, listening to the gas hiss and water boil, closing my hand tightly around the agonizing gash in my arm. It's so nice to just... rest, finally. To *feel* calm and safe, even if I'm probably not. Whatever Taya is planning on doing to me... this moment is worth it.
 
-There's a splash from the kitchen. "It's a fascinating way to cook," Taya comments over the sound of a kettle whistling. "So primitive, but there's something oddly charming about it. There we go."
+There's a splash from the kitchen. Shortly after, a kettle whistling. Footstpes.
 
-I open my eyes and raise my head to see her bending down to set a steaming mug of tea down in front of me. "It's a local blend," she says, "but I've grown fond of it. I do hope you'll like it?"
+I open my eyes and raise my head to see Taya bending down to set a steaming mug of tea down in front of me. "It's a local blend," she says, "but I've grown fond of it. I do hope you'll like it?"
 
 I pick up the mug, hold it up to my lips, drink in the scent and warmth, wondering idly if it's drugged or poisoned. "Th-thank you so much," I murmur anyway.
 

@@ -26,7 +26,7 @@ Feranya glances at the group out of the corner of her eye as she shuts off the t
 
 She takes stock. Two of the figures are large and burly. Armored. Revolvers and blades at their waists. The third, wiry, feminine, swathed in white silk robes. Feranya shudders. An actual fucking Inquisitor. Behind them, she recognizes the treacherous innkeep, and scowls. *I'll deal with* you *later.*
 
-She turns, approaching the group, hands in her pockets. *Trying to glamor three people all at once... this is not going to be easy.*
+She turns, approaching the group, hands in her pockets. *Trying to guile three people all at once... this is not going to be easy.*
 
 "Excuse me!" she calls out, waving as she approaches, trying to affect the most innocent, demure, feminine demeanor she can. The Vigilants are facing her in an instant, hands on their guns. She pretends not to notice. "Are... are you from the Temple?" she asks earnestly.
 
@@ -126,7 +126,7 @@ Seri's expression darkens and she looks away. She says nothing.
 
 "Does it matter?" Seri blurts out angrily, slamming her knife back into its sheath. "They are. And if they find me they'll take me away and torture me and kill me."
 
-Instinctively, Feranya starts to weave a glamor, to force the truth out of the girl, but stops herself and lets the memories fade away before she speaks. *I have no right to do that to her.*
+Instinctively, Feranya starts to weave a guiling, to force the truth out of the girl, but stops herself and lets the memories fade away before she speaks. *I have no right to do that to her.*
 
 Instead, she reaches out and takes Seri's hand. Seri starts, her muscles tensing for a moment, but quickly slackening again. Feranya squeezes gently. "Seri," she murmurs, "the Inquisitor wasn't alone. She had Vigilants with her. And they knew you by description. She was willing to kill two of her own people just to get to you. Whatever's going on here is really, really serious."
 
@@ -136,7 +136,9 @@ Feranya stares, speechless, at Seri's back. The girl is covered in long, deep, t
 
 And on the back of her neck is the unmistakable wound of a recent branding. In the shape of the mark of Anur.
 
-To the Merayans, a symbol of witchcraft. Of monsters and darkness and evil.
+To her, a holy symbol of pleasure, of freedom. Of moonlight, soft blankets, and skilled paramours.
+
+To the Merayans, a symbol of witchcraft. Of monsters and darkness and the most reprehensible evils.
 
 "By the Four..." Feranya takes a shaky breath. "Seri. You poor thing."
 

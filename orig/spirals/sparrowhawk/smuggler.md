@@ -10,7 +10,7 @@ There's very little ancient Thalisan tech to be found on the black markets or hi
 
 Of course, it helps to have friends on the inside. Know the right people, and you can dodge even the most cursory screening.
 
-There's also a much thinner line between honest traders and smugglers than spaceport novelists would have you believe. Nobody in their right mind spends all their time shipping contraband. The smart thing to do is to mix in a little bit of high-value loot with legit cargo. That way, nobody asks awkward questions like what you're doing in port with an empty cargo hold, or why your bank account is full of nothing but giant coin deposits. It also means that if you can't find anyone to move your hot cargo, you can still turn a decent profit from legit trade.
+There's also a much thinner line between honest traders and smugglers than voidport novelists would have you believe. Nobody in their right mind spends all their time shipping contraband. The smart thing to do is to mix in a little bit of high-value loot with legit cargo. That way, nobody asks awkward questions like what you're doing in port with an empty cargo hold, or why your bank account is full of nothing but giant coin deposits. It also means that if you can't find anyone to move your hot cargo, you can still turn a decent profit from legit trade.
 
 Truth be told, though, I smuggle more than most. It's a good source of clean coin, which is the sort of thing you need when you move in the kind of circles I do. I've only faced a justiciar for it once, and I wasn't carrying opium that time, thank God. I don't fancy ending my career in a labor camp.
 
@@ -28,11 +28,11 @@ Mouse, a hulking brute of a man, nods meekly.
 
 I pause in the doorway. "How long have you been working for Ferret?" I ask casually. "I figured he'd send Dahlia." There's not much chance these people are impostors, but it never hurts to do your due diligence.
 
-Bull winces. "Dahlia\... made some mistakes."
+Bull winces. "Dahlia… made some *mistakes*."
 
 "What kind of mistakes?"
 
-"The kind Raven don't take kindly to," says Bull. Mouse shakes his head sadly.
+"The kind *Raven* don't take kindly to," says Bull. Mouse shakes his head sadly.
 
 "Yikes." I turn, and allow them into the ship. "It's a shame. Cute ass on that one."
 
@@ -175,3 +175,4 @@ Wren giggles. "No promises!"
 %path fiction/Spirals
 %to pub/vt/fic/spirals
 %in arc Empire
+%with style set/empire.css

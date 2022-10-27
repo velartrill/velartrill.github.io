@@ -255,23 +255,23 @@ Condor deigns to glare momentarily at the Colonel before returning her steely ga
 
 “Peace.” Dove holds up a hand; the soldier’s face falls in disappointment and she steps back, lowering the prod. “Your venom and ire will buy you naught, Dame-Colonel. You have naught with which to negotiate, even could you be trusted to honor your word; at this point, I would not trust you to uphold even a sacred blood oath, for you are a scoundrel and a barbarian, as is the rest of your kind, knowing nothing of honor or duty. If you imagine I come before you to wheedle and ply you for concessions or treaties, I fear I must disappoint. My sole purpose is that you see what your actions and your arrogance have wrought; thereafter I shall depart, and leave you to your peace.”
 
-“You… are *delusional.”* Condor shakes her head. “You capture one officer through the blackest of treachery and deceit, and this so emboldens you to think you may challenge the Imperial Guard in open battle? Your reign is at its end, and your forces will be slaughtered if they have not the sense to surrender. Such is what *your* actions have wrought, *O Duchess.*”
+“You… are *delusional.”* Condor shakes her head. “You capture one officer through the blackest of treachery and deceit, and this so emboldens you to think you may challenge the Imperial Guard in open battle? Your reign is at its end, and your forces will be slaughtered if they have not the sense to reclaim their honor by turning upon you. Such is what *your* actions have wrought, *O Duchess.*”
 
 “I do not doubt it would be so,” Dove returns evenly, “but for one troublesome detail. You see, Dame-Colonel, between the rapine, bloodshed, and violation your wicked troops have worked upon my people, the uncaring silence of your mistress at the Capital, and the scorn even of she who names herself Empress, you of the Empire’s party have shown I was grievously mistaken to reckon the nature of this war as I once did. Taken in like a common mark by slander and malicious deceit. In a way, I suppose I owe you some gratitude in this, Dame Condor: for you at last have cleared my eyes, and lain bare the name and nature of the true enemy in this war of wars.”
 
 Condor blinks several times, then she takes a sharp breath. “You— you cannot possibly mean—” she begins, and Iris chooses that moment to step out of the shadows. Condor’s eyes open wide and she explodes into a storm of spluttering profanity, her veins and muscles bulging madly as she renews her struggle to break free of her restraints. “Fie, *fie* on thee! Treason, treachery, heresy, *blasphemy!* How dare you, how *dare* you *consort* with the *enemy!* Honorless *dog*, mercenary apostate, accursed bloodless *bitch!* You shame your ancestors each and every one—”
 
-“So, you recognize the uniform,” Iris comments drily.
+“Ah, you recognize the uniform,” Iris observes.
 
-Condor spits on the ground. “Rebel! Apostate! Blasphemer! Thy black tongue shall wag no more or I shall *rip it from thy skull—”*
+Condor spits on the ground. “Rebel! Apostate! Blasphemer! Thy black tongue shall wag no further or I shall *rip it from thy skull—”*
 
 “With both hands chained behind your back? Neat trick. I wanna see.”
 
 “Choke on the ashes of your firstborn, *whore!”* Dove winces as the iron restraints creak resentfully under the guardswoman’s struggles. “No suffering could suffice to account for this betrayal!”
 
-Dove leans down, until she’s eye to eye with the frantic Dame-Colonel. “Powerlessness is an unpleasant sensation, is it not, O Condor?”
+Dove leans down, until she’s eye to eye with the frantic Dame-Colonel. “Powerlessness is a most unpleasant sensation, is it not, O Condor? It is one unfamiliar to you, I am unsurprised to note.”
 
-“Your entire domain will be scoured with holy fire from on high for this unspeakable betrayal—”
+“Your entire *domain* will be scoured with holy fire from on high for this unspeakable treachery—”
 
 “No.” Iris idly lights a cigarette on the torch flame. “It’s a very cute threat, but this is a strategically critical city. The Society of Worlds—”
 

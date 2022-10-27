@@ -97,3 +97,4 @@ God *dammit*, Sparrow.
 %path fiction/Spirals
 %to pub/vt/fic/spirals
 %in arc Empire
+%with style set/empire.css

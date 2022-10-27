@@ -285,3 +285,4 @@ I don't know if I can save Hope. But I'll be damned a hundred times over if I le
 %path fiction/Spirals
 %to pub/vt/fic/spirals
 %in arc Empire
+%with style set/empire.css

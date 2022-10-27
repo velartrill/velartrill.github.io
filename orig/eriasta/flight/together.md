@@ -155,11 +155,11 @@ Feranya hesitates. "I... don't know how I could."
 
 *"Please!"*
 
-"...okay." Feranya reaches out, pulls the girl close, gazes into her eyes. "Just tell me if you want me to stop."
+"...okay." Feranya reaches out, pulls the girl close, gazes into her eyes, thinking back to heady, bare-skinned moments in dim parlors thick with the haze and reek of opium. "Just tell me if you want me to stop."
 
-She watches as the pain and fear slowly drain out of Seri's face. The girl's muscles slacken and she sways unsteadily on her feet. Feranya puts her arms around Seri to steady her. Her breathing is starting to sound normal again, her heartbeat slowing.
+She draws on all the pleasure of those memories, the raw sensual calm, watches as the pain and fear slowly drain out of Seri's face. The girl's muscles slacken and she sways unsteadily on her feet. Feranya puts her arms around Seri to steady her. Her breathing is starting to sound normal again, her heartbeat slowing.
 
-"I've... never really used a glamor to do this before," Feranya murmurs, gazing at Seri with interest. Normally there's a sense of resistance, of the victim's willpower vying against her own. You can't just smash your way past a mind's barriers; you have to find the weak points in its armor, worm your way in before they even realize they're being taken over. It takes time and caution and subtlety. But Seri is just drinking in the sensation, submitting to it completely, pulling her barricades away and welcoming the charm as it blots out her thoughts. She leans forward, resting her chin on Feranya's shoulder, eyes shut, wrapping her arms tight around the vampire.
+"I've... never really done this by guile before," Feranya murmurs, gazing at Seri with interest. Normally there's a sense of resistance, of the victim's willpower vying against her own. You can't just smash your way past a mind's barriers; you have to find the weak points in its armor, worm your way in before they even realize they're being taken over. It takes time and caution and subtlety. But Seri is just drinking in the sensation, submitting to it completely, pulling her barricades away and welcoming the charm as it blots out her thoughts. She leans forward, resting her chin on Feranya's shoulder, eyes shut, wrapping her arms tight around the vampire.
 
 "Th-thank you..."
 
@@ -179,7 +179,7 @@ Seri shakes her head. "You can use a knife to cut someone's throat, right? But y
 
 "Knives aren't magic."
 
-"Nothing is magic!" Seri scoffs. "'Magic' is just a word people use when they don't understand something. Kerith..." She falters. "Kerith used to tell me that all the time..."
+"Nothing is magic!" Seri scoffs. "'Magic' is just a word small, frightened people use when they don't understand something. Herbs, physic, alchemy -- it's all natural; it all follows rules. As much a part of the world as you or me. Kerith..." She falters. "Kerith used to tell me that all the time..."
 
 "Is Kerith the healer who trained you?" Feranya asks gently.
 
@@ -193,7 +193,7 @@ They walk on for a while in silence. The little town passes them by, soon disapp
 
 Feranya sits down in the shade of an old pine tree, pulling out a passbook and inks and vials of chemicals. She busies herself doctoring it to fit Seri, who's vigilantly watching the road.
 
-"Here you go." Feranya sets the passbook down in the sun to dry. "You are now Keara Atuhi Kahatia Kehalena, by grace of the Goddess a covert investigator of the most holy Inquisition of the Temple of Meraya and the Protectorate of Seprena," she recites mockingly. "Hair color black, eye color gold, height five foot five or so, race Taikari."
+"Here you go." Feranya sets the passbook down in the sun to dry. "You are now Keara Atuhi Kahatia Kehalena, by grace of the Goddess a covert investigator of the most holy Inquisition of the Temple of Meraya and the Protectorate of Seprena," she recites mockingly. "Hair color black, eye color gold, height five and a quarter span, race Taikari."
 
 Seri makes a face. "I knew a girl named Keara once."
 

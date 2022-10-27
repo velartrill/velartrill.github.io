@@ -102,7 +102,7 @@ Seri reaches out a shaking hand, and hesitantly, Feranya takes it in hers.
 
 Seri nods, slowly and shakily sitting up, resting against Feranya's side. "I've-- I've been so alone... just please don't go."
 
-"Look. I--" Feranya hesitates. "The glamor can last a while sometimes, make you think you want things you don't, I--"
+"Look. I--" Feranya hesitates. "The guiling can last a while sometimes, make you think you want things you don't, I--"
 
 "No! No, it's not-- I-- listen, please, I just..." Seri shakes her head wildly. "You're like me. You understand. I can't even tell anyone my real name, but you... I finally have someone I can tell the truth. I don't have to-- to pretend--" She trails off, sobbing uncontrollably. "P-p-please d-don't g-g-go," she manages to choke out. "P-please."
 

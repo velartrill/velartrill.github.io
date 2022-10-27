@@ -188,3 +188,4 @@ Daisy smirks, draws closer. "Oh, you know, Sparrow," she says, caressing my thig
 %path fiction/Spirals
 %to pub/vt/fic/spirals
 %in arc Empire
+%with style set/empire.css

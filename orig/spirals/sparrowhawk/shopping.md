@@ -80,9 +80,11 @@ I snag the _ţu tiau_ off the rack. "Here, go make sure it fits." I point at the
 
 "Thanks!"
 
-Wren launches herself in the direction of the changing rooms. I poke at some of the shirts on display. They're not really my style. Nothing here would show off my abs at all. Or my tits, for that matter--
+Wren launches herself in the direction of the changing rooms. I poke at some of the tunics on display. They're not really my style. Nothing here would show off my abs at all. Or my tits, for that matter--
 
-"Ferret," I say out loud. "I thought I smelled something sleazy and dishonest in here."
+I catch a whiff of a very distinctive perfume.
+
+"Ferret," I say out loud, putting back the tunic. "I thought I smelled something sleazy and dishonest in here."
 
 "Sparrowhawk!" The little man pokes his head past a rack, and grins at me. "I was wondering when you'd do me the courtesy."
 
@@ -92,9 +94,9 @@ Wren launches herself in the direction of the changing rooms. I poke at some of 
 
 Ferret isn't physically imposing. He's not much taller than me, slim with a mussy, unkempt head of hair, dressed in a cheap knockoff of a much more expensive suit, and carrying a shockprod with a retractible blade convincingly disguised as a walking stick in the crook of his arm. His features are so feminine he could almost pass for a woman if he tried, which probably has something to do with why he's the only man on Lotus with any real power. There's not many men can make a street name stick, and he's one of them.
 
-"Sure, sure," I reply. I lift up a blouse from the rack and hold it flat against my chest. "Tell me, do you think the mesh look works for me? I'm thinking of branching out, maybe trading up for something more scandalous."
+"Sure, sure," I reply. I brandish a _jin_ from the rack, holding it flat against my chest. "Tell me, do you think the mesh look works for me? I'm thinking of branching out, maybe trading up for something more scandalous."
 
-"M'dear, when you wear it, it's not the clothes as cause scandals." He bows and kisses the back of my hand. "Speakin' on that, was quite the dust-up you had with your old girlfriend out there, eh?"
+"M'dear, when you wear it, it's not the *clothes* as cause the scandals." He bows and kisses the back of my hand. "Speakin' on that, was quite the dust-up you had with your old girlfriend out there, eh?"
 
 "Is that why you're here? Don't tell me you're in bed with the Syndicate now too."
 
@@ -102,29 +104,29 @@ Ferret isn't physically imposing. He's not much taller than me, slim with a muss
 
 "You're sure eager to get your hands on your haul." I examine my reflection in a nearby mirror. "Either that or you're here to play dress-up."
 
-"What can I say, I'm a busy man." Ferret lights a cigar. "How much for the girl, incident'ly? I know folks as'd pay top credit for her."
+"What can I say, I'm a busy man." Ferret lights a cigar. "How much for the girl, incident'ly? I know folks as'd pay top plat for her."
 
 "Ferret, it's almost like you *want* me to cut on you."
 
-"Aw, not for sale, eh?" Ferret shakes his head. "Right shame. You've *got* my cargo, aye?"
+"*Not for sale?*" Ferret gives me a disbelieving look. "I *do* hope you've got my *cargo,* then," he says, a calculated frisson of menace shifting his tone. "I'm not sure I could *suffer* any further disappointments."
 
-"I *have* twenty kilos of opium," I say. "Fresh off a subsistence world. They're not *yours* until I hear the sweet clink of clean coins."
+"I *have* twenty kilos of opium," I return, blithely ignoring the implied threat -- Ferret's equivalent of target practice. "Fresh off a subsistence world. They're not *yours* until I hear the sweet clink of clean coins."
 
-"That's all I needed to know." Tiny lights dance across the screen in his contact lenses as he updates his ledger, and he tosses me a purse. "Delivery at the usual location."
+"That's all I needed to know." Tiny lights dance across the screen in his contact lenses as he updates his ledger, and he tosses me a purse. "We'll do this the usual way."
 
-I unzip the purse and glance inside. It's filled with platinum. "You're not even asking to see the goods first? I'm touched."
+I unzip the purse and glance inside. It's filled with platinum. "You're not even asking to see the goods first? Ferret. I'm *touched.*"
 
-"Sparrow, when have you ever told a lie?" Ferret slaps me on the back. "Be seein' you 'round. And if you change your mind about the girl, my finder's fee--"
+"Sparrow, when have you ever told a lie?" Ferret slaps me on the ass. "Be seein' you 'bout. Tch, and when you change your mind about the girl, my finder's fee--"
 
-"Tell me, now I have your money, what's to keep me from dumping your ass out the nearest airlock?"
+"Tell me, now I have your money, what's to keep me from feeding you ass-first to the Void out the nearest airlock?"
 
-"That's what we all love about you, Sparrow; your impeccable sense of humor." Ferret waves jauntily. "Honor and grace!" With that, he slips out into the causeway.
+"That's what we all love about you, Sparrow; your impeccable sense of humor." Ferret waves jauntily. "Honor and grace, my dear!" And with that curt valediction, he's gone, slipping out into the causeway.
 
 "Who was that?" asks Wren, emerging from the changing room.
 
-"A grease stain shaped like a man. We do business sometimes. How's the bodywarmer?"
+"A grease stain in the shape of a man. We do business sometimes. How's the bodywarmer?"
 
-"It's -- I don't know, it's comfortable, but it's a little snug?"
+"It's -- I don't know, it's comfortable, but it's a little snug? Especially, um." She touches her breast, flushing slightly.
 
 "It's got to be. Baggy clothes don't work well when you got no gravity to hold them down, and they're a risk around machinery. Now let's find you a few pairs of tights."
 
@@ -134,11 +136,11 @@ I unzip the purse and glance inside. It's filled with platinum. "You're not even
 
 Wren turns beet red. "I -- no! Why do you -- *oh."*
 
-"Yeah. Out here, people are gonna see you from all kinds of angles. Dresses and skirts are for dirtlubbers, not void birds. Up here we got different ways to be sexy."
+"Yeah. Out here, people are gonna see you from all kinds of angles. Dresses and skirts are for dirtlubbers, not void birds. Up here we got different ways to show off."
 
 Wren points at my half-bare midriff. "Like that? Sparrowhawk, we're not *all* out to get naked in front of the galaxy."
 
-"Like I'd let you crib my style anyway." I pull a few more outfits off the racks. "You can wrap a _jin_ around your breasts to keep 'em locked down" -- I indicate mine with a thumb -- "and wear a normal tunic on top of that if you don't want to bear your midriff, but see this fancy thing?" I hold up a different tunic. "The chest is reinforced; it's like a _jin_ built right into your tunic so you don't need two layers." I touch the fabric to her arm. "Feels great on the tits, too -- no seams, no rough bits; makes you feel almost naked it's so slick and soft."
+"Like I'd let you crib my style anyway." I pull a few more outfits off the racks. "Here's your options. You can wrap a _jin_ around your breasts to keep 'em locked down" -- I indicate mine with a thumb -- "and wear a normal tunic on top of that, maybe just a bodywarmer even. Keeps your midriff hidden that way. But, see this fancy thing?" I hold up a different tunic. "The chest is reinforced; it's like a _jin_ built right into your tunic so you don't need two layers." I touch the fabric to her arm. "Feels great on the tits, too -- no seams, no rough bits; makes you feel almost naked it's so slick and soft."
 
 She fingers the tunic curiously. "It's so thin. This isn't cotton or wool."
 
@@ -154,7 +156,7 @@ Wren's glaring at me when she comes back out of the changing room. "You just wan
 
 Wren bites her lip. "These pants -- they're *really* tight across my -- my pelvis --"
 
-Oh, Wren. So innocent and naïve. It's kind of adorable. "Exercise is hard work, darling; you need all the encouragement you can get," I tell her with a snicker.
+Oh, Wren. So innocent and naïve. It's kind of adorable. "Exercise is hard work, darling; you need all the encouragement you can get," I tell her with a smirk.
 
 "...you are *really* enjoying this, aren't you?"
 
@@ -221,3 +223,4 @@ I grin, and put my arm around her shoulder. "Spoken like a true void bird. Now l
 %path fiction/Spirals
 %to pub/vt/fic/spirals
 %in arc Empire
+%with style set/empire.css

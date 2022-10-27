@@ -104,3 +104,4 @@ I punch him in the shoulder. "You better not. I'm a regular in these parts, so y
 %path fiction/Spirals
 %to pub/vt/fic/spirals
 %in arc Empire
+%with style set/empire.css
