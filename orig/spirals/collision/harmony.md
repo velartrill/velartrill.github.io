@@ -460,7 +460,7 @@ I stare at her. "That really works? Having a hierarchy everywhere really works o
 
 "I... no, I guess..."
 
-"It's like you think the whole galaxy is Silverdawns and Empresses. That nobody else is like Sunfury or me. Or *you,* hon. That we're special, the only people who look out for those who follow us." She turns on her side, letting her chest rest against my bare breasts and putting a firm hand on my rear. "We're not alone, Kess. You know how I keep saying you belong with the People?"
+"It's like you think the whole galaxy is Silverdawns and Moonwatchers. That nobody else is like Sunfury or me. Or *you,* hon. That we're special, the only people who look out for those who follow us." She turns on her side, letting her chest rest against my bare breasts and putting a firm hand on my rear. "We're not alone, Kess. You know how I keep saying you belong with the People?"
 
 "Yeah?"
 

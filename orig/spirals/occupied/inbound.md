@@ -250,7 +250,7 @@ Bluejay slips free of Willow's slackening grip and snatches her identicard back.
 
 _"Na,_ so that makes it all okay?" Willow jabs an accusing finger at Bluejay. "Everything the _mae jaroshkho_ did to your brothers, to your uncles, our fathers; _sakir shmie,_ our sisters and mothers? I had to watch filthy little birds *rape my fucking sister* in an alley when I was fifteen years old and now you want me to smile and say it's all okay?"
 
-*"For shame,"* Sashuan growls, and Jasmine can hear real anger in her voice this time; her normally flawless command of Khmaira is wavering in face of the raw emotion. "Why can you _uastahinar_ not save your anger and aggrievement for the *enemies* of the people? Why must you harass a *comrade* for the crimes of the bourgeoisie? _Pen a don,_ it was people like you who made my job the *hardest* for the last decade -- bloody-minded nationalists who can't put aside your petty ethnic strife for long enough to put out a fire, let alone win a goddamn war. Don't you get it, child? *This is exactly what they want.* This is how they divide us, how they keep us squabbling for scraps while they feast in safety and comfort on the fruit of our blood, sweat and tears." She draws herself up. "You'll be the eighth Popular Front thugs I've had flogged this month, you know. I'm starting to doubt you'll be the last." She holds out a hand, gripping her handset in the other. "Badges."
+*"For shame,"* Sashuan growls, and Jasmine can hear real anger in her voice this time; her normally flawless command of Khmaira is wavering in face of the raw emotion. "Why can you _uastahinar_ not save your anger and aggrievement for the *enemies* of the people? Why must you harass a *comrade* for the crimes of the bourgeoisie? _Pen a don,_ it was people like you who made my job the *hardest* for the last decade -- bloody-minded chauvinists who can't put aside your petty ethnic strife for long enough to put out a fire, let alone win a goddamn war. Don't you get it, child? *This is exactly what they want.* This is how they divide us, how they keep us squabbling for scraps while they feast in safety and comfort on the fruit of our blood, sweat and tears." She draws herself up. "You'll be the eighth Popular Front thugs I've had flogged this month, you know. I'm starting to doubt you'll be the last." She holds out a hand, gripping her handset in the other. "Badges."
 
 "Please, ma'am, that's not necessary."
 
@@ -342,7 +342,7 @@ Sashuan grabs the woman's tunic by its hem and yanks it upward, baring her upper
 
 The soldier whistles. "Now that's a catch. You recognize the crest?"
 
-"No. Not a big name around here, or I would. She may be from offworld. I hear Rosie nobles really get around."
+"No. Not a big name around here, or I would. She may be from offworld. I hear the Blood really get around."
 
 The soldier nods. "I'll pass that on to the investigators--"
 
@@ -350,11 +350,11 @@ Three armored personnel carriers barrel into the square, each from a different d
 
 As she steps up to the idling train, the commander exchanges salutes with the train guards, while her subordinates take the shrieking Parakeet into custody. "I hear correctly, that this is the one responsible for that attempted firebombing on the seventh?" the commander asks, looking her up and down. The train guard nods.
 
-"And that's not all; perp's inked, ma'am. Our friend here who apprehended her advises she looks to be at least a minor noble, possibly an offworlder."
+"And that's not all; perp's inked, ma'am. Our friend here who apprehended her advises she may be an offworlder, or possibly from a minor House."
 
 The commander snaps her fingers, and taking Parakeet by the upper arms, three of her team drag the woman out of the station towards the waiting APC. Turning to Sashuan, she bows respectfully. "Thank you for your assistance, ma'am," she says, clasping her hands behind her back. "May I ask for your name and office, in case the investigators wish to reach out to you?"
 
-"Sashuan Solnadi Vanteni," Sashuan replies gently. The commander's eyes widen.
+"Sashuan Solnadi Vanteni," Sashuan replies gently. "Liaison." The commander's eyes widen.
 
 "O-oh!" she exclaims, bowing again, much more deeply this time. "Comrade Sashuan— it's such an honor!" Her cool is completely gone, replaced by a mixture of fear and awe. "I— I'll make sure the investigators don't bother your office unless it's very important—"
 
@@ -410,7 +410,7 @@ Sashuan squeezes her hand, snuggling up next to her. "Jaz, this train is probabl
 
 "Hm? Sorry?"
 
-"That noble girl. Where are they taking her?"
+"That Blooded girl. Where are they taking her?"
 
 "You mean the Sisterhood troops?"
 

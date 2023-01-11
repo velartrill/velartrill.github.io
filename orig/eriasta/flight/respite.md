@@ -6,7 +6,7 @@
 
 "I've never had any trouble. We'll be fine."
 
-Mist is rising off the river, an ethereal haze in the early morning light. In the distance, the sun has finally crested the horizon, its warming rays still feeling all too distant in chilly air Seri's threadbare clothes are poorly suited to. Somewhere in the trees above them a cranky songbird is chirping. Feranya's leaning on a signpost, idly smoking a cigarette. One arrow, marked with "Sudra" and "Kethrana," points east; another points west, its jagged Seprenese characters illegible beneath several layers of tagging.
+Mist is rising off the river, an ethereal haze in the early morning light. In the distance, the sun has finally crested the horizon, its warming rays still feeling all too distant in chilly air Seri's threadbare clothes are poorly suited to. Somewhere in the trees above them a cranky songbird is chirping. Feranya's leaning on a signpost, idly smoking a cigarette. One arrow, marked with "Sudra" and "Kethrana," points east; another points west, its jagged old runes illegible beneath several layers of tagging.
 
 "And if we're *not* fine?" Seri clutches her wrist nervously. "If they have better security here? If you made a mistake with the passbooks? There's so much could go wrong. Maybe--" She hesitates. "Maybe we should just walk after all--"
 
@@ -34,15 +34,15 @@ Seri's eyes are wide with alarm. Feranya raises an eyebrow, gently squeezing Ser
 
 The stationmaster leans forward. "So it's like this," she whispers. "I'm not supposed to open the letters they drop in for the trains, but that messenger, he was babbling his fool head off when he came in, saying all kinds of mad things. There was a... a *demon*, he said, what murdered a whole bunch of people at the inn last night. Even killed an Inquisitor, so he said!" Her voice is pleading. "And now there's a Prophet-be-sanctified *Envoy of the Elect* in my station and... look, you wouldn't happen to... to know anything about that business, would you? I wouldn't ask, I know it ain't none of mine, only it's, well, I got me family up in Sudra. Not so far from Uptown."
 
-"Mm. Well, officially, I... can't really say anything. But..." Feranya leans closer. "Unofficially?"
+"Mm. Well, officially, I... can't really say anything," Feranya says hesitantly, eying the flash of disappointment and fear in the woman's eyes. She clasps her hands on the counter. "But, I mean… if you have *family* there, that's..." Feranya chews her lip for a moment, then leans closer, sighing and lowering her voice. "Okay. Look. Unofficially?"
 
-The stationmaster nods quickly. "Yes, unofficially?"
+The stationmaster nods eagerly. "Yes, unofficially?"
 
-"Unofficially... someone did kill an Inquisitor at that tavern last night," Feranya replies, narrowing her eyes and focusing on the Seprenan's emerald-green irises. "After she *shot* two of her own Vigilants, or so I'm told; alas I haven't seen the crime scene for myself. There was a witness, but he's... well. When I left he was still trying to claw his own eyes out." She clasps her hands. "This would be bad enough on its own, but..."
+"Unofficially... someone did kill an Inquisitor at that tavern last night," Feranya replies, narrowing her eyes and focusing on the Seprenan's emerald-green irises. "After she *shot* two of her own Vigilants, or so I'm told; alas I haven't seen the crime scene for myself. There was a witness, but he's... well. When I left he was still trying to claw his own eyes out." She exhales, drawing back. "This would be bad enough on its own, but..."
 
 "...but?" asks the stationmaster, eyes wide.
 
-Feranya purses her lips, looking down. "This isn't public information yet but Vigilants have been... disappearing. All over the province. Sometimes bodies turn up weeks later, covered in... strange wounds. Sometimes they just never come back in from patrol and no one ever sees them again. Augh, I wouldn't want to speculate, but, well..."
+Feranya purses her lips, looking down. "This isn't public information yet but Vigilants have been... disappearing. All over the provinces. Sometimes bodies turn up weeks later, covered in... strange wounds. Sometimes they just never come back in from patrol and no one ever sees them again. Augh, I wouldn't want to speculate, but, well..."
 
 The stationmaster swallows hard. "B-but?"
 
@@ -52,7 +52,7 @@ The stationmaster lets out a quiet gasp. *"Hunting?* You can't be serious..."
 
 "Deadly," Feranya replies. "Of course... that's just one guess. It could be anything, really. We don't even have a suspect yet, after all."
 
-"Er, heh, yes. Of course." The stationmaster nods, looking deeply unnerved. "Anything at all." She taps Feranya's passbook absently. "Everything looks well in order, miss. And, ah -- I presume you and your... colleague here are travelling together?"
+"Er, heh, yes. Of course." The stationmaster nods, looking deeply unnerved. "Anything at all." She taps Feranya's passbook absently. "Everything looks well in order, miss," she continues, raising her voice. "And, ah -- I presume you and your... colleague here are travelling together?"
 
 Seri nods and hands over the booklet, unable to look the stationmaster in the eye, hands shaking slightly. Feranya smiles and pats her on the back. "Don't mind my companion, she's still shaken up by... well. She lost a colleague last night. And it's not often the Inquisition loses people."
 
@@ -60,7 +60,7 @@ Seri nods and hands over the booklet, unable to look the stationmaster in the ey
 
 Feranya drums her fingers. "What's the terminus?"
 
-"Let me see... mm... ah yes, Vin Daritha." The stationmaster flips through a small booklet. "It's about a... nine-hour ride, looks like."
+"Oh, let me see... mm... ah yes, Vin Daritha." The stationmaster flips through a small booklet. "It's about a... nine-hour ride, looks like."
 
 "That'll have to suffice, I suppose. Daritha it is. Can we get a private cabin?"
 
@@ -142,11 +142,11 @@ Seri's voice is fainter now, her words a little slurred. "What's it like in Mora
 
 "It's..." Feranya gazes off into the distance. "Quiet. Beautiful and quiet. Peaceful."
 
-"S'it really true what they say? They don't torture or murder people as heretics?"
+"S'it really true what they say? They don't torture or murder heretics there?"
 
-The corner of Feranya's lip curls upward. "Depends on how you define 'torture' and 'heretic.'"
+The corner of Feranya's lip curls upward. "Depends on how you define 'torture' and 'heretic,' I suppose."
 
-"That why you ran away?"
+"Oh. That why you ran away?"
 
 "I didn't run away." Feranya strokes Seri's arm absently. "I was young and I wanted excitement. More than home could offer. So I went traveling with some friends." She sighs heavily. "To think, how much I'd give now for that quiet old life back."
 

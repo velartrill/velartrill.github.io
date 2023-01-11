@@ -248,7 +248,7 @@ Sparrow brightens considerably. "So when do you figure—"
 
 "Without further ado," the President concludes, leading me up onto the dais and holding our clasped hands momentarily above our heads for all to see, most especially the cameras, "I give you our Comrade Kestrel Winterblossom, General-for-Life of the ever-victorious People's Army, Heroine of the Republic, Defender of the People, and Soldier of the Revolution! I beseech you all to offer her your fullest and most solemn attention in regard to this crucial matter -- not simply because we all owe her that much and so very much more, but because our Comrade Kestrel is a relentless champion of the values that the Cormorant taught us, a fearless warrior for the voiceless and downtrodden, and the living conscience of this nation, without whom I fear we would go far astray." Inclining her head, she steps away and climbs down off the dais, taking up a position at a respectful distance with her hands clasped primly at her waist. *On your best behavior, Commander,* her narrow gaze warns louder than words.
 
-I hold up a hand and the applause quickly dies down. "Senators, comrades, I thank you for so graciously allowing me a moment of your precious time. As always, I am humbled by your show of appreciation -- appreciation I indeed find myself showered with wherever I am recognized, from the highest halls of state and most elite of social functions to the most unassuming of taverns and the fields of our collective farms. Of course, I didn't get into the business of war and revolution in fanciful expectation of fame, glory, and prestige -- no soldier in her right mind would -- and it is thanks enough for my labor of love simply to walk down Stormvale's broad boulevards and breathe the free air of world we have built."
+I hold up a hand and the applause quickly dies down. "Senators, comrades, I thank you for so graciously allowing me a moment of your precious time. As always, I am humbled by your show of appreciation -- appreciation I indeed find myself showered with wherever I am recognized, from the highest halls of state and most elite of social functions to the most unassuming of taverns and the fields of our collective farms. Of course, I didn't get into the business of war and revolution in fanciful expectation of fame, glory, and prestige -- no soldier in her right mind would -- and it is thanks enough for my labor of love simply to walk down Stormvale's broad boulevards and breathe the free air of the world we have built."
 
 I look back and forth over the assembly of the thirty-eight senators. It's a mélange of highly distinct personalities, with little in common beyond their fervent assertions of ideological orthodoxy and the advanced age of most, with only a small handful being less than forty solar years. While even here there are occasional sparks of youthful idealism and naïveté to be found, on the whole, dealing with politicians isn't like dealing with soldiers.
 
@@ -354,7 +354,7 @@ The bizarre question takes us all off guard. Sparrow stares at her for a moment,
 
 I feel slightly sick. Bear tilts his head in that way he does when he's about to beat someone to death. Moose spits. "Pissing hounds, hotshot, you never told us!"
 
-She shrugged. "Was a long time ago."
+She shrugs. "Was a long time ago."
 
 I look up at Egret, who's rummaging in her robes. "Why--?" I begin, and come up short as she pulls something from a pocket and proffers it. Brilliant blue light glints in her cupped hands.
 
@@ -384,11 +384,19 @@ Hesitantly, looking from Egret to me and back, Sparrow reaches out, gingerly tak
 
 I smile thinly. "Deal."
 
-"Well! Would you look at the time." Egret curtseys extravagantly, earning a nod from Moose and a slight bow from Bear. "I'll no more impose on you. 'Til next we meet may the sun light your way."
+"As for you, Major?"
 
-"And the moons guard your fortune," I murmur, almost automatically. And then she's gone. For a moment, the only sound is the trickle of the fountain by the entranceway.
+Bear inhales deeply. "Egret," he says slowly.
 
-"You know, if she'd done that in front of everyone…" Bear rumbles. "In front of the *press…"* 
+She tilts her head toward me. "Clean the girl up, will you?"
+
+For a split second, Bear freezes like he's been slapped. Then he turns on his heel, grabbing me by the arms and looking me up and down. He blinks, grips my wrist, and hisses an oath under his breath as he rummages in his satchel with his free hand.
+
+"Well! Would you look at the time." Egret curtseys extravagantly, earning a nod from Moose. "I'll no more impose on you. 'Til next we meet may the sun light your way."
+
+"And the moons guard your fortune," I murmur almost reflexively, my whole body suddenly running on autopilot in Bear's grip. And then she's gone. For a moment, the only sound is the trickle of the fountain by the entranceway. 
+
+My palms sting bitterly as Bear swabs them clean with a disinfectant wipe, carefully standing so as to block the wretched spectacle from Moose and Sparrow's view. The pain barely registers. "You know, if she'd done that in front of everyone…" he rumbles, tugging my uniform gloves free from my belt and fastening the buckles securely around my wrist. "In front of the *press…"* 
 
 Sparrow nods. "Either Wagbeak really cares a lot about what we think 'bout her—"
 

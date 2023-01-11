@@ -1,6 +1,6 @@
--- whenever we were about to meet anyone of significance, Kestrel would always, just before they entered the room, whisper to me some unseemly detail of the woman's private life, some dark little secret that the tabloids would pay for in blood and platinum, words that could unmake decades -- sometimes centuries -- of achievement and destroy overnight a family name. she told me in her later years that it was always her design to keep any of the haughty grandeur with which those of the Court always carry themselves from impressing itself too greatly upon my developing psyche. "When you look a fine Duchess in the eye," she said, "I don't want you to see the gleaming gems, the gaudy hat, the cringeing servants -- I want her still half-dressed in her courtly robes, bending her butlers over bannisters and fucking them 'til they bleed, all the while beating them with her sandals and screaming, *take that, Lady Nightingale*." *these people are beneath us, Raven,* she refrained from saying, in words so clear I heard them anyway -- *i could not chance the risk that you might ever take them seriously.*
+-- whenever we were about to meet anyone of significance, Kestrel would always, just before they entered the room, whisper to me some unseemly detail of the woman's private life, some dark little secret that the tabloids would pay for in blood and platinum, words that could unmake decades -- sometimes centuries -- of achievement and destroy overnight a family name. she told me in her later years that it was always her design to keep any of the haughty grandeur with which those of the Court always carry themselves from impressing itself too greatly upon my developing psyche. "When you look a fine Duchess in the eye," she said, "I don't want you to see the gleaming gems, the gaudy hat, the cringeing servants -- I want her still half-dressed in her courtly robes, bending her maids over bannisters and fucking them 'til they bleed, all the while beating them with her sandals and screaming, *take that, Lady Nightingale*." *these people are beneath us, Raven,* she refrained from saying, in words so clear I heard them anyway -- *i could not chance the risk that you might ever take them seriously.*
 
-it was, too, potent training in the art of restraining one's girlish giggles in the presence of magnates.
+it was, too, harsh training in the art of restraining one's girlish giggles in the presence of magnates.
 
 --
 
@@ -26,7 +26,7 @@ I laugh. "My dear, I sit on the Privy Council. At my level, one plans each foots
 
 "Can they be trusted, all of them?"
 
-"Those who I could not keep in my confidence, I found excuses to fire or transfer to my townhouse many days hither. Those who remain are loyal to me personally, and have no particular love for the Empire."
+"Those who I could not keep in my confidence, I found excuses to fire or transfer to my townhouse many days hither. Those who remain are loyal to me personally, and all have reason to despise the Empire."
 
 "If you say so." Lishuen is plainly unhappy with the idea.
 
@@ -38,7 +38,7 @@ I step back, clasping my hands behind my back. "I will need you to injure me."
 
 *"Wh-what?"*
 
-"I require an excuse to be quit of my duties for a time. It is unlike me to take vacations. Appearing before my subordinates battered and bruised will in addition further dispend of any suspicions that might be raised against me."
+"I require an excuse to be quit of my duties for a time. It is against my character to take vacations. Appearing before my subordinates battered and bruised will in addition further dispend of any suspicions that might be raised against me."
 
 Lishuen stares at me. "I… I can't. You've… you've been so kind to me, you saved me, I--"
 
@@ -72,9 +72,9 @@ At the sight of the marks, Lishuen lets out an audible gasp. "I've… I've heard
 
 "If it is in my power to grant, you shall have it," She replies immediately.
 
-I gesture to my blackened eye and bruised cheek. "I have done my best to maintain my strength in the presence of my colleagues, but I cannot lie to my Empress. Yesterday's events have lessened me shamefully. To be attacked here in this holy place… my thoughts are scattered in the wind; my will wavers before a heart that will not cease pounding. No focus can I bring to bear upon my duties. Even my own office has become submerged in a sea of terror, in which I drown, every moment a waking death. I have found respite only by fleeing to the peace of my forest manor, tail between my legs. I do not believe I can long serve the Empire in this state. Ten and ten thousand apologies to your Serenity, that you should have to bear my weakness--"
+I gesture to my blackened eye and bruised cheek. "I have done my best to maintain my strength in the presence of my colleagues, but I cannot lie to my Empress. Yesterday's events have lessened me shamefully. To be attacked here in this sacred place… my thoughts are scattered in the wind; my will wavers before a heart that will not cease pounding. No focus can I bring to bear upon my duties. Even my own office has become submerged in a sea of terror, in which I drown, every moment a waking death. I have found respite only by fleeing to the peace of my forest manor, tail between my legs. I do not believe I can long serve the Empire in this state. Ten and ten thousand apologies to your Serenity, that you should have to bear my weakness--"
 
-The Empress smiles softly. "You need a vacation," she says.
+The Empress smiles softly. "You need a vacation," says She.
 
 I drop my head. "I… aye, your Serenity."
 
@@ -92,7 +92,7 @@ Would that I could betray this Empire without betraying Her.
 
 "I cannot say I have had the privilege, your Serenity."
 
-"Oh, but it is exquisite! Alas, as so involved an undertaking it is yet a rare privilege; I would this were not so. But have you here not a grand opportunity? Long have you ably defended our Realm against all fell forces within and without, yet scarcely have you enjoyed the slightest fraction of its glories! What justice is there in this?
+"Oh, but it is exquisite! Alas, as so involved an undertaking it is yet a rare privilege; I would this were not so. But have we here before us not a grand opportunity? Long have you ably defended our Realm against all fell forces within and without, yet scarcely have you enjoyed the slightest sliver of its glories! What justice is there in this?
 
 "Go, see the Jewelled Forests of Sundered Apex! The God-Peak on Resolute Pearl, the highest mountain in all the Civilized Galaxy! The underwater cities of ! Or perhaps, go to the East, and see for yourself what our new conquests have brought into my dominion. The Fallen Acropolis of the Whispering Valley -- over six million years old, our archaeologists tell me, and yet still so much intact; I yearn to visit it myself one day. See one, see them all if you would!" She puts a hand to my cheek. "And contemplate as you do, that your touch is on all these wonders. Your fingerprint marks our worlds each and every one. These places all owe their safety and prosperity to your selfless labors."
 

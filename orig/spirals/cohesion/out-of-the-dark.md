@@ -16,7 +16,7 @@ Cassil stares at the ceiling. "Exit interview?"
 
 Cassil waves a hand. "Yeah, whatever, go ahead."
 
-"Thank you *so* very much." Mirvit presses a contact on her slate. "This interview will be recorded for archival purposes, so would you be so kind as to state your full name for the record?"
+"Thank you *so* very much." Mirvit presses a contact on her slate. "This interview will be recorded for archival purposes, so would you be so kind as to state your full name for the record? You may omit your gene-group if you prefer."
 
 "Uh… okay. Cassil Mirsali Roshi Tegvari Vaniari."
 
@@ -48,7 +48,7 @@ Images of Niltar's years of accumulated scar tissue flash through Cassil's mind.
 
 For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, looks away, and mumbles, "y-yeah, she-- *they* did."
 
-"So glad to hear it! Were you at any point subject to inappropriate sexual contact or any other form of [bodily violation](glossary.html#ranuir.d.latias)?"
+"So glad to hear it! Were you at any point subject to inappropriate sexual contact or any other form of intolerable [bodily violation](glossary.html#ranuir.d.latias)?"
 
 "N-no! What the fuck, does that *happen* here?"
 
@@ -64,7 +64,7 @@ For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, 
 
 "…I… I don't know."
 
-"That's fair. Were any methods that involved intentional infliction of pain or distress required to effect compliance during interviews or alter your behavior at any point during your detention?"
+"That's fair. Were any methods that involved intentional infliction of pain or distress employed to effect compliance during interviews or alter your behavior at any point during your detention?"
 
 "I wasn't *tortured* this time, no."
 
@@ -92,23 +92,31 @@ For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, 
 
 "…maybe some painkillers for the trip back."
 
-"Migraine abortives, anti-inflammatories, or exorphine agents?"
+"Migraine abortives, anti-inflammatories, exorphine agents, or a specialized neuropathic pain agent?"
 
 "Um. Which one is fent again?"
 
-"That would be an exorphine. Noted. Do you feel physically and emotionally safe returning to your _rantal_ of origin?"
+"That would be an exorphine euphoriant. Noted. Do you feel physically and emotionally safe returning to your _rantal_ of origin?"
 
 "I guess."
 
 "Is there somewhere you would feel safer?"
 
- "Uh… not really, no." *Maybe the opposite end of the galaxy.*
+"Uh… not really, no." *Maybe the opposite end of the galaxy.*
 
 "Would you like any kind of Shevran or Homeguard escort during any part of your return trip, or are you comfortable travelling by yourself?"
 
 "Yeah, I'm gonna go with the latter."
 
-"Very good. Now, I see here you were taken into custody along with a number of personal effects; do you wish these to be returned immediately to you upon release, shipped back to your assigned dormitory, or disposed of altogether?"
+"Very good! Next, there is the matter of your return itself. Oh, I see here your home *rantal* has already been connected to the Core Line, that's very good! That means we can arrange a transit capsule to take you to a secure facility under Tegvar; your release will then be processed from there by your local Shevran section. *However,*" she adds with a painfully earnest smile, "as you seem to be *very* eager to be released from custody, I could alternatively recommend that you be released directly to the planetary capital; you would in that case be provided with a surface rail itinerary, unless you wish to arrange your own return-trip. However, surface rail *will* take substantially longer than vactrain—"
+
+"Surface rail, please," Cassil blurts. *Get me the fuck out of this dungeon already.*
+
+"Of course. I see here the next available surface route begins late this evening. If you do not wish your release to be delayed appropriately, we could discharge you to the nearest *rantal* and procure temporary quarters for you there, but—"
+
+"Let me *go*," Cassil interrupts, knuckles whitening. It comes out as more of a growl than she intended.
+
+Mirvit smiles brightly. "As you wish, of course! Now, I see here you were taken into custody along with a number of personal effects; do you wish these to be returned immediately to you upon release, shipped back to your unit dor— ah, forgive me, your cohort dormitory — sent to your personal travel dormitory, or disposed of altogether?"
 
 "I'd really like them back, please. Now."
 
@@ -116,29 +124,37 @@ For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, 
 
 "I don't need anything ext--" She pauses. "…where are we?"
 
-"The planetary capital."
+"The nearest commune is the administrative seat. Rantal Shaivan. Further information is restricted, I'm afraid."
 
-"Oh. In that case, um. Maybe a jacket. And leggings?"
+"Oh." *High up in the Shadowpeaks, then. Great.* "In that case, um. Maybe a jacket. And leggings?"
 
 "That will not be a problem. Are the current sizes on file for you up to date and correct?"
 
 "They are."
 
-"Excellent! Are there any other comments, concerns, or requests you would like to be entered into the record?"
+"Excellent! Mm, I note there are no portables listed among your personal effects -- do you wish to be issued a handset, music player, travel laptop, or any similar items for your return trip?"
+
+*Just a sidearm and a few full mags.* "Handset would be good, I guess. Can you get me a field ranger model with a wireless headset?"
+
+Mirvit wilts. "Our… onsite stocks are fairly limited, I don't know if that specific model… well, I could forward an order to the Shaivan depository if—"
+
+Cassil waves a hand, sighing. "Just get me something with a proper keypad, long-range radio, and a broadspec sensorium, then."
+
+"I'll, ah, I'll see what I can find." Mirvit smiles weakly, frantically taking notes. "Now," she continues, without pausing to finish writing, "are there any other comments, concerns, or requests you would like to be entered into the record?"
 
 Cassil barely restrains her instinct to mouth off again, and mutely shakes her head. *I need to get out of here and back to Nili as fast as possible. That's all that matters. Don't fuck this up again, you stupid bitch; don't let them goad you. I used up all my good luck for today already.*
 
-"I'm sorry, but can you please answer *verbally,* _shevan?_"
+"I'm so sorry, but can you please answer *verbally,* _shevan?_"
 
 "Um. Sorry. Uh, I don't have anything else to say."
 
 "Very well! Then that concludes this interview." Mirvit inclines her head, and touches a contact on the slate. "Thank you *so* much for your time, Cassil-_shevan._ I wish you a pleasant and uneventful journey home. _Cir a tar."_
 
-_"Atar,"_ Cassil mumbles, leaning back on the cot and pulling the sheets up to her shoulders. The door clangs shut as the two women leave the cell.
+_"Atar,"_ Cassil mumbles, leaning back on the cot and pulling the sheets up to her shoulders. Mirvit turns to leave, but Safris lingers for a moment, gazing inquisitively at Cassil. Cassil waves her away, and she reluctantly does as well. The door clangs shut behind the two women.
 
 ---
 
-She's awoken by the buzzer sounding again and sits up so sharply that her vision goes momentarily fuzzy. She turns her head, heart pounding as she rubs the sleep from her eyes, and sees Safris stepping through the doorway, followed by another Shevran officer.
+She's awoken by the sound of the lock buzzer and sits up so sharply that her vision goes momentarily fuzzy. She turns her head, heart pounding as she rubs the sleep from her eyes, and sees Safris stepping through the doorway, followed by another Shevran officer.
 
 "Comrade Cassil." Safris beckons. "Come with me, please."
 
@@ -152,7 +168,7 @@ There's no armed guard this time, and the two officers lead her out of the cell 
 
 "Wh-what did you mean by 'outprocessing,'" she manages finally, eager to change the subject.
 
-"It's just some paperwork, you get your stuff back, and then we put you on a train to the nearest *rantal.* Don't worry," she adds teasingly, "the shower's an intake thing only."
+"It's just some paperwork, you get your clothes back, and then we put you on a train to the nearest *rantal.* Don't worry," she adds teasingly, "no shower this time."
 
 "…good," Cassil mutters as Safris presses her gently forward. There's a small area on the other side of the blast door that's gated off from the rest of the stone corridor; otherwise, there's nothing but a pair of laundry carts, filled with white _rancalar._ Two more officers -- one in armor, the other in a dress uniform -- move towards her as she steps into the hallway; she flinches as the alarm rises up again and the blast door starts to close behind them.
 
@@ -164,11 +180,11 @@ There's no armed guard this time, and the two officers lead her out of the cell 
 
 "…you're going to make me strip? *Again?"*
 
-"If that's a problem, I'm happy to help," Safris murmurs teasingly. Cassil flushes.
+"If that's a problem, I'm happy to help," Safris comments idly. Cassil flushes.
 
 This time, at least, the guards don't touch her, only visually inspecting her once they've taken her _rancal._ One nods curtly to Safris and keys his handset, giving a quiet command. The fence across the exit clatters as it rolls back, and Safris takes hold of the shivering Cassil again to lead her through.
 
-The sensation of Safris gripping her bare body with her soft, strong, half-gloved hands is intensely distracting, and Cassil can feel her cheeks burning like a furnace, her limbs trembling, as she's led into a tiny numbered changing stall. She lets out a breath she didn't realize she was holding when she catches sight of her own _rancal_, sandals, and armwraps neatly layed out across a metal table in the center of the room; they smell like they've been freshly washed.
+The sensation of Safris gripping her bare body with her soft, strong, half-gloved hands is intensely distracting, and Cassil can feel her cheeks burning like a furnace, her limbs trembling, as she's led into a tiny numbered changing stall, dim recessed lights flicking on as she enters. She lets out a breath she didn't realize she was holding when she catches sight of her own _rancal_, sandals, and armwraps neatly layed out across a metal table in the center of the room; they smell like they've been freshly washed.
 
 "Would you like some privacy," Safris asks quietly, stopping by the door and turning to face her, but keeping one hand on her shoulder, "or would you like help getting dressed again?"
 
@@ -176,7 +192,7 @@ Cassil takes a deep, shuddering breath, struggling to regain her composure. Ther
 
 Safris grins. "If it's not a state secret."
 
-"Are you all talk," Cassil murmurs, stepping closer, gazing up into her eyes, "or are you actually going to make good on all that teasing?"
+"Are you all talk," Cassil murmurs, stepping closer, gazing up into her eyes, "or are you actually going to make good on all that flirting?"
 
 Safris giggles, and reaches out to pull the door shut. Cassil takes a sharp breath; the  room seems to darken and close in around them. "What ever do you mean, *comrade?"* the officer says softly, taking Cassil's neck in her hand and smirking at the shiver that runs through the girl's naked body.
 
@@ -226,11 +242,11 @@ Safris giggles. "No, thank *you.* You're a lot of fun, you know that?"
 
 Safris giggles, running her fingers through Cassil's hair. "Do I look like I care, babe?"
 
-Cassil makes a face. "The only person who ever calls me Cassi is this… psycho fucking bully back home."
+Cassil makes a face. "The only person who ever calls me Cassi is this… *psycho* fucking bully back home."
 
 “So it makes you feel small and vulnerable, is what you’re saying?” Safris grins. “I think that’s exactly where I want you… *Cassi.”*
 
-Cassil sighs. “You… you are such a piece of shit, you know that?”
+"Ugh." Cassil sighs. “You… you are such a piece of shit, you know that?”
 
 Safris digs her fingernails into Cassil's neck, smothering her mewls of pain with a kiss. "Careful, darling; that sounds like *insubordination.* I might have to *punish* you for that."
 
@@ -260,7 +276,7 @@ Safris laughs delightedly. “Don’t you think that’s a little ideologically 
 
 *“Ow!* The fuck are you, gold?”
 
-“White, actually.” Safris hauls Cassil to her feet and shoves her, forcing her back up against the wall again. “It’s a Shevran thing.”
+“Ultraviolet, actually.” Safris hauls Cassil to her feet and shoves her, forcing her back up against the wall again. “It’s a Shevran thing.”
 
 “Fuck, can you *all* fight like this?”
 
