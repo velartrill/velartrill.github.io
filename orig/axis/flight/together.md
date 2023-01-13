@@ -207,5 +207,7 @@ Seri gives her a thin smile. "I'll keep that in mind."
 
 %prev stab-in-the-dark.html A Stab in the Dark
 %next respite.html Respite
-%path fiction/Eriasta
-%to pub/vt/fic/eriasta
+
+%is arc Eriasta
+%path fiction/Axis
+%to pub/vt/fic/axis

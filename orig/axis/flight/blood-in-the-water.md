@@ -168,5 +168,6 @@ Her breathing slows, her eyelids flutter, and she drifts away into a deep sleep.
 
 %next stab-in-the-dark.html A Stab in the Dark
 %is coda ils/feranya.png
-%path fiction/Eriasta
-%to pub/vt/fic/eriasta
+%is arc Eriasta
+%path fiction/Axis
+%to pub/vt/fic/axis

@@ -236,5 +236,6 @@ Feranya stares at her for a moment. Then finally, with a scoff of exasperation, 
 %prev respite.html Respite
 
 
-%path fiction/Eriasta
-%to pub/vt/fic/eriasta
+%is arc Eriasta
+%path fiction/Axis
+%to pub/vt/fic/axis

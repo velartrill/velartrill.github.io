@@ -249,5 +249,6 @@ As Seri curls up in her arms, the locomotive's whistle blows again, and the trai
 %next into-the-valley.html Into the Valley
 
 
-%path fiction/Eriasta
-%to pub/vt/fic/eriasta
+%is arc Eriasta
+%path fiction/Axis
+%to pub/vt/fic/axis

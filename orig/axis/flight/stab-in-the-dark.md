@@ -169,5 +169,7 @@ Seri grits her teeth. "The fucking *innkeep?* After everything I paid him? I--" 
 %prev blood-in-the-water.html Blood in the Water
 %next together.html Together
 %is coda ils/seri.png
-%path fiction/Eriasta
-%to pub/vt/fic/eriasta
+
+%is arc Eriasta
+%path fiction/Axis
+%to pub/vt/fic/axis

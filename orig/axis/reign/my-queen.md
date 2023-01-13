@@ -220,5 +220,6 @@ She draped her own robes over her shoulders and put an arm behind my back. "Come
 %prev peace.html Peace
 %next foreign-affairs.html Foreign Affairs
 
-
 %in arc Reign
+%path fiction/Axis
+%to pub/vt/fic/axis

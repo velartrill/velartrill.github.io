@@ -213,3 +213,5 @@ Still trembling, I nodded.
 
 
 %in arc Reign
+%path fiction/Axis
+%to pub/vt/fic/axis

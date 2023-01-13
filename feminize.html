@@ -131,17 +131,17 @@ button:active { background-color: #29001e; color: #7a005a; }
 		
 		/* Russian names */
 		
-		Dmitri: 'Daria',		Dmitry: 'Daria',		Ivan: 'Ivana',
+		Dmitri: 'Daria',		Dmitry: 'Daria',		Ivan: 'Ivanka',
 		Alexey: 'Alyona',		Vsevolod: 'Valentina',	Leonid: 'Lena',
 		Anatoly: 'Anastasiya',	Anton: 'Alya', 			Igor: 'Irina',
-		Piotr: 'Polina',		Andrey: 'Anna'
+		Piotr: 'Polina',		Andrey: 'Anna',			Andrei: 'Anna'
 		}
 reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', lad: 'lass', fellow: 'woman',
 		milord: 'milady',  master: 'mistress', Count: 'Countess', earl: 'countess', hero: 'heroine', son: 'daughter',
 		baron: 'baroness', marquess: 'marquise', bastard: 'monster', lordship: 'ladyship', god: 'goddess',
 		male: 'female', boyfriend: 'girlfriend', brother: 'sister', father: 'mother', grandfather: 'grandmother',
 		grandpa: 'grandma', uncle: 'aunt', nephew: 'niece', actor: 'actress', blond: 'blonde', bachelor: 'spinster', waiter: 'waitress',
-		dude: 'dudette', dad: 'mom', daddy: "mommy"}
+		dude: 'dudette', dad: 'mom', daddy: "mommy", papa: "mama"}
 reptable = {}
 function capitalize(s){
     return s.charAt(0).toUpperCase()+s.slice(1);
@@ -186,7 +186,7 @@ function misandry() {
 			+ evilXML.substr(match.index + match[0].length);
 	}
  
-	/* crush the patriarchy! */
+	/* crush that patriarchy! */
 	document.getElementById('sexist').innerHTML = evilXML;
 }
 </script>
@@ -281,13 +281,13 @@ function misandry() {
 		Dmitri: 'Daria',		Dmitry: 'Daria',		Ivan: 'Ivana',
 		Alexey: 'Alyona',		Vsevolod: 'Valentina',	Leonid: 'Lena',
 		Anatoly: 'Anastasiya',	Anton: 'Alya', 			Igor: 'Irina',
-		Piotr: 'Polina',		Andrey: 'Anna'};
+		Piotr: 'Polina',		Andrey: 'Anna',			Andrei: 'Anna'};
 reg = { emperor: 'empress',king: 'queen', duke: 'duchess', lord: 'lady', lad: 'lass', fellow: 'woman',
 		milord: 'milady',  master: 'mistress', Count: 'Countess', earl: 'countess',  hero: 'heroine', son: 'daughter',
 		baron: 'baroness', marquess: 'marquise', bastard: 'monster', lordship: 'ladyship', god: 'goddess',
 		male: 'female', boyfriend: 'girlfriend', brother: 'sister', father: 'mother', grandfather: 'grandmother',
 		grandpa: 'grandma', uncle: 'aunt', nephew: 'niece', actor: 'actress', blond: 'blonde', bachelor: 'spinster', waiter: 'waitress',
-		dude: 'dudette'};
+		dude: 'dudette', dad: 'mom', daddy: 'mommy', papa: 'mama'}
 reptable = {};
 function capitalize(s){
     return s.charAt(0).toUpperCase()+s.slice(1);
@@ -328,12 +328,12 @@ while ((match = ueberRegex.exec(evilXML)) !== null) {
 		+ reptable[match[0]]
 		+ evilXML.substr(match.index + match[0].length);
 }
-/* crush the patriarchy! */
+/* crush that patriarchy! */
 document.body.innerHTML = evilXML;
 })()" onclick="return false">FEMINIZER X9001</a>
 
-<small><p>*WARNING: This product may cause hysteria, light to moderate epiphanies, and late-onset gay. Do not expose to polysemy, possessive adjectives, or <a href="approvednews">Contaminated material</a>.</p>
+<small><p>*WARNING: This product may cause hysteria, light to moderate problematosis, and late-onset gay. Do not expose to polysemy, possessive adjectives, or <a href="http://an6.su">Contaminated material</a>.</p>
 
-<p>Feminizer Bookmarklet written by <a href="/">Alexis Hale</a>, with a major upgrade by <a href="//ajf.me/">Andrea Faulds</a>. ALL RIGHTS RESERVED, because I don't want to risk having bigots warp this code into its evil counterpart. If you use the code for good tho (i.e. social-justicey purposes) I promise won't send you a cease-and-desist or sue you or anything as long as you abide by the GPLv2. If you've found a word pair I've missed and should add, drop me a line on Twitter @velartrill.</p></small>
+<p>Feminizer Bookmarklet written by <a href="https://hale.su">Alexis Hale</a>, with a major upgrade by <a href="//ajf.me/">Andrea Faulds</a>. Source code is made available under the terms of AGPLv3 wherever tonics, salves, and snake oil is sold, subject to the additional provision that IBM and its customers are strictly forbidden from using this code for evil. All other legal persons are permitted and encouraged to use this code for evil. If you've found a word pair I've missed and should add, drop me an email.</p></small>
 </body>
 </html>

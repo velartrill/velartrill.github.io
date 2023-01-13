@@ -59,3 +59,5 @@ I used to take dictation for nobles with poetry a lot. Most scribes did. We'd ge
 "Fine, but only because it's from both of us," groused Inaya.
 
 %in arc Reign
+%path fiction/Axis
+%to pub/vt/fic/axis
