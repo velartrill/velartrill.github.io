@@ -90,7 +90,7 @@ The frightened scribe is ushered away. Savren breathes a sigh of relief.
 
 *"All units, all units. Be advised."* She's interrupted by a wide-band squawk from the radio. *"Per new intel enemy reinforcements may be en route. Awaiting satellite confirm. Move to Contingency Two. I say again, Contingency Two, all units. Ground ops out."*
 
-Savren grabs her radio. "Savren to ground ops. Put through to ops actual."
+Savren grabs her radio. "Savren to ground ops. Give me ops actual."
 
 *"Wilco, Savren. Hold for ops actual."*
 
@@ -102,7 +102,7 @@ Savren stares at Otter. "What did we miss?"
 
 *"Nishvir to Savren, come in, Savren, over."*
 
-*"Roshlas!* What in Haven is going on?"
+*"Ravlas!* What in Haven is going on?"
 
 *"Linguists found telegraph facilities. We have confirmation Rosies got word to Silent Falls, over."*
 
@@ -246,7 +246,7 @@ For a moment, the only sound in the coach is the distant hum of the generator.
 
 A linguist pipes up. "They also reported a depot down, sir," she says. "Rosies may have assumed the worst."
 
-Nishvir grips his radio, keying back to ops. "Put through to the locomotive!"
+Nishvir grips his radio, keying back to ops. "Call the locomotive!"
 
 *"Connecting you now, sir.*
 
@@ -254,9 +254,9 @@ Nishvir grips his radio, keying back to ops. "Put through to the locomotive!"
 
 *"Wilco, sir."*
 
-He clicks the transmit key twice. "Ops. Reconnect ORBCOM."
+He clicks the transmit key twice. "Ops. Call ORBCOM."
 
-*"Receiving, Nishvir-*roshlas."
+*"Receiving, Nishvir-*ravlas."
 
 "Can you get me a link for a real-time tac map?"
 
@@ -344,7 +344,7 @@ A frightened look flits across Nishvir's face. "After how far we've come to get 
 
 Savren nods. "He's been treated worst of all. He shouldn't spend a second longer in this camp than necessary."
 
-Nishvir inclines his head. "I'll have him brought aboard immediately." He glances between the two of them. "If you're really set on staying behind, Savren-*roshlas...* then let's move."
+Nishvir inclines his head. "I'll have him brought aboard immediately." He glances between the two of them. "If you're really set on staying behind, Savren-*ravlas...* then let's move."
 %prev breach.html Breach
 %next justice.html Justice
 

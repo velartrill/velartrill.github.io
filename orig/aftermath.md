@@ -175,7 +175,7 @@ They sit there in silence for a while. Slowly, Savren pats her cheeks dry, wipes
 
 Savren shakes her head numbly. “So what now? You knock me down to T-four and waste valuable cargo space on a cruiser that could be carrying missiles to our troops hauling my ass back to Tel Hascit in the middle of a damn war?”
 
-“That was Nishvir-_roshlas_’ recommendation—”
+“That was Nishvir-_ravlas_’ recommendation—”
 
 “Of course it was.”
 

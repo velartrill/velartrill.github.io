@@ -32,11 +32,11 @@ Savren clears her throat. "I need to get to the bunker. I can identify a lot of 
 
 "I'm not asking to be reinstated. That wouldn't be good for the chain of command anyway. I'm asking to serve under you, temporarily."
 
-Nishvir glances at Vasuen, then turns on his handset. "Put through to Mirian."
+Nishvir glances at Vasuen, then turns on his handset. "Put me through to Mirian."
 
 *"Yes, sir."*
 
-"Miri, is there any immediate physical risk to Savren-*roshlas'* health if she walks around outside for a bit?"
+"Miri, is there any immediate physical risk to Savren-*ravlas'* health if she walks around outside for a bit?"
 
 *"The only risk that comes to mind is rapid lead impaction,"* the surgeon admits grudgingly. *"But she's not remotely combat-ready."*
 

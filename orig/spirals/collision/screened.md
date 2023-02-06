@@ -30,7 +30,7 @@ The soldier holsters her weapon as well and steps forward. "I'm going to pat you
 
 She's brisk and businesslike about it, but thorough and without regard for our notions of dignity. The cold metal and mesh of her gauntlets right up against my skintight tunic is upsettingly intimate, and she doesn't spare my bosom or inner thighs. It's all I can do to force myself to stand still, and I still can't help but shiver. Then, finally, she nods, and steps back, and I let out a breath I didn't realize I was holding..
 
-"You can lower your hands. Entry card, please."
+"You may lower your hands. Entry card, please."
 
 I pull my robes back together and fasten the belt tightly around my waist before fishing the card out of its pocket. She takes it, inserts it in a handheld device. There's a chirp, and a screen lights up.
 
@@ -38,7 +38,7 @@ I pull my robes back together and fasten the belt tightly around my waist before
 
 She looks up, takes me by the chin. I flinch at the cold, unexpected touch; she seems surprised at my reaction, and immediately loosens her grip. She examines my face carefully, turning my head this way and that, then nods, and hands me my card back.
 
-*"Shollin, roshlas. Niltashte."*
+*"Shollin, ravlas. Niltashte."*
 
 *"Coshe, surin."* The officer steps forward, operating a contact on her gauntlet. Her helm splits and retracts smoothly into her armor, revealing dimpled cheeks, thin, dark lips, and short golden hair. "Comrade Ambassador. Welcome to the Embassy. I am Ranvar-*roshla--* Commander Ranvar Sigtami of Embassy Security." She puts a hand on my shoulder, and after a moment's confusion, I realize it's a gesture of greeting. I reciprocate, and she nods.
 

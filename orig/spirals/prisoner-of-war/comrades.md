@@ -54,7 +54,7 @@ Nishvir looks at her with alarm, quickly grabbing his handset. "Are you wounded,
 
 "...leeches?" asks Nishvir, blinking.
 
-"Are you going to stand down voluntarily or do I have to ask Nishvir-*roshlas* to relieve you?"
+"Are you going to stand down voluntarily or do I have to ask Nishvir-*ravlas* to relieve you?"
 
 Savren hesitates, then inclines her head. "As you wish. I commit my unit to the JTF and relinquish command to Vasuen Shalsheni. I stand down."
 
@@ -224,7 +224,7 @@ Nishvir nods silently.
 
 "Well, we'll have to be her *varinar* until a counselor can make that call, won't we?"
 
-Mirian purses her lips, and turns back to Savren. "You said there were other citizens here, *Savren-roshlas?"*
+Mirian purses her lips, and turns back to Savren. "You said there were other citizens here, *Savren-ravlas?"*
 
 "One of the others met us at the depot," Nishvir interjects.
 

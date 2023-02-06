@@ -142,7 +142,7 @@ They stand there for a moment, tears trickling down Savren's face as she clings 
 
 Then her handset squawks. Instinctively she moves her hand to silence it, but stops when she hears her name.
 
-"Savren-*roshlas* to the situation room. Savren-*roshlas* to the situation room."
+"Savren-*ravlas* to the situation room. Savren-*ravlas* to the situation room."
 
 Reluctantly she disentangles herself. "I need to go."
 
