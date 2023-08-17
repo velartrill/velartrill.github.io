@@ -84,9 +84,9 @@ The pilot glances up at me as I enter the cockpit. "Greens on the radio, ma'am,"
 
 "Uh. Okay. Sorry, one second." I key off the microphone. *"BEAR!"*
 
-Bear pokes his head into the cockpit. "Right here. Who d'you need me to kill?"
+Bear pokes his head into the cockpit. "Who d'you need me to kill?" he rumbles, casually lighting a cigar.
 
-My eyes are fixed on the railguns and missile pods spaced around the landing strip, some of which have *definitely* been tracking us. "I need my entry card, now."
+My eyes are fixed on the magcannons and missile pods spaced around the landing strip, some of which have *definitely* been tracking us. "I need my entry card, now."
 
 Bear unlocks the briefcase and hands me a card. I squint at the sequence of numerals as I recite them into the radio, and release the transmit key.
 

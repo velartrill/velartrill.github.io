@@ -22,7 +22,7 @@ I laugh. "My dear, I sit on the Privy Council. At my level, one plans each foots
 
 "I… don't like being alone. I don't know what might happen, I--"
 
-"This is the vacation home of a Vizier, my darling. It is guarded day and night, and the servants will attend you as faithfully as though you were me."
+"This is the retreat of a Vizier, my darling. It is guarded day and night, and the servants will attend you as faithfully as though you were me."
 
 "Can they be trusted, all of them?"
 
@@ -44,7 +44,7 @@ Lishuen stares at me. "I… I can't. You've… you've been so kind to me, you sa
 
 "And if you wish to *stay* saved, you will rouse yourself and overcome this pitiful emotional block," I respond, momentarily reverting to my courtly persona. "Are you not a case officer of the Adversary, Lishuen? Your kind is made of stern stuff."
 
-Lishuen closes her eyes, inhales deeply, digs her fingernails into her arm again. "I'm sorry. You're right; I'm being childish."
+Lishuen flushes, closes her eyes, inhales deeply, digs her fingernails into her arm again. "I'm sorry. You're right; I'm being childish."
 
 "It is understandable." I beckon. She nods. She's still wobbly on her legs but she's able to stand on her own without clutching the chair.
 
@@ -62,11 +62,11 @@ I nod. "Tell me no more. If this is too carefully planned, we may leave some sig
 
 At the sight of the marks, Lishuen lets out an audible gasp. "I've… I've heard of _giau ţú_ but… this is the first time I've actually seen it." She touches my arm softly. "Stars and skies, this is brutal. How much of your body…?"
 
-"By custom, one decorates the arms and thighs. The back as well, if one is common-born as I am and is not honored with _ţú şèi_. It is currently fashionable at court to extend the process to one's flanks, though the style comes and goes. I remember when I was young it was seen as… showy, but now if one wishes to go before the Empress without creating scandal, it is very much obligatory."
+"By custom, one decorates the arms and thighs. The back as well, if one is common-born as I am and is not honored with _ţú şèi_. It is currently fashionable at court to extend the process to one's flanks, though the style comes and goes. I remember when I was young it was seen as… showy, but now if one seeks a boon of the Empress and wishes to escape scandal, it is very much obligatory."
 
 "Do… do the guards make you take off your clothes so they can check or something?"
 
-"Ah, yes. You are unfamiliar with court custom. I apologize." I incline my head. "A woman does not dress in this fashion in the presence of the Empress. Court dress bears much of the body to Her inspection -- to conceal beauty from Her is a great insult, to God and all the Empire."
+"Ah, yes. You are unfamiliar with court custom. I apologize." I incline my head. "A petitioner does not dress in this fashion in the presence of the Empress. Court dress bears much of the body to Her inspection -- to conceal beauty from Her is a great insult, to God and all the Empire. In truth, She cares little for the custom, but in this we are all enslaved of fashion and tradition."
 
 -- "Your Serenity, I must beg of you a favor."
 
@@ -92,9 +92,9 @@ Would that I could betray this Empire without betraying Her.
 
 "I cannot say I have had the privilege, your Serenity."
 
-"Oh, but it is exquisite! Alas, as so involved an undertaking it is yet a rare privilege; I would this were not so. But have we here before us not a grand opportunity? Long have you ably defended our Realm against all fell forces within and without, yet scarcely have you enjoyed the slightest sliver of its glories! What justice is there in this?
+"Oh, but it is exquisite! Alas, as so involved an undertaking it is yet a rare privilege; I would this were not so. But have we here before us not a grand opportunity? Long have you ably defended our Realm against all fell forces within and without, yet scarcely have you enjoyed the slightest sliver of her glories! What justice is there in this?
 
-"Go, see the Jewelled Forests of Sundered Apex! The God-Peak on Resolute Pearl, the highest mountain in all the Civilized Galaxy! The underwater cities of ! Or perhaps, go to the East, and see for yourself what our new conquests have brought into my dominion. The Fallen Acropolis of the Whispering Valley -- over six million years old, our archaeologists tell me, and yet still so much intact; I yearn to visit it myself one day. See one, see them all if you would!" She puts a hand to my cheek. "And contemplate as you do, that your touch is on all these wonders. Your fingerprint marks our worlds each and every one. These places all owe their safety and prosperity to your selfless labors."
+"Go, see the Jewelled Forests of Sundered Apex! The God-Peak on Resolute Pearl, the highest mountain in all the Civilized Galaxy! The underwater cities of the Orchardblossom house seat! Or perhaps, go to the East, and see for yourself what our new conquests have brought into my dominion. The Fallen Acropolis of the Whispering Valley -- over six million years old, our archaeologists tell me, and yet still so much intact; I yearn to visit it myself one day, should I find means to tear away for myself the time for such a lengthy voyage. See one, see them all if you would!" She puts a hand to my cheek. "And contemplate as you do, that your touch is on all these wonders. Your fingerprint marks our worlds each and every one. These places all owe their safety and prosperity to your selfless labors."
 
 I nod slowly. "Your Serenity makes a compelling argument. Perhaps… perhaps I will. I am growing old, and it would sorrow me were I to go to the next life not once having seen the stars in their grandeur."
 

@@ -39,9 +39,9 @@ She blinks in confusion. “P-permitted—” She’s cut off by an agonized wai
 
 “Pull her out. *Now.”*
 
-The interrogatrix looks baffled as she’s led out of the tiny cell, galvanic wand still in hand, clearly a woman who likes to do her own dirty work. Her bafflement quickly turns to surprise and fear as she recognizes me.
+The interrogatrix looks baffled as she’s led out of the tiny cell, chastisement rod still in hand, clearly a woman who likes to do her own dirty work. Her bafflement quickly turns to surprise and fear as she recognizes me.
 
-“Madame V-Vizier!” she exclaims. She falls to her knees, her white robes fluttering about her, and lowers her head respectfully. “What— how— how may I—”
+“Ma-- Madame Vizier!” she exclaims. She falls to her knees, her white robes fluttering about her, and lowers her head respectfully. “What— how— how may I—”
 
 I interrupt her. “What in God’s unknowable name do you call that sorry performance—” I glance at the sigils adorning her left sleeve “—Pigeon Starglen?” I finish. I motion irritably to her guard to secure the cell door. “Blood of the Seven, I cannot *believe* the care of so vital an asset has fallen into so clumsy a grip. Would it perhaps *behoove* you to explain your careless conduct ere I send you out for your lashing?” I hear the growing sounds of leather boots scraping and squeaking on polished stone — jailers flocking to upraised voices like a long-toothed pack of _zhan biau_ to the scent of blood on the storm-wind.
 
@@ -57,17 +57,17 @@ I interrupt her. “What in God’s unknowable name do you call that sorry perfo
 
 “P-playing me? H—”
 
-“’Twas the mercy of fate alone a guard of higher caliber than your witless young oaf had good enough sense to report this… *travesty* to my office. How many of our own secrets did you *betray* to the prisoner?” I growl. “What did you let *slip,* Starglen?” Like wraiths solidifying out of smoke, feminine figures in black leather armor appear in the shadows behind her, the dim lamp-light glinting off their helmets as they close in for the kill. 
+“’Twas the mercy of fate alone a guard of higher caliber than your witless young oaf had good enough sense to report this… *travesty* to my office. How many of our own secrets did you *betray* to the prisoner?” I growl. “What did you let *slip,* Starglen?” Like wraiths solidifying out of smoke, feminine figures in black leather uniforms appear in the shadows behind her, the dim lamp-light glinting off their gauntlets as they close in for the kill. 
 
 *“Betray!?”* Pigeon rises to her feet, anger flashing in her eyes, her veneer of obedience and respect faltering. “I was interrogating *her,* not the other way ’round—”
 
-All it takes is one contemptuous gesture. The bodies of the young, sturdy, and almost frighteningly disciplined women behind her surge like a force of nature suddenly unleashed, seizing hold of Pigeon's waifish form and slamming her brutally to the floor. I clasp my hands patiently behind my back, allow the jailers a moment to indulge their sadism. Pigeon screams and writhes in their tight grip, finding herself for once on the other end of the sparker. “You wretched, insubordinate creature,” I murmur, leaning down to look the sobbing interrogatrix in the eye. I hold her gaze for a long moment, then I flick my fingers and the sound of galvanic crackling stops, the screams devolving into choked, terrified gasps for breath as Pigeon is hauled back to her feet.
+All it takes is one contemptuous gesture. The bodies of the young, sturdy, and almost frighteningly disciplined women behind her surge like a force of nature suddenly unleashed, seizing hold of Pigeon's waifish form and slamming her brutally to the floor. I clasp my hands patiently behind my back, allow the jailers a moment to indulge their sadism. Pigeon screams and writhes in their untender grip, finding herself for once on the other end of the sparker. “You wretched, insubordinate creature,” I murmur, leaning down to look the sobbing interrogatrix in the eye. I hold her gaze for a long moment, then I flick my fingers and the sound of galvanic crackling stops, the screams devolving into choked, terrified gasps for breath as Pigeon is hauled back to her feet.
 
 I step languidly closer, eyes still fixed on the girl in white, delicately violating her personal space with the whole of my body. "Does the concept of *reverse interrogation* entirely elude your limp-wristed grasp?" I murmur, eye to terrified eye, our lips nearly close enough to kiss. I can't help but smile, intoxicated by the young torturer's terror, drinking it in like a fine wine. I can feel it, in my body and in my soul, the perfect machine of Imperial power flowing around me, amplifying my will, wrapping my every word and motion in the crushing majesty of the State, and for this one moment — this one last perfect moment — I exult in the spray of its mighty waves as they crash all about me.
 
-I need to make the best of this — my last hit of the finest drug Creation has ever known. God alone knows if ever I shall experience the like again.
+I need to make the best of this — my last hit of the finest drug Creation has ever known. God alone may know if ever I shall experience the grandeur of true power again.
 
-I pat the helpless girl roughly on the cheek, relishing the look of fury and violation in her eye. "Fie and calamity," I murmur, tilting my head ever so slightly, and inflecting my voice with the proper mocking cue. "Were you apprenticed in error to a *tax collector?"* She flushes at the raucous giggles that obediently ensue from the soldiers around her. Oh, but it's been too long since I've been able to sink my teeth into someone who really just *deserved* it.
+I pat the helpless girl roughly on the cheek, relishing the look of fury and violation in her eye. "Fie and calamity," I murmur, tilting my head ever so slightly, and inflecting my voice with the proper mocking cue. "Were you apprenticed in error to a *tax collector?"* She flushes at the giggles and snickering that obediently ensue from the Moonwatcher greycloaks around her. Oh, but it's been too long since I've been able to sink my teeth into someone who really just *deserved* it.
 
 I hold out a hand, and as though reading my mind, a woman steps smoothly forward, setting Pigeon's galvanic wand in my waiting palm grip-first. Pigeon's eyes widen and she can't restrain a small, sharp gasp of fear. I reward her with a smirk as I toy with the horrible little device, in a manner precisely calculated to further arouse her terror.
 
@@ -83,7 +83,7 @@ Just about everyone knew someone at Diamond Beach.
 
 And then it's gone, as quickly as it came, leaving a steeled resolve in its place.
 
-Pigeon's quivering now. "I'm— I— I'm s-s-sorry—" she burbles; "I'm— *ahhhh!*" She flinches, letting out a low, pained moan as I slip my knee between her legs and slam it against her taut little cunt. I rest the barrel of the wand against her cheek, giving her an amused look.
+Pigeon's quivering now. "I'm— I— I'm s-s-sorry—" she burbles; "I'm— *ahhhh!*" She flinches, letting out a low, pained moan as I slip my knee between her legs and slam it against her cunt. I rest the barrel of the wand against her cheek, giving her an amused look.
 
 "I asked you a *question,* Pigeon."
 
@@ -91,9 +91,9 @@ Pigeon's quivering now. "I'm— I— I'm s-s-sorry—" she burbles; "I'm— *ahh
 
 "What happened at Diamond Beach, Pigeon?"
 
-Pigeon swallows hard. "Th-they… it was… h-half our agents in the League… it was a m-massacre…"
+Pigeon swallows hard. "Th-they… it was… h-half our agents in the League… they took them all…"
 
-"That's *right!"* I punctuate the word with the sharp open-palm slap to Pigeon's cheek, eliciting a deeply satisfying yelp; even some of the guards around us flinch in surprise. The blow probably hurt me worse than it hurt Pigeon — but nobody needs to know that. I seize her by the scruff of the neck, yanking her head back hard until she cries out in pain. Looming over her, my lips a fraction of an inch from hers, I whisper: "And Pigeon? That is why, when we are interrogating the Enemy, we do not get *sloppy!"* My voice rises from a whisper until with the last word it reaches a shout. I step back, shaking my head, glancing up at the seven or eight women who've gathered around us, looking them each in the eye.
+"That's *right."* I punctuate the word with a sharp open-palm slap to Pigeon's cheek, eliciting a deeply satisfying yelp; even some of the guards around us flinch in surprise. The blow probably hurt me worse than it hurt Pigeon — but nobody needs to know that. I seize her by the scruff of the neck, yanking her head back hard until she cries out in pain. Looming over her, my lips a fraction of an inch from hers, I whisper: "And Pigeon? That is why, when we are interrogating the Enemy, we do not get *sloppy!"* My voice rises from a whisper until with the last word it reaches a shout. I step back, shaking my head, glancing up at the seven or eight women who've gathered around us, looking them each in the eye.
 
 "We will do better than this," I growl. "We are *professionals."* I reward their nods and murmurs of assent with the faintest upward turn of  my lip.
 
@@ -115,17 +115,17 @@ Of course, enough else has been done to this particular prisoner that I doubt sh
 
 Her cheeks are gaunt and her bright green eyes heavy-lidded. She says nothing to me, but the flickers of motion from beneath her drooping eyelids and the faintest shift in her expression both tell me she’s sizing me up. Even now, still calculating. I can’t help but admire the girl for that kind of cold-blooded professionalism.
 
-She looks so small, vulnerable and fragile, that it’s hard to believe the heavy titanium-alloy manacles and reinforced concrete ceiling truly are absolutely necessary to keep her from tearing free and shattering my skull with her bare hands before I could so much as draw a blade.
+She looks so small, vulnerable and fragile, that it’s hard to believe the heavy titanalloy manacles and reinforced concrete ceiling truly are absolutely necessary to keep her from tearing free and shattering my skull with her bare hands before I could so much as draw a blade.
 
 “Why are you doing this to yourself, girl?” I ask her. “You know there’s only one way out of this cell. There’s no point in prolonging your defiance — all you are buying yourself is more suffering, more pain. No rescue is coming. You know that by now. What is left to you to hope for? Why do you persist in denying yourself an honorable death?”
 
-The girl’s voice is dull, accent undisguised, but I can still hear the faintest note of spite. _“Anuarash des risit, uastahin._ Beat me, shock me, cut on me, rape me all you want. It doesn’t matter. _Randasit pas uarat.”_
+The girl’s voice is dull, accent undisguised, but I can still hear the faintest note of spite. _“Anuarash des risit, uastahin._ Beat me, shock me, cut on me, rape me all you want. It doesn’t matter. _Randasintesh pas, iurit a uarit.”_
 
 I step closer into the light, close enough she can see my face, and with a casual motion stab the galvanic wand into the listener deck affixed to the restraint frame. A sputter and crackle later, the reel of tape stops moving, the recorder rendered inert. I toss the wand across the room. _“A hal nare iena tili?”_ I respond quietly, gentling my voice and clasping my hands behind my back. _And why is that?_
 
 _That_ gets her attention. Her eyes open wide, and she stutters incoherently for a few moments. Good. All those years spent studying the secrets of our greatest foe weren’t a wild _pien şai_ chase after all.
 
-“Wh-what— _hali narit— hali iufit— Ranuira parenan!?”_
+“Wh-what— _hali narai— hali iufai— Ranuira parenan!?”_
 
 “Only a little,” I answer, switching back to my native tongue. “Such as I have been able to cobble together from many fragmentary sources. It has been a hobby of mine. Fear not, girl; no others know my notes on your tongue exist. There’s no reason any ever need to.”
 
@@ -137,7 +137,7 @@ Her fearful eyes fixate on me. Her gaze is eerily intense for how frail, broken,
 
 “I… I do n-not know what understanding of love and sacrifice a barbarian like you could possibly have,” the girl says at last, her lips quivering with the effort of speech, “but I… I do this for the People. I make my s-sacrifice to protect the— the f-friends, the—” She swallows hard, fresh tears glittering in her eyes, her voice wavering. “…all the loved ones I left behind.” Her gaze can no longer meet mine. Her chest shudders with the force of barely restrained sobs. “I… I make m-my sacrifice so your *defiling* hands will never, *ever* again violate the bodies of my comrades or the worlds of my people. I make my sacrifice just as so many more have done before me, may their names be written among the stars. They paid with their death and their pain for my twenty-seven precious years in the one true sanctuary from hardship and cruelty that Haven has ever known, and so I pay with mine.” She’s struggling now to keep control over her voice, her whole body wrenched by the force of her unraveling emotions. “To protect the place wh-where… where gentleness and kindness and… and l-love are cherished above all. We are no *‘empire’*, profligate. We do not plunder, we do not steal, we do not enslave. Where you rape your worlds ’til they are bled barren, where you make corpses of jungles and slaves of children, we protect the weak and speak for the voiceless. We are everything you are not.” She takes a ragged breath, blinking rapidly to try to clear her eyes of tears her restraints disallow her to wipe away. “The War was only the beginning. My days are nearly done, but you… if there is justice to be found in this universe, you will live just long enough to die at my comrades’ hands.”
 
-I exhale deeply, and step closer. She flinches as I raise my hand to her cheeks, recoiling as far as her restraints permit, plainly anticipating a blow or worse. My touch elicits a quiet, frightened whimper and she tries desperately to wriggle free of my grip like an animal caught in a trap. “Shhh,” I murmur, taking firm hold of her chin. "Enough of that." As gently as I can, I wipe the streaming tears from her eyes with my free thumb. Her skin is soft beneath my palm, though her bony cheeks are crisscrossed with the faint, rough lines of lacerations and fresh scars. Her confused and fearful eyes dart back and forth rapidly. “’Tis true, then?” I ask, gazing deep into her green eyes. “Everything that is said about your Society? All the fanciful fables… the myths that none are left to want for food nor shelter? Nor venal nobles reign, nor struggle for power? Such are not mere propaganda, colorful lies you wield to turn our gullible common folk against us?”
+I exhale deeply, and step closer. She flinches as I raise my hand to her cheeks, recoiling as far as her restraints permit, plainly anticipating a blow or worse. My touch elicits a quiet, frightened whimper and she tries desperately to wriggle free of my grip like an animal caught in a trap. “Shhh,” I murmur, taking firm hold of her chin. "Enough of that." As gently as I can, I wipe the streaming tears from her eyes with my free thumb. Her skin is soft beneath my palm, though her bony cheeks are crisscrossed with the faint, rough lines of lacerations and fresh scars. Her confused and fearful eyes dart back and forth rapidly. “’Tis true, then?” I ask, gazing deep into her green eyes, utterly alert for the faintest sign of deception. “Everything that is said about your Society? All the fanciful fables… the myths that none are left to want for food nor shelter? Nor venal nobles reign, nor struggle for power? Such are not mere propaganda, colorful lies you wield to turn our gullible common folk against us?”
 
 “Are you… trying to toy with m-m-my mind?” the girl demands, her voice drenched in hate and terror. She bares her teeth. “Do your worst. No words you might say have the power to dilute even by a drop my memories of my *home.* They… they are realer than this *cesspool* of a world will *ever* be.”
 
@@ -175,7 +175,7 @@ She cautiously reaches out, timidly taking my hand; her grip is distressingly fe
 
 “Then well met, Lishuen.” The word is surprisingly pronouncible. I see the corner of her lips turn upward at the sound of her name, and she exhales softly. “Here.” I reach into my robe and extract a hip-flask, unscrewing the top. “You must be thirsty.”
 
-She snatches the flask, taking huge gulps, almost draining it before she pulls it from her lips, breathing shakily. “Th-thank you,” she whispers, upturning the flask and using the rest of the water in a desultory effort to clean her hands and face. _“An ioses tif hare…_ God, it’s been so long…”
+She snatches the flask, taking huge gulps, almost draining it before she pulls it from her lips, breathing shakily. “Th-thank you,” she whispers, upturning the flask and using the rest of the water in a desultory effort to clean her hands and face. _“An iosu tif hare…_ God, it’s been so long…”
 
 I pull my work-satchel from my shoulder and set it on the floor, unbuckling it. “I brought you clothing as well, office vestments in which you might be smuggled free of this place— forgive me if the garments are too large, none here are fortunate enough to share your delicate size.”
 
@@ -289,7 +289,7 @@ Her face turns white. “N-no, I— they took me offworld— where *am* I?”
 
 “Lishuen,” I murmur, “there will come no dawn. This world is New Carnelian, Throneworld of the Heavenly Empress, and we stand within the very Twilight Palace itself.”
 
-Lishuen’s eyes widen and she lets out a faint gasp, staring up at me in horror. “O-oh God,” she whimpers finally. “Oh *God.”*
+Lishuen’s eyes widen and she lets out a faint whimper, staring up at me in horror. “O-oh God,” she manages finally. “Oh *God.”*
 
 “My dear, where did you think you were?”
 
@@ -313,7 +313,7 @@ I nod. “I was born far from here, in the Noon District,” I say gently. “Bu
 
 I shake my head.
 
-We step into another lobby, one I know intimately. The long table whence my chief clerk presides is empty, as are the many benches that fill the room. I help Lishuen into the ascender at the center of it all, and touch my pendant to an Old Script symbol on the wall. Another bell chimes, and the capsule begins to rise.
+We step into another lobby, one I know intimately. The long table whence my chief clerk presides is empty, as are the many benches that fill the room. I help Lishuen into the ascender at the center of it all, and touch my pendant. Another bell chimes, an Old Script character on the wall blossoms with soft rose-red light, and the capsule begins to rise.
 
 “Everything is so… big,” Lishuen murmurs sleepily.
 
@@ -343,11 +343,11 @@ One of my last memories of her.
 
 I grit my teeth, push the images aside, and lay the blanket out over Lishuen. She pulls it tight around her, her shivering seeming to slowly ebb. On instinct I bend down next to her, holding out my hand.
 
-“I’m going to get you home, Lishuen,” I whisper. “I swear to you on my honor as a woman, on the blood of the Seven, and on the name of the First Empress.”
+“I’m going to get you home, Lishuen,” I whisper. “I swear to you on my honor as a woman, on the Blood of the Seven, and on the name of the First Empress.”
 
 She looks up at me for a moment, and for the first time, her eyes are gentle, her face betraying nothing but gratitude and hope, suspicion and fear washed away. Slowly, hesitantly, she reaches out to take my hand.
 
-_“Tam elena assulafte Lishi,”_ she murmurs, finally closing her eyes. *You can call me Lishi.*
+_“Tam elena uslafte Lishi,”_ she murmurs, finally closing her eyes. *You can call me Lishi.*
 
 I swallow hard, nod, squeezing her palm. “I’ll… be right back, then, Lishi.”
 
