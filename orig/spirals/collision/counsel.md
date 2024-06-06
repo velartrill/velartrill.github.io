@@ -1,5 +1,3 @@
-::: {style="float: right"} 🔊 [listen](https://soundcloud.com/velartrill/counsel) :::
-
 # Counsel
 
 %byline from a serial by Lexi Summer Hale

@@ -126,7 +126,7 @@ Mirvit smiles brightly. "As you wish, of course! Now, I see here you were taken 
 
 "The nearest commune is the administrative seat. Rantal Shaivan. Further information is restricted, I'm afraid."
 
-"Oh." *High up in the Shadowpeaks, then. Great.* "In that case, um. Maybe a jacket. And leggings?"
+"Oh." *High up in the Shadowpeaks, then. Great.* "In that case, um. Maybe an environment suit?"
 
 "That will not be a problem. Are the current sizes on file for you up to date and correct?"
 

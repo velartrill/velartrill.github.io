@@ -78,7 +78,7 @@ Bull, Mouse, and I lever a few panels off the walls, and I gesture at the bottle
 
 Bull nods, and takes a whiff from one of the bottles. "That's the stuff, alright."
 
-"High grade, uncut, fresh from the opium vine." I fold my arms. "Satisfactory?"
+"High grade, uncut, fresh from the vine." I fold my arms. "Satisfactory?"
 
 "I reckon so." Bull unfolds a bag, and he and Mouse clear out the bulkhead. "Pleasure doing business with you, mistress."
 
@@ -160,15 +160,16 @@ Wren nods quickly. "Oh, yes. Little scrapes and scuffs build up over the years. 
 
 "Yes you did." I pat her on the head. "Good girl."
 
-She beams, and suddenly she hugs me, burying her head in my shoulder. "Thank you. Thank you for everything. I know I've said it already but -- I'm so glad I found you. I get to wake up tomorrow morning warm and safe and I never have to be alone out here again. And -- and maybe soon Hope can be safe too."
+She beams, and suddenly she hugs me, burying her head in my shoulder. "Thank you. Thank you for everything. I know I've said it already but -- I'm so glad I found you. I get to wake up tomorrow morning warm and safe and I don't have to be alone out in the dark. And -- and maybe soon Hope can be safe too."
 
 I hold her tightly and ruffle her hair. "It's gonna be okay. One way or another, we'll find a way."
 
 "I believe you." Wren stares up at me. "I bet you could do anything you set your mind to."
 
-"Maybe not anything, but definitely anyone." I run my fingernails down the back of her neck and she shivers. "I'll be back soon. Try not to steal the ship while I'm gone?"
+"Maybe not anything, but definitely anyone." I give her my sleaziest grin. "I'll be back soon. Try not to steal the ship while I'm gone?"
 
 Wren giggles. "No promises!"
+
 %prev trade.html Trade
 %next upgrades.html Upgrades
 

@@ -5,7 +5,7 @@
 % in arc Society
 % with style set/society.css
 
-Livkir's dorm is an impeccably tidy place. The aura of coziness and tranquility that it seems to give off is enough to subdue even Niltar, who's curled up quietly on the sofa under a couple of fluffy blankets, only her reddened eyes and sodden handkerchief attesting to her emotional state. She barely reacts when Livkir sits down next to her and puts an arm around her shoulder, but he's known her long enough to recognize the subtle little shift in her body language that tells him his presence is wanted.
+Livkir's dorm is an impeccably tidy place. The aura of cozy tranquility that it seems to radiate from every surface is enough to subdue even Niltar, who's curled up quietly on the sofa under a couple of fluffy blankets, only her reddened eyes and sodden handkerchief attesting to her emotional state. She barely reacts when Livkir sits down next to her and puts an arm around her shoulder, but he's known her long enough to recognize the subtle little shift in her body language that tells him his presence is wanted.
 
 Wordlessly, he hands her a slate, ruffling her hair as she takes it. Her eyes widen as she reads the text.
 
@@ -17,7 +17,7 @@ He squeezes her hand. "It didn't look like you were going to. I couldn't let Lis
 > 
 > Thank you so much for reaching out. You're absolutely right: Comrade Lisuan's behavior today was completely unacceptable and I've passed this note on to her own counselor. In the meantime, I'll put in to have Niltar's demerits vacated as you suggest -- the last thing that poor girl needs to worry about right now is being disciplined for having a _ceshvol_ attack. I'm sorry you both had to experience such mistreatment on top of everything else you describe. I'm very worried by Nili's self-harm, so I'd like to drop by tonight and check up on the two of you; would you be comfortable with that?
 > 
-> Regarding Cassil's apparent arrest, this is very disturbing news -- all the more so for the fact that I was not informed -- and I'm grateful that you thought to fill me in. I'm doing what I can to track her down and get in touch with the arresting agent, but as I'm sure you know the Shevran isn't the most transparent agency when it comes to paperwork. I wish I had better news for you.
+> Regarding Comrade Cassil's apparent arrest, this is very disturbing news -- all the more so for the fact that I was not informed -- and I'm grateful that you thought to fill me in. I'm doing what I can to track her down and get in touch with the arresting agent, but as I'm sure you know the Shevran isn't the most transparent agency when it comes to paperwork. I wish I had better news for you.
 > 
 > I hope I'm not overstepping by asking for this, but for Nili's sake, would you be willing to informally fill Cassil's role as her _vartash_ until our young firebrand is home safe and sound? I would not ordinarily ask, but both women have spoken very highly of you and it sounds like you care deeply for Nili in your own right; in fact, it sounds like you've already shouldered some of her burdens on your own. No wonder Cas looks up to you!
 > 
@@ -60,7 +60,7 @@ She stares off into space. "You heard her. 'You'll just go crying to your counse
 
 "Lisuan does. Cas probably does too. And Saluin. And you. Let *go* of me!" She struggles to pull away, to no avail. "I'm just a broken fucking *child* everyone has to worry about--"
 
-Livkir pulls her forcefully into his lap, gripping her hands and holding her there as she tries to pull away. "I am not letting go of you until you stop saying horrible things about yourself," he replies, squeezing her tightly. "You are *not* a fucking burden, Nili; I'd be devastated if I lost you, and you know Cas would be too."
+Livkir pulls her forcefully into his lap, gripping her hands and holding her there as she tries to pull away. "I am not letting go of you until you stop saying horrid things about yourself," he replies, squeezing her tightly. "You are *not* a fucking burden, Nili; I'd be devastated if I lost you, and you know Cas would be too."
 
 Despite herself, she buries her head in his shoulder. "I wish I was dead."
 
@@ -148,9 +148,9 @@ Shalcas purses his lips, staring at the floor. "What exactly did she expect? The
 
 Livkir's eyebrows rise. "You know a lot about that stuff?"
 
-"Huh? Oh, I started an agronomy apprenticeship last year." Shalcas laughs awkwardly. "I probably spend too much time reading the ag digests."
+"Huh? Oh, I started an agronomy apprenticeship last year." Shalcas laughs awkwardly. "I probably spend too much time reading the ag digests. The issue is, the pre-colonization workups weren't enough. Our usual staples depend on certain nutrients in the soil, and at first there wasn't any problem growing them here. What we didn't figure out until it was too late -- see, life here evolved to use rubidium where our food uses potassium, and that *should* have been a big red flag, but it seemed like the soil had sufficient potassium concentration." He grimaces. "For about a decade, anyway. Then the easily accessible potassium was gone. Some of our staple crops died outright. A few can use rubidium in place of potassium, but then you have rubidium-contaminated produce and, okay, you can eat that for a little while, it's probably fine. But we don't know what it does to you in the long term, and the bio sims are worrying." He blinks, then immediately flushes. "S-sorry, I didn't mean to ramble."
 
-"Agronomy, huh? They have me in Net Ops."
+"Never apologize for having something interesting to say," Livkir immediately rejoins. "Agronomy, huh? They have me in Net Ops."
 
 "Oh!" Shalcas' eyes light up. "Like, learning to write systems code and things like that?"
 
@@ -268,11 +268,11 @@ Livkir, slightly bruised, is the one who finally opens the door. Outside is a sl
 
 _"S-s'aiur, san."_ Livkir returns the greeting, bowing quickly as he steps back. "Please, come in, sir."
 
-_"Solliv ashi vala aftare."_ Saluin's light voice carries the soft, melodic cadence of a languid Oldworlder accent, a stark contretemps to the quick, sharp rhythm of Livkir's colonial dialect. The sound alone prompts Shalcas to stand hurriedly to attention when the _virtash_ steps inside, the door closing automatically behind him. Niltar's expression hardens, and she looks away as Livkir leads her counselor into the little den.
+_"Solliv ashi vala atre."_ Saluin's light voice carries the soft, melodic cadence of a languid Oldworlder accent, a stark contretemps to the quick, sharp rhythm of Livkir's colonial dialect. The sound alone prompts Shalcas to stand hurriedly to attention when the _virtash_ steps inside, the door closing automatically behind him. Niltar's expression hardens, and she looks away as Livkir leads her counselor into the little den.
 
 "Saluin-_san_, this is Shalcas." Livkir clasps his hands behind his back, inclining his head towards the younger boy. "He's been helping us."
 
-"Shalcas-_surin._ Honored to make your acquaintance." Saluin claps him on the shoulder, but quickly lets go and steps back, holding up his hands, when Shalcas flinches at his touch. _"Lahi narit vala risesh--_ forgive my intrusion, comrade. I did not mean to startle you."
+"Shalcas-_surin._ Honored to make your acquaintance." Saluin claps him on the shoulder, but quickly lets go and steps back, holding up his hands, when Shalcas flinches at his touch. _"Lahi narai vala risesh--_ forgive my intrusion, comrade. I did not mean to startle you."
 
 "Oh, i-it's okay, um-- sorry-- I-I just--" Shalcas stops, clears his throat, and bows, far deeper than Livkir would have thought appropriate. "It's good to meet you too, sir."
 
@@ -398,8 +398,8 @@ She looks up at him for a moment, then flinches away from his gaze. "I'm… than
 
 "Ah--? Uh, um, y-yes, sir?"
 
-"Good lad." Saluin favors each of them with a smile. _"Pel a nil asharat; mir a uan, Nili."_
-  
+"Good lad." Saluin favors each of them with a smile. _"Pel a nil asharavra; mir a uan, Nili."_
+ 
 _"Mir a uan,_ Sal," Niltar murmurs finally, meeting his gaze for a brief moment. "…Sal?"
 
 "Yeah, Nili?"
@@ -431,7 +431,7 @@ Livkir's eyes widen -- and then widen further as he snatches the handset, scanni
 > 
 > Comrade Cassil Tegvari is currently in Shevran custody. She is unharmed and will remain so. She has already been cleared for release, which is scheduled at M7H tonight; on this point, no action is necessary.
 > 
-> Comrade Niltar Tegvari's safety is not a Shevran matter. Your concerns have been forwarded to the appropriate authorities with all due urgency. If proper action is not taken on this point, such laxity will, as in the general case, be a matter of greatest concern to this agency, and we urge you to monitor the situation closely if you believe such a risk exists. Alternately, if you do not presently have the operational capacity to take responsibility for such a task but believe it necessary, the matter will be delegated appropriately upon your request.
+> Comrade Niltar Tegvari's safety is not a Shevran matter. Your concerns have been forwarded to the appropriate authorities with all due dispatch. If proper action is not taken on this point, such laxity will, as in the general case, be a matter of greatest concern to this agency, and we urge you to monitor the situation closely if you believe such a risk exists. Alternately, if you do not presently have the operational capacity to take responsibility for such a task but believe it necessary, the matter will be delegated appropriately upon your request.
 > 
 > The arresting authority in the matter of Comrade Cassil asks that I convey her deepest sympathy and regret to Comrade Niltar for the emotional harm unintentionally inflicted upon her. She has filed this inquiry for administrative review, and it may be used to improve standard custodial procedures to reduce the likelihood of a similar incident taking place in the future.
 > 

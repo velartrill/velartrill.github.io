@@ -87,13 +87,13 @@ Livkir gives her a faintly sad smile, rubbing the back of her neck, a little mor
 
 He tousles her hair. "I'd love to. Come on, turn over."
 
-Niltar twitches slightly as he works her over, massaging her with just enough force to make her nerves light up with little sparks of pain. "…ahh, gosh. I d-don't deserve this," she whispers, eyelids fluttering. "I don't deserve *you*."
+Niltar twitches slightly as he works her over. "…ahh, gosh. I d-don't deserve this," she whispers, eyelids fluttering. "I don't deserve *you*."
 
 "Sure you do," he replies lightly. "I don't want you to be lonely again, Nili. I don't want you to suffer. We swore we'd all look after each other, take care of each other for as long as we live. You deserve that kind of safety and security after everything you've been through; you sure have been here for me when I needed it."
  
 She responds with just a quiet little murmur, the way she always does when she's too overwhelmed with happiness and gratitude to speak.
 
-"So *this* is how Cas keeps you under control, huh?" Livkir teases. "I'll have to remember this next time you start swinging punches at me."
+"So *this* is how Cas keeps you under control, huh?" Livkir muses. "I'll have to remember this next time you start swinging punches at me."
 
 "I— I'm r-really sorry—"
 
@@ -117,9 +117,9 @@ Livkir rolls his eyes. "I swear I'm not fucking Lisuan. That girl is too hardcor
 
 Niltar laughs quietly. "That almost makes me wonder… maybe she's just using our UC sessions for the same thing I got myself flogged for." She flashes a cruel little smile. "Maybe she's just as desperate as I was."
 
-"Come on, Lisuan?" Livkir shakes his head. "You know how many groupies she has. Half the girls in the cohort are nursing crushes on her."
+"Come on, Lisuan?" Livkir shakes his head. "You know how many groupies she has. Half the girls in the cohort are nursing crushes on her, to say nothing of the boys."
 
-"Okay but can you even imagine, I don't know, Silvar or someone like her *on top?* Of *Lisuan?*" Niltar giggles aloud at the thought. "Shit, I don't even think any of the *boys* could take her, let alone her *groupies*. Remember that one sparring session? Even Sarvash -- y'know, the T-0 Oldworlder who spent like a decade breaking slaver ass on the borderworlds -- even he had to call it a *tie* after going at it gold-on-gold with her for like half a fucking hour. And he's the one who *taught* us all, for fuck's sake!"
+"Okay but can you even imagine, I don't know, Silvar or someone like her *on top?* Of *Lisuan?*" Niltar giggles aloud at the thought. "Shit, I don't even think any of the *boys* could take her, let alone her *groupies*. Remember that one sparring session? Even Sarvash -- y'know, the T-null Oldworlder who spent like a decade breaking slaver ass on the borderworlds -- even he had to call it a *tie* after going at it gold-on-gold with her for like half a fucking hour. And he's the one who *taught* us all, for fuck's sake!"
 
 Livkir laughs. "Okay, yeah. That's a fair point." He scritches the back of her neck and she snuggles closer. "If that's true, then think about it -- she's got no one. No one to take charge, no one to comfort her, no one to make *her* feel safe and wanted. No one to hold her when she cries. And you've got Cas *and* me. You're better off than *Lisuan,* Nili."
 
@@ -161,25 +161,25 @@ Cassil attracts odd glances as she makes her way through the crowd. Unfamiliar f
 
 *This is our capital.* Ours. *Why the fuck are* they *the only ones here?*
 
-A series of faintly musical chimes rings out. The unfamiliar sound of a decelerating maglev catches her attention, and she spares an upward glance at the intercity liner. It glides effortlessly toward her, silent but for an eerie electronic warbling and the quiet whoosh of air as it slows from frightening speed to a complete halt in moments. The huge vehicle towers over her and stretches away into the distance, dwarfing the little trams and streetcars that she's used to travelling on.
+A series of faintly musical chimes rings out. The unfamiliar sound of a decelerating maglev catches her attention, and she spares an upward glance at the intercommune liner. It glides effortlessly toward her, silent but for an eerie electric warble and the quiet whoosh of air as it slows from frightening speed to a complete halt in moments. The huge vehicle towers over her and stretches away into the distance, dwarfing the little trams and streetcars that she's used to travelling on.
 
 They offered her a choice. A priority seat on a sealed Core Line hauler, back to Tegvar in two hours tops. "Why? So you can keep tossing me around in the dark like a sack of _neshral?"_ she spat. The other choice was travel auth for a two-day surface rail trip to the other side of the continent, which she picked without hesitation.
 
 *Let me out of these dank* sarsin *warrens already,* she thought. She's starting to regret it.
 
-The crowd moves as if directed by a single overriding consciousness, flowing with perfect grace into orderly queues around her. Cassil feels the urge to make a scene, push and shove and force her way through, give these snobby fucks something to raise their eyebrows about — but no. *I need to get back to her. That's all that matters. No more taking chances.* Gritting her teeth, she lets her programming take over, watching herself slip into place in the line from a distance as though her body's on autopilot, hands clasped dutifully behind her back, and bitterly swallows her self-disgust.
+The crowd moves as if directed by a single overriding will, flowing with perfect grace into orderly queues around her. Cassil feels the urge to make a scene, push and shove and force her way through, give these snobby fucks something to raise their eyebrows about — but no. *I need to get back to her. That's all that matters. No more taking chances.* Gritting her teeth, she lets her programming take over, watching herself slip into place in the line from a distance as though her body's on autopilot, hands clasped dutifully behind her back, and bitterly swallows her self-disgust.
 
 This would be humiliating enough if she wasn't surrounded by _vintashar._
 
 A transit cop smiles at her as she boards; she rewards him with a glare and stalks off towards the stairs. There's no pass for him to check -- that all happened automatically the moment she stepped on board the train, and the absence of blaring alarms was all the paperwork she needed. *I bet they don't put Homeguard on their own trains. He's just there to keep us rowdy colonials in line.* She grits her teeth. *Why can't you smug fucking* suftefinar *just go* home.
 
-She climbs all the way to the third level, and settles into a nook by the wall where she can see most of the coach, leaning gratefully back into the warm, soft cushion that wraps around the seat. It's mostly empty up here. The Centrals won't come up this far until the seats below are all filled, one by one, and that's not likely to happen with a crowd this size. She stares out the window, past the tracks and into the lush tropical forest that the station's architecture winds artfully through. *They won't even pick their own train seats. How emasculated can you get—*
+She climbs all the way to the third level, and settles into a nook by the wall where she can see most of the coach, leaning gratefully back into the warm, soft cushion that wraps around the seat. It's mostly empty up here. The Cents won't come up this far until the seats below are all filled, one by one, and that's not likely to happen with a crowd this size. She stares out the window, past the tracks and into the lush tropical forest that the station's architecture winds artfully through. *They won't even pick their own train seats. How emasculated can you get—*
 
 "Forgive me, young comrade?"
 
 Cassil spins, eyes fixing on the interloper, heart pounding all over again. It's the cop from earlier. She shrinks back into the seat. *"What do you want?"* she growls, trying to sound dangerous and cringeing inwardly when she hears the fear in her own voice. Her rough colonial cadences crackle and spit like sparks from a raw wire. The cop raises an eyebrow.
 
-"I hope you will forgive the intrusion." He inclines his head. Around them, the train comes to life, and Cassil is pressed back into the seat by the sudden force of the acceleration. The officer doesn't even appear to notice, effortlessly keeping his footing. "It is most highly irregular for such a young woman to travel unaccompanied on an intercity route, and—"
+"I hope you will forgive the intrusion." He inclines his head. Around them, the train comes to life, and Cassil is pressed back into the seat by the sudden force of the acceleration. The officer doesn't even appear to notice, effortlessly keeping his footing. "It is most highly irregular for such a young woman to travel unaccompanied on an intercommune route, and—"
 
 "I have every right to be here!" Her knuckles whiten. "I haven't done anything wrong."
 
@@ -195,7 +195,7 @@ Her eyes search his face for an answer that isn't forthcoming. His pretty green 
 
 "Whatever," she mutters, turning back to staring out the window, watching his reflection until he's out of sight. Only then does her heartbeat start to slow.
 
-Sucking in a deep breath of air, she props her feet up on the opposing seat, and presses a switch on the table in front of her. The tabletop flips up, revealing a sleek screen on its reverse and a keypanel beneath; the screen quickly blinks to life, her name appearing. Poking at the panel with one desultory hand, she keys in her ident sequence, and the computer unlocks, bringing up her customary workbench. She lifts her hand to the screen, makes a few instinctual swiping motions in the air, and the screen shifts to her personal comms.
+Sucking in a deep breath of air, she props her feet up on the opposing seat, and presses a switch on the table in front of her. The tabletop flips up, revealing a sleek screen on its reverse and a keypanel beneath; the screen blinks to life, her name appearing. Poking at the panel with one desultory hand, she keys in her ident sequence, and the computer unlocks, bringing up her customary workbench. She lifts her hand to the screen, makes a few instinctual swiping motions in the air, and the screen shifts to her personal comms.
 
 Thirty-six urgent messages from Niltar, of course. She sighs, hits the key to bring up their dialogue.
 
@@ -233,17 +233,17 @@ She stares at the screen for a moment, then buries her head in her hands.
 
 *Fuck me fuck me FUCK me.*
 
-> [-17s] **Cassil Tegvar:** hey
+> [-17s] **Cassil Tegvari:** hey
 > 
-> [-15s] **Cassil Tegvar:** nili i'm here
+> [-15s] **Cassil Tegvari:** nili i'm here
 > 
-> [-12s] **Cassil Tegvar:** i'm okay
+> [-12s] **Cassil Tegvari:** i'm okay
 > 
-> [-8s] **Cassil Tegvar:** blood and death nil i'm so sorry
+> [-8s] **Cassil Tegvari:** blood and death nil i'm so sorry
 > 
-> [-3s] **Cassil Tegvar:** i'm coming home
+> [-3s] **Cassil Tegvari:** i'm coming home
 > 
-> [now] **Cassil Tegvar:** i'm on the train right now
+> [now] **Cassil Tegvari:** i'm on the train right now
 > 
 > :: \_
 
@@ -251,15 +251,15 @@ Her heart is pounding in her chest. She brings up the quick-nav but her fingers 
 
 The screen shifts. Niltar's name is splayed across the top; below it, a table of irrelevancies — the relief she feels when she sees the little green lettering underneath is physical in its intensity, and she lets out a uncontrolled gasp. "IFF in range — condition normal." *She's okay, she's okay, she's okay!*
 
-She swipes a hand across the screen. It shifts to a map of Tegvar, zooming in on a circled white dot at her next gesture. Labels appear on the screen. *Dorms. Male.* She recognizes Livkir's room close to the moving dot, and closes the tracker with a swipe of her hand, squeezing her eyes shut and taking a deep, shaky breath. *Stars and skies, Liv, thank you, you are the best friend in all of Haven…*
+She swipes a hand across the screen. It shifts to a map of Tegvar, zooming in on a circled white dot at her next gesture. Labels appear on the screen. *Dorms. Male.* She recognizes Livkir's room close to the moving dot, and closes the tracker with a swipe of her hand, squeezing her eyes shut and taking a deep, ragged breath. *Stars and skies, Liv, bless you, you are the best friend in all of Haven…*
 
 ---
 
 Niltar's still blushing faintly as she steps out of the shower-hall assigned to the cohort's male half, distractedly wrapping a towel around her upper body. Livkir, towel around his waist, takes her by the arm and orients her in the direction of her own dormitory.
 
-"I had no idea you were so into boys, Nili," he teases; her cheeks redden further.
+"I have never seen you so flustered around boys, Nili," he observes; her cheeks redden further.
 
-*"Neither did I—"*
+*"Neither have I—"*
 
 "That was so nice of Caishen to stand guard at the door for you — I've always liked him."
 
@@ -275,7 +275,7 @@ Livkir furrows his brow. "What do you mean?"
 
 "I mean, that would probably work on Cai—"
 
-*"Don't tempt me."* Niltar tosses the towel over the back of a chair and yanks a light pink _rancal_ from the dressing rack. "I have enough drama going on in my life as it is today."
+*"Don't tempt me."* Niltar tosses the towel over the back of a chair and yanks a pastel pink and violet _rancal_ from the dressing rack. "I have enough drama going on in my life as it is today."
 
 Livkir pauses by the door. "You gonna be okay dressing on your own? Or do you want me to wait here for you?"
 
@@ -336,13 +336,19 @@ The quartermaster eyes Livkir as he reaches for a slate. "The 1387 vintage?" he 
 -- slave-raiders from imperial space take advantage of skeleton crew of adults when everyone else has shipped out to try and kidnap the kids, lisuan and cassi have to organize resistance and force them out
 -- where did the raiders get their intel? MYSTERY1
 
--- cassil gets visit from deputy director of somethingorother
+-- cassil gets visit from deputy director of RSC
 -- director tries to talk her into behaving and warns that she's making her job too difficult by bringing Oldworlder attention to it
 -- "i'm on your side, *they* are the enemy, you gotta give me room to work" style lecture
 -- she's friendly and respectful enough, and talks a good enough line that cassil hesitantly believes her, because she knows how to say exactly what cassi wants to hear
 -- lights up and offers her a pack of cigarettes at somepoint "are those even allowed? where did you even get them" "i don't particularly care what the Central Worlds think of my vices" etc
 -- director is involved in conspiracy against Central Worlds control and is secretly trying to influence cassi to join up
 -- lisuan shows up unexpectedly and coldly lectures the director about loyalty
+"I'm afraid, since Cassi's unaccountably playing the suck-up for once, it falls to me to be the insubordinate one. Commune tradition, you see." Lisuan fixes the Deputy Director with an utterly unimpressed gaze. "You are quick to threaten force, and fearful of the dialectic. I could name certain others whom that trait characterizes, but I count myself a woman of manners."
+
+The Director takes a long drag, staring unblinking at Lisuan. "If that's a Cent accent you're trying to ape," she says slowly, ashing her cigarette over the balcony with an absent flick of her wrist, "you're overdoing it by factor of near four."
+
+"Perhaps you find my manner of speech offensive. I find a great many of your personal characteristics offensive, starting with your poorly washed hair, but again, I count myself a woman of manners. I see this is a difference between us. I must thank you, _Deputy_ Director; this meeting has proven unexpectedly educational."
+
 
 Niltar looks miserable. "Liv?"
 
@@ -370,7 +376,7 @@ She tilts her head. "I… heard about it, yeah. Wh-why—?"
 
 There's a chirp from the console, and she opens her eyes. "Incoming message — Niltar Tegvari."
 
-> **Cassil Tegvar:** i'm on the train right now
+> **Cassil Tegvari:** i'm on the train right now
 > 
 > ---
 > 
@@ -382,11 +388,11 @@ There's a chirp from the console, and she opens her eyes. "Incoming message — 
 > 
 > **Cassil Tegvar:** babe it's okay i'm just glad you're alive
 > 
-> **Cassil Tegvar:** swear on ten thousand stars i will murder those barbarian devils if they ever try to separate us again
+> **Cassil Tegvari:** swear on ten thousand suns i will murder those barbarian devils if they ever try to separate us again
 > 
 > **Niltar Tegvari:** so. shevran, huh?
 > 
-> **Cassil Tegvar:** whoa yeah, how did you know
+> **Cassil Tegvari:** whoa yeah, how did you know
 > 
 > **Niltar Tegvari:** oooff uh long story
 > 
@@ -396,6 +402,6 @@ There's a chirp from the console, and she opens her eyes. "Incoming message — 
 > 
 > **Niltar Tegvari:** i think i was too scared to even believe them until just now tho
 > 
-> **Cassil Tegvar:** whoa yeah, how did you know
+> **Cassil Tegvari:** 
 > :: \_
 

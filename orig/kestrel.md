@@ -10,7 +10,7 @@
 
 I sigh. The dim lights of the triage facility sway in the rafters above as a shockwave from a distant explosion rattles the building. The shelling hasn't let up for hours. "Did you. Really come all the way down here. Just to--"
 
-*"What do you think."* Egret squeezes the bridge of her nose. A dazzling flash shatters the night outside the western windows and a wall of noise slams the makeshift hospital, kicking up clouds of dust and sending civilian personnel reflexively diving for cover. Egret doesn't even blink. "What is this, three broken ribs? Shrapnel lacerations all over your thighs? Contusions bigger than my damn *skull?* Do you even realize how close you came to *death* today, *Commander?"*
+*"What do you think."* Egret squeezes the bridge of her nose. A dazzling flash shatters the night outside the western windows and a wall of noise slams the makeshift hospital, kicking up clouds of dust and sending civilian personnel reflexively diving for cover. Egret doesn't even blink. "What is this, three broken ribs? Shrapnel lacerations all over your thighs? Contusions bigger than my own *skull?* Do you even realize how close you came to *death* today, *Commander?"*
 
 "Wagbeak, I swear-- on Matikhe's s-*sainted* balls--" I turn in astonishment at the sound of the voice. Spar's *sitting up* somehow, glaring daggers at Egret, leaning heavily on her good arm. "The Commander--"
 
@@ -48,7 +48,7 @@ I pull my blankets more tightly around me. The shivering is getting bad; I nearl
 
 "Don't you w-w-worry about me, doc," Sparrow calls out, trying to sit up again. "Get the others out, I'll help the rest buy you time--"
 
-"You will do *nothing of the damn sort,* Fenwild!" I blurt, my lungs burning and my legs spasming involuntarily. "You're a goddamn c-c-combat liability right now and you are not stepping one *foot* closer to the front line."
+"You will do *nothing of the sort,* Fenwild!" I blurt, my lungs burning and my legs spasming involuntarily. "You're a goddamn c-c-combat liability right now and you are not stepping one *foot* closer to the front line."
 
 *"Thank you,"* the medic breathes, patting me on the arm. He points at Sparrow. "If you're this dead-set on being suicidally helpful then *help us get the patients to the underground."*
 
@@ -68,7 +68,7 @@ Egret doesn't even look up as she replies, frantically buckling the straps over 
 
 "Egret," I choke out, "don't, don't interfere--"
 
-"You know the most unfair thing, Kestrel?" Egret asks, her voice uncharacteristically unsteady, and I whimper as my stretcher rises into the air. "If you die in action, *you don't have to explain yourself to her afterwards.*"
+"You know the most unfair thing, Kestrel?" Egret asks, her voice uncharacteristically soft, and I whimper as my stretcher rises into the air. "If you die in action, *you don't have to explain yourself to her afterwards.*"
 
 ---
 
@@ -373,7 +373,7 @@ I pat Jay on the shoulder. "Ever the consummate professional, soldier," I tell h
 
 "Tell me something." I fold my arms, gazing into her eyes. "What do you think of the League? --And yes, before you ask, please, speak freely. Always, when we're one on one."
 
-"Well, ma'am." Jay chews her lip for a moment. "We couldn't have done it without them, ma'am, and I am deeply and profoundly grateful for what they did for our people, and I respect the hell out of them, and I don't trust them as far as I could throw their capital star. Ma'am."
+"Well, ma'am." Jay chews her lip for a moment. "We couldn't have done it without them, ma'am, and I am deeply and profoundly grateful for what they did for our people, and I respect the everlasting fuck out of them, and I don't trust them as far as I could throw their capital star. Ma'am."
 
 I laugh weakly. "I appreciate your analysis and I will keep it in mind."
 
@@ -420,7 +420,7 @@ I think the worst part was how easily it came. Completely automatic. The Command
 
 I am so afraid one day I'll put that armor on and it'll never come off again.
 
-I sit there for a good long while, staring blankly at the handset dock on the table, easily the most unfamiliar thing in the room. Inside it's quiet and clear but for what feels like the distant thumping of artillery fire, threatening to get closer if I think about anything, anything at all, if I so much as *move* and my old wounds flare up again. I feel so *dirty* I could scrub and scrub for hours and I still wouldn't feel clean, dirty *under my skin*. And I don't know how much time actually passes before I finally reach up and wrap my unsteady hand around the receiver and pull it down to my lips.
+I sit there for a good long while, staring blankly at the handset dock on the table, easily the most unfamiliar thing in the room. Inside it's quiet and clear but for what feels like the distant thumping of artillery fire, threatening to get closer if I think about anything, anything at all, if I so much as *move* and my old wounds flare up again. I feel so *dirty* I could scrub and scrub for hours and I still wouldn't feel clean, dirty *under my skin*. And I don't know how much time actually passes before I finally reach up and wrap my unsteady hand around the receiver to pull it down to my lips.
 
 It's silent for a moment, then I hear a clatter, heavy breathing, and-- "Ambassador? Comrade, is all well?"
 
@@ -473,7 +473,7 @@ I shake my head. "She did. *I* did."
 
 "Do tell?"
 
-"I heard that a certain foreign dignitary has been flirting with our handsome young "
+"I heard that a certain foreign dignitary has been flirting with our handsome young officers."
 
 "Iiiii would not know anything about that," I reply, my gaze slipping away as my cheeks start burning.
 
@@ -692,7 +692,7 @@ I move through a few different poses, straining my back muscles as much as I dar
 
 "'Vits… _vitiular_'?"
 
-"Your pronunciation is getting better already! Sorry, that's our name for -- I think you called them the _den tsuang vó,_ the Imperial Guard."
+"Your pronunciation is getting better already! Sorry, that's our name for -- I think you called them the _den tsuang vó_. Imperial Guard."
 
 "You're kidding me. Ten of those bitches, at once?"
 
@@ -722,7 +722,7 @@ Soshten claps her hands in triumph. _"Sav valari cite!_ Wow, Kess, you look-- I 
 
 The tears are streaming uncontrollably now and I give up on wiping my eyes. Experimentally I trace out a few steps of an old folk dance Sparrow taught me all those years ago. I feel so *light."*
 
-I turn and tug Soshten to her feet. She clasps her hands demurely behind her back, gazing up at me flirtatiously, and I pull her close, hugging her so tightly I might actually have hurt her if she was a baseline. "Thank you," I whisper again, and she laughs happily, stroking my back. The voidskin is thin and tight enough that the touch still feels intensely intimate, even if I can't feel just how soft her skin is on mine.
+I turn and tug Soshten to her feet. She clasps her hands demurely behind her back, gazing up at me flirtatiously, and I pull her close, hugging her so tightly I might actually have hurt her if she was a baseline. "Thank you," I whisper again, and she laughs happily, stroking my back.
 
 "Don't get too excited," she tells me. "This is really something that should be done by a medic, so don't go crazy until he's had a chance to clean up my mess, okay?"
 
@@ -730,9 +730,9 @@ I turn and tug Soshten to her feet. She clasps her hands demurely behind her bac
 
 I had expected to feel something pushing against me like a helping hand when I worked the damaged muscles, but it really feels completely seamless. I could easily forget that the suit was helping me at all.
 
-Well, now I have a really good reason not to take it off any time soon.
+We *need* this tech.
 
-She kisses me, slipping a knee between my thighs and patting my rear. "I really gotta get to work, babe," she murmurs, squeezing me tight. I rub the back of her neck, wrap an arm around her waist.
+She kisses me again. "I really gotta get to work, babe," she murmurs, squeezing me tight. I rub the back of her neck, wrap an arm around her waist.
 
 "Okay," I whisper again, resting my forehead against hers.
 
@@ -960,13 +960,13 @@ He blinks. "Why?"
 
 I gaze at him quietly for a moment. "You people are… really accepting," I say slowly. He laughs heartily; it's an infectious laugh, one that sets me somewhat more at ease, and I can't help but smile weakly even though I don't know what the joke is.
 
-"Accepting! No, no, not in the slightest, no. Of the galactic civilizations, we are *undoubtedly* the strictest, and we require absolute self-discipline, obedience, and loyalty from our comrades. We have no margin of tolerance whatsoever for antisocial or degenerate conduct, and exact severe punishments for a wide range of behaviors your Republic and the Empire alike would pay no heed to. What you perceive is not *acceptance*, Comrade Ambassador, but compatibility. Or did you think emotional intimacy between *uastashar* and the People was a commonplace occurrence?"
+"Accepting! No, no, not in the slightest, no. Of the galactic civilizations, we are *without question* the strictest, and we require absolute self-discipline, obedience, and loyalty from our comrades. We have no margin of tolerance whatsoever for antisocial or degenerate conduct, and exact severe punishments for a wide range of behaviors your Republic and the Empire alike would hardly notice. What you perceive is not *acceptance*, Comrade Ambassador, but compatibility. Or did you think emotional intimacy between *uastashar* and the People was a commonplace occurrence?"
 
 "I… didn't realize it was that special, no."
 
 "It is. Virtually all of us expect a form and depth of connection that is rarely found outside homespace. For Comrade Soshten to take you for her own suggests she sees in you a kindred spirit. She is of a race cut off from your own and sculpted over a thousand years towards a harshly defined ideal of human perfection; she is a woman who has her entire life been relentlessly shaped into a loving comrade, a capable warrior, and a thoughtful, responsible citizen. Between what she is -- what we all are -- and what the Zyahua, the Khmai, even the Kaparttu are, there lies a gulf so vast it is bridged only with great difficulty. Even the people of the League, for the most part, are but a single step closer to our nature than the people of the Empire or the Union."
 
-"For the most part?" I tilt my head slightly, realizing moments later that I'm already imitating their facial mannerisms.
+"For the most part?" I tilt my head slightly, realizing moments later that I'm already imitating their facial mannerisms. Shalvan definitely notices.
 
 "Well, we have a pet name for the UA Diamond -- the _Ranuen_, the 'little Society,' you might very roughly translate it. Its people are most unusual, perhaps unique; there exists a degree of mutual admiration between our cultures, and theirs, though quite distinct, was modeled directly after our own. All the same, my point stands -- you are no Diamondite; indeed, from what you have told me I suspect their way of life would be intolerable to you. By bonding with one of the People, you have achieved something remarkable. Whether by accident, will, or the design of fate you have accomplished a closeness of soul to our own without any of the advantages we had in doing so. Yours is a baseline psyche, with your native sociopathic and self-serving traits fully intact, and without any of the early childhood training normally necessary to self-moderate. And yet you do so. To us, this is far more impressive than simply growing into a good citizen and comrade from within our system."
 
@@ -1023,13 +1023,13 @@ I shrug. "You don't got to be so dramatic about it. I… I don't even know what 
 
 "I don't really think 'suffering' is even the right word, I just." I shrug again. "Shal-- we were at *war*. We were spending day after day bleeding and making other people bleed and watching enemies and friends and total innocents alike die in ways some of them so terrible I can't even think about it without-- without--"
 
-He takes my hand, squeezes gently. "Shh. Stop. It's alright. I understand. You're safe. Nobody can hurt you here, and you can't hurt anyone either."
+He takes my hand and squeezes, gently prying my nails out of my arm. "Shh. Stop. It's alright. I understand. You're safe. Nobody can hurt you here. Nobody is going to be hurt."
 
-I inhale slowly. "Thank you. Look, my point is-- yeah, so the guys had their fun sometimes. So what. It's hard for me to begrudge them, knowing firsthand what they always got up and did next. For me, for their comrades, for us all."
+I inhale slowly. "Thank you. It's okay. I'm okay. Look, my point is-- yeah, so the guys had their fun sometimes. *So what*. It's hard for me to begrudge them, knowing firsthand what they always got up and did next. For me, for their comrades, for us all."
 
 "Are you telling me *they weren't even punished?*" Shalvan looks horrified. "They were left in the same unit to continue traumatizing their victims?"
 
-I sigh. "We were still enforcing a lot of the customary law back then. If I had reported them they would have been burned alive. Shal, they didn't deserve that. Those boys-- they were my comrades in arms. They were part of my unit. I don't know if you understand this but that's something more than friends. I didn't let the *den tsuang* gun them down on the battlefield and I sure as *ash* wasn't gonna throw them to the flames myself neither. I'm still clinging to those last shreds of my honor."
+I sigh. "We were still enforcing a lot of the customary law back then. If I had reported them they would have been burned alive. Shal, they didn't deserve that. Those boys-- they were my comrades in arms. They were part of my unit. I don't know if you understand this but to us that's something more than friends. I didn't let the *den tsuang* gun them down on the battlefield and I sure as *ash* wasn't gonna throw them to the flames myself neither. I'm still clinging to those last shreds of my honor."
 
 "So you're saying, your rapist-- rapists? There were more than one?"
 
@@ -1049,17 +1049,17 @@ I sigh. "I... I'm not sure you get it, Shal."
 
 "Saving your life does not entitle a man to your body."
 
-"Doesn't it? I don't know. What I do know is I felt awful ungrateful trying to fight back. They do you a solid, it's only right to give 'em one in turn. And Shal, those early days--" I shudder, groping for the dispenser on my desk just in case. "I saw some real rough and heavy shit towards the end, but that first year or two… maybe it wasn't so qualitatively ugly but there was just so much *more* of that ugly than later on. In the first years we didn't have stable territory. We didn't have a government. We barely had communications and we sure as shit hardly had anything close to military protocol. We were fighting just to survive at that point and the only reason we did was because the Blood hadn't called down the *d--* the Imperial Guard yet."
+"Doesn't it? I don't know. What I do know is I felt awful ungrateful trying to fight back. They do you a solid, it's only right to give 'em one in turn. And Shal, those early days--" I shudder, groping for the dispenser on my desk just in case. "I saw some real rough and heavy shit towards the end, but that first year or two… maybe it wasn't so qualitatively ugly but there was just so much *more* of that ugly than later on. In the first years we didn't have stable territory. We didn't have a government. We barely had communications and we sure as shit hardly had anything close to military protocol. We were fighting just to survive at that point and the only reason we did was because the Blood hadn't called down the *v--* the Imperial Guard yet."
 
 "So you're saying the early fighting was easier but more… chaotic and intense?"
 
-"We hardly got any rest. In a normal war it's maybe 30% fighting, 70% sitting on your ass waiting for the bullets to start flying. The first two years was maybe 95/5 the other way around. I mean I'm exaggerating but you get my point. Some days you'd stumble to your cot too exhausted to dress down, flop down with your rifle still clenched in your arms, wake up three hours later to your bunkmate shaking you and explosions rattling the windows, and you'd go out and start shooting again before you'd had so much as a cup of _gue lang_ to steady your aim. Common courtesy was you'd make the rounds, make sure all your buddies remembered to eject their clips and clear their barrels before they passed out. If you had enough left in you to stand for that long. Did I mention we sometimes went days without eating?"
+"We hardly got any rest. In a normal war it's maybe 30% fighting, 70% sitting on your ass waiting for the bullets to start flying. The first two years after shit got serious was maybe 95/5 the other way around. I mean I'm exaggerating but you get my point. Some days you'd stumble to your cot too exhausted to dress down, flop down with your rifle still clenched in your arms, wake up three hours later to your bunkmate shaking you and explosions rattling the windows, and you'd go out and start shooting again before you'd had so much as a cup of _gue lang_ to steady your aim. Common courtesy was you'd make the rounds, make sure all your buddies remembered to eject their clips and clear their barrels before they passed out. If you had enough left in you to stand for that long. Did I mention we sometimes went days without eating?"
 
 Shalvan is staring at me. "Merciful skies," he murmurs.
 
-"When every day is like that -- you wake up to find your bunkmate on top of you and it is sometimes just hard to care. So you don't scream for help, you just lie there and take it, you don't waste your energy on fighting your own squaddies when the enemy's still out there, and then he helps you up and dresses you and you go out and climb into your rickety old excuse for a battle taxi and off you go to perforate some more skulls together. You talk like I should be all upset about it… Shal, I barely even *thought* about it most of the time. I spent so many of those days on full auto. Go here, go there, pull the trigger, return to base, bunk down for as long as God allows, rinse and repeat. Except it was a good day if we had enough time and water for the 'rinse' part." The dispenser chirps and I set it aside again with an unsteady hand, closing my eyes and silently begging the drug to kick in already. "The sex was part of the blur just like everything else. If anything, a warmer part. Human connection becomes so important in situations like that, big abstracts like 'consent' just stop entering into your head. The way the guys talked about it later on down the road -- you see a girl alone, exhausted, cut up and bruised, the *least* you're gonna do is go over and hug her and hold her while she cries on your shoulder. It would cruel not to, especially when the other men barely have the energy left to *breathe.* Sometimes sex was all I had to offer in return. Fuck, sometimes you just start taking each others' clothes off without either of you really starting it, and you don't even know each others' names, and you go off again without having exchanged a word because in situations like that, talking and thinking turn into priceless materiel you can't waste without a *life-or-death* good reason -- bullets at least get resupplied."
+"When every day is like that -- you wake up to find your bunkmate on top of you and it is sometimes just hard to care. So you don't scream for help, you just lie there and take it, you don't waste your energy on fighting your own squaddies when the enemy's still out there, and then he helps you up and dresses you and you go out and climb into your rickety old excuse for a battle taxi and off you go to perforate some more skulls together. You talk like I should be all upset about it… Shal, I barely even *thought* about it most of the time. I spent so many of those days on full auto. Go here, go there, pull the trigger, return to base, bunk down for so long as Shuharva grants, rinse and repeat. Except it was a good day if we had enough time and water for the 'rinse' part." The dispenser chirps and I set it aside again with an unsteady hand, closing my eyes and silently begging the drug to kick in already. "The sex was part of the blur just like everything else. If anything, a warmer part. Human connection becomes so important in situations like that, big abstracts like 'consent' just stop entering into your head. The way the guys talked about it later on down the road -- you see a girl alone, exhausted, cut up and bruised, the *least* you're gonna do is go over and hug her and hold her while she cries on your shoulder. It would cruel not to, especially when the other men barely have the energy left to *breathe.* Sometimes sex was all I had to offer in return. Fuck, sometimes you just start taking each others' clothes off without either of you really starting it, and you don't even know each others' names, and you go off again without having exchanged a word because in situations like that, talking and thinking turn into priceless materiel you can't waste without a *life-or-death* good reason -- bullets at least get resupplied."
 
-"You make it sound like being taken advantage of was just… routine." Shalvan's voice is a bit weak now. Well, he is a glorified civilian more or less. Come to think of it, how many Greens really could empathize with this? Even Soshten -- even her life-changing trauma was just one little incident with pirates.
+"You make it sound like being taken advantage of was just… routine." Shalvan's voice is a bit weak now. Well, he is a glorified civilian more or less. Come to think of it, how many Greens really could empathize with this? Even Soshten -- even her life-changing trauma was just one little incident with pirates. *Pirates!*
 
 "I was a woman in an army that didn't have so many at the time. You gotta understand, socialism wasn't really a big thing when we started out. Cormorant had her ideas and she had her lieutenants -- folks like me and Silverdawn -- but the actual *people* who signed on, most of the rank and file did it because they had their own grievances with the Blood. Some were proles tired of being worked to death all their lives for shit wages, some were peasants tired of being gouged by raiders and taxwomen. A lot were masculists of one breed or another. We pilfered some of their groups straight up, but there's a lot more men with masculist sympathies who don't actually run off into the wilds to join a band, maybe because raping and smoking themselves silly ain't their idea of a good time, maybe because they just didn't hate women hard enough to go full Patriarch. A lot of *them* saw our banner and rallied behind it, because one of the big things Cormorant promised was we'd end the suppression of the stronger sex; they only picked up the rest of the ideology in bits and pieces. So this was an army full of bitter men kept down by my sex all their lives going through unspeakably awful things and keeping up the fight anyway, without hardly any comfort or peace or anything else but their hard-earned convictions to keep 'em going. And I mean, it wasn't like I was some… blushing maid halfway through puberty. Our men had their needs; I had mine too. I guess it was just… sort of an unspoken agreement. If you're lucky enough to get paired up with a girl *and* have some downtime, she's yours to do what you want with so long as she's still fit to fight by the time you're through with her and you keep her safe in the field."
 
@@ -1105,7 +1105,7 @@ I shift in my seat. "That… explains some things."
 
 "Really? You sounded really shocked--"
 
-"Only because I misunderstood what exactly they did to you. When you said 'rape' I heard this as _teshruh,_ a betrayal of your bonds of camaraderie and common purpose, a selfish, spiteful act of sexual cruelty and exploitation that traumatized and damaged you without concern for your wellbeing. Instead it sounds like what you're describing is what we would call _gattesh_; 'forced sex,' you might say."
+"Only because I misunderstood what exactly they did to you. When you said 'rape' I heard this as _teshruh,_ a betrayal of your bonds of camaraderie and common purpose, a selfish, spiteful act of sexual cruelty and exploitation that traumatized and damaged you without concern for your wellbeing. Instead it sounds like what you're describing is what we would call _teshgat_; 'forced sex,' you might say."
 
 "There's a difference?"
 
@@ -1113,25 +1113,27 @@ I shift in my seat. "That… explains some things."
 
 "Okay, yeah, that makes sense so far. Where are you going with this?"
 
-"What I'm getting at is sometimes forced sex can actually be *more* pleasurable for women, create a stronger bond than ordinary consensual sex, especially in the beginning stages of a relationship. Context is everything, of course, and _gattesh_ is more easily done wrong than right. But establishing a relationship is a matter of breaking down boundaries, creating a shared ground of intimacy between two souls, and this can be legitimately done by force. The way this usually plays out is there is a man and a woman, or more rarely two women, who share unresolved sexual tension; by flirting and various teasing forms of *latias,* the man can establish an emotional charge and a sense of anticipation in the woman, to the point where she experiences intrusive thoughts about him. Instead of allowing the relationship to form gradually, he takes bodily control of her while she is still trying to resist those intrusive thoughts instead of accepting the attraction, and forcing physical pleasure upon her until she stops resisting and starts enjoying herself. Once he releases her, the relationship essentially becomes a 'done deal'; she has been directly confronted with her attraction, she now associates him with strength, confidence, and physical pleasure, and on top of all this he has taken advantage of her neurological hardwiring. It is a dangerous way to try to establish a relationship but when it works it creates extremely strong bonds of affection and obedience, and tight emotional bonds are very highly prized among the People.
+"What I'm getting at is sometimes forced sex can actually be *more* pleasurable for women, create a stronger bond than ordinary consensual sex, especially in the beginning stages of a relationship. Context is everything, of course, and _teshgat_ is more easily done wrong than right. But establishing a relationship is a matter of breaking down boundaries, creating a shared ground of intimacy between two souls, and this can be legitimately done by force. The way this usually plays out is there is a man and a woman, or more rarely two women, who share unresolved sexual tension; by flirting and various teasing forms of *latias,* the man can establish an emotional charge and a sense of anticipation in the woman, to the point where she experiences intrusive thoughts about him. Instead of allowing the relationship to form gradually, he takes bodily control of her while she is still trying to resist those intrusive thoughts instead of accepting the attraction, and forcing physical pleasure upon her until she stops resisting and starts enjoying herself. Once he releases her, the relationship essentially becomes a 'done deal'; she has been directly confronted with her attraction, she now associates him with strength, confidence, and physical pleasure, and on top of all this he has taken advantage of her neurological hardwiring. It is a dangerous way to try to establish a relationship but when it works it creates extremely strong bonds of affection and obedience, and close emotional bonds are very highly prized among the People.
 
 "Now, I use this as an extreme example. Obviously this doesn't describe your interactions with…" He stops, apparently noticing my burning cheeks and averted gaze. "Ambassador?"
 
 "I… it m-might describe… *some* of those, um. Interactions." I squeeze my thighs together awkwardly. "Um. What do you mean, taking advantage of 'neural hardwiring?'"
 
-"Ah, I apologize; I am being unnecessarily cryptic. I simply mean the innate reaction of the female psyche to sexual intercourse, forced or otherwise."
+"Ah, I apologize; I am being unnecessarily cryptic. I simply mean the innate bonding process triggered by sexual intercourse, forced or otherwise."
 
-"Innate… reaction? Sorry, I'm missing something here."
+"Innate… bonding? Sorry, I'm missing something here."
 
 Shalvan gives me that goddamn look again. "Do you… forgive me, there must be some confusion, surely you know about--"
 
-"Explain it as though I don't."
+"Explain it as though I don't?"
 
-"Very well. Stop me when you recognize what I'm talking about. Obviously there are profound and innate differences between the male and female psyche, somewhat more so among _uasdannar_ than _randannar_ as a result of our efforts to… ameliorate certain masculine excesses and feminine pathologies. One of these differences is that, for women, the sexual act physiologically triggers a response in the brain -- a release of oxytocin, among  other things -- that changes your disposition towards your partner. In effect, when you have sex with someone that results in climax, particularly penetrative sex with a man, you will start to like him more and feel more and more attraction to him. What's important to understand is that this response is entirely involuntary. It doesn't matter who the man is, it doesn't matter how you feel about him beforehand, it doesn't matter if the intercourse is forcible or mutual." He tilts his head. "Does this sound familiar yet?"
+"Very well. Stop me when you recognize what I'm talking about. Obviously there are profound and innate differences between the male and female psyche, somewhat more so among _uasdannar_ than _randannar_ as a result of our efforts to… ameliorate certain masculine excesses and feminine pathologies. One of these differences is that, for women, the sexual act physiologically triggers a response in the brain -- a release of oxytocin, among  other things -- that changes your disposition towards your partner. In effect, when you have sex with someone that results in climax, particularly penetrative sex with a… behaviorally masculine partner, you will start to like him more and feel progressively more attraction to him, even if overall you may still dislike him.
 
-I stare at him. "What in all ash makes you *think* that?"
+"What's important to understand is that this response is entirely involuntary. It doesn't matter who the man is, it doesn't matter how you feel about him beforehand, it doesn't matter if the intercourse is forcible or mutual." His expression turns solemn. "It is likely a survival mechanism conditioned by the  long periods of barbarity collective humanity intermittently suffers. As your race is… *infamously well aware*, women become ineluctably subjected to men during those grim intervals, due to the great imbalance in physical fragility and strength, and the rigors of motherhood without advanced medicine. But the trauma of repeated rape is catastrophic to the psyche, and without a 'failsafe' in the brain to trigger emergency pair-bonding, the chances of a woman in prolonged captivity — the state of most barbarian women — living long enough to pass on many of her genes are tragically lessened." He tilts his head. "Does this sound familiar yet?"
 
-"Ah -- well, virtually every known galactic culture has treated this as 'common sense' knowledge, and it has been backed up by a great deal of research and experimentation. We understand the exact physiological mechanism and neurological pathways involved and we've identified some of the genes responsible." He blinks several times. "Truly, you weren't aware--"
+I stare at him. "What in all ash makes you *think* this?"
+
+Shalvan looks perplexed. "Ah -- well, virtually every known galactic culture has treated this as 'common sense' knowledge, and it has been backed up by a great deal of research and experimentation. We understand the exact physiological mechanism and neuronal pathways involved and we've identified some of the genes responsible." He blinks several times. "Truly, you weren't aware--"
 
 "Nobody ever told me that!" I burst out. "Nobody ever in all my life -- you're sure about this, that this isn't just a, a Green thing?"
 
@@ -1141,7 +1143,7 @@ I stare at my hands. "Why did no one tell me this," I mumble, my eyes unfocused.
 
 "Perhaps this is simply not common knowledge in the Empire. A completely female-dominated culture would need some level of self-deception to remain that way in the long term; the position of the sexes under the Imperial system could easily give rise to a… distorted… narrative…" Shalvan trails off.
 
-I'm hunched on the couch, my arms tight around my legs, shrinking back agains the seat. Even the warm, comforting haze of the not-opium can only do so much to blunt the sharp edges of the thoughts that are scraping across my soul. I don't look up when Shalvan perches on the couch next to me, takes my hand in his and squeezes softly. "Kestrel?" he says after a moment.
+I'm hunched on the couch, my arms tight around my legs, shrinking back against the seat. Even the warm, comforting haze of the not-opium can only do so much to blunt the sharp edges of the thoughts that are scraping across my soul. I don't look up when Shalvan perches on the couch next to me, takes my hand in his and squeezes softly. "Kestrel?" he says after a moment.
 
 "Yeah?" I whisper, unable to meet his gaze.
 
@@ -1161,14 +1163,14 @@ My jaw is trembling and I nearly bite my tongue as I try to speak. "All those ye
 
 "Because I was always *me.* I always had my mind, my soul, wasn't nobody could take that away from me. I knew what was right and what we were fighting for and there was no pain, no torture in the world could change me if I didn't let it. That's what I thought this whole time, that's what I clung to in my worst moments, and now you're telling me--" Now I *am* hyperventilating, I realize. I struggle for control, trying to slow my breathing before I pass out. "You're telling me that was all an illusion. You're telling me being a woman means I'm just-- I'm vulnerable and there's nothing I can do about it. Oh, God--"
 
-"Shh, no. No, no, Kestrel; it's not that bad. Listen, listen." He squeezes my hand tightly, patting me on the shoulder. "Humans are an old species. Our brains, our mentalities have several different layers to them. At the core is the *uasmad,* the… the animal, the id, the beast, the atavistic core from which all our strongest passions and desires and worst instincts arise. Atop that is a superstrate of intellect that makes us creatures of reason, able to override our bestial impulses as no mere animal can. For some of us there is another layer, a lattice of strictures that is itself a product of that intellect, imposed through eugenics or genetic engineering. Then atop even that is one last layer of our sentience, a layer that changes and grows and becomes more complex for as long as we live. That is our identity, our personality.
+"Shh, no. No, no, Kestrel; it's not that bad. Listen, listen." He squeezes my hand tightly, patting me on the shoulder. "Humans are an old species. Our brains, our mentalities have several different layers to them. At the core is the *uasmad,* the… the animal, the id, the beast, the atavistic core from which all our greatest passions and desires and worst instincts arise. But it lies beneath a superstrate of intellect that makes us creatures of reason, able to override our bestial impulses as no mere animal can. For some of us there is another layer, a lattice of strictures that is itself a product of that intellect, imposed through eugenics or genetic engineering. Then at the very top is one last layer of our sentience, a layer that changes and grows and becomes more complex for as long as we live. That is our identity, our personality.
 
-"The part of a woman that makes her bond to a sexual captor is in that animalistic core. It's part of you the same way as a man's urge to murder another who has disparaged his honor. Or the urges we all share, to eat when we are hungry and drink when we are thirsty. These instincts are powerful of course, but they are still the basest part of us. That means they are subordinate to the higher layers. No matter how hungry you might be, you can always keep yourself from eating food you know is poisoned.
+"The part of a woman that makes her bond to a sexual captor is in that animalistic core. It's part of you the same way as a man's urge to murder another who has disparaged his honor is part of me. Or the urges we all share, to eat when we are hungry and drink when we are thirsty. These instincts are powerful of course, but they are still the basest part of us. That means they are subordinate to the higher layers. No matter how hungry you might be, you can always keep yourself from eating food you know is poisoned.
 
 
-"We teach that our dark side is not a burden, but a gift. It is a source of tremendous passion, drive, ambition, and pleasure -- albeit one that must be managed responsibly, not allowed to overcome that part of the soul which walks in light. We teach our children from a very young age about their dark side, and we teach them how to control it, how to keep from being overwhelmed by black urges and intrusive thoughts. This requires lifelong vigilance, and discipline, and a careful understanding of the soul, but it can be done and our entire civilization is proof of this; we have all but eliminated the many great evils that spring from the darkness of the human soul and plague other civilizations to this day. Greed, egotism, arrogance, sociopathy -- all trouble us little, and we can turn our attention to higher things.
+"We teach that our dark side is not a burden, but a gift. It is a deep well of passion, drive, ambition, and pleasure -- albeit one that must be managed responsibly, not allowed to overcome that part of the soul which walks in light. We teach our children from a very young age about their dark side, and we teach them how to control it, how to keep from being overwhelmed by black urges and intrusive thoughts. This requires lifelong vigilance, and discipline, and a careful understanding of the soul, but it can be done and our entire civilization is proof of this; we have all but eliminated the many great evils that spring from the darkness of the human soul and plague other civilizations to this day. Greed, egotism, arrogance, sociopathy -- all trouble us little, and we can turn our attention to higher things.
 
-"I understand your fear, and I regret with all my heart that I spoke carelessly and frightened you so. But you are not so helpless as you think, nor so vulnerable. When our teenage girls go through puberty, we teach them carefully about their own bodies and psyches, and how they differ from their male comrades. We teach that sexual intimacy is something you must approach with more care and vigilance than must a man. We teach how your bonding instinct affects your emotions and might sway your reasoning in an unguarded moment, how to spot the signature traces of unreason it leaves upon your thoughts. We teach how to select partners carefully, how to spot the signs that someone is misusing your bonding instinct to control you against your best interest, and we encourage girls to experiment with one another before they take the plunge and embark on relationships with boys. None of this can neuter your bonding instinct and take away its power over you; that is part and parcel of your womanhood. But it can shift the balance of power away from your *uasmad,* your id, and towards your conscious, rational mind. And it can change your bonding instinct from a vulnerability you live in fear of, into a tool you can choose to employ for your own social and emotional betterment. If it would bring you comfort I can provide you this same training before you venture out again into the world."
+"I understand your fear, and I regret with all my heart that I spoke carelessly and frightened you so. But you are not so helpless as you think, nor so vulnerable. When our teenage girls go through puberty, we teach them carefully about their own bodies and psyches, and how they differ from their male comrades. We teach that sexual intimacy is something you must approach with more care and vigilance than must a man. We teach how your bonding instinct affects your emotions and might sway your reasoning in an unguarded moment, how to spot the signature traces of unreason it leaves upon your thoughts. We teach how to select partners carefully, how to spot the signs that someone is misusing your bonding instinct to control you against your best interest, and we encourage girls to experiment with one another before they risk higher-stakes relationships with boys. None of this can neuter your bonding instinct and take away its power over you; that is part and parcel of your womanhood. But it can shift the balance of power away from your *uasmad,* your id, and towards your conscious, rational mind. And it can change your bonding instinct from a vulnerability you live in fear of, into a tool you can choose to employ for your own social and emotional betterment. If it would bring you comfort I can provide you this same training before you venture out again into the world."
 
 "Yes. Please. If you think it will help me."
 
@@ -1206,11 +1208,11 @@ He laughs. "Perhaps you can make a list, and Comrade Nishuin will be able to hel
 
 She shrugs. "Kess, I'm not a surgeon. That's really advanced stuff, I barely know anything about it. The only medicine I know is basic field work."
 
-"Soshi, we have so many people -- boys paralyzed by explosions, folks who jumped on grenades and lost their limbs. One of my friends, we had to mercy-kill him because he-he--" The tears are welling up already. "He couldn't see and he couldn't hear and he couldn't move; he was just trapped inside what little was left of his mangled body. And you're saying he didn't have to die, you could have saved him--"
+"Soshi, we have so many people -- boys paralyzed by explosions, folks who jumped on grenades and lost their limbs. One of my friends, we had to give him Shuharva's mercy because he-he--" The tears are welling up already. "He couldn't see and he couldn't hear and he couldn't move; he was just trapped inside what little was left of his mangled body. And you're saying he didn't have to die, you could have saved him--"
 
 "We have the tech for it, yeah. For our own people, anyway. I met a man once who lost most of his body fighting a fire and you'd never know anything bad had happened to him just to look."
 
-"Why didn't-- you could have *given us this,* you could have told us how-- none of those people, those brave soldiers, those poor civvies in the wrong place at the wrong time-- all those arms torn off and eyes lost to shrapnel and field amputations--" I breathe deeply, fighting to keep myself under control, but the words are spilling out faster than I can even think them. "God, Soshi, you gotta help us, there's so many people--"
+"Why didn't-- you could have *given us this,* you could have told us how-- none of those people, those brave soldiers, those poor civvies in the wrong place at the wrong time-- all those arms torn off and eyes lost to shrapnel and fucking field amputations--" I breathe deeply, fighting to keep myself under control, but the words are spilling out faster than I can even think them. "God, Soshi, you gotta help us, there's so many people--"
 
 *"Kess."* Soshi grabs me by the shoulders. "Kess, stop. *Breathe.* Listen, okay? Listen to me. Please? Just let me talk for a minute."
 
@@ -1239,30 +1241,34 @@ She sighs. "We all *want* to help. Everyone from Nishuin to the Ambassador to th
 "But it's complicated. We have to put our own safety, our own culture and supremacy first. What if the tech you want, what if it can do things besides heal people? What if it could be used as a weapon? Maybe even against us! There's a *reason* we don't just uplift all our allies to the same level we're on. It would mean catastrophe -- for us, for the cause, for the *Galaxy.* Some powers *have* to be reserved to us, because we're the only ones who *can* keep them safe, keep them aimed in the right direction.
 
 
-"Tech transfer is…" Nishuin sucks air through her teeth, shaking her head. "It is *never* undertaken lightly, and requires approval at the highest levels. The only reason we can even *discuss* this is we *amended our constitution* shortly after the war. Before, tech transfer would have been categorically impossible. What if it turned out the tech we gave you could be used for creating bioweapons? Can we trust that you will never use that technology in a way that would harm our interests? Can we trust that your government would keep it from falling into the wrong hands? Can you?
+"Tech transfer is…" Nishuin sucks air through her teeth, shaking her head. "It is *never* undertaken lightly, and requires approval at the highest levels. The only reason we can even *discuss* this is we *amended our constitution* shortly after the war. Before, tech transfer would have been categorically impossible. What if it turned out the tech we gave you could be used for creating bioweapons? Can we trust that you will never use that technology in a way that would harm our interests? Can we trust that your government would keep it from falling into the wrong hands? Can *you?*
 
-"And, frankly, tech transfer is only part of the equation. We are a highly advanced nation, Comrade Ambassador; our infrastructure is entirely unlike anything to be found on your planet. Even if we *did* give you the technologies you want, there is no guarantee you would be able to use them without perhaps centuries of building out new infrastructure and training new personnel. Virtually all of our technology rests on miniaturized computers, which require microprocessor foundries, standardized operating systems, communication protocols, and so on. Simply transplanting technology from one culture to another, *even if* they are at the same general level of technical and infrastructural sophistication, is almost never possible unless the cultures have gone to the effort of maintaining both parity and *interoperability* between their systems of infrastructure. Consider crude oil -- while a plentiful, relatively compact source of dirty energy on 'old growth' greenhouse worlds, it has long been considered worthless on the general market, sometimes even for cross-region trade, due to differences in composition and quality between various sources and extraction processes. Whole systems of infrastructure must be tightly attuned to the composition of local sources to be able to produce tradeworthy plastics and fuels.
+"And, frankly, tech transfer is only part of the equation. We are a highly advanced nation, Comrade Ambassador; our infrastructure is entirely unlike anything to be found on your planet. Even if we *did* give you the technologies you want, there is no guarantee you would be able to use them without perhaps centuries of building out new infrastructure and training new personnel. Virtually all of our technology rests on miniaturized computers, which even in the macroscale form factor require microprocessor foundries, standardized operating systems, communication protocols, and so on. And the less said of the molectronic systems, the better. Simply transplanting technology from one culture to another, *even if* they are at the same general level of technical attainment and infrastructural complexity, is almost never possible unless the cultures have gone to the effort of maintaining both parity and *interoperability* between their systems of infrastructure. Consider crude oil -- while a plentiful, relatively compact source of dirty energy on 'old growth' greenhouse worlds, it has long been considered worthless on the general market, sometimes even for cross-region trade, due to differences in composition and quality between various sources and extraction processes. Whole systems of infrastructure must be tightly attuned to the composition of local sources to be able to produce tradeworthy plastics and fuels.
 
-"Culture also cannot be overlooked. I have the utmost respect for your people, Comrade Ambassador, but the unfortunate fact remains that you are culturally yet primitive. A certain level of cultural and philosophical sophistication is required to be able to handle many technologies responsibly. Otherwise, the shock of their sudden introduction can spawn pathologies throughout the cultural environment, which can themselves impede or even fatally arrest the natural development of culture towards a point where it would become possible to wield the technology responsibly and effectively -- this in particular is why we have a standing moratorium on helping other cultures establish pervasive communication grids for civilian use. The ability to customize and endlessly rebuild one's body is *disruptive.* You have a population of several billion. Could you handle a sudden dramatic rise in lifespans? Could you handle the strain that the demand for reconstructive services would put on your economy and planetary ecosphere? Could you handle the social repercussions of triaging or otherwise rationing access to the technology? Rebellions have erupted over less.
+"Culture also cannot be overlooked. I have the utmost respect for your people, Comrade Ambassador, you are no barbarians, but the unfortunate fact remains that you are culturally yet primitive. A certain level of cultural and philosophical sophistication is required to be able to handle many technologies responsibly. Otherwise, the shock of their sudden introduction can spawn pathologies throughout the cultural environment, which can themselves impede or even fatally arrest the natural development of culture towards a point where it would become possible to wield the technology maturely and effectively -- this in particular is why we have a standing moratorium on helping other cultures establish pervasive communication grids for civilian use. Understand, I speak not of hypotheses. We have *made* these mistakes, long ago. We have *watched* this happen. The price was beyond all accounting.
+
+"The ability to customize and endlessly rebuild one's body is *disruptive.* You have a population of several billion. Your one, strained ecosystem shelters a greater host of human life than the Society in full. Could you handle a sudden dramatic rise in lifespans? Could you handle the strain that the demand for reconstructive services would put on your economy and planetary ecosphere? Could you handle the social repercussions of triaging or otherwise rationing access to the technology? Rebellions have erupted over less.
 
 "Consequently, I do not believe that tech transfer would be a productive topic to discuss with our Ambassador. *However,* let us not lose sight of the concrete problem you wish to address. There may be ways for you to get what you want for your people without confronting any of the risks or complexities inherent in tech transfer."
 
 My heart has been sinking throughout her speech, but I feel a sudden manic flash of hope. "What would you suggest?"
 
-"Offhand? While we undoubtedly have the most *sophisticated* bodily reconstruction technologies in the Socialist world, there are other polities in the Socialist League and without which have developed the same basic technique. For instance, the Unitary Authority of Diamond. They have a much larger population than we do, and while they do not have the scientific and intellectual resources of Topaz, their systems of government and organization are such that it is very easy for them to adopt and iterate on new technologies and ideas. One of these technologies is organ and body reconstruction, and unlike us they are equipped to use it on a much wider scale.
+"Offhand? While we undoubtedly have the most *sophisticated* bodily reconstruction technologies in the Socialist world, there are other polities in the Socialist League and without which have developed the same basic technique. For instance, the Unitary Authority of Diamond. They have a much larger population than we do, and while they do not have the scientific and intellectual resources of Topaz, their systems of government and organization are such that it is very easy for them to adopt and iterate on new technologies and ideas, and they work closely with the Topazan scholarly world. One of these technologies is organ and body reconstruction, and unlike us they are equipped to use it on a much wider scale. I was privileged to observe some of the early human trials, and I can attest that their methods consistently produce an acceptable quality of outcome.
 
-"My suggestion is therefore this: speak with the UA Diamond's ambassador when you arrive on Tel Casran. Diamond is a deeply militarized culture that values honor, chivalry, and martial prowess as cardinal virtues, whose population all serve time in the armed forces -- honorable service is in fact the only reliable route to high office." She smiles. "Given your background and sex, I can more or less *guarantee* that Diamond's ambassador will *jump* at the chance to meet you, and will be very receptive to any request you make of him for aid."
+"My suggestion is therefore this: speak with the UA Diamond's ambassador when you arrive on Tel Casran. Diamond is a deeply militarized culture that prizes honor, chivalry, and martial prowess as cardinal virtues, whose population all serve time in the armed forces -- honorable service is in fact the only reliable route to high office." She smiles. "Given your background -- and sex -- I can more or less *guarantee* that Diamond's ambassador will *jump* at the chance to meet you, and will be very receptive to any request you make of him for aid."
 
 I sigh. "I don't like flaunting my womanhood at friendlies like that. Making innocent men feel threatened just to get what I want feels wrong to me. But I suppose if that's what it takes--"
 
 "That is not what I mean at all! Perhaps you misunderstood -- Diamond has been a League world for centuries and no longer upholds traditional Zyahua gender norms. Men will not feel threatened by you; "
 
-"I spent several months on Diamond during my training as a Liaison. I can assure you it is a civilized world and a lovely place to be a woman. I will say that Diamond men are very flirtatious, and the way they flirt is very physical and possessive; I can imagine that might perhaps cause a Zyahua woman to feel threatened or assaulted. Personally, however, I enjoyed my time among them. I should note also  that Diamond men are *very* protective of us, and would intervene immediately if they were to witness a woman -- especially one of their own, or a Society citizen -- being mistreated. They revile the Patriarchs no less than any other majority-Zyahua culture.
+"Are you telling me this planet is run by... *unreconstructed masculists?"* I manage faintly.
+
+"No, no! You mistake me. Ambassador, I spent several months on Diamond during my training as a Liaison. I can assure you it is a civilized world and an entirely unobjectionable place to be a woman. I will say that Diamond's men are… perhaps overly flirtatious; physical and possessive. I can imagine that might perhaps cause a Zyahua woman to feel threatened or assaulted. Personally, however, I enjoyed my time among them. I should note also that Diamondite men are *very* protective of us, and would intervene immediately if they were to witness a woman -- especially one of their own, or a Society citizen -- being mistreated. They revile the Patriarchs no less than any other majority-Zyahua culture.
 
 
 I'm swept away from the battlefield by a jarring tone, a noise that's coming from everywhere and nowhere, growing louder as the landscape of carnage and twisted metal dims and recedes into the fog. My lungs are gasping for air and I lunge forward, looking back and forth wildly, and I catch a glimpse of light.
 
-I clutch my own body. The wounds and dirt are gone, my uniform gone. My skin is wrapped in a tight fabric, smoother than silk, covering most of my body except my head and hands. As I fumble in the blackness I feel someone beside me -- a woman, judging by the softness of her skin and the slimness of her arms. She's unmoving, breathing slowly. Reflexively I check her pulse. Irregular heartbeat. A casualty? Adrenaline surging once more I move to straddle her, only for my legs to get caught in the blankets—
+I clutch my own body. The wounds and dirt are gone, my uniform gone. My skin is wrapped in a tight fabric, smoother than silk, covering most of my body except my head and hands. As I fumble in the blackness I feel someone beside me -- a woman, judging by the softness of her skin and the slimness of her arms. She's unmoving, breathing slowly. Reflexively I check her pulse. Irregular heartbeat. A casualty? Adrenaline surging once more, I move to straddle her, hands moving for my medkit, only for my legs to get caught in the blankets—
 
 Blankets.
 
@@ -1270,7 +1276,9 @@ I breathe deeply.
 
 I was in bed. I just woke up.
 
-How long was I out? I must have been medevac'd-- *hang on*.
+How long was I out? I must have been medevac'd--
+
+Wait. No.
 
 How much of that was a dream?
 
@@ -1278,7 +1286,7 @@ The noise, an insistent chirping, is still there, but it's quieter now, relegate
 
 *Soshten.*
 
-I collapse back into bed, breathing hard, clutching my face and nearly sobbing with relief as my brain puts the pieces back together, true memories forcing their way past false ones. The violence of my landing is enough that Soshten stirs, and she sits up, head cocked.
+I collapse back into bed, breathing hard, clutching my face and nearly sobbing with relief as my brain finally puts the pieces back together, true memories  bursting to the surface and surrounding the false ones. The violence of my landing is enough that Soshten stirs, and she sits up, head cocked.
 
 "Mmh. Kess. Door."
 
@@ -1294,13 +1302,13 @@ _"Nishuin-surin."_ Soshten's leaning in the doorway, at ease in very little clot
 
 _"Lahi narai elena risesh, surin!"_ Nishuin bows deeply, returning the gesture and then clasping her hands together. _"Mol mase. Niltasha shirane."_
 
-Soshten steps back, eyes widening. _"Shos."_ She glances at me. "Kess. Something's up."
+Soshten steps back, blinking in surprise. _"Ehe, shos."_ She glances at me. "Kess. Something's up."
 
 I stare blearily at the two women. "Up? What…?"
 
 Nishuin hesitates for a moment, then crosses the threshold. Soshten reacts immediately and violently, grabbing Nishuin by the throat and shoving her against a wall with her free hand. _"Nishi!"_ she erupts, sounding genuinely *furious.* _"Hal shose!?"_
 
-That's worth at least a cup or two of deep black tea. Before I know it I'm on my feet, momentarily disoriented as I try to compensate for a war wound my suit is already compensating for. I catch myself and close the distance to the two _rantashar._ "What the *fuck* has gotten into you, Soshi?" I demand. She spares me a dumbfounded glance. "I thought I was supposed to be the crazy one here--"
+That's worth at least a cup or two of deep black tea. Before I know it I'm on my feet, momentarily disoriented as I try to compensate for a war wound my suit is already compensating for. I catch myself and close the distance to the two _rantashar._ "What the *fuck* has gotten into you, Soshi?" I demand. She spares me a dumbfounded glance. "You know she's a friendly, right? Fuck, I thought I was supposed to be the crazy one here--"
 
 Nishuin has her hands up, as if in a gesture of surrender. "Peace, peace. Do not fault her, ambassador; she acted only to protect the sanctity of your ho-- your, eh, hm, r-residence? I acted in haste when I should have communicated. The blame is mine."
 
@@ -1314,15 +1322,19 @@ Nishuin has her hands up, as if in a gesture of surrender. "Peace, peace. Do not
 
 I glance at Soshten, whose expression makes me think of a kicked _pien şai_. "Yeah." I take her hand and squeeze it, and she brightens up a bit. "Can Soshi-- um, Comrade Soshten accompany us?"
 
-"Please." Nishuin seems completely unruffled by the assault. We follow her out into the hallway. Wherever she's going, she's in a hurry; keeping up is even more difficult than last time.
+"Please." Nishuin seems completely unruffled by the assault. We follow her out into the hallway, Soshten only bothering to pull on a light cardigan as a concession to decency -- or perhaps temperature. Wherever my liaison is going, she's in a hurry; keeping up is even more difficult than before.
 
 "I'm… sorry about that," Soshten murmurs to us both. "It seems like I… I misunderstood something."
 
-"Think nothing of it." Nishuin squeezes her arm gently. "Ambassador, you must understand: among our people, the… place in which a citizen customarily sleeps, I suppose, is inviolate. To cross the threshold without vocal acquiescence -- usually by a specific set phrase -- is not merely violation but assault, an act of violence against the person."
+"Think nothing of it. Your action was proper." Nishuin squeezes her arm gently. "Ambassador, you must understand: among our people, the… place in which a citizen customarily sleeps, I suppose, is inviolate. To cross the threshold without vocal acquiescence -- usually by a specific set phrase -- is not merely violation but assault, an act of violence against the person. Whether or not she is present."
 
 Soshten nods silently.
 
-"I know this is not so in your culture. I interpreted your response as implicit permission for me to draw near. I… was not expecting you to be accompanied by another of the People, and I was not in the right mindframe for dealing with complex cross-culture interactions. A function of surprise and fatigue."
+"I know this is not so in your culture, and I interpreted your response as implicit permission for me to draw near." She hesitates, and glances uncertainly at me. I nod reassuringly.
+ 
+ "Correctly so."
+
+She looks relieved, and continues. "The role of liaison is unique in that we are not merely permitted, but required to transgress against strictures that bind any well-raised citizen more strongly than steel, and without flinching or otherwise showing disrespect to the alien cultures we are dispatched to. Learning to do so is the hardest part of the training, and even the most experienced of us struggle with it.  I… was not expecting you to be accompanied by another of the People, and I was not in the right mindframe for dealing with complex cross-culture interactions. A function of surprise and fatigue."
 
 "So you do get tired, huh."
 
@@ -1330,7 +1342,7 @@ Nishuin smiles. "We have accomplished many things through the Ranshavlin, but I 
 
 "I meant you personally, Nishuin," I tell her. Soshten snickers.
 
-*"Oh.* I see." A quiet, tittering laugh. "As I was saying -- I failed to factor in Soshten's presence and her lack of cultural instruction. Given that context her anger and her forceful reaction were entirely justified; indeed, she seems quite possessive of you, to jump so quickly to your defense." There's a note of amusement in her voice now. "You are a fortunate woman, comrade. This way."
+*"Oh.* I see." A quiet, tittering laugh. "As I was saying -- I failed to factor in Soshten's presence and her lack of cultural instruction. Given that context her anger and her forceful reaction were entirely justified. She seems quite possessive of you, to jump so quickly to your defense." There's a note of amusement in her voice now. "You are a fortunate woman, comrade. This way."
 
 I glance at Soshten. She looks away, flushing slightly. "Does the whole embassy know we're sleeping together?" I ask plaintively.
 
@@ -1340,7 +1352,7 @@ I glance at Soshten. She looks away, flushing slightly. "Does the whole embassy 
 
 "Quite so. I do apologize for rousing you at an uncivilized hour, ambassador; I hope you will not take this as disrespect--"
 
-I wave her away. "It's fine. Has something happened with my people?"
+I wave her away. "If anything, you did me a favor. Has something happened with my people?"
 
 "Hm. Yes, in a way. Not your staff here in the embassy, but--" She stops, touching her fingers to a plate by a door. After a moment it lights up green around the edges and the door unlocks. She slides it back and beckons us to follow her inside.
 
@@ -1350,7 +1362,7 @@ At the head of the table, the ambassador rises to great me.
 
 "Kestrel-comrade. Thank you for coming. I apologize for disrupting your sleep." She touches me on the shoulder; I touch hers in turn. Her voice is soft, but there is no trace of warmth in her eyes, and her expression is troubled.
 
-"I hope I can be of service, Ambassador. What's the situation?"
+"I hope I can be of service, _Lifuin-niltash_. What's the situation?"
 
 She turns, gesturing to one of the wall panels. "Do you know what this is?"
 
@@ -1364,7 +1376,7 @@ The ambassador taps the screen. "This thick line is the boundary between soverei
 
 I gaze at the radar, at the blue dots swarming through the identification zone, a white glyph blinking urgently in their centers. "You weren't given notice."
 
-"Friendly flyovers are rare. Your air force has little business here; it is an unpopulated area where we handle the routine patrols and share the data from our onworld ISR assets -- a collection of aerostats and a geostationary satellite -- as part of the same courtesy."
+"Friendly flyovers are rare. Your air force has little business here; it is an unpopulated area where we handle the routine patrols and share the data from our local ISR assets -- a collection of aerostats, the embassy drone swarm, and a geostationary satellite -- as part of the same courtesy."
 
 "And those aren't recon flights. Way too many bogies, way too close together. Do you have eyes on them? Any idea what line--"
 
@@ -1428,13 +1440,13 @@ She nods, distant. She calls out another order. "They will be escorted to us."
 
 Her eyes fix on mine again. "Thank *you,* Kestrel," she replies. "I hope I am not asking you to face your fears for us."
 
-I smile weakly. "If it's to be a fight, a fancy Green base is an outright luxurious place to watch the fireworks from, by my standards."
+I smile weakly. "If it's to be a donnybrook, a fancy Green base is an outright luxurious place to watch the fireworks from, by my standards."
 
 She takes me by the shoulder, pulling me to one side. She lowers her voice. "Kestrel. Your strength of character is admirable, truly, but if at any point you require assistance or psychiatric attention, please notify myself or a member of my staff *immediately.* I would have you understand, you are of the most assistance to us lucid and well, and I would not see your compromise this for the sake of appearances. None here will think less of you if you need to step aside at any point; on this you have my solemn word of honor. Are we understood?"
 
 I think of Shalvan. My instinct is to argue, to push back and make light. Instead, I nod. "Yes, ma'am."
 
-"Good. We will protect you with our lives, I give you my oath." Her eyes turn to Soshten, standing awkwardly by the door, and beckons. Startled, the younger woman approaches. "Comrade. Set aside your ordinary responsibilites. You will serve on the Ambassador's personal security detail, at least until this crisis is averted."
+"Good. We will protect you with our lives, I give you my oath." She says it so easily, I almost don't process the magnitude of her words. Her eyes turn to Soshten, standing awkwardly by the door, and beckons. Startled, the younger woman approaches. "Comrade. Set aside your ordinary responsibilites. You will serve on the Ambassador's personal security detail, at least until this crisis is averted."
 
 Soshten's eyes widen. "Yes, ma'am!" she says eagerly. "Do we have reason to believe Kestrel-*surin* is in danger?"
 
@@ -1450,7 +1462,7 @@ The chief of security turns, raising her eyebrows as she reaches for her handset
 
 *"Coshvin, san!"* Ranvar gazes at me for a moment, expression impenetrable. "I'll organize the sweep personally." She moves away towards a free console, issuing urgent orders into her handset.
 
-Everything is slowly coming together. Silverdawn has been covetous of Society tech for as long as I've known her. Even during the war, she complained to me about how stingy the League was with its technology. She felt they were giving us too little, even as I was reeling at the sheer extent of the new capacities they were bestowing upon us out of nothing but diplomatic goodwill. A Society embassy probably wouldn't have recipes for hypersonic missiles or nuclear warheads lying around, but the tech and materials in their weapons and armor -- even their civilian technologies -- the amount of materiel to be found here would be worth a queen's ransom even to the black market. To a struggling young nation, with a ruthless leader hungry for power and status, it might just be priceless.
+Everything is slowly coming together. Silverdawn has been covetous of Society tech for as long as I've known her. Even during the war, she complained to me about how stingy the League was with its technology. She felt they were giving us too little, even as I was reeling at the sheer extent of the new capacities they were bestowing upon us out of nothing but diplomatic goodwill. A Society embassy probably wouldn't have blueprints for hypersonic missiles or amat stocks lying around, but the tech and materials in their weapons and armor -- even their civilian technologies -- the amount of materiel to be found here would be worth a queen's ransom even to the black market. To a struggling young nation, with a ruthless leader hungry for power and status, it might just be priceless.
 
 And she would finally have an excuse to be rid of the woman holding her leash. The great Kestrel Winterblossom, dying heroically for people in one last dramatic black op. No one would even know I had opposed her. She might even be able to use my death to rally the people against the Society.
 
@@ -1479,7 +1491,7 @@ Everything will depend on our phone call.
 
 "You've confirmed those are Shatterhawks?" She nods.  "And the IFF. How certain are you it's valid?"
 
-"Fully. We have restricted but live access to your planetary defense grid, certain databases we share for the sake of mutual security. It's not just a matter of matching signatures -- the keypairs are listed active in the IFF issuance register and match the craft transmitting."
+"Fully. We have restricted but live access to your planetary defense grid, certain databases we share for the sake of mutual security. It's not just a matter of matching signatures -- the public keys are listed active in the IFF issuance register and match the craft transmitting."
 
 Right. *Diplomatic courtesy.*
 
@@ -1530,7 +1542,7 @@ I suppress the urge to answer with a snippy "You tell me." "All Shatterhawks," I
 
 "Hazel. Conference call," Egret instructs, ripping through a list of names and titles faster than I could have taken down. "Rouse them and get them online; I don't care what it takes. This is pri' violet."
 
-Violet. The only higher priority code is *ultraviolet*, and protocol dictates it only be used in truly exceptional emergencies-atop-emergencies, where already active pri-violet cases are getting in the way of a prompt response to something dire. "On red" was our shorthand for "as soon as humanly possible if not sooner" back in the Army. "On violet" was "right this fucking instant" and it was rarely spoken calmly.
+Violet. The only higher priority code is *ultraviolet*, and protocol dictates it only be used in truly exceptional emergencies-atop-emergencies, where already active pri-violet cases are getting in the way of a prompt response to something dire. "On red" was our shorthand for "as soon as humanly possible if not sooner" back in the Army. "On violet" was "right this fucking instant" and as a rule it was not spoken calmly.
 
 At least she's taking this mess seriously.
 
@@ -1544,7 +1556,9 @@ A gruff male voice. "Comrade President. Comrade General."
 
 "Check again. Where's our nearest aircraft to Verdant Bastion?"
 
-A pause, some distant chatter. "Sable Bastion Two-Nine-Twelve, distance three-oh-seven klicks. It's an old Packhorse, carrying med tech to those holdouts we're trying to court," he replies, a note of disdain and irritation in his voice. Egret wanted to overrun the Khmai nationalists and put them down by force, and the military was, for once, behind her 100%; if I hadn't put my foot down there would have been a bloodbath. Politically it wasn't a controversial call, I had the public's backing -- but internally, it cooled some of the enthusiasm certain quarters had for me. Marshal Spring-Lotus was probably one of them. Here's hoping he'll be professional, but wasting time on an emergency call so he can bitch and moan to the President -- so far, I'm not impressed with the man.
+A pause, some distant chatter. "Sable Bastion Two-Nine-Twelve, distance three-oh-seven klicks. It's an old Packhorse, carrying med tech to those holdouts we're trying to court," he replies, a note of disdain and irritation in his voice.
+
+Egret wanted to overrun the Khmai nationalists and put them down by force, and the military was, for once, behind her 100%; if I hadn't put my foot down there would have been a bloodbath. Politically it wasn't a controversial call, I had the public's backing -- but internally, it cooled some of the enthusiasm certain quarters had for me. Marshal Spring-Lotus was probably one of them. Here's hoping he'll be professional, but wasting time on an emergency call so he can bitch and moan to the President -- so far, I'm not impressed with the man.
 
 "And it's alone?"
 
@@ -1574,14 +1588,14 @@ There's a long pause, filled only by indistinct voices, slowly rising into alarm
 
 "Marshal. *What in Shuharva's name is going on?"*
 
-"Unclear at this time." The Marshal sounds shaken. "Thirty-one 'Hawks are unaccounted for at Gilt Bastion. Th-the Shadowed Gorge hangars."
+"Unclear at this time." The Marshal sounds shaken. "Thirty-one 'Hawks are unaccounted for at Gilt Bastion. Th-the bloody *Shadowed Gorge* hangars."
 
 "Thirty-*one?"* I hiss. Lifuin and I exchange glances.
 
 
 "Lifuin," I say in a low voice. "I give you my solemn word of honor as a soldier and a diplomat that I will not share this information, but I *need* to know. Is there technology that could hide a gunship from your ISR? Technology we might have acquired somehow?"
 
-She purses her lips. "To the best of my knowledge, only the Thalisan Union possesses the capability to outwit our sensors, and then intermittently. It's why we call them the 'Echoes;' during the War, sensor echoes were sometimes the only sign of an impending attack." She notices my alarmed expression and adds hurriedly, "Our ISR complex has too long of a range for that tech to be in use. We would have seen sensorium glitches by now."
+She purses her lips. "To the best of my knowledge, only the Thalisan Union possesses the capability to outwit our sensoria, and then intermittently. It's why we call them the 'Echoes;' during the War, sensor echoes were sometimes the only sign of an impending attack." She notices my alarmed expression and adds hurriedly, "Our ISR complex has too long of a range for that tech to be in use. We would have seen sensorium glitches by now."
 
 *The Shadows.* I rub my brow tiredly.
 
@@ -1596,7 +1610,9 @@ She purses her lips. "To the best of my knowledge, only the Thalisan Union posse
 
 The Marshal sounds alarmed. "Comrade President — those 'Hawks are some of the most valuable tech in our possession, they're effectively a strategic asset—"
 
-"Your advice is noted, Comrade Marshal," Egret says coolly. The Marshal falls silent.
+"Your advice is noted, Comrade Marshal," Egret says coolly. The Marshal sputters out.
+
+Let it not be said her reputation is without its virtues.
 
 
 "Ambassador!" Nishuin bows deeply. "Thank you for seeing me."
@@ -1623,7 +1639,7 @@ I step out into the hall and close the door behind me. "I suppose I should have 
 
 Nishuin nods. "Of course, our guest suites—" Her gesture encompasses the common area and its the surrounding facilities "—are each equipped with a full complement of private amenities for the sake of visiting embassies and personnel." She looks pained. "Alas, the notion of 'privacy' has distinctly dissimilar implications by our reckoning and yours. To wit…" She indicates the white door ahead of us, next to the bathroom stalls. Apart from a vertical strip of light wood down the left side that houses the handle, the whole door is made of a sheer, foggy substance that lets light filter through, but gives only the faintest impression of what lies beyond. Atop the glass there's an abstract pastel painting of a rainstorm, a nude figure standing on a distant hill with her back turned and wringing out her hair.
 
-All the ornamentation I've seen here is so incredibly out of place, something ostentatious in an otherwise austere facility. More than anything else, as different as the art style is, it still reminds me of the Zyahua mansions, temples, and monasteries I visited in the course of my civilian career, back before we changed the world. It doesn't seem very "Society" to expend so much effort on something as trivial as marking a door. I would have expected something more like the slapdash semi-literate glyphs we used to label places of interest in the barracks, just… simpler. And smug somehow. Was the ornamentation Nishuin's idea? Hoping to make us feel comfortable and respected? 
+All the ornamentation I've seen here is so incredibly out of place, something ostentatious in an otherwise austere facility. More than anything else, as different as the artistic style is, it still reminds me of the Zyahua manses, temples, and monasteries I visited in the course of my civilian career, back before we changed the world. It doesn't seem very "Society" to expend so much effort on something as trivial as marking a door. I would have expected something more like the slapdash semi-literate glyphs we used to label places of interest in the barracks, just… simpler. And smug somehow. Was the ornamentation Nishuin's idea? Hoping to make us feel comfortable and respected? 
 
 The actual effect is incredibly intimidating, like at any moment a towering, fiery-tongued dowager is about to round the corner and scold me for not taking my sandals off.
 
@@ -1747,7 +1763,7 @@ I return the punch, weakly. "Shut up, that's not what I meant."
 
 "Something like that," I murmur distantly.
 
-"I've never felt right about the rank they raised me to," Bear says quietly. "Because you know I can't make those calls. I can't send boys I've trained and fought alongside off to die, not even if a thousand civilian lives are at stake. You *can*, and *you* don't do it by reducing them to numbers on a page. You make the hard calls without ever losing sight of the real people. There are more impressive things about you, I suppose, but that's always been the one I've been in solemn awe of. And I think it's the one that makes you *special.* You're the perfect balance between Cor and… well, Wagbeak."
+"I've never felt right about how they bumped me up to Major," Bear says quietly. "Because you know I can't make those calls. I can't send boys I've trained and fought alongside off to die, not even if a thousand civilian lives are at stake. You *can*, and *you* don't do it by reducing them to numbers on a page. You make the hard calls without ever losing sight of the real people. There are more impressive things about you, I suppose, but that's always been the one I've been in solemn awe of. And I think it's the one that makes you *special.* You're the perfect balance between Cor and… well, Wagbeak."
 
 "Is this why you wanted me to take the presidency so badly?" I ask softly.
 
@@ -1755,7 +1771,7 @@ Bear nods. "It is what it is. You say you can't do it, you're not the right woma
 
 "Numbers on a page."
 
-"Yeah. I know people like her have their uses, but you have to keep them on a tight leash. As it is, you're the only one holding Wagbeak's leash, and I suppose maybe that's for the best. You don't have to ruin yourself doing ugly, necessary things, but you can still stop her when she goes too far. But it's so tenuous, Kess. You're relying on such a fragile balance of power to keep her in check, when what we need is something systemic."
+"Yeah. And it's only gotten worse since the Evacuation. I know people like her have their uses, but you have to keep them on a tight leash. As it is, you're the only one holding Wagbeak's leash, and I suppose maybe that's for the best. You don't have to ruin yourself doing ugly, necessary things, but you can still stop her when she goes too far. But it's so tenuous, Kess. You're relying on such a fragile balance of power to keep her in check, when what we need is something systemic."
 
 I retrieve my wine, draining the glass. "Do you think I was wrong?" I whisper almost unconsciously as I refill it.
 
@@ -1776,13 +1792,13 @@ Bear raises an eyebrow. "Beg pardon?"
 "Hush." I wipe my lips dry. 
 
 ##
--- Unaware that their plan has failed, Imperial Guard troops invade base to try and take Kestrel & her staff out as Soshten is trying to get them to a secure facility, forcing them to fight together
+-- Unaware that their plan has failed, Imperial Guard troops invade base to try and seize Kestrel & her staff as Soshten is trying to get them to a secure facility, forcing them to fight together
 
 "Something's wrong," Soshten mutters, slowing her pace.
 
 "What?" Jay demands, tensing.
 
-"Comms just went down. I think— shit, someone's jamming the internal net—"
+"Comms just went down. I think— shit, someone's *jamming the internal net—"*
 
 My body locks up mid-step.
 
@@ -1812,7 +1828,7 @@ Something black and cold as the Void and red as fresh-spilt blood stirs in a lon
 
 The Ambassador closes her eyes, and the Commander opens them.
 
-I smack my wristcon, searching frantically across the screen until I find the emergency function Soshten showed me, each moment painfully aware of my glacial slowness compared to the combatants down the hall. I press my forefinger against the blood-red text. It flashes white, and the control screen vanishes, replaced with a battery bar and a countdown, the approximate amount of time left on its charge. As I move I can actually *feel* the added power behind my limbs. I could probably fracture a skull with a punch, if I didn't mind shattering my wrist in the process. Jay gazes at me quizzically, but there's *no time.*
+I smack my wristcon, searching frantically across the screen until I find the emergency function Soshten showed me, each moment painfully aware of my glacial slowness compared to the combatants down the hall. I press my forefinger against the blood-red text. It flares white, and the control screen vanishes, replaced with a battery bar and a countdown, the approximate amount of time left on its charge. As I move I can actually *feel* the added power behind my limbs. I could probably fracture a skull with a punch, if I didn't mind shattering my wrist in the process. Jay gazes at me quizzically, but there's *no time.*
 
 "Go! Find security!" I tell her, pointing back the way we came -- anyone further down the hall is most likely dead already. Thank Shuharva, Jay doesn't argue, and sprints off without a word.
 
@@ -1820,11 +1836,11 @@ I glance at Bear. His jaw is set; expression determined. "Get out of here, Kess,
 
 "Like ash you will. Let's do this." Without another word, I break into a run toward the fight. Bear curses and bounds after me, shouting frantically for me to stop. But I know better than to leave him to his own devices when he's got that look in his eyes. I'll apologize later.
 
-It takes me a few precious moments to get used to the new power available to my body. I barely keep my balance, each step practically a leap I could never have made with the strength of my limbs alone. It's dizzying, exhilarating -- and it's a struggle to stay realistic about my abilities, to keep the new power from going to my head.
+It takes me a few precious moments to get used to the new power available to my body. I barely keep my balance, each step practically a leap I could never have made with the strength of my limbs alone. It's dizzying, exhilarating -- and it's a struggle to stay realistic about my abilities, to keep the new power from going to my head. I feel a fool for not having practiced before an emergency struck.
 
 Is this what it's like, to be *randani*?
 
-Every moment I have in which to analyze the fight as I approach is more precious than sapphire. I know from experience I can't waste a single cycle of attention. One does not *fight* Guardswomen; one at best *survives* them, and only then with fantastic skill and luck on her side. When you're going up against someone who is faster *and* stronger than you could ever be, you dedicate your absolute all to staying clear of their blows or you die. The voidskin is enhancing my strength at least threefold, but that won't make me any more durable. A single hit from a Guardswoman in her skivvies, let alone one in full plate, and I lose a limb or my life. Ironically, it's very much like fighting men -- albeit vastly more so.
+Every moment I have in which to analyze the fight as I approach is more precious than sapphire. I know from experience I can't waste a single cycle of attention. One does not *fight* Guardswomen; one at best *survives* them, and only then with fantastic skill and luck on her side. When you're going up against someone who is faster *and* stronger than you could ever be, you dedicate your absolute all to staying clear of their blows or you die. The voidsheath is enhancing my strength at least threefold, but that won't make me any more durable. A single hit from a Guardswoman in her skivvies, let alone one in full plate, and I lose a limb or my life. Ironically, it's very much like fighting men -- albeit vastly more so.
 
 "Fight" almost seems too small a word for what's going on at the other end of the corridor. The combatants are engaged in what can only be fairly described as a three-woman *battle.* They maneuver at a breakneck pace, all three throwing punches that hit louder than ricocheting bullets, but Soshten is moving like lightning, combining speed with a level of precision I wouldn't have thought physically possible. She's fending off blows from two full-kitted Guards simultaneously, a feat that so astounds me I almost don't notice she's losing.
 
@@ -1850,11 +1866,11 @@ That particular lesson has been scored hard and deep into our souls. Guards *fei
 
 Luckily for us, Guards are just as likely to underestimate *their* foes.
 
-The woman on the right swings at empty air as Bear and I plow into the one on the left. Guards are strong, but Bear is two hundred _duan_ of finely-toned muscle and I'm moving fast enough that even my shoulder hits hard. The demoness topples, cursing as she hits the floor. Throwing all his weight and strength onto her elbow, Bear forces her left forearm to the ground, while I grab her right, straining with my enhanced strength to keep her pinned. My wristcon screams in alarm, battery bar dropping precipitously as the Guardswoman struggles. Together, we're able to hold her down for maybe a second and a half.
+The woman on the right swings at thin air as Bear and I plow into the one on the left. Guards are strong, but Bear is two hundred _duan_ of finely-toned muscle and I'm moving fast enough that even my shoulder hits hard. The demoness topples, cursing as she hits the floor. Throwing all his weight and strength onto her elbow, Bear forces her left forearm to the ground, while I grab her right, straining with my enhanced strength to keep her pinned. My wristcon screams in alarm, battery bar dropping precipitously as the Guardswoman struggles. Together, we're able to hold her down for maybe a second and a half.
 
-Fortunately, Soshten doesn't waste a fraction of that second. Before we even hit the ground I immediately hear the crack of a jawbone shattering and a strangled stream. I don't dare look away to follow the fight, but the sound tells me enough. It's exactly as I'd hoped: freed to focus on a single fighter, Soshten's edge in speed lets her thrash the bitch soundly.
+Fortunately, Soshten doesn't waste a fraction of that second. Before we even hit the ground I immediately hear the crack of a jawbone shattering and a strangled scream. I don't dare look away to follow the fight, but the sound tells me enough. It's exactly as I'd hoped: freed to focus on a single fighter, Soshten's edge in speed lets her thrash the bitch soundly.
 
-The Guard beneath us wrenches her arm upward with enough force to send me flying. Old instincts kick in and I spin in the air, landing almost effortlessly on my feet. Newly freed from the pain of my damaged muscles, the maneuver actually feels *exhilarating* again, like God has granted me the briefest glimpse back into those glorious early days before the grim reality of war had the chance to infest our souls. 
+The Guard beneath us wrenches her arm upward with enough force to send me flying. Old instincts kick in and I spin in the air, landing almost effortlessly on my feet. Newly freed from the pain of my damaged muscles, the maneuver actually feels *exhilarating* again, like Shuharva has granted me the briefest glimpse back into those glorious early days before the grim reality of war had the chance to infest our souls. 
 
 Five paces away, the Guard is back on her feet as well, moving fast. She snaps into focus for a single heartstopping moment as she steadies herself for a skull-shattering blow, her other fist tight around Bear's throat. 
 
@@ -1862,7 +1878,7 @@ But the hit never comes. Instead, a quiet crack rings out from off to my right -
 
 My plan worked.
 
-"_Ieleca lahiento ce,_ Kess!" Soshi blurts, lowering her sidearm and rushing up to me. She hesitates, then turns and puts a few more rounds through the Guard's head before turning back to me and holstering the gun. Understandable.
+"_Lahielto ce,_ Kess!" Soshi blurts, lowering her sidearm and rushing up to me. She hesitates, then turns and puts a few more rounds through the Guard's head before turning back to me and holstering the gun. Understandable.
 
 I want so badly to stop being the Commander right now.
 
@@ -1870,19 +1886,19 @@ But if Shalvan isn't here when that happens, I'm scared I might actually slit my
 
 So I bury the Ambassador, and kneel down to rob a corpse.
 
-"Kess?" Soshi asks, voice faltering, taking hold of my shoulder. Even through the metal and synth-leather of her combat gauntlets, the touch still manages to feel somehow intimate. "Are you alright?"
+"Kess?" Soshi asks, voice faltering, taking hold of my shoulder. Even through the metal and synth-leather of her dented combat gauntlets, the touch still manages to feel somehow intimate. "Are you alright?"
 
-"No." I pull a backup knife from the Guard's boot, and unbuckle the sheathe strapped below her waist. I slot the dagger into the sheathe and hold it to my leg, fastening the two straps tightly around my thigh. I slap the sheathe, making sure it's secure, and rest my hand on the hilt of the blade. It feels good to have a weapon again. It feels horrible to have a weapon again, but that can wait.
+"No." I pull a holdout knife from the Guard's boot, and unbuckle the sheathe strapped below her waist. I slot the dagger into the sheathe and hold it to my leg, fastening the two straps tightly around my thigh. I slap the sheath, making sure it's secure, and rest my hand on the hilt of the blade. It feels good to have a weapon again. It feels horrible to have a weapon again, but that can wait.
 
 I can have that meltdown when my friends' lives aren't hanging in the balance.
 
-"That was incredible," Soshten says softly, stroking my lower back. "Insane, but incredible. I thought for certain you were dead when you came for that Guard."
+"That was incredible," Soshten says softly, caressing my lower back. "Insane, but incredible. I thought for certain you were dead when you came for that Guard."
 
 "We had to get her off you." The sound of my own voice, so matter-of-fact, is offputting.
 
 "I didn't know baselines even could fight like that."
 
-"We can't." I turn this way and that, scanning the hallway. Bear's methodically expropriating the assets of the other corpse. "I cranked up the voidskin servos. Battery's nearly dead."
+"We can't." I turn this way and that, scanning the hallway. Bear's methodically expropriating the assets of the other corpse. "I put the voidsuit in emergency mode. Battery's nearly dead."
 
 "That was smart," Soshten says. Smiling. Somehow, she's smiling.
 
@@ -1892,11 +1908,15 @@ And right there in the hall, armored for battle and surrounded by death, it does
 
 I loved Lily with all my heart. She was funny and clever. Good-natured, kind, brave, and adventurous as Shuharva's own son. But she was no warrior. She could never have understood that side of me. She was a silly, ladylike, pampered girl, a creature of luxury and base pleasures built for causing scandals at court. She drank up my war stories with wide eyes, but she was never *part* of them. And she was defenseless. I couldn't even manage to teach how to use a gun -- she'd scream and drop it the moment it kicked in her hands, no matter how many times I tried. She honestly seemed too *embarrassed* to hold the proper stance, like she had to make the posture somehow demure and alluring.
 
-In that one golden moment, I actually *feel* like the person I was always supposed to be. Not the shattered soldier drowning her sorrows in gin and _şen_, nor the intrepid ambassador fleeing from her storied past, but the dashing action hero who never lost a battle and always knew just how to save the day.
+In a way, I held onto that. She was my totem, the emblem of everything I wanted life to have room for. As combat seared my soul, hers remained beautiful. Clean, unscarred, and pure.
+
+And then the war came for her regardless.
+
+For one golden moment, in the here and now, I actually *feel* like the person I was always supposed to be. Not the shattered soldier drowning her sorrows in gin and _şen_, nor the intrepid ambassador fleeing from her storied past, but the dashing action hero who never lost a battle and always knew just how to save the day.
 
 "I've got your back," I whisper, staring into Soshten's eyes. Her smile broadens, and I see an actual tear in the corner of her eye. And I realize I'm smiling too. Somehow.
 
-"And I've got yours," she says softly, squeezing the back of my neck. Reluctantly, she turns away, taking me by the upper arm, and I don't resist her grip. It feels… right, somehow. Almost comforting. In fact, I find myself afraid that she'll let go. That that just might break the spell.
+"And I've got yours," she says softly, squeezing the nape of my neck. Reluctantly, she turns away, taking me by the upper arm, and I don't resist her grip. It feels… right, somehow. Almost comforting. In fact, I find myself afraid that she'll let go. That that just might break the spell.
 
 "I did warn you not to tempt fate," she comments.
 
@@ -1920,9 +1940,9 @@ I heave a sigh.
 
 "Thing is… well, we have a saying—"
 
-"'No battle plan survives first contact with the enemy?'" asks Soshten. Apparently some maxims are universal.
+"'The battle plan is always the first casualty?'" asks Soshten. Apparently some maxims are universal.
 
-"That's it exactly. Well, we were clearing a complex at the Gorge. Turned out a Guard bitch was running the place. It was just the one, but there weren't supposed to be *any* Guard there. It was a house army compound. We were picking through debris with flashlights when she charged us."
+"That's it exactly. Well, we were clearing a complex at the Gorge. Turned out a Guard bitch was running the place. It was just the one, but there weren't supposed to be *any* of the demons there. It was a Greycloak compound, House Bitterglint if I recall. We were picking through debris with handlamps when she charged us."
 
 "And you… sat on her?" Soshten asks, raising an eyebrow. Bear laughs.
 
@@ -1930,7 +1950,7 @@ I heave a sigh.
 
 "…oh no." Soshten is clearly fighting to suppress a grin.
 
-"So we burn our last mags backing her out onto the edge of the platform, and then Bear and Moose bum-rush her. Knocked her right off over the ledge. That gorge is *deep.*"
+"So we empty our last mags backing her out onto the edge of the platform, and then Bear and Moose bum-rush her. Knocked her right off over the ledge. That gorge is *deep.*"
 
 "Those safety rails were *not* up to code," Bear notes primly.
 
@@ -1940,7 +1960,7 @@ I hear pounding feet and grip my knife, but I exhale in relief as a unit of armo
 
 "You killed them *both*," she breathes. "And you're all still *alive.*"
 
-"Blame Soshten," I say, pointing a thumb in her direction as an armored medic rushes up to me. True to form, she starts unfastening my voidskin to look me over without even a word of warning.
+"Blame Soshten," I say, pointing a thumb in her direction as an armored medic rushes up to me. True to form, she starts unfastening my bodysheathe to look me over without even a word of warning.
 
 *"Comrade!"* barks a flustered Jay, stalking up to the medic. "I'm going to have to ask you to *step away from the Ambassador*—"
 
@@ -1952,7 +1972,7 @@ I hold up a hand as the medic recoils in alarm. "Jay. Please. It's all right. Sh
 
 "No thanks to me," Jay mutters, pursing her lips. "I wasn't fast enough to make a difference. I'm sorry, ma'am. I'll do better next t--"
 
-"Jay." I take her by the shoulder, startling her into silence. "You were just obeying orders." I wince as the medic pulls the suit down past my chest; my ribs look horribly bruised. "I didn't really think you'd get back in time to make a difference. It was just a contingency. Everyone is alive, no one is seriously hurt, so stop beating yourself up." I raise a finger as she opens her mouth. "That was an order, comrade," I tell her.
+"Jay." I take her by the shoulder, startling her into silence. "You were just obeying orders." I wince as the medic pulls the suit down past my chest; my ribs already look horribly bruised. I didn't even *notice* taking a hit there. "I didn't really think you'd get back in time to make a difference. These fights move too fast. But it was worth sending someone as a contingency, and you made most sense. You're fast and you're sharp but you don't have the raw muscle mass to take on _vó dua_ in person. Everyone is alive, no one is seriously hurt, so stop beating yourself up." I raise a finger as she opens her mouth. "That was an order, Comrade Lieutenant," I tell her in my best no-nonsense voice. *Everyone is alive.*
 
 Jay closes her mouth, reddening, and after a moment salutes sharply. She stalks off to examine the corpses.
 
@@ -1961,9 +1981,9 @@ Jay closes her mouth, reddening, and after a moment salutes sharply. She stalks 
 
 Bear and I glance at each other.
 
-"You people haven't fought *den tsuang* in a while, have you," I ask slowly.
+"You people haven't fought the *vó dua* in a while, have you," I ask slowly.
 
-Soshten purses her lips. "There was the Vitian Affair… I think that was the last face-to-face clash. Wasn't much of a fight; we rolled over them with armor and air supremacy. That was about two hundreds years ago, anyway."
+Soshten purses her lips. "There was the Vitian Affair… I think that was the last face-to-face clash with Guard. Wasn't much of a fight; we rolled over them with armor and air supremacy. That was about two hundred years ago, anyway."
 
 Bear whistles.
 
@@ -2004,7 +2024,7 @@ Now I just need to keep her attention.
 
 "The target!" she roars, her hateful Core accent sending shivers down my spine. "Ignore the *den dzèin*, she is a distraction!"
 
-The other Guardswoman promptly tries to disengage, but Soshten is having none of it. One thing is clear -- as fast as the Guardswomen are, Soshten has an overwhelming speed and reaction advantage. Even coordinating their strikes the women have trouble landing a single blow. If it was just one Guard, I actually find myself able to believe Soshten could have ended this quickly.
+The other Guardswoman promptly tries to disengage, but Soshten is having none of it. One thing is clear -- as fast as the Guardswomen are, little Soshten has an overwhelming speed and reaction advantage. Even coordinating their strikes the women have trouble landing a single blow. If it was just one Guard, I actually find myself able to believe Soshten could have ended this quickly.
 
 But there are two. And despite her earlier boasting, the poor girl seems caught in a stalemate.
 
@@ -2068,15 +2088,15 @@ I laugh softly. "I *will* remember next time."
 
 The soldier gives me a sullen glance as I step inside the cold, dark, imposing stone room. He follows it with another glance, eyes widening, and then he springs to his feet, standing to attention as best his restraints will allow. "Comman— General!" he blurts, awestruck, voice brimming with disbelief and joy.
 
-I've never seen this man before in my life, but he recognizes me instantly, and apparently reveres me. I'm never going to get used to being the postergirl for Wagbeak's planetary propaganda grid.
+I've never seen this man before in my life, but he recognizes me instantly, despite my best efforts, and apparently reveres me. I'm never going to get used to being the postergirl for Wagbeak's planetary propaganda grid.
 
-As I come to a halt, I look him up and down. "Soldier, where in *ash* is your shirt?"
+As I come to a halt, I look him up and down. "Soldier, where in the Star-Mother's *sanctum* is your shirt?"
 
 He reddens. "I— I apologize, ma'am," he stutters. "They haven't given it back since…"
 
 It's clear enough what's been done to him. I grit my teeth. There's a chair for an interrogator to sit in, but I remain standing for the moment, arms folded, greatcoat flapping about my heels. I changed out my bloody old army drabs for a custom-made coat of sleek black leather not long after the Gala; Wagbeak immediately complained that it made me look less like a war hero and more like one of the Empress' inquisitors. That felt appropriate, after a fashion. Irritating her usually does.
 
-"For the record," I tell him drily, "I find 'Battallion Commander' the more flattering of the titles. It is the one I *earned,* after all."
+"For the record," I tell him drily, "I find B.C. the more flattering of the titles. It is the one I *earned,* after all."
 
 He smiles, an odd expression on a half-naked man with that many bruises and wounds. "Understood, commander! Thank Shuharva you've come, ma'am. I was beginning to think I was done for—"
 
@@ -2106,13 +2126,13 @@ And at the end of the day you're always left to face your nightmares alone.
 
 "I try to keep up," I say. "But there's enough discrepancies 'twixt the papers and the official reports I get that I know better'n to trust either."
 
-He looks at me quietly for a moment. "May I speak freely, ma'am?" he asks cautiously, and there's an *undercurrent* in his voice now. Yeah. Kid's no amateur. Ash, he's probably a Blue Stripe, which means *they took his damn stone from him*.
+He looks at me quietly for a moment. "May I speak freely, ma'am?" he asks slowly, and there's an *undercurrent* in his voice now. Yeah. Kid's no amateur. Ash, he's probably a Blue Stripe, which means *they took his damn stone from him*.
 
-It wouldn't *matter* if he *were* a crook and traitor. If he's earned his honors, they're his to the pyre. It ought to be the law, and if it isn't, I'll fucking well *see* it so.
+It wouldn't *matter* if he *were* a crook and traitor. If he's earned his honors, they're his to the pyre. It ought to be law, and if it isn't, I'll fucking well *see* it so.
 
 I purse my lips, watching the security cameras overhead for any untoward sign of motion. "I instructed the President that this was to be a private interview," I said quietly. "She may well be listening in anyway, but if anyone catches her at it, *she will be in trouble,*" I continue, raising my voice for the last part and glaring towards the security cameras.
 
-He nods. "I understand, ma'am. Suppose that's the best I have any right to hope for." He sits back. "Border protests ain't uncommon. As it was, *we* basically drew down the borders for the region, a sight carelessly so. That line cut right through whole communities, communities that took up arms together against the *den tsuang*. I'm sure some of them fought alongside our boys. And suddenly we're putting up roadblocks, saying you can't go here and there without passports and permission, you can't come in without a valid reason and a visa—"
+He nods. "I understand, ma'am. S'pose that's the best I have any right to hope for." He sits back. "Border protests ain't uncommon. As it was, *we* basically drew down the borders for the region, a sight carelessly so. That line cut right through whole communities, communities that took up arms together against the *den tsuang*. I'm sure some of them fought alongside our boys. And suddenly we're putting up roadblocks, saying you can't go here and there without passbooks and permission, you can't come in without a valid reason and a visa—"
 
 I nod. "Unhappy mess, ain't it."
 
@@ -2138,7 +2158,7 @@ I nod. "So what happened?"
 
 He sighs. "Most of the boys were real hesitant. But a couple were just looking for an excuse to start blasting away. I'm sure you know the type; they can't handle shame. They turn it outwards and throw it at whoever is making them feel guilty, like animals lashing out. So it started, and then everyone would have followed suit eventually. Orders is orders; this ain't Topaz. Lot of people would have died. People as hadn't done naught wrong. Women, children, old folk. Folks as just wanted to be with their families. Family, you know, that *means* something to a Khmai—"
 
-I nod. "*Sajushta je,*" I say gently. *I understand.*
+I nod. "*S'jushta je,*" I say gently. *I understand.*
 
 "They would have done it," he responds quietly. "Ma'am, it coulda started a war—"
 
@@ -2150,13 +2170,13 @@ A chill trails down my spine. *What if that was exactly the point…*
 
 "But he didn't back down, did he?"
 
-"My own comrades were pointing guns at me. Commander didn't fucking *flinch.* Thought I was bluffing. Told the men to fire anyway. I said I'd kill him. He just repeated the order." His fists clench. "The shooting started. I was so angry, so panicked, so desperate—"
+"My own comrades were pointing guns at me. Commander didn't fucking *flinch.* Thought I was bluffing. Told the men to fire anyway. I said I'd kill him if they did. He just repeated the order." His fists clench. "The shooting started. I was so angry, so panicked, so desperate—"
 
 "You killed him."
 
 He nods, shamefaced. "Yes, ma'am. I didn't see what happened next. Coupla boys piled on me, dragged me off. I heard gunfire, screams. I swear I never meant for… I was trying to *stop* all that."
 
-I tap my fingers on the table. I shouldn't feel so *cold* inside hearing about my own men being gunned down, but it's like my whole mind is so far into a complicated maneuver that it can't spare the troops to man its own empathy stations on such sudden notice. "But you said you *didn't* see what happened."
+I tap my fingers on the table. I shouldn't feel so *cold* inside hearing about my own men being gunned down, but it's like my whole spirit is so far into a complicated maneuver that it can't spare the troops to man its own empathy stations on such sudden notice. "But you said you *didn't* see what happened."
 
 "Interrogators told me, after a few days, ma'am."
 
@@ -2194,9 +2214,9 @@ He winces. "Yeah. There was some trouble about that."
 
 "If I am to believe what the President told me," I say, lighting a cigarette, "you are a traitor, a sympathizer or a Khmai Nationalist yourself, who started a massacre out of misplaced rage and ethnic chauvinism. " I inhale deeply, blowing smoke towards a security camera, *daring* it to twitch under my gaze.
 
-"Khata'e's breath, no!" The lieutenant's eyes are wide, his voice pleading. "Our people aren't *like* that. Commander, you have to believe me, the Khmai love our neighbors. Well, Kaparttu aside. But we don't *murder* people. I admit it, I care about my race. That doesn't mean I hate yours!"
+"Khata'e's breath, no!" The lieutenant's eyes are wide, his voice pleading. "Our people aren't *like* that. Commander, you have to believe me, the Khmai love our neighbors. A-as long as they're not Kaparttu. But we don't *murder* people. I admit it, I care about my race. That doesn't mean I hate yours!"
 
-I nod. "I don't like this picture she's trying to paint of the Nationalists," I say quietly in trench Khmaira. "Nobody likes a chauvinist. Especially not Zyahua. Worse, Silverdawn is half-Khmai herself, which gives her unearned credibility among the Khmai populace of our territories." I pause. "I'm sorry, lieutenant. I'm thinking out loud." I flick ash from the end of the cigarette. "A bad habit of mine. This is irrelevant to you."
+I nod. "I don't like this picture she's trying to paint of the Nationalists," I say quietly in trench Khmaira. "Nobody likes a chauvinist. Especially not a Zyahua. Worse, Silverdawn is half-Khmai herself, which gives her unearned credibility among the Khmai populace of our territories." I pause. "I'm sorry, lieutenant. I'm thinking out loud." I flick ash from the end of the cigarette. "A bad habit of mine. This is irrelevant to you."
 
 "No, no," he exclaims urgently. "Please, commander -- if you have to leave me to rot to solve this mess, do it. I was ready to give my life to stop a war. I still am." His voice is quivering now. "Matikhe alive -- I don't want to see our people shedding each others' blood. Not after everything we did together. *For* each other! It would be as brothers slaying brothers. Anything is better than that. Use my name, scapegoat me, I don't *care* -- just do what has to be done." There's a finality in his words now. "I'll play along, you have my word; just give me my marching orders."
 
@@ -2218,7 +2238,7 @@ I pass him a smoke, snapping open my lighter and holding it out as he holds the 
 
 "Ma'am!" the lieutenant exclaims, eyes widening. "You shouldn't have."
 
-I wave him away. "I kept 'em for rough days. Ain't no one been able to take a knife to *my* breasts in years now, though I'm sure there's a few that would relish having me on the other side of this table. Anyway, our growers will figure out the secret sauce soon enough." I hesitate. "I hope," I add piously.
+I wave him away. "I kept 'em for rough days. Ain't no one been able to take a knife to *my* breast in years now, though I'm sure there's a few would relish having me on the other side of this table. Anyway, our growers will figure out the secret sauce soon enough." I hesitate. "I hope," I add piously.
 
 "Thank you, all the same."
 
@@ -2234,11 +2254,11 @@ I shrug. "Law's meant to be inflexible. That was always the idea. It's a waste t
 
 "You're… going to take my case to the *Senate?*" He looks a little scared now.
 
-"Only if I have do," I tell him. "I can probably bully Silverdawn into letting this all drop, since she's apparently been *lying to my face* again. She knows I can drag witnesses in front of the Senate and humiliate her if she presses the issue, and she won't chance that. Her image is, unfortunately, the only thing holding this country together right now." I gaze down the hallway towards the exit, where Silverdawn's justiciars are waiting. "She's a snake, but she won't risk the Republic. Not for anything."
+"Only if I have to," I tell him. "I can probably bully Silverdawn into letting this all drop, since she's apparently been *lying to my face* again. She knows I can drag witnesses in front of the Senate and humiliate her if she presses the issue, and she won't chance that. Her image is, unfortunately, the only thing holding this country together right now." I gaze down the hallway towards the exit, where Silverdawn's justiciars are waiting. "She's a snake, but she won't risk the Republic. Not for anything."
 
 He frowns. "I can't figure her out, ma'am."
 
-"You know, the Ninth, we had a code. *No comrade left behind."* I sigh deeply. "Not even if it meant risking the whole mission. The whole damn *war.* And in the end one of my best men gunned himself down with his radio open, so's to make *sure* we didn't try and rescue him from the *den tsuang* and get ourselves all killed."
+"You know, the Ninth, we had a code. *No comrade left behind."* I sigh deeply. "Not even if it meant risking the whole op. The whole damn *war.* And in the end one of my best men gunned himself down with his radio open, so's to make *sure* we didn't try and rescue him from the *den tsuang* and get ourselves all killed."
 
 "Shuharva's blade," breathes the soldier, eyes wide. "Commander — I'm so sorry."
 
@@ -2250,9 +2270,9 @@ He flinches, looking away. "I'm not really sure," he says quietly. "It's all a h
 
 I nod. It was a stupid question, anyway. "Is the damage likely to be crippling?"
 
-"No, ma'am," he says quickly. "Our interrogators aren't monsters like the blackrobes. The wounds are mostly superficial. Cuts and burns will heal. Give me a week and I'll be fit for duty again, you have my word."
+"No, ma'am," he says quickly. "Our interrogators are no blackrobes. The wounds are mostly superficial. Cuts and burns will heal. Give me a week and I'll be fit for duty again, you have my word."
 
-I nod again, relieved. "I can probably swing you veteran's accomodations in the Inner Circle. For yourself and your lady. Will that be enough?"
+I nod again, relieved. "I can probably swing you Black Stripe accomodations in the Inner Circle. For yourself and your lady. Will that be enough?"
 
 "Wh-what?" he stutters, shocked. "'Enough?' For— for what?"
 
@@ -2286,9 +2306,9 @@ I turn on my heel and draw on her, sidearm aimed just clear of her flank.
 
 "Peregrine," says Egret, her voice strained. "Give us a moment."
 
-"Ma'am," Peregrine protests, "the woman is plainly homicidal—"
+"Ma'am," Peregrine croaks, "the woman is plainly homicidal—"
 
-"Question my orders to my face *once* more and you will spend the rest of your life mucking out stables on a collective farm," Egret growls. Peregrine backs away, and leaves without a second word. I reholster the gun. Wagbeak looks me in the eye. "Honestly, Kestrel, what has gotten into you lately? I understand you enjoy spiting me but are you really going to get yourself *killed* just to make me miserable—"
+"Question my orders to my face *once* more and you will spend the rest of your life mucking out stables on a collective farm," Egret growls. Peregrine backs away, and leaves without a second word. I reholster the gun. Wagbeak looks me in the eye. "Honestly, Kestrel, what has gotten into you lately? I understand you enjoy spiting me but are you really going to get yourself *killed* just to—"
 
 Her sentence ends in a squeak of alarm as she finds her chest pressed flat against her desk, my right hand on her back — not so gentle this time — and my left gripping hers in a wristlock. I give her arm a twist and she lets out a cry of pain.
 
@@ -2326,7 +2346,7 @@ I twist her arm again and she breaks off with a cry. Daisy gives me an unhappy l
 
 "Where is this ridiculous accusation coming from?" Egret demands, wiping tears from her eyes with her free hand. "Kestrel, don't tell me you fell for the nonsense that traitor has been *regurgitating*—"
 
-"You know, the funny thing, *Egret,"* I snap. "I get briefings. As befits a general of my station, I suppose. I've had my people focusing on, y'know, the possibility another Godforsaken *war* might break out with our fucking *sisters in arms,* and they gave me just enough juicy little tidbits of embarassing intel that I could honestly believe I was getting the full story, rather than the same propaganda you feed to the papers." I lean closer, my lower back protesting angrily. "It was *so* calculated I knew from the start you had something you didn't want me to find. So I did my own digging. Using people *I* trust, not a gaggle of appointed sycophants my chief of staff practically has to *beat* useful information out of."
+"You know, the funny thing, *Egret,"* I snap. "I get briefings. As befits a general of my station, I suppose. I've had my people focusing on, y'know, the possibility another Godforsaken *war* might break out with our fucking *sisters in arms,* and they gave me just enough juicy little tidbits of embarassing intel that I could honestly believe I was getting the full story, rather than the same propaganda you feed to the papers." I lean closer, ignoring the hateful twinge in my lower back. "It was *so* calculated I knew from the start you had something you didn't want me to find. So I did my own digging. Using people *I* trust, not a gaggle of appointed sycophants my chief of staff practically has to *beat* useful information out of."
 
 Egret groans.
 
@@ -2361,17 +2381,17 @@ She's quiet for a moment. Then she shakes her head slowly. "There are some thing
 "Torturing him," I growl, "because he wouldn't give them the answers she wanted."
 
 
-"Do you know the worst thing, Egret?" I ask, turning away. "The worst thing is I can't write this off as some sheltered idiot noble ruining lives and bodies as she flails around, incapable of knowing better." I take one last draw from my dying cigarette, the cooling touch of the şen recoiling from the tight, burning knot of anger in my soul like tapwater from a floe of lava. "You know exactly what you've done to that man."
+"Do you know the worst thing, Egret?" I ask, turning away. "The worst thing is I can't write this off as some sheltered idiot noble ruining lives and bodies as she flails about, incapable of knowing better." I take one last draw from my dying cigarette, the cooling touch of the şen recoiling from the tight, burning knot of anger in my soul like tapwater from a floe of lava. "You know exactly what you've done to that man."
 
 "Yes," she says quietly. I close my eyes for a moment, taking a deep breath of clean air, then turn on my heel and knock her to the floor with a full-force punch to the gut.
 
-Daisy's eyes widen and she puts her hands to her mouth, but she doesn't move or scream. Egret groans quietly on the floor, clutching her stomach. Her brow is bleeding where it caught the edge of her desk. I toss the smoldering cig into her overflowing ashtray as the ISB bursts into the room, guns raised.
+Daisy's eyes widen and she puts her hands to her mouth, but she doesn't move or cry out. Egret groans quietly on the floor, clutching her stomach. Her brow is bleeding where it caught the edge of her desk. I toss the smoldering cig into her overflowing ashtray as the ISB bursts into the room, guns raised.
 
 "Hands on your head!" Peregrine bellows. "Hands on your fucking head, you *lunatic!* Get away from the President—"
 
 She falters. Egret, with difficulty, is clambering unsteadily to her feet, and as she does, she steps between me and the furious agent.
 
-"If you so much as injure this woman," Egret says, voice betraying only exhaustion, "I won't bother waiting for the courts or the Senate. I will put a bullet in your head myself. And I hope you understand, Peregrine, *what a mercy that would be.*" She clasps her hands behind her back, suddenly regal and radiant in her brilliant white gown. "*Leave us.*"
+"If you so much as injure this woman," Egret says, voice betraying only exhaustion, "I won't bother waiting for the courts or the Senate. I will put a bullet in your head myself. And I hope you understand, Peregrine, *what a mercy that would be.*" She clasps her hands behind her back, suddenly regal and radiant in her brilliant white gown, and in the voice of a weary queen she commands, "*Leave us.*"
 
 Peregrine's mouth drops open and works for a moment, plainly trying to figure out *something* to say that will keep her boss alive without costing her her cushy job, before eventually giving up and motioning Egret's bodyguards to follow her out of the room. All glare at me as they leave. I barely spare them a glance.
 
@@ -2381,9 +2401,11 @@ Daisy returns from the other room carrying an emergency medical kit and a warm w
 
 "Yes, ma'am." Daisy disappears into a side room. Egret's gazes fixes on me.
 
-"So few of us are still left alive," Egret says, so quietly I barely hear her. "You. Me. Bear. *None* of the people who worked with her before it all began, do you realize that? I am the only one." She looks away, and I realize her hands are shaking. "Passerine was taken apart by the justiciars. Cinderbloom was poisoned, I never figured out who by. Finch was shot while we were evacuating Swallow's Perch and Hope gave up her seat on the last train out so a wounded soldier wouldn't have to leave her lover behind to torture and death. Even Lion, and he was there the night she—" She stops abruptly, pressing a hand violently against her bruised stomach.
+"So few of us are still left alive," Egret says, so quietly I barely hear her. "You. Me. Bear. *None* of the people who worked with her before it all began, do you realize that? I am the only one." She looks away, and I realize her hands are shaking. "Passerine was taken apart by the justiciars. Cinderbloom was poisoned, I never did manage to finger the culprit. Finch was shot while we were evacuating Swallow's Perch and Hope gave up her seat on the last train out so a wounded soldier wouldn't have to leave her lover behind to torture and death. Even Lion, and he was there the night she—" She stops abruptly, pressing a hand violently against her bruised stomach.
 
-I gaze levelly at the President. It really shouldn't surprise me, after all these years, that she still remembers all their names and how they died.
+I gaze levelly at the President. It really shouldn't surprise me, after all these years, that she still remembers all their names.
+
+And how they died.
 
 "I don't really fault you, Kestrel," Egret says gently. "Your actions are not entirely your own. You do well enough to hide it from the others — and I thank you for showing them that kindness — but it is obvious to me your mind is broken."
 
@@ -2401,11 +2423,11 @@ She regards me thoughtfully. "You so rarely call me that these days. —Thank yo
 
 Daisy lets out a hiss. "Why!?"
 
-"Because," Egret says tiredly, "you are too burdened by your youthful sense of morals. We needed a scapegoat, my dear. We needed someone we could hand over to the Nationalists on a silver platter with a signed confession, and say, here is the reason your people are dead. If it was one of their own, so much the better! That would perhaps be sufficiently embarassing to make them back off and stop causing trouble for a while."
+"Because," Egret says tiredly, "you are too burdened by your youthful sense of morals. We needed a scapegoat, dear. We needed someone we could hand over to the Nationalists on a silver platter with a signed confession, and say, here is the reason your people are dead. If it was one of their own, so much the better! That would perhaps be sufficiently embarassing to make them back off and stop causing trouble for a while."
 
 "A scapegoat?" I breathe, trying to keep myself from strangling the woman here on the spot. "You're the reason this whole mess happened; if you hadn't sent that damn order—"
 
-"I did not send an order," Egret snaps. "Kestrel. *Think,* for a moment, if your ruined brain is still capable of reason. Why, in the name of *God and Khata'e alike* would I order innocents slain, but then sacrifice one of my own soldiers to *prevent* a war?"
+"I did not send an order," Egret snaps. "Kestrel. *Think,* for a moment, if your ruined brain is still capable of reason. Why, in the name of *God on Khata'e's bosom* would I order innocents slain, but then sacrifice one of my own soldiers to *prevent* a war?"
 
 "Maybe because he had the guts to stand up to you. We can't have that, can we?"
 
@@ -2437,7 +2459,7 @@ I sigh. "I don't have 'contacts' there, Silverdawn. I went to the diplomatic swi
 
 "You can usually find one," I tell her. "The trick is to bother looking."
 
-She gives me an unimpressed glance. "I'm not going to dignify that with a response, darling."
+She gives me an unimpressed glance. "I'm not going to dignify that with a response, dear."
 
 Daisy clears her throat. "Sooo, are we going to talk about the fact Kess just assaulted the President?" She sounds almost more amused than anything.
 
@@ -2467,7 +2489,7 @@ A moment's silence. Then an exasperated sigh.
 
 "Very well. What do you want?"
 
-"Two things. Firstly, you will immediately turn Private Ash Spring-Violet over to the custody of my officers."
+"Two things. Firstly, you will immediately turn Private Ash Spring-Violet over to the custody of my officers and tear up the detainer."
 
 "As you wish."
 
@@ -2525,7 +2547,7 @@ She proffers the receiver, and I sit down on the corner of her desk to take it. 
 
 "The honor is all mine, First Elder. Thank you for taking this call at such short notice."
 
-"Please, I must thank you for everything you have done for our people. For this, I have not yet had the opportunity. Truly, I feel we owe you our continuing freedom to live in our own way, and I bless you for this, ten thousand times and ten."
+"Please, I must thank you for everything you have done for our people. For this, I have not yet had the opportunity. Truly, I feel we owe you our continuing freedom to live in our own way, and I bless your name for this, ten thousand times and ten."
 
 I can feel my cheeks reddening as I look down. "Your words are humbling, First Elder. I am grateful for whatever part fate saw fit for me to play in ensuring peace between our peoples, and I remain determined to keep that peace alive."
 
@@ -2539,20 +2561,22 @@ I can feel my cheeks reddening as I look down. "Your words are humbling, First E
 
 "This…" Birch fumbles momentarily for words. "This is most unexpected. I am not one to look uncritically upon your Republic, but the viewpoint that our nation shared no responsibility for this calamity -- hitherto, this was expressed only by the most extreme of nationalist actors, those unwise ones who are unable to admit any fault in their own people." Egret bobs her head in a slow, exaggerated *gee-would-ya-look-at-that* nod. "To be quite frank with you, General, this… extremist theory which I had dismissed out of hand, you have now validated."
 
-"I need urgently to stress that this was not a policy decision taken by our civilian leaders," I tell him quickly. "Our government absolutely remains committed to its stated policy of peaceful coexistence with yours --" An expression of alarm flashes across Egret's face, and I add, "with an eye towards eventual peaceful unification." That seems to mollify her somewhat. "However, it shames me to admit that our military is… unenthusiastic about this policy. Many of our soldiers and operational-level officers were eager to seize your sovereign territory; they viewed you as nothing more than an obstacle to unchallenged planetary domination, and felt that our advanced technology would make for an easy victory."
+"I need urgently to stress that this was not a policy decision taken by our civilian leaders," I tell him quickly. "Our government absolutely remains committed to its stated policy of peaceful coexistence with yours --" An expression of alarm flashes across Egret's face, and I add, "with an eye towards eventual peaceful unification under mutually satisfactory terms." That seems to mollify her somewhat. "However, it shames me to admit that our military is… unenthusiastic about this policy. Many of our soldiers and operational-level officers were eager to seize your sovereign territory; they viewed you as nothing more than an obstacle to unchallenged planetary domination, and felt that our advanced technology would make for an easy victory."
 
 Birch sighs. "I cannot bless you for confirming some of the most disquieting intelligence I have had the misfortune to review in recent days. This is disheartening. It was one of these men, then, who ordered my people slaughtered?"
 
-"I have no evidence for that theory," I respond, earning a sigh of relief from Egret, "but it does seem likely, offhand. It is an avenue of investigation we will pursue energetically; of that you have my solemn oath. Anyone who would act against the will of the people and legitimate leadership to commit a crime against peace will face the severest of penalties."
+"I have no evidence for that theory," I respond, earning a sigh of relief from Egret, "but it does seem likely, offhand. It is an avenue of investigation we will pursue forcefully; of that you have my solemn oath. Anyone who would act against the will of the people and legitimate leadership to commit a crime against peace will face the severest of penalties."
 
 "If I heard these words from any other," Birch says solemnly, "I would disbelieve them as little more than a cowardly attempt to evade responsibility for a cruel and idiotic thing."
 
 "You're a wise man," I respond evenly.
 
-"Yet," Birch continues, "you I know to be a woman of the surest honor. To distrust your words is an act worthy only of Matikhe's jesters. And so I can be certain of their truth. I am grateful indeed that we are blessed by a one such as you, to shepherd peace between our nations. With myself on the one side, your Silverdawn on the other -- aye, we make a bitter couple." He laughs weakly. "Again I bless you, General. Again you have done my nation a service, for no reward but the Star-Mother's favor. Bountiful though that be," he adds piously. "Though I must ask, have you perhaps given thought to our invitations? It would honor me tremendously to toast your health in person at Kharashenta."
+"Yet," Birch continues, "you I know to be a woman of the surest honor. To distrust your word is an act worthy only of Matikhe's jesters. And so I can be certain of their truth. I am grateful indeed that we are blessed by a one such as you, to shepherd peace between our nations. With myself on the one side, your Silverdawn on the other -- aye, we make a bitter couple." He laughs weakly. "Again I bless you, General. Again you have done my nation a service, for no reward but the Star-Mother's favor. Bountiful though that be," he adds piously. "Though I must ask, have you perhaps given thought to our invitations? It would honor me tremendously to toast your health in person at Kharashenta."
 
 "It would honor me to attend you there, First Elder. I'll have my people work out an itinerary."
 
 "Ah! Magnificent!" burbles Birch, as though he had fully expected me to decline, and I can't help but smile at the sheer unguarded delight in the old man's voice. "This is an ill day, but that shall be a glad one. _Va Mati_, I vow it!"
 
 -- slaughter at the border was instigated by Guard provocateurs who cut into the telegraph line.--
+
+--IG c&c was based on a local moon, ambassador offers/demands to take it out since sapphirians can't deploy troops there. pres agrees as long as saph. observers are presence (maybe clarify no hot pursuit doctrine in spiralsverse)

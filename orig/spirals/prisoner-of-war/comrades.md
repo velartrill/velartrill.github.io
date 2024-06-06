@@ -6,15 +6,17 @@ The dilapidated train cuts its engines as it nears the platform, one last gasp o
 
 Her heart is pounding as it comes to a halt. There's a little voice at the back of her head, screaming that it can't be real. That the doors are going to open and Imperial Guard are going to swarm out and throw her on the ground again and take off her clothes and--
 
-She digs her dirty fingernails into her thigh again, trying to distract herself from the memory. Then the first passenger car's door hisses open.
+Her dirty fingernails bite into red gouges in her thigh, a feeble distraction from the memory. Then the first passenger car's door hisses open.
 
 And Savren lets out a gasp of relief.
 
-The soldiers who emerge are clad in the black hardsuits and carrying the unmistakable rifles of her people. As they clear the platform, an officer in dress blacks steps down after them, a commander's beads in his hair and a special forces band on his arm. Seeing Savren and her cadre, he raises a hand. *"Sil a iur,* comrades!" he calls out.
+The soldiers who emerge are clad in the slim black hardsuits of her people. As they clear the platform, an officer wearing a sleek bodysheathe steps down after them, a commander's beads in his hair and a special forces band on his arm. Seeing Savren and her cadre, he raises a hand.
+
+*"Sil a iur,* comrades!" he calls out.
 
 Savren runs forward and throws her arms tight around him.
 
-He only seems surprised for a moment, quickly returning the embrace. Savren begins to shake, then to cry, great, heaving sobs of relief. She feels dizzy. His arms are right on top of the whip wounds and it hurts something horrible and she still doesn't want him to let go.
+He only seems surprised for a moment, quickly returning the embrace. Savren begins to shiver, then to cry, great, heaving sobs of relief. She feels dizzy. His rough grip aggravates her wounded back and it *hurts* and she still doesn't want him to let go.
 
 After a long moment, she reluctantly pulls away, smiles up at him. "Sorry. S-sorry. I just--"
 
@@ -26,7 +28,7 @@ Nishvir nods briskly. "I'm honored to meet you, comrade."
 
 "And I you. *S'aiur, surin."*
 
-The commander nods at his bodyguard, who issues an order into her radio. The rest of the coach doors begin to open, infantry and techs spilling out. Two engineers immediately set to work emplacing field guns on the platform. Crates of cargo are swiftly unloaded, all labeled in the familiar blocky script of home. Black-armored Society troops working hand in hand with a train full of Free Khmai and local resistants. Every race, every uniform on the planet represented. Their precision is unerring.
+The commander nods at his bodyguard, who issues an order into her helm radio. The rest of the coach doors begin to open, infantry and techs spilling out. Two engineers immediately set to work emplacing field guns on the platform. Crates of cargo are swiftly unloaded, all labeled in the familiar blocky script of home. Black-armored Society troops working hand in hand with a train full of Free Khmai and local resistants. Every race, every uniform on the planet represented. Their precision is unerring.
 
 *"Vittash dale, san."* One of the soldiers indicates Otter, glancing at Nishvir and readying his rifle.
 
@@ -50,7 +52,7 @@ Nishvir looks at her with alarm, quickly grabbing his handset. "Are you wounded,
 
 "Vassi, you already fixed me up, I'm--"
 
-"You need *stitches.* And real disinfectants. I don't think those bandages were very clean."
+"You need *stitches.* And real disinfectants. I don't think those bandages were very clean. *And painkillers!*"
 
 "...leeches?" asks Nishvir, blinking.
 
@@ -58,13 +60,13 @@ Nishvir looks at her with alarm, quickly grabbing his handset. "Are you wounded,
 
 Savren hesitates, then inclines her head. "As you wish. I commit my unit to the JTF and relinquish command to Vasuen Shalsheni. I stand down."
 
-Vasuen gives a sigh of relief. "Thank you."
+Vasuen exhales raggedly. *"Thank* you."
 
 "We have a coach set up for triage until we've secured the area," says Nishvir. "After everything you've been through, I'd like to see you ride this out somewhere secure."
 
 Savren glances at Vasuen. "Otter, you stick with her? Keep an eye out for my second in command?"
 
-"Of course, comrade!"
+"Of course, comma--" He glances nervously at Vasuen, who glares at him. "…comrade," he finishes meekly.
 
 "You two are just about all I have left."
 
@@ -76,13 +78,13 @@ Vasuen wraps her arms around Savren's neck, and holds her tightly for a moment. 
 
 Savren salutes lazily. "Then yes, ma'am."
 
-A small smile flits across Vasuen's face before she turns and follows the rest of the troops down from the platform.
+A small smile flits across Vasuen's face before she turns and follows the rest of the troops down from the platform, Otter in tow.
 
 Nishvir extends a hand. "Allow me?"
 
 Savren inclines her head and takes his hand. "Please."
 
-Two armored soldiers take hold of her and help lift her into the train as she puts her feet on the steps. There's no telling how old the train is; from the scuffs and rust and mismatched parts it might well predate the Empire. But it's warmly lit and filled with luxuriously cushioned seats. It's a friendly, welcoming sort of dilapidated.
+Two armored soldiers take hold of her and help lift her into the train as she puts her feet on the steps. There's no telling how old the car is; from the scuffs and rust and mismatched parts it might well predate the Empire. But it's warmly lit and filled with luxuriously cushioned seats. It is not dilapidated, but cozily lived-in.
 
 Nishvir leads her past bustling activity and cars full of cargo. Citizens salute them both as they pass. Savren closes her eyes, drinking in the beautiful sound of her native tongue all around her.
 
@@ -92,17 +94,17 @@ Nishvir leads her past bustling activity and cars full of cargo. Citizens salute
 
 "Nine-two-two by three-three-eight."
 
-"Nine-t... stars and skies."
+"Nine-t... blood and *thunder!*"
 
 "Comrade?"
 
-Savren feels suddenly weak. "It's... it's been a year. A year and a season. We got taken in the middle of nine-twenty-one." She leans against the wall, closing her eyes.
+Savren's shallow reserve of strength flees her then. "It's... it's been a year," she whispers. "A year and a season. We got taken in the middle of nine-twenty-one." She leans against the wall, closing her eyes.
 
-Nishvir squeezes her hand. "Novas above... I am so sorry."
+Nishvir squeezes her hand. "Novas beyond... I am so sorry."
 
 Savren silently clutches his wrist with her free hand.
 
-The last train car's had its seats stripped out to make room for stretchers and surgical supplies. A surgeon leaps to her feet as Nishvir enters the room.
+The seats of the last train car have seemingly been stripped out to make room for stretchers, sleep pods, life support systems, and surgical supplies. A surgeon leaps to her feet as Nishvir enters the room.
 
 "Commander! What's the problem?"
 
@@ -118,21 +120,21 @@ Savren sits gingerly on the surgical table. "Take good care of her," Nishvir ins
 
 As Nishvir leaves the room, the surgeon busies herself undressing Savren. "Can you tell me a little bit about your complaints? Are you in any pain?"
 
-"I'm... in a lot. They... whipped me."
+"I'm... I'm hurting, yeah. They whipped me."
 
-"They *whipped* you?" The surgeon's voice is a mix of horror and fury. "That's... what kind of fucking *barbarian*... Wait there, I'm going to get you a shot of fentadone."
+"They *whipped* you?" Outrage flecked with horror shivers in the surgeon's voice. "That's... what kind of fucking *barbarian*... Wait there, I'm going to get you a shot of fentadone."
 
-"Okay. Oh, um, I didn't catch your name?"
+"Okay. Oh, um, who have I the honor of meeting?"
 
-"Mirian, dear. Hold your arm out for me?"
+"Mirian, dear. Mirian Shantani. Hold your arm out for me?"
 
-The familiar feel of the cold metal biting into her vein is like hearing an old friend's voice for the first time in years. Moments later, a surge of warmth and relief washes through her, the pain from her back melting away. Savren gives a little gasp, takes a few deep breaths, her eyelids fluttering from the rush.
+The familiar sensation of the cold metal biting into her vein is like the voice of a long-lost friend. Moments later, a surge of warmth and relief washes through her, the pain from her back melting away. Savren gives a little gasp, takes a few deep breaths, her eyelids fluttering from the rush.
 
 "...s-sun and moon but that feels better." She leans forward, resting her head in her hands. "Stars above. Thank you. Thank you so much."
 
-"After what you've been through, dear, you can have all the fent you want."
+"After what you've been through, dear, you can have all the fent you want. There's plenty to go around."
 
-Savren sits there silently for a few moments as Mirian slices through her bandages, awash in the overwhelming euphoria of the drug. She catches a glimpse of the surgeon distastefully holding the scraps of bloodsoaked fabric between thumb and forefinger before discarding them in a biohazard bin.
+Savren sits silently for a few moments as Mirian slices through her bandages, awash in the overwhelming euphoria of the drug. She catches a glimpse of the surgeon distastefully holding the scraps of bloodsoaked fabric between thumb and forefinger before discarding them in a biohazard bin.
 
 "I've seen a lot of bad things in my job but..." Mirian's voice is shaking. "This is far from the worst injury I've treated, but it's the single most *evil* thing I've ever seen. Stars, just... looking at this makes me want to give you another shot. Imagine doing this to another human being."
 
@@ -140,7 +142,7 @@ Savren sits there silently for a few moments as Mirian slices through her bandag
 
 "...you poor girl."
 
-Savren can dimly feel the antibiotic gel seeping into her wounds, but there's no pain, just a strange, unsettling tactile sensation. "The good news," Mirian comments, "is that the wound profile isn't wide enough to need stitches. Medibond and some nice tight bandages should do the job."
+Savren can dimly feel the antibiotic gel seeping into her wounds, but there's no pain, just unsettling tactile feedback. "The good news," Mirian says as she works, "is that the wound profile isn't wide enough to need stitches. Medibond and some nice tight bandages should do the job."
 
 "Oh, thank fuck for that. I've had enough stitches for one lifetime already."
 
@@ -172,25 +174,21 @@ Savren looks down at her naked chest, her emaciated stomach. Dirt. Bruises and c
 
 "It's not regulation. It's also covered in blood and who knows what other biohazards, so I had to dispose of it."
 
-"I don't want people to see me like this."
+Savren squeezes her legs together, a hand moving to her protruding ribs. "I don't want people to see me like this."
 
 "About that!" Nishvir leans into the room, holding a bundle of black fabric. "I know it's not tailored, but--"
 
 Tears well up in Savren's eyes. She walks unsteadily to the door and takes the fabric, letting it unfold in front of her.
 
-Five loops of black flex-fiber with a white hem.
+A sleek, freshly-laundered black bodysheathe unfolds before her, white soldier's stripes at the shoulders.
 
-"N...Nisha..."
-
-"I brought a sash and some wraps, too. They should be about the right size."
-
-Savren clutches the uniform to her chest. Her frail body is suddenly wracked with sobs.
+"N...Nisha..." Savren clutches the uniform to her chest. Her frail body is suddenly wracked with sobs.
 
 "Here." Nishvir pats a stretcher. "Sit down. I'll help you."
 
-"Don't you have a battle to lead, sir?" Mirian interjects, glaring.
+"Don't you have a battle to lead, sir?" Mirian interjects in a tone of jagged ice.
 
-"It turns out Comrade Savren here did all the work for me," Nishvir replies breezily. "The whole area's secure. We have a few *pien şai* in bolt-holes to smoke out, but they're contained, so until the engineers have a breach plan together, we're all just sitting on our hands. Have I mentioned I hate going in without advance intel?" He sighs. "If these idiots kept *blueprints* anywhere, like *civilized* people, we'd have the whole facility under control and we'd be marching the Rosies out in shackles already."
+"It turns out Comrade Savren here did all the work for me," Nishvir replies breezily, unzipping the suit and kneeling down to guide Savren's legs. "The whole area's secure. We have a few *pien şai* in bolt-holes to smoke out, but they're contained, so until the engineers have a breach plan together, we're all just sitting on our hands. Have I mentioned I hate going in without advance intel?" He sighs. "If these idiots kept *blueprints* anywhere, like *civilized* people, we'd have the whole facility under control and we'd be marching the Rosies out in shackles already."
 
 "Now that would be a sight for sore eyes," comments Mirian. "You should see her wounds, sir. They *whipped* her."
 
@@ -206,7 +204,7 @@ Nishvir smiles down at her. "Now what's that about?"
 
 "I-- sorry, I just..." Savren shakes her head. "All of a sudden everyone's taking care of me and being kind to me and--"
 
-*"Tamit val tare.* You've been strong long enough." Nishvir ruffles her hair and Savren immediately blushes. "What kind of comrades would we be if we didn't look after you?"
+*"Tamit val tare.* You've been strong long enough." Nishvir ruffles her hair as he zips up her suit, and Savren immediately blushes. "What kind of comrades would we be if we didn't look after you?"
 
 Mirian stares at Savren. "How long was she in that camp, do you know, sir?"
 
@@ -220,11 +218,7 @@ Nishvir nods silently.
 
 "The Territorial Capital. We'll get her there soon enough, don't worry."
 
-"Can't happen too soon. I honestly think she's going to need a *vartash* to take care of her for a while."
-
-"Well, we'll have to be her *varinar* until a counselor can make that call, won't we?"
-
-Mirian purses her lips, and turns back to Savren. "You said there were other citizens here, *Savren-ravlas?"*
+"Can't happen too soon." Mirian purses her lips, and turns back to Savren. "You said there were other citizens here, *Savren-ravlas?"*
 
 "One of the others met us at the depot," Nishvir interjects.
 
@@ -234,15 +228,15 @@ Savren nods. "That was Vasuen. My second-in-command. But there's more besides me
 
 "Some got here after me. Some got here before. Vasuen and Tenuan got here with me. I don't really know how long. They didn't exactly give us calendars."
 
-Mirian pales. "Do you think one counselor is going to be enough, sir?"
+Mirian raises an eyebrow. "Do you think one counselor is going to be enough, sir?"
 
 "There's more than one in the Territories, Miri."
 
-Mirian nods distractedly. "Okay. Good. Stars but this is going to be a long, hard clean-up."
+Mirian nods distractedly. "Ah. Good. *Stars* but this is going to be a long, hard clean-up."
 
 "Did you bring many medics?" Savren asks quietly.
 
-"A coach full of them. And another surgeon. They're out treating the wounded. Don't worry, we're not neglecting people in favor of you."
+"A coach full of them. And another surgeon. They're out treating the wounded. Don't worry, we're not neglecting your people in favor of you."
 
 Savren breathes out. "Okay. Thank you. That's a relief."
 

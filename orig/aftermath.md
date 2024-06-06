@@ -1,7 +1,7 @@
 # Aftermath
 % by Lexi Summer Hale
 
-Savren starts at the gentle rap on the door of her little hospital room, her right hand moving instinctually towards a gun that isn’t there. She closes her eyes, taking a deep breath. “C-come in,” she manages, trying to calm her suddenly pounding heart.
+Savren starts at the gentle rap on the door of her little hospital room, her right hand moving instinctually towards a gun that isn’t there. She closes her eyes, breathing deep. “C-come in,” she manages, trying to calm a suddenly pounding heart.
 
 The door opens, and an unfamiliar woman pokes her head into the room. She’s short, even for one of the People, with a kindly face and eerily blue eyes, her long golden hair falling loosely around her shoulders but for one braid on her left side, held togther by a pair of green beads. She’s dressed in in a green-gray _rancal_ with full-length leggings. Savren doesn’t need to read the stylized text on her armband to know she’s with the Shevran.
 
@@ -13,7 +13,7 @@ Savren nods. “That’s me.”
 
 “Of course, come in.”
 
-_“Vala solliv ashi aftare._” The woman inclines her head, doffing her beret and stepping inside. She closes the door behind her. “I’m Mediator Meduin Nuspani Soshpiri,” she says, stepping closer to the hospital bed and touching Savren softly on the arm. “It’s good to finally meet you.”
+_“Vala solliv ashi atre._” The woman inclines her head, doffing her beret and stepping inside. She closes the door behind her. “I’m Mediator Meduin Nuspani Soshpiri,” she says, stepping closer to the hospital bed and touching Savren softly on the arm. “It’s good to finally meet you.”
 
 Weakly, Savren returns the gesture. “Here to brutally interrogate me and see if I’ve been contaminated by foreign ideas, ma’am?” she replies teasingly.
 
@@ -61,7 +61,7 @@ Meduin nods. “Ordinarily. TRICOM is conducting its own review of the incident,
 
 “Nobody from TRICOM has even interviewed me yet.”
 
-“I’ve been holding them at bay.” Meduin gives her a slightly embarassed smile. “I have had to flex an uncomfortable amount of my formal powers in order to do. You do realize you are about to become a centerpiece of Allied war propaganda, yes?”
+“I’ve been holding them at bay.” Meduin gives her a slightly embarassed smile. “I have had to flex an uncomfortable number of my formal powers in order to do. You do realize you are about to become a centerpiece of Allied war propaganda, yes?”
 
 Savren blinks, then her eyes widen. “…oh.”
 
@@ -159,15 +159,15 @@ Savren closes her eyes and leans back. “Old unit joke, long story. Stars in he
 
 “I know, I know, I can’t just run back out there right now.” Savren waves her away. “Give it a week or two. I’ll heal up, get back into shape—”
 
-“Comrade.” Meduin touches her arm gently. “You sustained grievous bodily and psychological injury during your captivity. You’ve been diagnosed with _shanvol,_ and not a light case. You froze up in the middle of a battlefield—”
+“Comrade.” Meduin touches her arm gently. “You sustained grievous bodily and spiritual injury during your captivity. You’ve been diagnosed with _shanvol,_ and not a light case. You froze up in the middle of a battlefield—”
 
-Tears are streaming down Savren’s cheeks as she clenches her fists. “F-fuck’s sake!” she blurts, the tension and anger all exploding out of her at once. “It was just— just one mistake, I— wouldn’t you have frozen up too? If they’d— if they’d—”
+Tears are streaming down Savren’s cheeks. “F-fuck’s sake!” she blurts, fists clenching, the tension and anger all exploding out of her at once. “It was just— just one mistake, I— wouldn’t you have frozen up too? If they’d— if they’d—”
 
 “If I had been gang-raped by the Imperial Guard?” Meduin finishes quietly. “Of course I would have frozen up on being confronted by the organization that violated me, comrade. If anything, I most likely would have been significantly more incapacitated in that situation than you were; you are a young, resilient, and hardened warrior forged in the heart of a war I have only seen from the sidelines, totally unblooded. Your reaction was perfectly normal — you’re a human being, Savren. It is nothing to be ashamed of, and you should be proud of how quickly you bounced back. That takes real courage and strength.”
 
 “Then why are you telling me I’m not fit for—” She trails off abruptly and buries her head in the pillow, trying to smother her tears.
 
-Otter rubs her back gently as Meduin continues. “This,” she says, “is Savren the soldier talking. Not Savren the commander.”
+Otter rubs her back gently as Meduin continues. “This,” she says, not unkindly, “is Savren the soldier talking. Not Savren the commander.”
 
 They sit there in silence for a while. Slowly, Savren pats her cheeks dry, wipes her nose, turns back to stare vacantly at the ceiling.
 
@@ -209,7 +209,7 @@ Meduin gives her a gentle smile. “I’ll draw up the transit papers now.”
 
 “Of course I want you, you dork.” Savren grabs him by the scruff of the neck and pulls him down for a kiss on the cheek. “Would it be possible for him to travel with me?”
 
-Meduin drums her fingers on her slate for a moment. “I believe so,” she replies. “I’m going to have to coordinate with the Naturalization Authority, and that means probably a few days of back-and-forth with Tel Casran, presuming the damn Rosies don’t take out any more of our comm relays in the meanwhile… but I think I can do it, if I throw my weight around. As your boyfriend, he should meet the qualifications for metic status. I mean, novas above, the boy’s already got his citizen-name and he’s fluent in *Ranuir—*” She pauses. “Sorry, thinking out loud. I’ll get it done, don’t you worry about the details. Cirlen-_surin?”_
+Meduin drums her fingers on her slate for a moment. “I believe so,” she replies. “I can't admit him on my own authority, so I’m going to have to coordinate with the Naturalization Authority, and that means probably a few days of back-and-forth with Tel Casran, presuming the damn Rusties don’t take out any more of our comm relays in the meanwhile… but I think I can do it, if I throw my weight around. As your boyfriend, he should meet the qualifications for metic status. I mean, novas above, the boy’s already got his citizen-name and he’s fluent in *Ranuir—*” She pauses. “Sorry, thinking out loud. I’ll get it done, don’t you worry about the details. Cirlen-_surin?”_
 
 “Yes, ma’am?”
 
@@ -221,7 +221,7 @@ Meduin drums her fingers on her slate for a moment. “I believe so,” she repl
 
 He glances at Savren, who nods. “Um, that’s— yeah. I’ll do it.”
 
-“You’ll really be one of us now, Cirri,” Savren teases, poking him in the flank. "You'll even register friendly on our IFF." She looks back to Meduin. “What’s going to happen to the Second, though? What about my people?”
+“You’ll really be one of us now, Cirri,” Savren teases, poking him in the flank. "You'll even register friendly on IFF." She looks back to Meduin. “What’s going to happen to the Second, though? What about my people?”
 
 “Right now, nothing,” says Meduin. “Your personnel have all been relieved of combat duty and put under T4 status -- yourself included. T5 in the case of Tenuan, I’m afraid to say. If this damnable war ever ends, we’ll all go home and drink to our victory and Rantal Shalshen will merge its units and move survivors around as necessary to maintain an organized fighting force. Failing that… I genuinely don’t know. Perhaps we’ll make do seconding survivors to other units in-theater. We don’t really have much protocol in place for this in wartime.” She looks down. “We’ve… never been in a state of total war before.”
 
@@ -245,8 +245,8 @@ Meduin smiles brightly. “Of course!”
 
 “What kind of message?”
 
-Savren grits her teeth and lifts her back from the tender support of the soft wound-foam mattress, pulling her hospital gown aside and baring the deep red lacerations all across her back. “A photo,” she says, her voice aquiver, a tremor in her movements. “And tell them— tell them not to treat with the Empress. Tell them this war can’t end ’til Carnelian burns and the Empire is ash. Because I’d rather die in battle than go home to my cozy bed and my cozy commune on my cozy little planet and live out my beautiful _du shan dám_ life there in peace and comfort knowing that millions and millions of people are being tortured like this every day. Every _ṕing La wè_ day.” She takes a deep breath. “It wasn’t just PoWs in that camp, Medi. It was their own people. They did this and worse to their own damn people. People not nowhere near so strong as us.” She’s choking up now, shaking, her cheeks again wet with tears. “It’s gotta stop, Medi. It’s gotta stop.”
+Savren grits her teeth and lifts her back from the tender support of the soft wound-foam mattress, pulling her hospital gown aside and baring the deep red lacerations all across her back. “A photo,” she says, her voice and limbs trembling alike. “And tell them— tell them not to treat with the Empress. Tell them this war can’t end ’til Carnelian burns and the Empire is ash. Because I’d rather die in battle than go home to my cozy bed and my cozy commune on my cozy little planet and live out my beautiful _du shan dám_ life there in peace and comfort knowing that millions and millions of people are being tortured like this every day. Every _ṕing La wè_ day.” She takes a deep breath. “It wasn’t just PoWs in that camp, Medi. It was their own people. They did this and worse to their own damn people. People not nowhere near so strong as us.” She’s choking up now, shaking, her cheeks again wet with tears. “It’s gotta stop, Medi. It’s gotta stop.”
 
-There’s a quiet click as Meduin snaps a photo of Savren’s back with her small handslate. “They will hear you,” she says solemnly, and for the first time Savren hears a note of uncertainty, of unpreparedness in the woman’s voice. “Take care, Savren-surin.”
+There’s a quiet chirp as Meduin snaps a photo of Savren’s back with her small handslate. “They will hear you,” she says solemnly, and for the first time Savren hears a note of uncertainty, of unpreparedness in the woman’s voice. “Take care, Savren-surin.”
 
 _“A san, Meduin-surin.”_

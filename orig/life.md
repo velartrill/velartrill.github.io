@@ -6,7 +6,7 @@
 
 I turn, reddening as I see the little slip of paper in his grasp. "O-oh. It's— it's something the… the _virtash_ asked me to do, for some reason."
 
-Bear sits down next to me, inhaling from the tea mug's steam before he sets it down in front of him. "What was that, Kess?" he asks, looking at me gently.
+Bear sits down next to me, inhaling from the tea mug's steam before he sets it down in front of him. "What was that, Kess?" he asks gently, meeting my eye.
 
 "He…" I rub my upper arms absently; Bear reaches for a blanket. "He asked me to make a list. Of… of 'everyone I saved.'"
 
@@ -19,7 +19,7 @@ I crumple, leaning heavily against him, and he puts a warm arm around my shoulde
 A hundred different memories flash through my mind, of moments just like this, amid the blood and dirt, the fearful haze of war. Bear dinging me on the helmet one night on the edge of the forest, as we sat by the campfire on first watch. Telling me to stop being so hard on myself.
 
 
-God, I can still remember that week so vividly. That horrible thump when the train derailed. The five-day loaded march to the nearest intact line on the other side of the _den tsuang_ sabotage, hacking our way through untamed wilderness with machetes with guns and food and ammo strapped to our breaking backs. The raucous cheers when that rattletrap troop train finally came into sight, amidst the thunder and torrential rains of a Cascade spring. My tears in the bunk that night, as the train creaked and clattered its way over a nameless bridge. Waking Bear despite fighting so hard to stay quiet — and exhausted though we all were, he just said — "hey now. What's that all about?"
+God, I can still remember that week so vividly. That horrible thump when the train derailed. The five-day loaded march to the nearest intact line on the other side of the _den tsuang_ sabotage, hacking our way through untamed wilderness with machetes with guns and food and ammo strapped to our breaking backs. Wildlife more dangerous than Guardswomen. The raucous cheers when that rattletrap troop train finally came into sight, amidst the thunder and torrential rains of a Cascade spring. My tears in the bunk that night, as the train creaked and clattered its way over a nameless bridge. Waking Bear despite fighting so hard to stay quiet — and exhausted though we all were, he just said — "hey now. What's that all about?"
 
 I can still remember them all so vividly.
 
