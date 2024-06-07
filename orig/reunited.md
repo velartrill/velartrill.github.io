@@ -161,7 +161,7 @@ Cassil attracts odd glances as she makes her way through the crowd. Unfamiliar f
 
 *This is our capital.* Ours. *Why the fuck are* they *the only ones here?*
 
-A series of faintly musical chimes rings out. The unfamiliar sound of a decelerating maglev catches her attention, and she spares an upward glance at the intercommune liner. It glides effortlessly toward her, silent but for an eerie electric warble and the quiet whoosh of air as it slows from frightening speed to a complete halt in moments. The huge vehicle towers over her and stretches away into the distance, dwarfing the little trams and streetcars that she's used to travelling on.
+A series of faintly musical chimes rings out. The unfamiliar sound of a decelerating maglev catches her attention, and she spares an upward glance at the intercommune liner. It glides effortlessly toward her, silent but for an eerie electric warble and the quiet rush of air as it slows from frightening speed to a complete halt in moments. The huge vehicle towers over her and stretches away into the distance, dwarfing the little trams and streetcars that she's used to travelling on.
 
 They offered her a choice. A priority seat on a sealed Core Line hauler, back to Tegvar in two hours tops. "Why? So you can keep tossing me around in the dark like a sack of _neshral?"_ she spat. The other choice was travel auth for a two-day surface rail trip to the other side of the continent, which she picked without hesitation.
 
@@ -195,7 +195,7 @@ Her eyes search his face for an answer that isn't forthcoming. His pretty green 
 
 "Whatever," she mutters, turning back to staring out the window, watching his reflection until he's out of sight. Only then does her heartbeat start to slow.
 
-Sucking in a deep breath of air, she props her feet up on the opposing seat, and presses a switch on the table in front of her. The tabletop flips up, revealing a sleek screen on its reverse and a keypanel beneath; the screen blinks to life, her name appearing. Poking at the panel with one desultory hand, she keys in her ident sequence, and the computer unlocks, bringing up her customary workbench. She lifts her hand to the screen, makes a few instinctual swiping motions in the air, and the screen shifts to her personal comms.
+Sucking in a deep breath of air, she props her feet up on the opposing seat, and presses a switch on the table in front of her. The tabletop flips up, revealing a sleek screen on its reverse and a keypanel beneath; the screen blinks to life, her name appearing. Poking at the panel with one desultory hand, she keys in her ident sequence, and the computer unlocks, downloading her customary workbench from the Tegvar datacore. She lifts her hand to the screen, makes a few instinctual swiping motions in the air, and the screen shifts to her personal comms.
 
 Thirty-six urgent messages from Niltar, of course. She sighs, hits the key to bring up their dialogue.
 
@@ -371,7 +371,7 @@ She tilts her head. "I… heard about it, yeah. Wh-why—?"
 
 "—I am *not* a—"
 
-"—and I give you my word the boys will be all over you. Shit, Nil, you think your past makes you unattractive to people? It gives you *mystique,* is what it does. Especially now with how hot you are. I don't think you really understand guys — the first one to conquer *you* is never gonna stop bragging about it. I was gonna go anyway, I'd be happy to take you along and be your wingman."
+"—and I give you my word the boys will be all over you. Shit, Nil, you think your past makes you unattractive to people? It gives you *mystique,* is what it does. Especially now with how hot you are. I don't think you really understand men — the first one to conquer *you* is never gonna stop bragging about it. I was gonna go anyway, I'd be happy to take you along and be your wingman."
 
 
 There's a chirp from the console, and she opens her eyes. "Incoming message — Niltar Tegvari."

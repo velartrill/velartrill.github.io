@@ -44,25 +44,25 @@ He inclines his head.
 
 "I am happy to 'read you in,' as they say, if this would please you. This is among the services we provide."
 
-"It would," I say, readying myself to memorize every detail. I'll find time to interrogate Daisy later and compare their tales. Oftbetimes a liar will tell you freely more than an honest woman will for pay.
+"It would," I say, readying myself to memorize every detail. I'll find time to interrogate Daisy later and compare their tales. Oftbetimes a liar will tell you free more than an honest woman will for pay.
 
 "Lotus has fallen upon difficult times of late. Not long ago an altercation of some significance took place in the Silent Crescent public house--"
 
 I stiffen. "They shut that place down, I saw."
 
-He inclines his head. "Pardon, mistress. I would not contradict you. However, I fear, there was very little left to be shut down."
+He inclines his head. "Your pardon, mistress. I would not contradict you. However, I fear, there was very little left to be shut down."
 
 "Damn. I almost feel bad for the owner."
 
 "The Syndicate compensated her quite generously, I understand."
 
-"Raven's people were involved in this? First Empress, what *happened?*"
+"Raven's people were mixed up in this? First Empress, what *happened?*"
 
 "Mistress Starsoul *herself* was involved. Centrally, as I understand."
 
 I shiver. "Okay, *what?"*
 
-"The details are not wholly unambiguous. I will share with you the view our organization has taken of the matter, though I will first caution you we have drawn certain conclusions, and I do not intend for you to take our word as authoritative." He leans back, steepling his hands in his lap. "It first became apparent aught was amiss when the station was unexpectedly boarded in contravention with usual procedure and norms of lawgiving. What was at first taken for a truly audacious slaver raid proved to be something else entirely. The attackers were the coterie of a local justiciar, who had come in person to lead the assault. It appears the target of their raid was Mistress Starsoul and her employees."
+"The details are not wholly unambiguous. I will share with you the view our organization has taken of the matter, though I will first caution you we have drawn certain conclusions, and I do not intend for you to take our interpretation as authoritative." He leans back, steepling his hands in his lap. "It first became apparent aught was amiss when the station was unexpectedly boarded in contravention with usual procedure and norms of lawgiving. What was at first taken for a truly audacious slaver raid proved to be something else entirely. The attackers were the coterie of a local justiciar, who had come in person to lead the assault. It appears the target of their raid was Mistress Starsoul and her employees."
 
 I draw a sharp breath. "You're telling me the gowns finally dropped the hammer and came for her in force?" My eyes unfocus slightly. "And she's *still here?*"
 
@@ -80,13 +80,13 @@ He smiles. "Indeed. The bar was where Mistress Starsoul chose to indulge her fla
 
 I whistle softly. "That is the most Raven thing I have ever heard. Wow." I shake my head. "Brilliant. Brilliant and cruel. The gown didn't take the offer, did she?"
 
-"Indeed not. I suspect she did not think much of her chances against a duelist with such a… prolonged history of experience with the sword. Particularly in null gravity. Rather than risk herself, she ordered her women to press the attack."
+"Indeed not. I suspect she did not think much of her chances against a duelist with such an… unnaturally prolongated history of experience with the sword. Particularly in null gravity. Rather than risk herself, she ordered her women to press the attack."
 
 "And they overheard the challenge, didn't they." I shake my head. Raven on one side, the gowns on the other. I can't decide which side I should be taking.
 
 Sometimes you just have to sit on the sidelines, chewing *bai due* and catcalling the prettiest thugs.
 
-"It was broadcast over much of the station, as was the Justiciar's choice to dishonor herself. This is the point at which total chaos appears to have ensued. Some Justicariat troops deserted or mutinied outright. A small majority fought by their Justiciar's side, but they were quickly crushed." He smiles faintly. "They were apparently unprepared to fight a coordinated group of armed men. Rather embarassing, I must say."
+"It was broadcast over much of the station, as was the Justiciar's choice to dishonor herself. This is the point at which total chaos appears to have ensued. Some Justicariat troops deserted or mutinied outright. A small majority fought by their Justiciar's side, but they were quickly crushed." He smiles faintly. "They were apparently unprepared to combat a coordinated group of armed men. Rather embarassing, I must say." His smile this time is appropriately wolfish, I reluctantly concede.
 
 I drum my fingers. "What became of the gown?"
 
@@ -94,7 +94,7 @@ I drum my fingers. "What became of the gown?"
 
 "--or in Raven's custody." I shiver.
 
-He nods, drawing back. "The aftermath was, if anything, more significant than the battle itself. The Syndicate made a public show of compensating all those who lost property or kin during the fighting, and the Countess took the Justicariat before her peers, demanding compensation and an apology for an action she insisted was illegal."
+He nods, drawing back. "The aftermath was, if anything, more significant than the battle itself. The Syndicate made a public show of compensating all those who lost property or kin during the fighting, and the Lady Lunarch took the Justicariat before her peers, demanding compensation and an apology for an action she insisted was illegal."
 
 "Wow. That can't have gone well for her."
 
@@ -106,13 +106,13 @@ He nods, drawing back. "The aftermath was, if anything, more significant than th
 
 "As you say." Wolf inclines his head. "It appears Mistress Starsoul loaned a startling sum of sovereigns to her Ceaseless Vigilance the Lady Voidblossom, to repair damage that would have ruined her family otherwise."
 
-"She was actually dumb enough to take a *loan* from the galaxy's most famous *loan shark?*" Nobles, I *swear.*
+"She was actually dumb enough to take a *loan* from the galaxy's most famous *loan shark?*" The Blood, I *swear.*
 
 "As I understand it, Raven forgave the loan after the suit fell through."
 
 "What?" I blurt, floored. "Fuck. Oh, fuck. Voidblossom is *owned* now."
 
-"It was always suspected that the two had some fashion of… mutually productive arrangement. This would seem to be the reason for the Justicariat's unannounced action. However, the apparent public confirmation of the Solarchess' involvement with Mistress Starsoul has injured her reputation grievously. This, and the trauma of the battle, led numerous chartered concerns to withdraw."
+"It was always suspected that the two had some fashion of… mutually productive arrangement. This would seem to be the reason for the Justicariat's unannounced action. However, the apparent public confirmation of the Lady Lunarch's involvement with Mistress Starsoul has injured her reputation grievously. This, and the trauma of the battle, led numerous Houses and chartered concerns to withdraw."
 
 "Fortunate for you."
 
@@ -124,13 +124,14 @@ I rub my forehead. "God's tits. You have dealings with *her?* Of course you have
 
 I raise my eyebrows. "I thought you wanted me to put my dagger away."
 
+"I favor no particular policy in that arena." He gives me a fey little smile, and, God within help me, a grin escapes my traitor lips.
 
 Those that remain are local entities and…" He smiles. "Those smart enough to perceive an opportunity when it presents iself."
 
 
 "I'm out." I flip in the air and kick off towards the entrance hatch. And he just laughs.
 
-"No, you're not," he says mildly, in that *fucking* voice of his, so smug, so confident and teasing, and he's not calling my bluff, because I was deadly fucking serious. No, it's not a prediction, it's a command.
+"No, you're not," he says mildly, in that *fucking* voice of his, so smug, so confident and amused, and he's not calling my bluff, because I was deadly fucking serious. No, it's not a prediction, it's a command.
 
 I grit my teeth as I find myself reaching out to arrest my momentum, hating myself just a little bit.
 
