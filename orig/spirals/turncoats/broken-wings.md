@@ -67,7 +67,7 @@ Falcon's expression is confused. "I-- I thought-- they don't take orders from yo
 
 "Oh dear." Aster plucks a bandage roll and some cloths from her satchel, and joins Dove at Falcon's side. "Let's see the damage now, young mistress." She smiles encouragingly at Falcon as the girl reluctantly pushes away the covers. "Oh, my. Oh that's quite the mess you've made, you poor dear." She unstops a small bottle of grain alcohol, soaking a cloth. "First things first, let's get you cleaned up, alright? Here, hold your dear mother's hand, darling, I'm afraid this is going to hurt quite a bit."
 
-Dove holds Falcon tightly as Aster swabs her arm clean, squeezing her hand at her mewls of pain. "I hope whatever knife she used wasn't too dirty," Aster confides to duchess as she works. "I think most of these wounds will be fine with a cleaning and a bandage. These three here, you see? They're going to need stitches, I'm sorry to say. Just too wide and deep."
+Dove holds Falcon tightly as Aster swabs her arm clean, squeezing her hand at her mewls of pain. "I hope whatever knife she used wasn't too dirty," Aster confides to the Lunarch as she works. "I think most of these wounds will be fine with a cleaning and a bandage. These three here, you see? They're going to need stitches, I'm sorry to say. Just too wide and deep."
 
 Falcon begins to sob. "God, no, please... I can't, stitches hurt so much, I--"
 
@@ -225,7 +225,7 @@ Iris presses a finger into one of Falcon's wounds. "Did that hurt?"
 
 "Okay. She's all yours, Mistress Aster."
 
-Dove and Iris sit in silence on one side of the bed while Aster busies herself about her work on the other, regaling Falcon with stories and jokes to keep her distracted. The duchess and the commissar exchange awkward glances here and there. Falcon keeps a firm hold of Iris' hand.
+Dove and Iris sit in silence on one side of the bed while Aster busies herself about her work on the other, regaling Falcon with stories and jokes to keep her distracted. The Lunarch and the commissar exchange awkward glances here and there. Falcon keeps a firm hold of Iris' hand.
 
 "Alright, now. All finished, young lady." Aster smiles encouragingly at the girl as she finishes the last stitch. "Let's get you bandaged up and you can hop right back in the saddle, eh?"
 

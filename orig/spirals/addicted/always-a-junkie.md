@@ -223,7 +223,7 @@ He nods, snapping his fingers. "I thought you might ask! And that's just the thi
 
 He nods. "The thought occurred to me as well. But here's where I'm stuck — I *could* play it safe and buy up five or ten carriers for our own use, which would safely squash any schemes the robin might have, but that would be an *enormous* capital expense, and then we're stuck dealing with all the attendant liabilities, indefinitely. And shipping is *not* a business I want to be in, my dear — have you ever seen a barnacle face-to-face?" He shudders. "Horrible creatures. They cost the industry something like six large per annum, and that's just worldwide!"
 
-I purse my lips. "Yeah — it's a huge risk either way. Two thirds of our smack winds up in the Archipelago, and those robins… some of them have serious money. Have you ever heard of something called an 'archcountess?'"
+I purse my lips. "Yeah — it's a huge risk either way. Two thirds of our smack winds up in the Archipelago, and those robins… some of them have serious money. Have you ever heard of something called a 'nebularch?'"
 
 Oravdenel raises an eyebrow. "I have now."
 
@@ -235,7 +235,7 @@ Oravdenel pales. "…you know, Errie, there are beings in this universe I hope n
 
 "—how do we get her to tip her hand?" he finishes, nodding. "And *that* is where I got stuck. I had half a mind to just call up the old biddy and *ask* her—"
 
-I snap my fingers. "That might not actually be a bad idea. You ever read the old story of the Fourth Empress and Archduchess Thornhollow?"
+I snap my fingers. "That might not actually be a bad idea. You ever read the old story of the Fourth Empress and the Solarch Thornhollow?"
 
 He shakes his head, leaning forward.
 

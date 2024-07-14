@@ -1,5 +1,6 @@
 # Seduction
 %byline from a serial by Lexi Summer Hale
+%with style set/saravan.css
 
 "Come on, Rose!"
 
@@ -25,7 +26,7 @@ Rose's grip is getting tighter and tighter. My cheeks twitch as her nails bite i
 
 "I do, in fact."
 
-"Not that job with the Countess' daughter?"
+"Not that job with the Lunarch's daughter?"
 
 "The very one."
 
@@ -75,17 +76,17 @@ A new voice. The accent is strange, unfamiliar; her words faintly antiquated. I 
 
 Delirious from pain, I stumble as Rose's grip slackens and drops away. A soft hand catches me under the shoulder, hauling me effortlessly to my feet. Disoriented, I turn my gaze towards my rescuer, blinking to try and clear away the tears.
 
-She's unlike anything I've ever seen. She's nearly as tall as Dove, and her body is inhumanly beautiful. Her skin is black as night, her hair white as snow, accented here and there by thin strands of pink. Her softly slanted eyes, set into a youthful face, are a deep purple; it's almost like staring into a polished amethyst. They're ornamented above and below with subtle, blocky, asymmetrical tattoos. Her body is slight, clad in tight-fitting alien fabrics that seem to shimmer with their own inner light and perfectly flatter the elegant curves of her delicate frame. Her eyes are fixed on the mercenary captain, but she spares me a quick, reassuring glance.
+She's unlike anything I've ever seen. She's nearly as tall as Dove, and her body is inhumanly beautiful. Her skin is black as night, her hair white as snow, accented here and there by thin strands of pink. Her softly slanted eyes, set into a youthful face, are a deep purple; it's almost like staring into a polished amethyst. They're ornamented above and below with subtle, blocky, asymmetrical tattoos. Her body is slight, clad in tight-fitting alien fabrics that seem to shimmer with their own inner light and perfectly flatter the elegant curves of her delicate frame. I've seen high and haughty *courtesans* who would kill in the dirt with hands and teeth for this kind of presence, this kind of heartstopping glamor and effortless grace. The apparition has her eyes fixed on the mercenary captain, but she spares me a quick, reassuring glance, like sudden rays of sunlight descending to dapple a glen.
 
 Rose is staring at her hands. "What the *ṕing sha dua* did you just do to me, witch?"
 
-My rescuer turns back to the mercenary. "Very little compared to what shall come next, little girl. Is it out of mere infatuation with your own fancied power that you subject innocents to torture, or do you undertake such with no intent but that of your own atavistic carnal gratification? Enlighten me."
+My rescuer turns back to the mercenary. "Very little compared to what shall come next, impudent child. Is it out of mere infatuation with your own fancied power that you put innocents to pain, or do you undertake these base cruelties with no intent but that of your own atavistic carnal gratification? Enlighten me."
 
 *"Innocent?"* Rose spits. "That bitch was getting off *easy!* Much easier than *you're* going to. You've made a very, very serious mistake, screwing with the Dawn Daughters." She snaps her fingers and Dove and Faith advance on us, Dove's heatknife crackling to life and little Faith aiming her revolver.
 
 "Civilized businesswoman that I am, I'm going to make you a deal," Rose continues, cracking her knuckles. The whole tavern's eyes are on us now, and she's loving every second of it, drinking up the attention like a fine wine. "Hand over the girl without any fuss and once I'm through with you, I *won't* sell you both at the slave markets. Take it or leave it."
 
-The woman raises her free hand, purple luxtoos glittering to life, glowing lines snaking in thin, elegant curves around her palm and down from her wrist, towards her elbow. "You gravely misapprehend your position here, mercenary," she responds levelly. "There will be no further warnings."
+The woman raises her free hand, purple luxmarks glittering to life, glowing lines snaking in thin, elegant curves around her palm and down from her wrist, towards her elbow. "You gravely misapprehend your position here, mercenary," she responds levelly. "There will be no further warnings."
 
 "Ooh, a fancy light show!" Rose clasps her hands to her chest in mock horror. "Darling, that might impress the provincials in these parts, but--"
 
@@ -93,15 +94,15 @@ Her words trail off and her eyes widen. She blanches; her mouth opens slowly, a 
 
 Rose stumbles backwards, clutching at a barstool for support and doubling up, letting out short, quiet yelps of agony. Dove clings to the wall; her neck spasms, and she clutches at her throat as vomit spatters the ground at her feet.
 
-The white-haired woman lowers her hand, the luxtoos fading slowly. She glances at me. "What was her name, love?"
+The white-haired woman lowers her hand, the luxmarks fading slowly. She glances at me. "What was her name, love?"
 
 "Um. Rose?" I whisper, staring up at her through the haze of pain.
 
 "Rose, my dear. I want you to think very carefully about your decisions." The woman approaches her. Rose is curled up into a ball, rocking back and forth, her eyes squeezed shut and her teeth gritted tightly. My savior kneels gracefully, looming over the helpless mercenary... and ruffles her hair. "For the next, oh, half hour or so." She smiles pleasantly. "If you *can* think through all this pain, that is."
 
-She grips Rose by the hair, yanks her head back violently, looking her forcefully in the eye. "I want you to think," she continues, her voice suddenly quiet and deadly, playfulness all gone, "about every poor choice that led you to where you are right now, curled up and squealing on a tavern floor like a stuck *pien şai.* Remorse is obviously beyond the ken or capacity of beings such as you, but I hope that when next you undertake to mutilate and torment a helpless foe, this moment will burn bright in your horror-strewn memories. Never forget that you never know when someone might decide to come for you -- when *you* might wind up on the other end of the knife. All right?" She smiles cheerily, pats Rose on the cheek. Rose convulses violently and lets out a choked scream, tears streaming down her cheeks.
+She grips Rose by the hair, drags her head back so she's compelled to look her in the eye. "I would have thee think well long," she continues, her voice suddenly quiet and deadly, her register rising cloud-high, aristocratic to shame the Blood, "on every ill deed that led thee whither anon thou art, curled up and squealing on a tavern floor in the aspect of a stuck *pien şai.* Remorse lieth plain beyond the reach or ken of beings low as thee, but I hope, when next thou undertake to mutilate and torment a helpless foe, that this moment burn bright and true amongst the cavalcade of shame and horror named thy memory. Forget thee not and never that thou knowest not the day nor cause whereon thou might find thyself beneath the other end of the knife. Hearest thou?" She smiles a justiciar's smile, pats Rose on the cheek. Rose convulses violently and lets out a choked scream, tears streaming down her cheeks.
 
-"Don't worry," the woman says reassuringly as she gets to her feet. "It won't last too terribly long. Just long enough to cut a nice, deep scar in your psyche... and wake you up in a cold sweat in the middle of the night for years and years to come." She pauses, then adds, "You know, they say, it's not the pain that makes the trauma. It's the *humiliation."*
+"Don't worry," the woman says reassuringly as she gets to her feet. "It won't last too terribly long. Just long enough to cut a nice, deep scar in your psyche — and wake you up in a cold sweat in the middle of the night for years and years to come." She pauses, then adds, "You know, they say, it's not the pain that makes the trauma. It's the *humiliation."*
 
 She turns back to me, a gentle smile on her face. The world feels unreal, dreamlike. I can't tear my eyes away from the sobbing mercenaries. Can't make any sense of what's happening. Who the fuck is this woman?
 
@@ -135,7 +136,7 @@ She bows slightly, taking my hand and kissing my palm gently. "I am most pleased
 
 I blush hotly, looking off to the side, unable to meet her gaze. "It's... good to meet you too," I murmur, curtseying quickly. "Thank you for... for protecting me from those mercenaries."
 
-"It appears I did not intervene soon enough," Taya responds worriedly, examining the rent in my coat. "Is there somewhere... I can take you? Friends, family, a company, a ship? I do not wish to leave you alone and unguarded in such a vulnerable state, and your wounds need tending."
+"It appears I did not intervene soon enough," Taya responds worriedly, examining the rent in my coat. "Is there somewhere... I can take you? Friends, family, a company, a ship? I do not wish to leave you alone and unguarded in such a vulnerable state, and your wounds require tending."
 
 I look down, feeling slightly sick. "N-no. I... I have no one."
 
@@ -169,9 +170,9 @@ Taya squeezes my shoulder, her hips swaying as she moves slowly closer, placing 
 
 I feel her soft hand on my chin, and she presses upward, lifting my head so she can look me in the eye. "You are very kind," she says softly, stroking my side. "Allow me to return the favor by taking care of you tonight?"
 
-I hesitate. I don't know her. I'm alone on a strange moon full of slavetakers and smugglers and liars and pirates and thieves and sadists and murderers, surrounded by lawless taverns and opium dens and slave markets and gunsmiths selling weapons you'd be shot on sight just for carrying in the Empire. Absolutely nobody here can be trusted and I don't even know *what* Taya is, let alone *who*, and letting her take me away to be alone with her God knows where would be transparently the *dumbest* decision of a lifetime full of terrible choices...
+I hesitate. I don't know her. I'm alone on a strange moon full of slavetakers and smugglers and liars and pirates and thieves and sadists and murderers, surrounded by lawless taverns and opium dens and slave markets and gunsmiths selling weapons you'd be shot on sight just for carrying in the Empire. Absolutely nobody here can be trusted and I don't even know *what* Taya is, let alone *who*, and letting her take me away to be alone with her God knows where would be transparently the *dumbest* decision of a lifetime full of terrible choices…
 
-...but.
+…but.
 
 I have no friends, no allies.
 
@@ -193,7 +194,7 @@ There's a lot I'd let her do to me right now, just as long as she fed me and kep
 
 "...okay," I murmur, looking down and squeezing my wrist. "I'll come with you, Taya."
 
-Taya tousles my hair. "Good girl," she says, beaming at me and taking my hand. "My place is right this way."
+Taya tousles my hair. "There's a good girl," she says, beaming at me and taking my hand. "Come. My place is right this way."
 
 She leads me down a tangle of avenues and alleyways, past shouting vendors, beggars, and whorehouses. A dilapidated streetcar, pulled by a team of tame *barikhar,* trundles past as we turn a corner. Broad rays of light in every color shine down from the storefronts' blazing neon signs, glowing in the deepening mist rising off the sea. Nobody accosts us, but Taya seems to navigate without regard for her own safety. Though after what she did in the tavern... maybe she has good reason.
 
@@ -207,7 +208,7 @@ Slave traders.
 
 "Here we are." Taya leads me towards one of the old stone buildings. She slides the door back, holding it for me as I follow her in. Inside is a warm little lobby, full of potted plants, flickering candles, walls painted in vibrant pastel landscapes, a huge bay window looking out over the ocean. The scent of the smoky air is a rich, intoxicating medley of incense and burnt *şen.*
 
-A native Sara clerk is reclining in his seat, feet propped up next to an overflowing ashtray on his desk, a smoldering cigarette in his mouth. He nods amiably at us over the newssheet in his hands as we pass through. I smile at the sound of my native tongue on the radio. It's a sappy love song, but honestly, most of our music is. Traditional instruments and rhythms mix enticingly with the deep, thrumming chords of an electric *pai ĉiņ* and what sounds like the meter of Khmai wintersong.
+A native Sara clerk is reclining in his seat, feet propped up next to an overflowing ashtray on his desk, a smoldering cigarette in his mouth. He nods amiably at us over the newssheet in his hands as we pass through. I smile at the sound of my native tongue on the radio. It's a sappy love song, but honestly, most of our music is. Traditional instruments and rhythms mix enticingly with the deep, thrumming chords of a galvanic *pai ĉiņ* and what sounds like the meter of Khmai wintersong.
 
 For all its sins, Saravan's at least got good music.
 
@@ -215,11 +216,11 @@ I follow Taya up a few flights of stairs. It's a struggle to keep up with her. I
 
 I pause to gaze out over the railing and take a deep breath of the ocean air. We're high enough up to see the lights of the other islands stretching away into the fog, until they're nothing but a warm glow in the evening sky. From up here, you could almost think this place was beautiful.
 
-Taya brushes a hand against a door and the electronic lock chirps obediently. She pushes it aside and ushers me into a cozy little candlelit room. There's a kitchenette near the entrance, an icebox, a range, a teakettle. As Taya closes the door, I bend down to unbuckle my shoes, and dig my toes into the soft carpet.
+Taya brushes a hand against a door and the galvanic lock chirps obediently. She pushes it aside and ushers me into a cozy little candlelit room. There's a kitchenette near the entrance, an icebox, a range, a teakettle. As Taya closes the door, I bend down to unbuckle my shoes, and dig my toes into the soft carpet.
 
 "It's so warm," I murmur, looking at her gratefully. Nothing like my dank, dark little cabin atop a tavern full of screaming drunks.
 
-"This hotel was one of the first places they built when the *vareçta* was founded," Taya remarks, stepping out of her sandals and sliding them against the door. "It's not just some ancient hull the Zyahua dragged down from orbit and hollowed out to piss in. The Sara built it themselves, with all the love and care they put into their caravan-wagons and sea-ships." She smiles. "They meant it to be a place for weary travellers to rest. Would you like food? Tea?"
+"This hotel was one of the first places they built when the *vareçta* was founded," Taya remarks, stepping out of her sandals and sliding them against the door. "It's not just some ancient hull the robins dragged down from orbit and hollowed out to piss in. The Sara built it themselves, with all the love and care they put into their caravan-wagons and sea-ships." She smiles. "They meant it to be a place for weary travellers to rest. Would you like food? Tea?"
 
 "Yes, please." I smile at her gratefully. "Thank you so much."
 
@@ -263,21 +264,21 @@ She smiles. "You're from the Empire, aren't you?"
 
 "Yeah."
 
-"Does the name 'Shadow' mean anything to you?"
+"Does the name 'Shadow' or 'Duskwraith' mean anything to you?"
 
-I nod. "Oh. Y-yeah. They're... the Empress fought a war with them, didn't she? A long, long time ago." I shiver. "And they killed her. They wiped out Carnelian. The whole planet burned. They say it was the first war the Empire ever lost."
+I nod. "Oh. Y-yeah. They're… the Empress fought a war with them, didn't she? A long, long time ago." I shiver. "And they killed her. They wiped out Carnelian. The whole planet burned. They say it was the first war the Empire ever lost."
 
-She looks away, her face falling. She clasps her hands in her lap. "It is a cruel thing to be remembered for. All our triumphs, our arts, all the wonders of our civilization, and the first thing the galaxy thinks of when it thinks of my people is the world we drowned in fire and blood." She sighs. "I suppose it is meagre justice to the souls of our victims, may they ever hence know the peace we denied them."
+She looks away, her face falling. She clasps her hands in her lap. "It is a cruel thing to be remembered for. Our high glories, our arts, all the wonders of our civilization, and the first thing the galaxy thinks of when it thinks of my people is the world we drowned in fire and blood." She sighs. "I suppose it is meagre justice to the souls of our victims, may they ever hence know the peace we denied them."
 
-I stare at her in terror and wonder, my heart beginning to race. "You're... *a Thalisan?"*
+My nerves thrum with terror and wonder. *That's not fucking possible,* I think, but my pounding heart pays no heed. "You're... *a Thalisan?"* I manage. *They disappeared, they left, they're* gone—
 
 "I am." She looks at me tenderly. "Does that frighten you?"
 
-"I..." I nod. "A l-l-little bit, yeah? I m-mean, I've... never m-met one of your kind before -- I almost th-thought... y'know, almost thought you were a myth." I laugh nervously. "All I even know about you is, um. Old traders' tales. Crazy things, impossible things."
+"I..." I nod. "A l-l-little bit, yeah?" I sqeeak, cringing. "I m-mean, I've... never m-met one of your kind before -- I almost th-thought... y'know, almost thought you were a myth." I laugh weakly, high pitched and false. "All I even know about you is, uh. Old traders' tales. Crazy things, impossible things."
 
 She strokes my thigh gently, and even though my fear I can feel myself blushing. "Do you think I'm going to hurt you?" she asks quietly.
 
-"I... I mean, this *is* a moon full of monsters," I murmur, looking away. "And you're... God, I've heard so many scary stories."
+"I... I mean, this *is* a moon full of monsters," I whisper, looking away. "And you're... God, I've heard so many scary stories."
 
 She squeezes my thigh. "I give you my solemn word, little Honor. I do not ever want to hurt you."
 
@@ -291,13 +292,13 @@ She smiles down at me. "That is no small thing, *sunqaya.* Here. Give me you arm
 
 I hold out my arm and she takes me by the elbow. Under my thin jacket my limbs are bare except for a tattoo here and there. Rose's knife cut right through one of my favorites.
 
-Taya places a hand softly on my arm, her own tattoos lighting up. Strands and motes of light come to life in the air around her fingers, coalescing around my wound. I shiver as I feel pinpricks around the gash, stare in wonder as it begins to knit together. It takes a few minutes, but when she's done, I can barely tell there was ever a cut at all.
+Taya places a hand softly on my arm, her own tattoos — or perhaps something else entirely — lighting up. Strands and motes of light come to life in the air around her fingers, coalescing around my wound. I shiver as I feel pinpricks around the gash, stare in wonder as it begins to knit together. It takes a few minutes, but when she's done, I can barely tell there was ever a cut at all.
 
 She releases me, the light fading away, and I gingerly brush the wound site with my hand. I can feel thin fibers under my fingers, like microscopic stitches holding the damaged skin together.
 
 "How did you *do* that?" I breathe.
 
-Taya holds up her hand, filaments of light winding through her fingers and stretching upwards, entwining and branching. I stare as an image of a tree forms midair, a tree made of glowing wires. "Your body is made up of cells," she explains. "Little motes of matter, smaller than the eye can see. They knit together, making up your skin and your organs and even your hair. Imagine if you could make your own cells and tell them what to do, what to build and create. If you could carry them around with you in an invisible cloud." The wireframe tree unwinds, scattering into dust and winking out. "We call them *qireta.* They make up our bodies, our clothing, our ships. They let us create with nothing but will, matter, and energy, to sculpt the world around us and even our own forms to suit our desires."
+Taya holds up her hand, filaments of light winding through her fingers and stretching upwards, entwining and branching. I stare as an image of a tree forms midair, a tree made of glowing wires. "Your body is made up of cells," she explains. "Little motes of matter, smaller than the eye can see. They knit together, making up your skin and your organs and even your hair. Imagine if you could make your own cells and tell them what to do, what to build and create. If you could carry them about you as a protective aura." The wireframe tree unwinds, scattering into dust and winking out. "We call them _qireta._ They make up our bodies, our clothing, our ships. They let us create with nothing but will, matter, and energy, to sculpt the world around us and even our own forms to suit our desires."
 
 "I've never seen anything like that," I breathe. "It's... it's like a miracle. Like you've tamed the spark of God within you. The power to... take away pain or heal with a touch... it's like something out of the old Zyahua legends. I feel like I'm dreaming."
 
@@ -305,7 +306,7 @@ Taya holds up her hand, filaments of light winding through her fingers and stret
 
 I take a slow sip, letting the rich flavors warm my mouth. I close my eyes. *"Ahh,"* I murmur. "You're right. This is really good."
 
-"I'm so glad you like it." Taya tousles my hair as she stands, walks over to the range. She flicks a switch and lifts a small pot off the burner. "Dinner's ready. No, don't get up, love; I'll pour you a bowl."
+"I am pleased you like it." Taya tousles my hair as she stands, walks over to the range. She flicks a switch and lifts a small pot off the burner. "Dinner's ready. No, don't get up, love; I'll pour you a bowl."
 
 "Oh! Thank you." I take the warm bowl gratefully, dip a spoon into the soup. It's the first food I've eaten in over a day and it tastes so good, I can't help but shovel it down.
 
@@ -323,11 +324,11 @@ I swallow another mouthful, wash it down with a gulp of tea. "You really want th
 
 "That sounds too good to be true."
 
-"Yeah, well, it was." I feel tears starting to trickle down my eyes. "We had to stop over at Saravan to recharge our drive, refresh the life support, make the calculations for the next jump. The usual bullshit. And we got hit by pirates."
+"Yeah, well, it was." I feel tears starting to trickle down my eyes. "We had to stop over at Saravan to refill the hydrogen tanks, refresh the life support, the usual bullshit. And we got hit by pirates."
 
 "...oh, no."
 
-"They jammed us so we couldn't call up the LSF for help. *Bountiful* didn't have any guns, captain wasn't licensed for it. They shut us down, boarded us. They took everything."
+"They jammed us so we couldn't call up the LSF for help. We didn't dare shoot back, God knows what they would have done to us then. They shut us down, boarded us. They took everything."
 
 "Oh, sweetheart."
 
@@ -339,7 +340,7 @@ The tears are streaming down now, my little body shaking and quivering with ever
 
 Taya sets her bowl aside and pulls me into her lap. I don't even try to resist, resting my head on her chest as she wraps her arms around me.
 
-"W-we all split up a little after that. The lucky ones had contacts here. Sweet little Holly had some slaver ex-girlfriend she ran away from who operated out of Sekësta; I g-guess she went crawling back to her." I squeeze my eyes shut, try to take a deep breath. "Captain muttered something about calling in a favor from the Cartel and got on a ferry. Boar just sort of disappeared one night. Owl blew her share on opium; sold herself to a brothel when she ran out. No one wanted to hire me, so when I heard tell Rose's operation was in town, I packed up and headed out here hoping she'd let bygones be bygones, and, well. You know the rest."
+"W-we all split up a little after that. The lucky ones had contacts here. Sweet little Holly had some slaver ex-girlfriend she ran away from who operated out of Sekësta; I g-guess she went crawling back to her." I squeeze my eyes shut, try to take a deep breath. "Cap'n muttered something about calling in a favor from the Cartel and got on a ferry. Boar just sort of disappeared one night. Owl blew her share on opium; sold herself to a brothel when she ran out. No one wanted to hire me, so when I heard tell Rose's operation was in town, I packed up and headed out here hoping she'd let bygones be bygones, and, well. You know the rest."
 
 "And there's no one offworld who'd take you in?"
 
@@ -347,7 +348,7 @@ I shake my head. "Ma kicked me out when I was sixteen. Never knew my pa. Been do
 
 "That's horrible. Honor, I am so sorry."
 
-"I thought maybe things were finally gonna be okay, you know?" I can barely choke the words out between body-wracking sobs. "I thought... I thought I'd f-finally h-have room to breathe. And now I have nowhere to go. Rose was my last shot. I've been treading water so long just to keep from drowning... God, I c-c-can't... I c-can't do this, I'm so tired, I can't... I don't know wh-what t-to do, I don't know where to g-go, I can't... God, I wish those fucking slavers *had* took me. At l-least they'd *feed* me, at least I wouldn't be sleeping on the street--"
+"I thought maybe things were finally gonna be okay, you know?" I can barely get the words out. The emotion of it all is catching up to me. "I thought... I thought I'd f-finally h-have room to breathe. And now I have nowhere to go. Rose was my last shot. I've been treading water so long just to keep from drowning... God, I c-c-can't... I c-can't do this, I'm so tired, I can't... I don't know wh-what t-to do, I don't know where to g-go, I can't... God, I wish those fucking slavers *had* took me. At l-least they'd *feed* me, at least I wouldn't be sleeping on the street--"
 
 "You are *not* going to sleep on the street, Honor. Honor, look at me."
 
@@ -367,7 +368,7 @@ I have no idea how long it lasts, but after a while, the intensity lessens just 
 
 I obey, and then--
 
-Taya is standing -- no, floating in front of me, holding me by my arms. It's pitch black. I can only make out her features by the light emanating from her intricate luxtoos. She spreads her hands and stars spread out around us, the cool glow of the Crown Nebula lighting up the dark. I turn my head and glimpse Saravan hanging in space, islands and continents and clouds laid out across its surface, the vast blue gas giant of Ümêtan rising behind. I turn back to Taya and stare at her in wonder.
+Taya is standing -- no, floating in front of me, holding me by my arms. It's pitch black. I can only make out her features by the light emanating from her intricate luxmarks. She spreads her hands and stars spread out around us, the cool glow of the Crown Nebula lighting up the dark. I turn my head and glimpse Saravan hanging in space, islands and continents and clouds laid out across its surface, the vast blue gas giant of Ümêtan rising behind. I turn back to Taya and stare at her in wonder.
 
 "We're-- where are we? How--"
 
@@ -377,9 +378,9 @@ Taya is standing -- no, floating in front of me, holding me by my arms. It's pit
 
 Taya nods, smiling. *Yes.* Her lips don't move; I hear the word like it's almost one of my own thoughts. *Look this way.*
 
-I turn to see a spacecraft, silhouetted against Ümêtan and the sun she orbits, unlike any I've ever seen. Her body is curved, elegant, flowing like water, more like a sculpture than a machine. We draw nearer, floating through space, strips along her hull lighting up a deep, radiant purple.
+I turn to see a spacecraft, silhouetted against Ümêtan and the sun she orbits, unlike any I've ever seen. Her body is curved, elegant, flowing like water, more like a sculpture than a machine. We draw nearer, floating through space, strips along her hull illuminating with a nebular refulgence.
 
-"This ship is mine," Taya continues aloud. "Her name is *Mvithraya* and she is my home among the stars. I have travelled alone for so long, and it would make me so happy to take you with me when the day comes that I tire of this place. You want a home, Honor? I can give you one. I can share mine with you. I can look after you, feed you, protect you. You will never be alone again. Nobody will ever have the power to hurt you again, and pain will have no hold on you. *Come with me."* Excitement is building in her voice, and I feel the euphoria rising in my body again, spreading through my chest, making me shiver with pleasure. I can *feel* her mind now, enveloping mine, gently steering my thoughts. "Let me show you the stars, Honor."
+"This ship is mine," Taya continues aloud. "Her name is *Mvithraya* and she is my home among the stars. I have travelled alone for so long, and it would please me to take you with me when the day comes that I tire of this place. You want a home, Honor? I can give you one. I can share mine with you. I can look after you, feed you, protect you. You will never be alone again. Nobody will ever have the power to hurt you again, and pain will have no hold on you. *Come with me."* Excitement is building in her voice, and I feel the euphoria rising in my body again, spreading through my chest, making me shiver with pleasure. I can *feel* her mind now, enveloping mine, gently steering my thoughts. "Let me show you the stars, Honor."
 
 I want to close my eyes, give into the bliss, melt in her arms as she caresses me with her hands and with her thoughts. "I..." I whisper, and stop, take a deep breath, shake my head slowly. This can't be real. I'm dreaming. Any minute now I'm going to wake up, back on that cot on the *Bountiful Steed,* Owl yelling at me to get dressed. This isn't possible--
 
@@ -401,7 +402,7 @@ What do I have to offer that makes me worth any of this?
 
 "I'll do my best to answer any question you have."
 
-"What is stopping you from just... taking me?" I squeeze my hands in my lap, looking up at her fearfully. "I've seen what you can do, how you can control people, punish them, make them feel and do what you want them to. You took down three strong mercenaries when you rescued me like it was nothing and I'm... I'm weak. I couldn't even defend myself from one of them."
+"What is stopping you from just... taking me?" I squeeze my hands in my lap, looking up at her fearfully. "I've seen what you can do, how you can control people, punish them, make them feel and do what you want them to. You took down three serious fucking mercs when you rescued me like it was nothing and I'm... I'm weak. I couldn't even defend myself from one of them."
 
 Taya fixes her gaze on me. "There is nothing stopping me," she replies levelly. She places a hand on my chest. I feel my limbs slacken involuntarily, my muscles fail. I can't move my arms or my legs, can't even turn my head. My mind feels suddenly empty, I can't think, can't speak -- all I can do is look up at Taya and listen.
 
@@ -423,7 +424,7 @@ Taya strokes my shoulders. "I know, love. I can feel just what it's like to you.
 
 I look up at her, suddenly blushing. "You... you can really... feel all of my, um. Hungers?"
 
-"Mm-hm." Taya nods, leaning forward until her lips are almost brushing mine. "Including this one."
+"Indeed." Taya nods, leaning forward until her lips are almost brushing mine. "Including this one."
 
 She puts a hand behind my head and pulls me in, kissing me slowly and tenderly. For a stunned moment all I can do is just sit there and take it, but after a moment I join in, returning the kiss with an almost desperate intensity. Euphoria floods through my body, and I can't tell how much of it is real and how much of it is her toying with my sensations. And I don't care. It feels so good, and so intense, like all the stress of the past month is flooding out through my lips.
 
@@ -431,19 +432,19 @@ We sit there for a few minutes making out passionately before Taya pulls away, s
 
 I nod, blushing furiously and fighting to catch my breath. "Th-thank you. Ah, God. Thank you so much. That was so wonderful."
 
-"I could tell you've been wanting that ever since you laid eyes on me," said Taya teasingly.
+"I could tell you've been wanting that ever since you laid eyes on me," says Taya, amused.
 
 I rest my head against her. "I... you're so beautiful. And you've been so kind to me. And I really like you. And... God, I like the things you do to me. But I am *so* scared."
 
 "You're afraid of what I *can* do to you."
 
-I nod. "I want to stay with you, where it's warm and safe and cozy. I want that so badly. But I... it would be taking so much on trust. And I've only known you for such a short while. I--"
+I nod. "I want to stay with you, where it's warm and safe and quiet. I want that so badly. But I... it would be taking so much on trust. And I've only known you for such a short while. I--"
 
-And then suddenly a horrible thought occurs to me and I look up at her in alarm. "Taya?"
+And then a horrible thought forces itself upon me and I look up at her in alarm. "Taya?"
 
 She frowns. "What's the matter?"
 
-"This... power you have. Other Shadows have it too?"
+"This... power you have. Other duskwrai— Thalisans have it too?"
 
 "We all do."
 
@@ -469,11 +470,11 @@ She nods. "It could happen. But as long as I'm with you, no one can touch you. N
 
 "They can't?"
 
-Again she shakes her head. "I've claimed you. I'm part of you now. If anyone else tried to control you, the power I've sewn into your nervous system would alert me and act as an immune system to protect you, just like if they were trying to control me. By the time they managed to wear your defenses down, I'd be able to intervene personally." She takes hold of me protectively. "And more importantly, they'd be breaking Conclave law by trying to take what's mine."
+Again she shakes her head. "I have claimed you. You are bound to me now; it is our law. If a dishonored rogue to scorn the law and undertook to control you, the power I've sewn into your nerve-web would alert me and act as an immune system to protect you, just like if they were trying to control me. By the time they managed to wear your defenses down, I'd be able to intervene personally."
 
-I shiver at the thought of little machines inside me enforcing Taya's will. So that's the *actual* calculation. If I go with her there's no guarantee she won't eventually start abusing me, abuse I'd never have any hope of escape from... but if I don't, as long as I'm stuck outside Imperial borders, there's a nonzero chance someone just as powerful with none of her kindness might come across me and decide to keep me. After watching what Taya did so casually to the mercenaries at the tavern... the thought of what someone else might do to me is too horrible to contemplate.
+I shiver at the thought of little motes of power inside me enforcing Taya's will. So that's the *actual* calculation. If I go with her there's no guarantee she won't eventually start abusing me, abuse I'd never have any hope of escape from... but if I don't, as long as I'm stuck outside the Imperial volume, there's a nonzero chance someone just as powerful with none of her kindness might come across me and decide to keep me. And if they can really *change their shape,* dare I even trust in mere borders to protect me? After watching what Taya did so casually to the mercenaries at the tavern... the thought of what someone else might do to me is too horrible to contemplate.
 
-And anyway. What are my odds of surviving here on my own long enough for anything to matter? Even if worst comes to worst, I'd still rather live as a slave to a loving mistress in a warm home with a soft bed than starve to death on the streets a free woman.
+And anyway. What are my odds of surviving here on my own long enough for anything to matter? Even if worst comes to worst, I'd still rather live as a slave to a gentle mistress in a warm home with a soft bed than starve to death on the streets a free woman.
 
 And... the thought of never again feeling the things Taya makes me feel, of being alone in my own head again forever... no whore no matter how skilled, no lover no matter how devoted could ever give me what she gives me so freely. Now that I've experienced what it's like to be hers, to be in her power, I don't think I could ever give it up.
 
@@ -483,11 +484,11 @@ I feel oddly relieved.
 
 "Okay," I whisper, hugging her tightly. "I'll stay with you."
 
-She wraps her hand around my neck again, pure physical bliss flowing from where she touched me, making me shudder and shiver. She rests her forehead against mine. "Good girl, Honor."
+She wraps her hand around my neck again, pure physical bliss flowing from where she touched me, making me shudder and shiver. She rests her forehead against mine. "I thank you, Honor."
 
 "Th-thank you so much for t-taking care of me," I say softly, between quiet murmurs of pleasure.
 
-She smiles, kissing me softly. "Thank you for letting me take care of you."
+She smiles, kissing me softly on the forehead. "Thank you for letting me take care of you."
 
 %next home.html Home
 %is coda ils/honor-taya.png

@@ -53,11 +53,11 @@ Peregrine nods, laughing shakily.
 
 Dove glances at Peregrine. “I don’t understand.”
 
-Iris purses her lips, clasps her hands behind her back. “Let me put it… put it this way,” she says, joining the two at the great stained-glass window. Kiteroost stretches out below them, mountains giving way to plains and plains to the dull orange glow of the sinking sun beyond the horizon. She gazes out, flinching as she sights the tiny, distant figure of a Guardswoman out on the street. “You, the great Duchess Dove Blackthorn,” she continues: “peer of the realm, inheritor and absolute ruler of the entire Blackthorn duchy—”
+Iris purses her lips, clasps her hands behind her back. “Let me put it… put it this way,” she says, joining the two at the great stained-glass window. Kiteroost stretches out below them, mountains giving way to plains and plains to the dull orange glow of the sinking sun beyond the horizon. She gazes out, flinching as she sights the tiny, distant figure of a Guardswoman out on the street. “You, the great Lady Dove the Lunarch Blackthorn,” she continues: “peer of the realm, inheritor and absolute ruler of the entire Blackthorn lunarchy—”
 
 “You can just say ‘profligate,’ you know,” Peregrine interrupts, taking a tidily folded gown from the arms of a quick-witted servant, whom she favors with a smile. “We know it’s what you mean.”
 
-“Profligate bourgeois parasite, then,” Iris replies, her gaze fixed on Dove’s face, searching for a reaction, finding none. “You, *Comrade Duchess,* just played a room full of gentry like a _pai çiņ_—”
+“Profligate bourgeois parasite, then,” Iris replies, her gaze fixed on Dove’s face, searching for a reaction, finding none. “You, *Comrade Lunarch,* just played a room full of gentry like a _pai çiņ_—”
 
 “Really, ‘comrade’ is fine.” Dove smiles. “We did all just cast off our titles.”
 
@@ -67,9 +67,9 @@ Dove and Peregrine look at each other. The erstwhile justiciar is idly buttoning
 
 “Not really?” Dove replies.
 
-“This… this is the *opposite* of how this goes,” Iris replies, her voice now slightly manic. “How it was *supposed* to go. I don’t mind telling you at this point, I’ve been spending half my nights trawling taverns looking for volatile malcontents, or in the Khmai Quarter handing out pamphlets, trying my *damnedest* to foment revolution against your rule, and you know what?” She takes a deep breath. “No one’s interested! Nobody besides a couple of drunken teenagers here and there. The proletariat doesn’t *want* to overthrow your tyrannical reign, and instead I just watched the top nobles in the duchy *swear a fucking Zyahua blood oath* — in *Khata’e’s* sight for some reason — to *overthrow themselves!* What— what the fuck _is_ this city?” She lets out a shaky laugh. _“Ja’ekhna ikotta’evai Mitikhe,_ I feel like any second now the General’s going to step around the corner and tell me this was all some… wacky practical joke.”
+“This… this is the *opposite* of how this goes,” Iris replies, her voice now slightly manic. “How it was *supposed* to go. I don’t mind telling you at this point, I’ve been spending half my nights trawling taverns looking for volatile malcontents, or in the Khmai Quarter handing out pamphlets, trying my *damnedest* to foment revolution against your rule, and you know what?” She takes a deep breath. “No one’s interested! Nobody besides a couple of drunken teenagers here and there. The proletariat doesn’t *want* to overthrow your tyrannical reign, and instead I just watched the top nobles in the lunarchy *swear a fucking Zyahua blood oath* — in *Khata’e’s* sight for some reason — to *overthrow themselves!* What— what the fuck _is_ this city?” She lets out a shaky laugh. _“Ja’ekhna ikotta’evai Mitikhe,_ I feel like any second now the General’s going to step around the corner and tell me this was all some… wacky practical joke.”
 
-“Do you know what the average income of a landed family is in this duchy, mistress?”
+“Do you know what the average income of a vassal family is in this lunarchy, mistress?”
 
 Swift is standing at the door. Her eyes and nose still red from crying, and as the three women turn to look at her, her gaze drops and she flinches.
 
@@ -81,7 +81,7 @@ Swift is standing at the door. Her eyes and nose still red from crying, and as t
 
 “The common folk, certainly,” Dove replies. “Her family, less so.”
 
-“I tried to have her aunt flogged once,” Peregrine says with a sigh. “The old hag would beat on poor Swift every time she came to town. Asserted the Privilege, of course, and when the jury convened they threw out the sentence I passed. Bleakfrost was the only one who bothered to turn up to back me. Gave quite the speech too, as I recall, not that it made the slightest difference. But do you know the worst thing?” Peregrine leans back against the window. “When the call went out that the baroness was on trial, one of the peers who came to sit on the jury was her sister. Swift’s mother. And she voted for immunity.”
+“I tried to have her aunt flogged once,” Peregrine says with a sigh. “The old hag would beat on poor Swift every time she came to town. Asserted the Privilege, of course, and when the jury convened they threw out the sentence I passed. Bleakfrost was the only one who bothered to turn up to back me. Gave quite the speech too, as I recall, not that it made the slightest difference. But do you know the worst thing?” Peregrine leans back against the window. “When the call went out that the Lady Vassal was on trial, one of the peers who came to sit on the jury was her sister. Swift’s mother. And she voted for immunity.”
 
 Iris stares at Swift, who nods, looking away. She turns her gaze to Dove. “She— why didn’t you *do* anything about this?”
 
@@ -109,13 +109,13 @@ Iris flushes hotly. Swift stammers.
 
 “Ahwh-wha— uh— wh-what were you, um, saying before?” Iris manages to ask Swift, flailing to change the subject. “Something about — about average incomes?”
 
-“Oh, yes.” Swift clambers to her feet, Iris helping her back up. “It’s not like the Traverse out here. Our Houses are small. The population is small too. It’s hard to bring in more than one or two hundred platinum a year. After— after tithes to the Empress, and tithes to the Duchess, and food and rent and salaries paid, it’s… not very much.”
+“Oh, yes.” Swift clambers to her feet, Iris helping her back up. “It’s not like the Traverse out here. Our Houses are small. The population is small too. It’s hard to bring in more than one or two hundred platinum a year. After— after tithes to the Empress, and tithes to the Lunarch, and food and rent and salaries paid, it’s… not very much.”
 
 “Owl was over a thousand in debt,” Dove adds. “Tithes have just been getting higher and higher since the War began. I paid out nearly half of my budget this year to the Imperial Treasury. The Court is bleeding us dry.”
 
 “Thank you again, milady, for—” Swift begins
 
-*“‘Comrade,’”* Dove corrects her gently. Swift flashes her an embarassed smile. “I’m not a duchess anymore.”
+*“‘Comrade,’”* Dove corrects her gently. Swift flashes her an embarassed smile. “I’m not a lunarch anymore.”
 
 “Then thank you again, *comrade,* for paying off all that debt I owed.”
 
@@ -249,13 +249,13 @@ Condor deigns to glare momentarily at the Colonel before returning her steely ga
 
 “You gravely overestimate your importance if you fancy yourself a hostage,” says Dove flatly.
 
-“Insolent weasel. I offer you this, O Duchess Blackthorn: heed me well, for any parley with a heretic is a boon undeserved, and should you scorn it there will come none further. You will release me immediately and throw yourself upon the mercy of the Guard, and in turn I shall beseech her Radiance that your children might live on as landless paupers. If your defiance persists, they will join the rest of your accursed House on the pyre. You will die in anguish and agony with the piteous screams of your daughter — *Falcon,* wasn't it? — ringing in your ears all the while, and the Blackthorn name will be vanished whole from the annals of histo—”
+“Insolent weasel. I offer you this, O Lunarch Blackthorn: heed me well, for any parley with a heretic is a boon undeserved, and should you scorn it there will come none further. You will release me immediately and throw yourself upon the mercy of the Guard, and in turn I shall beseech her Radiance that your children might live on as landless paupers. If your defiance persists, they will join the rest of your accursed House on the pyre. You will die in anguish and agony with the piteous screams of your daughter — *Falcon,* wasn't it? — ringing in your ears all the while, and the Blackthorn name will be vanished whole from the annals of histo—”
 
 *“Enough,”* growls a soldier, taking a step towards Condor. There’s an ornate brass and bronze rod in her bloodied hand, a prod intended for the encouragement of livestock. It lets off an evil galvanic crackle as her finger closes against the contact, sparks snapping between the two sharp spikes at the business end. “Long past time you was learned some *manners,* you sick freak of nature—”
 
 “Peace.” Dove holds up a hand; the soldier’s face falls in disappointment and she steps back, lowering the prod. “Your venom and ire will buy you naught, Dame-Colonel. You have naught with which to negotiate, even could you be trusted to honor your word; at this point, I would not trust you to uphold even a sacred blood oath, for you are a scoundrel and a barbarian, as is the rest of your kind, knowing nothing of honor or duty. If you imagine I come before you to wheedle and ply you for concessions or treaties, I fear I must disappoint. My sole purpose is that you see what your actions and your arrogance have wrought; thereafter I shall depart, and leave you to your peace.”
 
-“You… are *delusional.”* Condor shakes her head. “You capture one officer through the blackest of treachery and deceit, and this so emboldens you to think you may challenge the Imperial Guard in open battle? Your reign is at its end, and your forces will be slaughtered if they have not the sense to reclaim their honor by turning upon you. Such is what *your* actions have wrought, *O Duchess.*”
+“You… are *delusional.”* Condor shakes her head. “You capture one officer through the blackest of treachery and deceit, and this so emboldens you to think you may challenge the Imperial Guard in open battle? Your reign is at its end, and your forces will be slaughtered if they have not the sense to reclaim their honor by turning upon you. Such is what *your* actions have wrought, *O Lunarch.*”
 
 “I do not doubt it would be so,” Dove returns evenly, “but for one troublesome detail. You see, Dame-Colonel, between the rapine, bloodshed, and violation your wicked troops have worked upon my people, the uncaring silence of your mistress at the Capital, and the scorn even of she who names herself Empress, you of the Empire’s party have shown I was grievously mistaken to reckon the nature of this war as I once did. Taken in like a common mark by slander and malicious deceit. In a way, I suppose I owe you some gratitude in this, Dame Condor: for you at last have cleared my eyes, and lain bare the name and nature of the true enemy in this war of wars.”
 
@@ -287,7 +287,7 @@ Dove is quivering now, her voice shot through with uncharacteristic hints of emo
 
 Dove stands, slowly wiping the spittle from her face with a sleeve, and holds out a hand. Her soldier immediately steps forward, proferring the galvanic prod. Dove takes it. “I have no use for torture of the body, O Dame. It brings my tattered spirit no comfort. But I do not know that I can speak for all my *comrades* in this.” She turns, and holds out the rod handle-first. “Comrade Swift. You have suffered the most of any of us from this creature’s reign of terror upon my city. I would remiss not to offer you the opportunity to avenge yourself upon her, if this would please you.”
 
-Swift stands frozen for a moment, eyes wide, her whole body shaking. But then a sudden change comes over her, as though some force had reached out to steel her will, and she steps closer, that familiar look of determination on her face. There’s a note of mania in her voice, and her lips tremble as she speaks. Her hand closes around the rod’s grip.
+Swift stands frozen for a moment, eyes wide, her whole body trembling. But then a sudden change comes over her, as though some force had reached out to steel her will, and she steps closer, that familiar look of determination on her face. There’s a note of mania in her voice, and her lips tremble as she speaks. Her hand closes around the rod’s grip.
 
 “It would please me greatly, Comrade Dove.”
 

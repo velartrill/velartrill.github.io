@@ -4,7 +4,7 @@
 
 The warm equatorial wind massages my face as I step out of the plane. I take a deep breath of the fresh air, squinting in the light of the noon sun. The heat feels good after the clammy cold of the flight from Destiny Garden, and I roll back my sleeves as I gaze around. There's green everywhere I look, moss and vines crawling up the low, blocky concrete of the Embassy buildings, with trees soaring from green balconies on each level, giving the impression of an ancient jungle temple lost to the ages.
 
-It would be criminal, I reflect, to build buildings so short in Republic territory. Anything less than thirty stories would be a shameful waste of space in our densely-packed cities. Or on most *den tsuang* worlds, for that matter. Here, though, the buildings are sparse, woven between gardens and watercourses. It feels more like the decadent estate of a wealthy countess than a military base.
+It would be criminal, I reflect, to build buildings so short in Republic territory. Anything less than thirty stories would be a shameful waste of space in our densely-packed cities. Or on most *den tsuang* worlds, for that matter. Here, though, the buildings are sparse, woven between gardens and watercourses. It feels more like the decadent estate of a wealthy Solarch than a military base.
 
 *Is the whole Society like this?* I wonder.
 

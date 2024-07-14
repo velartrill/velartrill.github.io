@@ -198,11 +198,11 @@ Jasmine rubs her forehead. "Yeah. That. You know what you were saying earlier ab
 
 "--but that means registration and not everyone wants to."
 
-"Yeah." Jasmine sighs. "And I don't blame them, honestly, after that shit the last duchess pulled."
+"Yeah." Jasmine sighs. "And I don't blame them, honestly, after that shit the last lunarch pulled."
 
 "Wait, back up, what?"
 
-"Right, you weren't here for that. The old duchess -- not Raven, her mother -- really, *really* hated the homeless, things were... *really* bad back in those days."
+"Right, you weren't here for that. The old lunarch -- not Raven, her mother -- really, *really* hated the homeless, things were... *really* bad back in those days."
 
 Sashuan grimaces. "Considering how bad things were under Raven..."
 

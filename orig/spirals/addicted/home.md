@@ -1,5 +1,6 @@
 # Home
 %byline from a serial by Lexi Summer Hale
+%with style set/saravan.css
 
 Sekësta. The arse of the archipelago. Shithole to end all shitholes. My final destination.
 
@@ -13,7 +14,7 @@ I glance morosely at a dealer wandering down the hill, shouting in three differe
 
 I sigh, and zip my purse back shut. The last thing I need is a pickpocket making off with what little I've got left.
 
-Navigating by memory, I head up the avenue towards the hilltop. The place hasn't changed much. Greasy taverns across the street from slave pens. A Kaparttu hawking "authentic Khmai cuisine" from a dilapidated food cart. A small squad of enforcers herding freshly-captured slaves into a processing center. This place reeks of human misery.
+Navigating by memory, I head up the avenue towards the hilltop. The place hasn't changed much. Greasy taverns across the street from slave pens. A Kapa hawking "authentic Khmai cuisine" from a dilapidated food cart. A small squad of enforcers herding freshly-captured slaves into a processing center. This place reeks of human misery.
 
 I stop outside one of the nicer buildings, and gazing up at it, I take a deep breath. It's not too late to turn back, I remind myself.
 
@@ -173,11 +174,11 @@ I sigh. "Here it comes."
 
 I glare at her. "That's not fair."
 
-"Well, guess what, sweetheart? Life isn't fair!" Swan grabs me by the hair, digging her nails into my scalp. "Pirates aren't fair. Slavers aren't fair. Hyperdrive malfunctions aren't fair. You had a chance, a rare fucking chance, to be *safe* in this goddamn shithole of a universe, and you threw it away because you cared more about gallivanting around the Jeweled Abyss on some grand adventure than *keeping your fucking commitments!"*
+"Well, guess what, sweetheart? Life isn't fair!" Swan grabs me by the hair, digging her nails into my scalp. "Pirates aren't fair. Slavers aren't fair. Drive malfunctions aren't fair. You had a chance, a rare fucking chance, to be *safe* in this goddamn shithole of a universe, and you threw it away because you cared more about gallivanting around the Jeweled Abyss on some grand adventure than *keeping your fucking commitments!"*
 
 I grit my teeth, tears dripping from my eyes. "Y-you're hurting me."
 
-"And what are you going to do about it, badass? Can't you 'take care of yourself?'" I cry out in pain as she pulls harder. "Have you forgotten what your parents did to you? To your brother? How many thugs have pushed you around and used you and *hurt* you? Have you forgotten where all your scars came from?" She releases me slowly, putting a hand on my neck and cheek as her eyes bore into mine. "Or have you found some way to blame them all on me?"
+"And what are you going to do about it, badass? Can't you 'take care of yourself?'" I cry out in pain as she pulls harder. "Have you forgotten what your mother did to you? To your father? How many thugs have pushed you around and used you and *hurt* you? Have you forgotten where all your scars came from?" She releases me slowly, putting a hand on my neck and cheek as her eyes bore into mine. "Or have you found some way to blame them all on me?"
 
 I glare, wiping the tears out of my eyes with a shaking hand. "Sure. Humiliate me. Hurt me. Mock me. That's love, all right."
 
@@ -265,11 +266,11 @@ She nods. "Hands over your head."
 
 I obey and she slips the garment down over my body. I don't even remember the last time I wore a dress. The silky, thin, stretchy fabric is so different from the roughspun fibers I've grown used to in the past few years, caressing my skin and shaping itself to my body. Her fingers linger below my waist as she tugs on the short dress, smoothing out wrinkles and running her thumbs along my thighs.
 
-I run a hand along the dress idly. Gone is the sturdy buffer between my body and the world, the pockets full of screws and bolts and odds and ends, the purse full of coin. My skin feels suddenly sensitive and tender, like I'm some blushing maiden on her wedding night and not the hardened star-trotting engineer I can just barely remember being. Fully clothed and I still feel so naked.
+I finger the fabric of the dress idly. Gone is the sturdy buffer between my body and the world, the pockets full of screws and bolts and odds and ends, the purse full of coin. My skin feels suddenly sensitive and tender, like I'm some blushing maiden on her wedding night and not the hardened star-trotting engineer I can just barely remember being. Fully clothed and I still feel so naked.
 
 It's like I never left. Like there's been some break in my timeline, like suddenly all the years have collapsed in on themselves and I'm that same frightened, defenseless girl again.
 
-And Swan can tell. She's in the business of breaking people down, taking away their self and their agency, making them raw and vulnerable. Her smile is simultaneously tender and predatory as she steps closer and runs her hands down my bare arms.
+And Swan can tell. She's in the business of breaking people down, taking away their self and their agency, making them raw and vulnerable. Her smile is simultaneously tender and predatory as she steps closer and strokes my bare arms.
 
 "You look so much better like this," she murmurs, kicking my old clothes against the wall. She runs her fingers through my hair, brushing my scalp with her fingernails and making me shiver. "You've been away for too long. Welcome home, Holly. Welcome back to where you belong."
 

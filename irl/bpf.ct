@@ -1,0 +1,55 @@
+# on the humble Berkeley Packet Filter, and the hungering pits of madness
+%byline in which Lexi Summer Hale tilts at windmills
+
+i have a hard time articulating just how colossally boneheaded everything around BPF is.
+
+like. okay. some background here. i'm an SF writer. i put an unhealthy amount of effort into worldbuilding. my series bible for [>spirals Spirals] is longer than the entire published Spirals canon. among other details, i have devoted serious thought to how exactly computers work in that setting (which is not of our universe, present, future, or past).
+
+the most detailed notes i put together are about how the [>society Society of Worlds] would build its computers and architect its OS. and the main conclusion i came to is, they would make the physical hardware as simple as possible (but no simpler!) while maintaining adequate performance, and leave the actual thinking up to the software. possibly an [^perf OISC] design with no MMU, no privilege rings, no preemptive multitasking, none of that bullshit.
+	perf: yes, these can in fact be as performant as our overgrown CISC ISAs
+	
+instead, for security and multitasking stability, their applications are all written in managed code. there's no distinction between a kernel and a machine-code compiler, between "user space" and "kernel space". what there [!is] is a very small base of unmanaged, trusted code (signed with the machine's root-of-trust key, usually a Tel Casran -> planetary authority -> [![>rantal]] authority certificate chain) that makes up the bootloader and the smallest possible part of the kernel. and the rest is [!high-level] managed code, which where necessary is JITted by the kernel. there's no need for a "verifier" because the fundamental constraints of the managed language(s) are such that there's no way to express unsafe operations. non-constant loop? the JIT will just insert periodic jumps back into the kernel (no need for a syscall instruction!) and there's nothing the managed code can do about it. yes, the compiler itself would be complicated, and it could have errors. but i'm pretty damn sure that 
+: it would be less complicated that the 6-dimensional fractal rat's nest that is the [![^loki Loki-spawned] Linux kernel], wherein you are [!almost certain] to be eaten by a grue
+: in over a thousand years of technological civilization under responsible leadership, and with no hype-gargling corporate sociopaths to appease, [!they've worked out the kinks by now].
+
+(2) is obviously utopian beyond what even the Chinese can hope to achieve in the near term. (1), however, is entirely plausible even in this vale of tears where Scrum exists and high-speed rail doesn't.
+
+	spirals: https://ʞ.cc/fic/spirals
+	society: https://ʞ.cc/fic/spirals/society
+	rantal: https://ʞ.cc/fic/spirals/glossary.html#ranuir.d.rantal
+	loki: i am absolutely not implying that Linus Torvalds is an avatar of the trickster god of chaos and strife. unfortunately, most of the other linux contributors [!unambiguously are]
+
+now, let us consider the progression of affairs in that sad sublunary realm, wherein we mortals dwell.
+
+: CISC arches get unfathomably CISCier with each year that passes
+: a modern CPU is an eldritch artifact beyond human ken, which only the most exalted of dark cults can hope to assemble, through degenerate rites that leech the earth of its vital essence
+: kernel devs invest absolutely everything into a privilege ring architecture that locks userspace out of the kernel's secrets at the hardware level
+: kernel devs continue their traditional pastime of cramming inane new features into the process context
+: kernel devs note with alarm and confusion that kernel<->userspace context switches are, impossibly, only getting more complex and difficult and [!slow]
+: the Black Coven of Mountain View grows angry, as context switches cost it approximately $69 trillion dollars per full moon
+: the Black Coven sends its foulest liches to infest the LKML until it stops bleeding money
+: kernel devs realize, hey, this whole context switching problem, it just goes away if we can smuggle the code into kernel space. somehow. will this appease the Google lich horde? please O Daemon-Sultan Azathoth have mercy
+: kernel devs [^unfair do not understand] the concept of managed code, and so are doomed to reinvent it. poorly
+: rather than using high-level structured constructs that can be reasonably interrogated and symbolically manipulated, they seize on the nearest available bytecode format like a drowning man gasping for air. mercifully, [^worse this is not wasm]
+: linux grows an entire parallel model of programming and security, with a JIT compiler and "verifier" integrated into the kernel itself, which has nothing whatsoever in common with conventional Linux application code, and which 99% of software will never need or (so long as divine mercy remains with us) use
+: the liches grudgingly stop devouring the souls of core contributors, but the kernel devs have made their bed and must now sleep in it forevermore
+: shockingly to absolutely everybody, it proves algorithmically nontrivial to prove that a sequence of arbitrary bytecode compiles down to a harmless series of instructions across a broad range of ISAs with the built-in get-out-of-security-free feature known as speculative execution. i tell ya, nobody saw this coming!
+: BPF exploits begin to crop up with monotonous regularity, yet those accursed acolytes of the Crawling Chaos who abase their tongues by the unclean spell-words  "unprivileged BPF" are inexplicably not hung from the nearest gibbet and doused in holy water
+: kernel devs undertake a nigh-microsoftian campaign of firefighting, which continues until the heat death of the universe
+
+	worse: remember, children, that things could always be worse. yes, you may live in a dumpster behind PornHub HQ, eking out a living by selling your vital organs to passers-by, with a meth habit the size of Sagittarius A* and a revolving cast of abusive boyfriends, but look on the bright side -- it's not raining snakes!
+		yet.
+	unfair: i am probably being slightly unfair to the Linux development community throughout this jeremiad.
+		well, tough. life ain't fair.
+
+we now live in the worst of both worlds. we have all the complexity of Society-style in-kernel compilation [!and then some], all the complexity of hardware privilege management, all the performance of rapid-fire context switching, all the security guarantees of a Black Hat Spectre exploit competition, all the user-friendliness of the [!Kitāb al-῾Azīf], all the tractability of [^exaggerate the halting problem], and none of the benefits of managed code. the scope of BPF will soon enter its very own inflationary epoch, and the Linux kernel will be stuck maintaining this abortion until the stars come right and the Great Old Ones mercifully bring an end to the suffering of software developers by driving us all mad.
+
+epilogue: due to the use of a raw bytecode format, corporations can now ship binary kernel drivers [^gpl without ever sharing the source code]. executives across all the Nine Hells cackle with hysterical glee and begin developing sexecution/rowhammer rootkits to enforce their drm
+	gpl: yes, i [!am] aware that BPF code has to attest GPL compliance. and if you think that will make the slightest difference in either legal or practical terms, boy do i have a bridge to sell you.
+		effective restraints of this form [*are] actually possible, i believe, through legal chicanery pioneered by nintendo -- just refuse to run the code if it doesn't contain an unambiguously copywritable sequence of data (say, a BPF logo), whose copyright is owned by the FSF and licensed to anyone who makes their full source code available.
+		but that's not what they did. instead, your code has to [^pinky-swear] that it's GPL-compliant. as if that means anything for a bytecode format -- any fool can run ["objdump] on a binary! no, kernel devs may be devious enough to use five-star pointer indirections, but they're not devious enough to out-lawyer microsoft.
+	pinky-swear: i am unaware of any case law that conclusively establishes whether a pinky-swear constitutes a binding promise in contract law.
+	exaggerate: wow yes i am infact exaggerating you nerd. you dweeb. you unsalvageable dork. you unclean spawn of Hacker News by Shub-Niggurath, who blacken the stars by your very footstep. [!go outside and touch grass]
+
+personally, i disable BPF support at build time in the versions of the kernel i use. i pray to the Fates that this last refuge of sanity remain open to us. but recall, in its great wisdom, the Beast removed (okay, hid) the option to disable ecmascript in Failfox, proclaiming that ES support was as fundamental to the Web as HTML or CSS. the day does fast approach whereupon my text editor shall demand ["CAP_BPF] to run, and on that day, if gods be merciful and kind, [!i shall perish.]
+

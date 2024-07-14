@@ -38,23 +38,23 @@ The waymaster shakes his head and chuckles. "I'll not deny your coin." He begins
 
 He guffaws. "I'll have to fetch another from the cellar. I only keep that swill in stock for soldiers and beggars, in truth."
 
-Seri considers this, and nods decisively. "Right enough, I figure."
+Seri considers this, and nods. "Right enough, I figure."
 
 As the waymaster disappears down the back stairs, Seri turns her gaze belatedly to the crowded tables. The wretched drink is a better balm than she could have hoped to concoct on her own in the forest, suffocating her pains and enveloping her nerves and thoughts in a tranquil, soothing haze.
 
-The wayhouse is such an innocent place. There is no sign of danger. No pain and fear, no enemies in shadow. Not even a cutpurse to be seen. Just simple drunken reverie as far as the ear can hear. It's nice. It's comfortable. It's *tempting.*
+The wayhouse is such an innocent place. There is no sign of danger. No pain and fear, no enemies in shadow. Not even a cutpurse to be seen. Just simple drunken reverie as far as the ear can hear. It's nice. It's comfortable. It's [!tempting.]
 
 But forgetting is dangerous.
 
 Most of those present must be local farmhands, she decides. They lack the heavy kit and cloth incumbent on an autumn traveller, and their cheap tunics are dirtied with the muck of the fields, not the dust and wet of the road. They carry no blades, save perhaps for a working man's dagger or a carving knife. There is no menace in their mien; their faces, though dirty, are smiling the smiles of hard work well done. They are not here to drown their sorrows, but to celebrate a fat and fine harvest.
 
-Turning back from her covert scan of the crowd, her eyes linger on a young man leaning against the bar, handsome and slim with tousled blond hair. He's arrayed in leather cuirass, the livery of a Shen Tsaperdi courier. She feels a small pang of envy for the blushing girl pressed against his chest. There lies no courtship bond upon her wrist, and Seri purses her lips. *I could steal him. I* could. *Just for one night.* One night to rest and recuperate, bare and safe in the hands of another.
+Turning back from her covert scan of the crowd, her eyes linger on a young man leaning against the bar, handsome and slim with tousled blond hair. He's arrayed in leather cuirass, the livery of a Shen Tsaperdi courier. She feels a small pang of envy for the blushing girl pressed against his chest. There lies no courtship bond upon her wrist, and Seri purses her lips. [!I could steal him. I] could. [!Just for one night.] One night to rest and recuperate, bare and safe in the hands of another.
 
 It would be fair, and all. Look at the wench, a perfect body all wrapped in finery, with hands that haven't known a day's work. It would be lifting a copper off a patrician. She eyes the boy again, and reevaluates. A silver, perhaps.
 
 But her own bare body carries too many secrets now. Sighing, she makes herself look away, stilling the tears before they can escape her wearied eyes. The waymaster is tromping up the stairs again, a small cask of bitterbrand under his arm, and she forces herself to focus on the promise of further drink.
 
-And yet, she finds her gaze torn back to the flirting couple, more by uncertainty than lust. The girl is an uncommon one. Her fiery red hair, exotic features, and grey-tan skin mark her out immediately as Moravin-born. Seri has seen only a few in her time, always standing starkly out from their surroundings by their height and color, to say nothing of their haughty mien. Their eyes are the strangest thing about them, coming in as many different colors as a field of wildflowers, colors common to no other kindred. This girl is no exception, with ruby irises that glint devilishly in the brazier-light.
+And yet, she finds her gaze torn back to the flirting couple, more by uncertainty than lust. The girl is an uncommon one. Her fiery red hair, exotic features, and grey-tan skin mark her out immediately as Móravin-born. Seri has seen only a few in her time, always standing starkly out from their surroundings by their height and color, to say nothing of their haughty mien. Their eyes are the strangest thing about them, coming in as many different colors as a field of wildflowers, colors common to no other kindred. This girl is no exception, with ruby irises that glint devilishly in the brazier-light.
 
 What is a creature like [!you] even doing here, of all places?
 
@@ -90,7 +90,7 @@ Seri glances up at him. "I… see. Thank you. That is gracious of you." She fish
 
 "I'm sorry?"
 
-"Your papers, lass. Your passbook." His brow creases. "You *have* a pass, have you not?"
+"Your papers, lass. Your passbook." His brow creases. "You [!have] a pass, have you not?"
 
 "I…" Seri fumbles in her satchel theatrically. "Oh. Oh dear. I'm sorry, I'm not used to this. I must have left it behind."
 
