@@ -64,7 +64,7 @@ There's a pause. Then the world wavers. The gray of the sky brightens and the su
 
 She swallows hard, and looks up.
 
-Where Tirshad had been standing is a… woman? unlike anything Seluen has seen outside of sketches and photographs. Her skin is black — not the dark skin of a pureblood Rosie, but the jet-black of empty space. Her hairs streaks vividly between white and purple; her huge irises are the color of fresh lilac. She's wearing a similar garment, though hers is looser and flecked with red and gold. And she's… tall. Taller than humans should be able to be.
+Where Tirshad had been standing is a… woman? unlike anything Seluen has seen outside of sketches and photographs. Her skin is black — not the dark skin of a pureblood robin, but the jet-black of empty space, with nebular patterns of rose and violet shimmering just beneath the surface. Her hairs streaks vividly between white and purple; her huge irises are the color of fresh lilac. She's wearing a similar garment, though hers is looser and flecked with red and gold. And she's… tall. Taller than humans should be able to be.
 
 "Thank you," Seluen says quietly, exhaling. "What do you want me to call you?"
 
@@ -90,11 +90,11 @@ Nmeshirya regards her for a moment. "That depends on what you mean by 'alive.'"
 
 "…oh no. No, no, no—"
 
-"We found your bodies floating in an asteroid field. Your survey ship was compromised; as far as we can reconstruct, a high-velocity micrometeor impact disrupted your drive core moments before you shifted away. The mis-shift ripped your craft apart; bits and pieces of it are scattered across a cone oh-point-three parsecs long. You and everyone else aboard suffocated shortly afterwards." The woman's voice softens slightly. "Your neural architecture is impressive. A baseline could not have endured thirty-six hours of brain death and expect to be recovered remotely intact. You endured forty-nine. Your body was torn to pieces; your spinal cord was detached from its housing."
+"We found your bodies floating in an asteroid field. Your survey ship was compromised; as far as we can reconstruct, a high-velocity impact by a micrometeor or fossil munition disrupted your drive core moments before you shifted away. The mis-shift ripped your craft apart; bits and pieces of it are scattered across a cone oh-point-three parsecs long. You and everyone else aboard suffocated shortly afterwards." The woman's voice softens slightly. "Your neural architecture is impressive. A baseline could not have endured thirty-six hours of brain death and expect to be recovered remotely intact. You endured forty-nine. Your body was torn to pieces; your spinal cord was detached from its housing."
 
 Seluen's hyperventilating. "No… no no *no,* no, that's— how am— how is this, how are we—"
 
-"Your brain and spinal cord were sufficiently intact to preserve. I innervated your remains and began the process of resuscitation. Damaged native neurons have been salvaged and replaced with high-fidelity biosimulators; probabilistic reconstruction methods have restored approximately ninety-nine point nine six eight of your neural connections, only eighty-seven percent of which were fully intact at the time you were found. Your brain currently exists in a hybrid state of native wetware interoperating with nonnative wetware, hardware, and external sofware."
+"Your brain and spinal cord were sufficiently intact to preserve. I innervated your remains and began the process of resuscitation. Damaged native neurons have been salvaged and replaced with high-fidelity biosimulators; probabilistic reconstruction methods have restored approximately ninety-nine point nine six eight of your neural connections, only eighty-seven percent of which were fully intact at the time you were found. Your brain currently exists in a hybrid state of native wetware interoperating with nonnative wetware, hardware, and external software."
 
 "I'm just a copy?" Seluen whispers hollowly. "The real me has already passed on?"
 
@@ -168,9 +168,9 @@ Silver-hair turns back to Seluen, and with a wave of her hand Seluen feels gravi
 
 "Internal… what?"
 
-"I'll put it this way: you nosy foreigners aren't the only people with undue interests in the military secrets of the Free." Marenyeshta sighs. "We now believe Nmeshikarya Koroshqetai Niqamandai — our mutual acquaintance — is the mastermind of a series of etheric attacks and sector-sweeping operations that the First Circle has been tracking for the past seven cycles, trying to dig up intelligence on the weapon that was used to carry out the Carnelian Genocide. We have no idea what her motives were but we'll find out soon enough." Marenyeshta's eyes darken for a moment. "The woman is a bumbling child compared to a *real* interrogator."
+"I'll put it this way: you nosy foreigners aren't the only people with undue interests in the military secrets of the Free." Marenyeshta sighs. "We now believe Nmeshikarya Koroshqetai Niqamandai — our mutual acquaintance — is the mastermind of a series of etheric attacks and sector-sweeping operations that the First Circle has been tracking for the past seven cycles, trying to dig up intelligence on the weapon that was used to carry out the Carnelian Geocide. We have no idea what her motives were but we'll find out soon enough." Marenyeshta's eyes darken for a moment. "The woman is a bumbling child compared to a *real* interrogator."
 
-"…I never thought I'd hear a fucking Echo use the phrase 'Carnelian Genocide,'" Tirshad murmurs.
+"…I never thought I'd hear a fucking Echo use the phrase 'Carnelian Geocide,'" Tirshad murmurs.
 
 Marenyeshta's face hardens. "Perhaps this will surprise you, mortal, but the Free look no more fondly on our ancestors' war crimes than you do yours." She holds up a hand and an image appears in midair, a solar map with two pulsating icons drawing closer and closer together. "Fortunately for everyone concerned, we were able to trace a recent attack back to Nmeshikarya's physical presence. My ship is in-system and currently burning towards your position; I will arrive in approximately thirty-seven Carnelian minutes to complete my arrest and begin cleanup. Nmeshikarya's spirit has been sequestered from afar; she is of no further threat to you or anyone else."
 

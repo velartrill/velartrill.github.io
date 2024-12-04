@@ -2,7 +2,7 @@
 
 Feranya plays tenderly with the courier boy's short golden hair as she wipes blood from his neck with gentle strokes of a silk kerchief. She admits freely to herself that she got more than she bargained for tonight. Stressful, at first, given the circumstances, but, at the same time, she didn't realized how much she needed it. To just let go for a while.
 
-She had to reassert control eventually, of course, but for once it proved an exhilarating challenge. A fine game. She won in the end of course; it dampens her easy mood somewhat to admit it, but that was hardly ever in question. Woman though she might be, she has advantages beyond mere strength.
+She had to reassert control eventually, of course, but for once it proved an exhilarating challenge. A fine game. She won in the end of course; woman though she might be, she has advantages beyond mere strength.
 
 The boy is clearly lapsing in and out of consciousness. She shouldn't need to worry about him for a time. She kisses him fondly, massaging her wrists, and rises. A chill pierces the room as she opens the rain-pattered window, and she fastens up her wine-red bodysheathe to quell the shivers that take hold of her. The end of a cigarette blackens in the low candleflame and she lifts it to her lips, inhaling the warm, sweet smoke. It stings her lungs, and her body responds, senses sharpening, the day's fatigue receding. She turns her gaze outward.
 
@@ -78,9 +78,9 @@ Then something belatedly occurs to her.
 
 [!What exactly is going on here?]
 
-Feranya sheathes her blades at each thigh, pulling her cloak in around her, and then blunders out of the kitchen, swearing aloud as she trips over nothing in particular. "Fuck me up and sideways!" she exclaims in a grating rural accent. "Where is the blessed [!light—] oh!"
+Feranya sheathes her blades at each thigh, pulling her cloak in around her, and then blunders out of the kitchen, swearing aloud as she trips over nothing in particular. "Fuck me straight sideways!" she exclaims in a grating rural accent. "Where is the blessed [!light—] oh!"
 
-She feigns surprise as the fool Vigilants hurry up to her, praising the darkness for concealing her color as they help her to her feet. "Thank you, thank you so," she gushes, clasping one by the arm and latching onto him like a famished fangleech. "Lady be blessed but you can't see a [!thing] down here!" She looks up to the knight she's attached herself to. "Oh! Do [!you] know, where that [!ratfucked] water cask might be at? Or at least the ratfucking housemaster. If you can call him any such thing. This place is a right [!shambles], I tell you. A man ought to be shamed. Shamed, I say!"
+She feigns surprise as the fool Vigilants hurry up to her, blessing the darkness for concealing her color as they help her to her feet. "Thank you, thank you so," she gushes, clasping one by the arm and latching onto him like a famished fangleech. "Lady be blessed but you can't see a [!thing] down here!" She looks up to the knight she's attached herself to. "Oh! Do [!you] know, where that [!ratfucked] water cask might be at? Or at least the ratfucking housemaster. If you can call him any such thing. This place is a right [!shambles], I tell you. A man ought to be shamed. Shamed, I say!"
 
 The Vigilant gives an exasperated sigh halfway through the tirade, and glances at his partner. "Take the door, will you? I'll see to the poor clumsy wench."
 
@@ -96,4 +96,4 @@ She makes a show of fumbling with the cask faucet, before pausing and looking up
 
 The Vigilant claps his fist to his heart, likely more out of habit than anything else. "You are in the hands of Knights of the Vigilant Order, sworn protectors to all faithful and the Temple of the Sun, in the name of Lady and Prophet. You may be assured we are here to help."
 
-[!Yeah, and Valley longhorns enjoy a good game of peddler's tarot,] she doesn't say. Instead she affects the 
+[!Yeah, and Valley longhorns enjoy a good game of peddler's tarot,] she doesn't say. Instead she affects a countenance of idiotic awe. [!"Cor!]"

@@ -218,7 +218,7 @@ Livkir releases Niltar as the door closes behind Lisuan and she immediately roun
 
 “She isn’t— I’m not—” Livkir raises his hands. “Nili, why do you have to be this way? Novas above, she's not wrong, it really *is* like you go feral when Cas isn’t around. I don’t know how she keeps you under control!”
 
-“I’ll show you *feral!”* Niltar’s fist moves with ferocious speed and Livkir recoils, clutching at his stomach. “You’re *unbelievable!* First you want to lay down for Lisuan fucking Tegvari, then you go and try to make *me* bend over for her, what’s next, huh?” She slaps his cheek with enough force to send him stumbling. “The Empire? You gonna crawl on all fours and beg the Empress to flog you?”
+“I’ll show you *feral!”* Niltar’s fist moves with ferocious speed and Livkir recoils, clutching at his stomach. “You’re *unbelievable!* First you want to lay down for Lisuan fucking Tegvari, then you go and try to make *me* bend over for her, what’s next, huh?” She slaps his cheek with enough force to send him stumbling. “You gonna crawl on all fours and beg the Tenth Empress to flog you?”
 
 “G-guys—” Shalcas tries feebly to interject. Niltar ignores him.
 
@@ -276,7 +276,7 @@ Shalcas nods, biting his lip. "I… I see. I'm… I'm really sorry all this happ
 
 "You're one of the reasons she's alive too," Niltar says quietly. "Did the same thing for her she did for me."
 
-Livkir's cheeks redden slightly. "Oh -- really, it wasn't the same at all-- I just, I just made a medevac call, was all, nothing impressive. Anyway--" He turns back to Shalcas, eager to change the subject. "Cas took care of Nili when the rest of our cohort wrote her off as damaged goods. It scares me that the Shevran would just take her away like that. Don't they care? It's all there in the records, it's all official, they should *know* Cas is her guardian."
+Livkir's cheeks redden slightly. "Oh -- really, it wasn't the same at all-- I just, I just made a cas-evac call, was all, nothing impressive. Anyway--" He turns back to Shalcas, eager to change the subject. "Cas took care of Nili when the rest of our cohort wrote her off as damaged goods. It scares me that the Shevran would just take her away like that. Don't they care? It's all there in the records, it's all official, they should *know* Cas is her guardian."
 
 Shalcas looks away. "The Shevran are… they are a complicated agency."
 
@@ -284,7 +284,7 @@ Shalcas looks away. "The Shevran are… they are a complicated agency."
 
 The boy nods slowly. "I'm… I'm really not supposed to talk about this, but, well— they evacuated me when I was young. From… where I lived before here. It was kind of a big deal when it went down. And they… they saved me from some… really bad stuff. There was this one officer who probably saved my life. I just… I'm really grateful to them for that, and I really admire them, I think they're good people, truly, it's just…" He clasps his hands in his lap. "They're not part of the normal world. The Shevran doesn't come in unless the normal world has stopped working and needs to be… beaten back into shape. Every single agent who talked to me-- they were all so kind and caring and strong, every single one of them, but… I-- I don't really know how to put this into words."
 
-He gazes out the window for a moment. "I guess it's kinda like… they're used to playing by such different rules. They do things very differently, and they're… they're very forceful, and they're very strict. The kind of people who always use the _'[val](glossary.html#ranuir.d.val)'_ pronoun and never ever say _'[elen](glossary.html#ranuir.d.elen),'_ you know what I mean? They come in from the outside and they impose a new order, and they don't always think very much about the one that was already in place. Or they don't trust it. Or something. They… they expect total submission from everyone at all times. And they're incredibly powerful, so one way or another… they'll get it."
+He gazes out the window for a moment. "I guess it's kinda like… they're used to playing by such different rules. They do things very differently, and they're… they're very forceful, and they're very strict. The kind of people who always use the _'[val](glossary.html#ranuir.d.val)'_ pronoun and never ever say _'[elen](glossary.html#ranuir.d.elen),'_ you know what I mean? They come in from the outside and they impose a new order, and they don't always think very much about the one that was already in place. Or they don't trust it. Or something. They… they expect total submission from everyone at all times. And they're about as powerful as powerful gets, short of the Big Three, so one way or another… they'll get it."
 
 Livkir reaches out and rests a hand on Shalcas' shoulder. "Thank you for talking to us about this, Shay," he murmurs. "It sounds like it's not easy."
 

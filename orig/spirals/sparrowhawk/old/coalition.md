@@ -24,11 +24,11 @@ I cock my head. He seems unperturbed by the dagger at his throat.
 
 "That so?" I ask amiably.
 
-"Indeed." He takes a brooch from his cloak, holding it up to the light. It's their distinctive obsidian-in-ruby inlay, all right. I kick myself for not noticing it immediately. "I take it you do not require convincing."
+"Indeed." He takes a brooch from his robes, holding it up to the light. It's their distinctive obsidian-in-ruby inlay, all right. I kick myself for not noticing it immediately. "I take it you do not require convincing."
 
 "When a man confesses murder, the justiciars ain't often skeptical."
 
-He smiles, seeming a touch more genuine now, though perhaps he's simply attuned my wavelength. He returns the brooch to his cloak. "I see our reputation proceeds us. Tell me, if I sought to do you harm, "
+He smiles, seeming a touch more genuine now, though perhaps he's simply attuned my wavelength. He returns the brooch to his robe. "I see our reputation proceeds us. Tell me, if I sought to do you harm, "
 
 "It has recently come to the attention of our little group that circumstances have induced you to relinquish a Morningstar platinum membership."
 
@@ -80,7 +80,7 @@ He smiles. "Indeed. The bar was where Mistress Starsoul chose to indulge her fla
 
 I whistle softly. "That is the most Raven thing I have ever heard. Wow." I shake my head. "Brilliant. Brilliant and cruel. The gown didn't take the offer, did she?"
 
-"Indeed not. I suspect she did not think much of her chances against a duelist with such an… unnaturally prolongated history of experience with the sword. Particularly in null gravity. Rather than risk herself, she ordered her women to press the attack."
+"Indeed not. I suspect she did not think much of her chances against a duelist with such an… unnaturally prolongated history of experience with the sword. Particularly in null-grav. Rather than risk herself, she ordered her women to press the attack."
 
 "And they overheard the challenge, didn't they." I shake my head. Raven on one side, the gowns on the other. I can't decide which side I should be taking.
 
@@ -94,7 +94,7 @@ I drum my fingers. "What became of the gown?"
 
 "--or in Raven's custody." I shiver.
 
-He nods, drawing back. "The aftermath was, if anything, more significant than the battle itself. The Syndicate made a public show of compensating all those who lost property or kin during the fighting, and the Lady Lunarch took the Justicariat before her peers, demanding compensation and an apology for an action she insisted was illegal."
+He nods, drawing back. "The aftermath was, if anything, more significant than the battle itself. The Syndicate made a public show of compensating all those who lost property or kin during the fighting, and the Lady Lunarch took the Justicariat before her peers, demanding compensation and an apology for an action she insisted was without the law."
 
 "Wow. That can't have gone well for her."
 

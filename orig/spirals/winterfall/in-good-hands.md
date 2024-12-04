@@ -111,7 +111,7 @@ He laughs. "Damn right we are. Complain all you want, but that's the fact, *comr
 
 "How do you know this storm will ever end?"
 
-"Storms always end. They can't last. They're unstable; they take too much power to sustain — it's like a battery that's been plugged in for hours, and all that power gets blown off in the space of a moment. Humanity doesn't have the knack for true chaos in us; the storm always blows over, and when it does, it leaves a new order behind it. Usually a bad one, but you, me, Seli, Rose, and all the rest — we're the people who get to have some say in what that new order will be, because we're not part of this storm. We've got the power to stand against it, defy it, shelter who we will from heaven's wrath. That can make all the difference."
+"Storms always end. They can't last. They're unstable; they take too much power to sustain — it's like a battery that's been plugged in for hours, and all that power gets blown off in the space of a moment. Humanity doesn't have the knack for true chaos in us; the storm always blows over, and when it does, it leaves a new order behind it. Usually a bad one, but you, me, Seli, Rose, and all the rest — we're the people who get to have some say in what that new order will be, because we're not part of this storm. We've got the power to stand against it, defy it, shelter whom we will from heaven's wrath. That can make all the difference."
 
 "I can't tell if we're talking astropolitics or the weather anymore."
 
@@ -273,7 +273,7 @@ He pats me on the shoulder. "Well, we really don't have bougies or bluebloods, s
 
 "So they're not cunning, dastardly archvillainesses who live and breathe raw power?"
 
-"You've been watching too much *Space Admiral Starling,"* I reply. "No, they're clueless. Soft, silly, and easy marks, totally lost in their own worlds. And this girl was no exception. She had no idea what she was doing, and her bodyguards— well. Graycloaks are always morons, no matter what planet you’re on or whose land you’re in. Grabbing her was one of my easiest ops. Up in High Gate there was this awful soulless tavern — long since burned to the ground, thank God — where she'd go to get drunk on overpriced _bai dien_ and lose mommy's money at _due sham._ We bagged and dragged her on the way home, brought her to the safehouse, tied her to a chair, the usual. Pulled the gangster act, told her she was muscling in on our territory — I had fun dressing for that part. You know what she said next?”
+"You've been watching too much *Void Admiral Starling,"* I reply. "No, they're clueless. Soft, silly, and easy marks, totally lost in their own worlds. And this girl was no exception. She had no idea what she was doing, and her bodyguards— well. Graycloaks are always morons, no matter what planet you’re on or whose land you’re in. Grabbing her was one of my easiest ops. Up in High Gate there was this awful soulless tavern — long since burned to the ground, thank God — where she'd go to get drunk on overpriced _bai dien_ and lose mommy's money at _due sham._ We bagged and dragged her on the way home, brought her to the safehouse, tied her to a chair, the usual. Pulled the gangster act, told her she was muscling in on our territory — I had fun dressing for that part. You know what she said next?”
 
 “Lemme guess. ‘Do you have any idea who I am?’”
 

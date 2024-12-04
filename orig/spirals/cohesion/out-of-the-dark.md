@@ -52,7 +52,7 @@ For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, 
 
 "N-no! What the fuck, does that *happen* here?"
 
-"This is how we make sure it doesn't, comrade. Now, do you feel that you were provisioned adequate rations during your detention? —'Adequate' means we didn't starve you, dear," she adds, as Cassil starts to open her mouth.
+"This is how we make sure it doesn't, comrade. Now, do you feel that you were provisioned adequate rations during your detention? —'Adequate' means we didn't starve you, dear," she adds, as Cassil, expression vindictive, starts to open her mouth.
 
 "I… guess so, then."
 
@@ -64,7 +64,7 @@ For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, 
 
 "…I… I don't know."
 
-"That's fair. Were any methods that involved intentional infliction of pain or distress employed to effect compliance during interviews or alter your behavior at any point during your detention?"
+"That's fair. Was physical discipline employed to effect compliance during interviews or alter your behavior at any point during your detention?"
 
 "I wasn't *tortured* this time, no."
 
@@ -80,7 +80,7 @@ For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, 
 
 "Yup."
 
-"Do you wish to be released on your own recognizance or would you prefer to be released into the custody of another, whether a formally recognized *vartash* or otherwise?"
+"Do you wish to be released on your own recognizance or would you feel safer being released into the custody of another, whether a formally recognized *vartash* or otherwise?"
 
 "On my own, *thank* you."
 
@@ -100,7 +100,7 @@ For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, 
 
 "I guess."
 
-"Is there somewhere you would feel safer?"
+Mirvit looks up with an expression of concern. "Is there somewhere you would feel safer?"
 
 "Uh… not really, no." *Maybe the opposite end of the galaxy.*
 
@@ -116,7 +116,7 @@ For a moment, Cassil's eyes are fixed on Safris in the corner. Then she blinks, 
 
 "Let me *go*," Cassil interrupts, knuckles whitening. It comes out as more of a growl than she intended.
 
-Mirvit smiles brightly. "As you wish, of course! Now, I see here you were taken into custody along with a number of personal effects; do you wish these to be returned immediately to you upon release, shipped back to your unit dor— ah, forgive me, your cohort dormitory — sent to your personal travel dormitory, or disposed of altogether?"
+Mirvit smiles brightly. "As you wish, of course! We'll find you somewhere comfortable to bunk, don't worry. Now, I see here you were taken into custody along with a number of personal effects; do you wish these to be returned immediately to you upon release, shipped back to your unit dor— ah, forgive me, your cohort dormitory — sent to your personal travel dormitory, or disposed of altogether?"
 
 "I'd really like them back, please. Now."
 
@@ -126,7 +126,7 @@ Mirvit smiles brightly. "As you wish, of course! Now, I see here you were taken 
 
 "The nearest commune is the administrative seat. Rantal Shaivan. Further information is restricted, I'm afraid."
 
-"Oh." *High up in the Shadowpeaks, then. Great.* "In that case, um. Maybe an environment suit?"
+"Oh." *High up in the Shadowpeaks, then. Great.* "In that case, um. Maybe a light environment suit?"
 
 "That will not be a problem. Are the current sizes on file for you up to date and correct?"
 
@@ -162,7 +162,7 @@ She's awoken by the sound of the lock buzzer and sits up so sharply that her vis
 
 "You're being discharged," Safris replies gently, helping Cassil to her feet. "We're taking you to outprocessing."
 
-There's no armed guard this time, and the two officers lead her out of the cell down a long corridor filled with identical doors. They pass two guards in full body armor carrying combat rifles, and stop before a heavy blast door. The other woman steps back and pulls an iron gate shut in front of her, leaving Cassil and Safris alone as an alarm begins to blare. Safris adjusts her grip on Cassil's body, stepping behind her and taking hold of her waist with her free hand; Cassil shivers at the touch, and her muscles seem to slacken on their own.
+There's no armed guard this time, and the two officers lead her out of the cell down a long corridor filled with identical doors. They pass two guards in full body armor carrying combat rifles, and stop before a heavy blast door. The other woman steps back and pulls a steel gate shut in front of her, leaving Cassil and Safris alone as an alarm begins to blare. Safris adjusts her grip on Cassil's body, stepping behind her and taking hold of her waist with her free hand; Cassil shivers at the touch, and her muscles seem to slacken on their own.
 
 "I'm starting to think you *like* being manhandled, comrade," Safris murmurs, and Cassil feels her cheeks heat up. She stammers uselessly in protest for a moment, but trails off as the huge blast door starts to slide open, its bulk grinding loudly against the concrete floor beneath.
 
@@ -188,11 +188,11 @@ The sensation of Safris gripping her bare body with her soft, strong, half-glove
 
 "Would you like some privacy," Safris asks quietly, stopping by the door and turning to face her, but keeping one hand on her shoulder, "or would you like help getting dressed again?"
 
-Cassil takes a deep, shuddering breath, struggling to regain her composure. There's a growing, burning sense of need spreading through her body, a manic longing for… touch and catharsis that she's having trouble keeping down. "Answer me something?" she manages.
+Cassil takes a shuddering breath, struggling to regain her composure. There's a growing, burning sense of need spreading through her body, a manic longing for… touch and catharsis that she's having trouble keeping down. "Answer me something?" she manages.
 
 Safris grins. "If it's not a state secret."
 
-"Are you all talk," Cassil murmurs, stepping closer, gazing up into her eyes, "or are you actually going to make good on all that flirting?"
+"Are you all talk," Cassil demands, stepping closer, gazing up into her eyes, "or are you actually going to make good on all that flirting?"
 
 Safris giggles, and reaches out to pull the door shut. Cassil takes a sharp breath; the  room seems to darken and close in around them. "What ever do you mean, *comrade?"* the officer says softly, taking Cassil's neck in her hand and smirking at the shiver that runs through the girl's naked body.
 
@@ -200,9 +200,9 @@ Cassil blinks rapidly; she realizes she's breathing hard and fast, feeling sligh
 
 Safris runs her fingernails along the curve of Cassil's jaw, gently teasing her lips with a thumb, and Cassil trails off with a frightened little sound. Safris steps closer, pressing Cassil's back up against the cold stone wall, lips curling upward in delight at the look of desperation and longing in her eyes. "Anything for a comrade in need," she murmurs.
 
-The feeling of Safris’ soft lips on hers sends a jolt of pleasure and excitement through Cassil's body; she lets out a quiet gasp as the officer slips a knee between her thighs and presses firmly upwards. She effortlessly pins Cassil's wrists to the wall with a single hand, massaging the girl's breast as she teases her lips with her teeth and tongue, giggling at Cassil's futile attempt to break free. Within moments, she's reduced to a gasping, squirming mess under Safris’ hands, helpless in the grip of a woman who knows exactly how to keep her agitated and desperate. How to draw out the sensation exquisitely, hurting her just enough that she can't lie back and take it, how to make her struggle reflexively against Safris’ carefully honed and vastly more powerful body.
+The feeling of Safris’ soft lips on hers sends a jolt of pleasure and excitement through Cassil's body; she lets out a quiet gasp as the officer slips a knee between her thighs and presses firmly upwards. She effortlessly pins Cassil's wrists to the wall with a single hand, massaging the girl's breast as she teases her lips with her teeth and tongue, giggling at Cassil's futile attempt to break free. Within moments, she's reduced to a gasping, squirming mess under Safris’ hands, helpless in the grip of a woman who knows exactly how to keep her agitated and desperate. How to draw out the sensation relentlessly, hurting her just enough that she can't lie back and take it, how to make her struggle reflexively against Safris’ carefully honed and vastly more powerful body.
 
-After toying with her for a few minutes, Safris releases her wrists, and giggles, shivering a little, as Cassil slips her cold hands through the warm folds of her Shevran uniform to caress her soft, bare skin. Safris moves closer, slowly dialing down the cruelty and pain, letting Cassil relax in her arms. She kisses the girl's forehead softly as her eyelids flutter and she slowly closes her eyes, muscles going limp in Safris’ tight, warm, unbreakable grip. Her soft murmurs are punctuated by occasional gasps and yelps of pain as Safris draws her closer and closer to climax with the finesse of an expert.
+After toying with her for a few minutes, Safris releases her wrists, and giggles, shivering a little, as Cassil slips her cold hands through the warm folds of her Shevran uniform to caress her soft, bare skin. Safris moves closer, easing up, letting Cassil relax in her arms. She kisses the girl's forehead softly as her eyelids flutter and she slowly closes her eyes, muscles going limp in Safris’ tight, warm, unbreakable grip. Her soft murmurs are punctuated by occasional gasps and yelps of pain as Safris draws her closer and closer to climax with the finesse of an expert.
 
 "You like being on top, don't you, Cassi?" she teases, interspersing her words with soft kisses to the girl's lips. "I can tell you're not used to the submissive role at all." She swats Cassil's rear, eliciting a yelp of protest. "Pity. It suits you."
 
@@ -212,7 +212,7 @@ After toying with her for a few minutes, Safris releases her wrists, and giggles
 
 Cassil glowers, trying to look away, but Safris catches her by the chin. "Nah-ah, nope. Look me in the eye, Cassi." The girl squeezes her eyes shut, her cheeks bright red. Then she lets out a plaintive little cry, back arching as Safris pinches her nipple; Cassil squirms and struggles uselessly to try and break free. "Behave," Safris commands, tightening her grip until Cassil finally gives up and opens her eyes, which are watering from the pain.
 
-"There we go. Good girl." Safris rewards her with a deep, forceful kiss. "That wasn't so hard, was it?" She puts a hand over Cassil's mouth before the girl can reply, pressing even harder as she rubs her thumb against her partner's clit. She watches in delight as Cassil stares fearfully up at her, struggling to keep her eyes open, her gasps and moans muffled by Safris’ hand.
+"There we go." Safris rewards her with a deep, forceful kiss. "That wasn't so hard, was it?" She puts a hand over Cassil's mouth before the girl can reply, pressing even harder as she rubs her thumb against her partner's clit. She watches in delight as Cassil stares fearfully up at her, struggling to keep her eyes open, her gasps and moans muffled by Safris’ hand.
 
 She draws the torment out for an entire minute before she finally relents. As the girl's eyelids flutter and her body spasms with the force of the climax, Safris loosens her grip, sliding down to the floor and pulling Cassil into her lap. She holds her gently, stroking her lips and thighs as the aftershocks begin to fade. The exhausted girl leans back against her, resting her head against Safris’ shoulder, giggling quietly as Safris kisses her neck.
 
@@ -256,7 +256,7 @@ Safris digs her fingernails into Cassil's neck, smothering her mewls of pain wit
 
 "I'd like to see you again," Cassil murmurs quietly, as if she doesn't even want to admit it to herself. "I really would."
 
-Safris laughs delightedly. “Don’t you think that’s a little ideologically incoherent? The brave, outspoken rebel shacking up with the evil secret policewoman on the regular?”
+Safris laughs delightedly. “Don’t you think that’s a little ideologically incoherent? The brave, outspoken rebel shacking up with evil state security on the regular?”
 
 “Maybe I’m just trying to seduce you to my noble cause.” Cassil kisses her softly on the cheek. “A member of the evil regime would be a powerful ally to the Rebellion, after all. Who’s to say I can’t fuck the love of liberty into you?”
 
@@ -300,7 +300,7 @@ Safris laughs, and pulls her into a gentle hug. “For real, though. Stop starti
 
 Cassil rolls her eyes. "Since when do you care about what happens to random fucking prisoners?"
 
-"Cassi." Safris takes her softly by the neck with both hands. "You're one of the People. No one here is a 'random fucking prisoner' -- they're all real people, with real lives, real, heartbreaking stories more often than not, and they *all* need some kind of help to get those lives turned back around. This isn't just some birdcage, some hole for Rosie spies and prisoners of war. Everyone here matters, *everyone* here is worth fighting for, and on top of that I'm taking a liking to you."
+"Cassi." Safris takes her softly by the neck with both hands. "You're one of the People. No one here is a 'random fucking prisoner' -- they're all real people, with real lives, real, heartbreaking stories more often than not, and they *all* need some kind of help to get those lives turned back around. This isn't just some birdcage, some hole for robin spies and prisoners of war. Everyone here matters, *everyone* here is worth fighting for, and on top of that I'm taking a liking to you."
 
 Cassil gazes into her eyes. "You really believe, don't you?" she murmurs. "In the Society, I mean."
 
@@ -308,11 +308,11 @@ Cassil gazes into her eyes. "You really believe, don't you?" she murmurs. "In th
 
 “Why’s that?”
 
-“Because when I walk away from an action, the wound is whole again.” Safris caresses her cheek. “See, a few years back there was this commune that went bad. Social structure broke down completely. Civil servants were enforcing labor quotas with beatings and public humiliation all while they built themselves mansions and hoarded food. The Homeguard took what they wanted from whoever they wanted, right outta the Imperial Guard playbook. There was looting and rioting. Rampant drug addiction. It was like something out of a nightmare. The opposite of everything we’re supposed to be. The civvies couldn’t do anything because they were too fractured. The civil service was too incompetent to run the place correctly even if they’d felt inclined to, and they sure as shit didn't.”
+“Because when I walk away from an action, the wound is whole again.” Safris caresses her cheek. “See, a few years back there was this commune that went bad. Social structure broke down completely. Civil servants were enforcing labor quotas with beatings and public humiliation all while they built themselves mansions and hoarded food. The Homeguard took what they wanted from whoever they wanted, right outta the Imperial Guard playbook. There was looting and rioting. Rampant drug addiction. It was like something out of a nightmare. The opposite of everything we’re supposed to be. The civvies couldn’t do anything because they were too fractured. The civil service was too incompetent to run the place correctly even if they’d felt inclined to, and they sure as shit didn't.” She makes a face. "I'm *still* angry the local Shevran were somehow incompetent enough to let it get to that state. I hope that tit Pervin doesn't get to sit down without smarting for the next galactic rotation."
 
 “So what happened?”
 
-“What happened is the Shevran found out. I was fresh out of the Academy when they put me on the task force. It was one hell of a first mission, let me tell you. The Section Head called blank slate. They packed five whole railcars with soldiers, and sent us in on the Core Line. We took control of the whole _rantal_ by force, arrested damn near the whole civil service, sent most of the Homeguard off for reeducation. I swear, that week was damn near the worst of my life. I saw things I still have nightmares about. There was this one boy--” She stops, shakes her head. "We got him out. We got them all out." All of a sudden, it's like she's talking more to herself than Cassil. "We emptied out the commune and resettled the people who used to live there where we thought was best. They all lived. They *all* got second chances." She closes her eyes, and for an uncharacteristic moment, Cassil feels Safris’ arm tremble. "That's what matters. That's what I gotta remember."
+“What happened is the Control Council found out. I was fresh out of the Academy when they put me on the task force. It was one hell of a first mission, let me tell you. Seruan-*nillas* called blank slate. They packed five whole railcars with soldiers, and sent us in on the Core Line. We took control of the whole _rantal_ by force, arrested damn near the whole civil service, sent most of the Homeguard off for reeducation. I swear, that week was damn near the worst of my life. I saw things I still have nightmares about. There was this one boy--” She stops, shakes her head. "We got him out. We got them all out." All of a sudden, it's like she's talking more to herself than Cassil. "We emptied out the commune and resettled the people who used to live there where we thought was best. They all lived. They *all* got second chances." She closes her eyes, and for an uncharacteristic moment, Cassil feels Safris tremble. "That's what matters. That's what I gotta remember."
 
 “…'resettled'? You mean you dragged them out of their homes and forced them all to move to different communes?” Cassil glowers, shuddering. “I can’t imagine making a thousand people give up everything they'd ever known like that. *That* sounds like a nightmare.”
 
@@ -328,7 +328,7 @@ Cassil gazes into her eyes. "You really believe, don't you?" she murmurs. "In th
 
 Cassil shrugged. “So what happened to the commune once you'd emptied it out?"
 
-“It was a beautiful place when we built it. Lakeside dormitories, lots of arable land. It deserved a second chance. So after we cleared it out, we refounded it. It's a thriving community now; thriving and productive. Grows near half of the grain in Region Five, without anyone getting beat for not doing their jobs, or slaving their whole lives away in the fields. It's got one of the higher community cohesion indexes on the planet. *That* is why I believe in our system, Cassi.” She smiles faintly. "Sure, yeah, there's some brutal shit that happens sometimes. But we make sure everybody gets happy endings eventually. We don’t take the whole damn Universe for granted like the Echoes, sitting around and letting robots pamper their asses all day long, and we sure as shit don’t starve and murder and torture each other to get on top like the Rosies. We work hard, we know what life is worth, and—” She leans in and kisses Cassil on the shoulder. “—we take care of each other.”
+“It was a beautiful place when we built it. Lakeside dormitories, lots of arable land. It deserved a second chance. So after we cleared it out, we refounded it. It's a thriving community now; thriving and productive. Grows near half of the grain in Region Five, without anyone getting beat for not doing their jobs, or slaving their whole lives away in the fields. It's got one of the higher community cohesion indexes on the planet. *That* is why I believe in our system, Cassi.” She smiles faintly. "Sure, yeah, there's some brutal shit that happens sometimes. But we make sure everybody gets happy endings eventually. We don’t take the whole damn Universe for granted like the Echoes, sitting around and letting robots pamper their asses all day long or whatever the fuck it is they do, and we sure as shit don’t starve and murder and torture each other to get on top like the Rosies. We work hard, we know what life is worth, and—” She leans in and kisses Cassil on the shoulder. “—we take care of each other.”
 
 Cassil gazes up at her, narrowing her eyes. "I'm starting to think Seruan put you up to this."
 
@@ -344,7 +344,7 @@ Cassil's giggling uncontrollably. “Get *off!”*
 
 Cassil strains, squirming, trying to break free of the officer’s hold. Safris just smirks.
 
-"Definitely gray-sash. You don’t even have the muscles for black, let alone green!" She ruffles Cassil's hair. "We'll have to do something about that."
+"Definitely gray-sash. You don’t even have the muscle for black, let alone green!" She ruffles Cassil's hair. "We'll have to do something about that."
 
 "'We', now?"
 
@@ -374,7 +374,7 @@ As Safris reaches for the door latch, Cassil nuzzles her shoulder. “Hey. For t
 
 “Yeah?”
 
-“It is totally ideologically incoherent for a fucking mega-patriot like you to be screwing an anarchist hellion like me.”
+“It is totally ideologically incoherent for a fucking turbo-patriot like you to be screwing an anarchist hellion like me.”
 
 “I don’t know.” Safris grins. “I might fuck some loyalty into you yet.”
 

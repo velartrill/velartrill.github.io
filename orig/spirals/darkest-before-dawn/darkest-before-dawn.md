@@ -347,7 +347,7 @@ I grit my teeth, push the images aside, and lay the blanket out over Lishuen. Sh
 
 She looks up at me for a moment, and for the first time, her eyes are gentle, her face betraying nothing but gratitude and hope, suspicion and fear washed away. Slowly, hesitantly, she reaches out to take my hand.
 
-_“Tam elena uslafte Lishi,”_ she murmurs, finally closing her eyes. *You can call me Lishi.*
+_“Tam elena sulisafte Lishi,”_ she murmurs, finally closing her eyes. *You can call me Lishi.*
 
 I swallow hard, nod, squeezing her palm. “I’ll… be right back, then, Lishi.”
 
@@ -355,7 +355,7 @@ I swallow hard, nod, squeezing her palm. “I’ll… be right back, then, Lishi
 
 I turn towards her as I reach for the contact on to the wall.
 
-_“Coshvin, tam,”_ I call back, wiping a tear from my eye. _“Coshvin.”_
+_“Coshvin, tam,”_ I call back, wiping a treacherous tear from my eye. _“Coshvin.”_
 
 % is img-oversize 40
 % is coda ils/raven.png

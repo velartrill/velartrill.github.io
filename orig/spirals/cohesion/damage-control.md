@@ -108,7 +108,7 @@ Livkir fiddles with one of his braids. "I'm sorry," he murmurs. "I keep bringing
 
 Shalcas flashes him a grateful smile. "That's very thoughtful of you, Livk-- uh, Liv. Don't worry about it."
 
-"What exactly did you say in your message, if you feel okay with sharing? *--Relax,* Shay; you look like you're sitting at attention." Livkir slaps the back of the couch with his palm. _"Sol vali solte asha."_
+"What exactly did you say in your message, if you feel okay with sharing? *--Relax,* Shay; you look like you're sitting at attention." Livkir slaps the back of the couch with his palm. _"Sol vali asha solte."_
 
 Shalcas gives him an embarassed smile, and leans back against the cushions. "Sorry, I-- I just-- I'm… I don't know."
 
@@ -220,9 +220,9 @@ Niltar glares. "What right place was that, Liv? *What was it right for?"*
 
 "No. No!" Niltar sits up, punching him again. "She slit her wrists and she threw herself off a fucking bridge and you *jumped in the fucking river,* dragged her back to shore, and kept pressure on her wounds until medevac got there *so she wouldn't bleed out. That* is what you fucking did, Livkir."
 
-For a moment, the only sounds are the distant cries of night-birds and the soft rustling of the trees in the breeze.
+For a moment, the only sounds are the distant cries of lumen-birds and the soft rustling of the trees in the breeze.
 
-"T-technically it was a casevac—"
+"T-technically it was just a casevac—"
 
 "Livkir Tirvali *fucking* Tegvari!" Niltar punches him hard enough to elicit a yelp this time. "Blood and fire I cannot fucking *believe* you! *You saved her fucking life* and that's still not even it." Niltar turns to Shalcas. "’Cause you know what she'd been doing for like the last *year* or so before that happened?"
 
@@ -232,7 +232,7 @@ For a moment, the only sounds are the distant cries of night-birds and the soft 
 
 "Really, now, that's an exaggeration--"
 
-"--and then, after all that, after *all* that fucking time-- and you know, he never once defended himself, even though he has a red sash in UC *already* and she's always been a fucking wimp; he could have laid her out on her ass without breaking a sweat but he never raised a fucking finger against her-- and after all that bullying he went and *fucking saved her life* and sat by her all night in the CTC ’til she woke up the next morning." Niltar waves an accusing finger at Livkir. "That's what he fucking means when he says he 'called it in.'"
+"--and then, after all that, after *all* that fucking time-- and you know, he never once defended himself, even though he has a red sash in UC *already* and she's always been a fucking wimp; he could have laid her out on her ass without even trying but he never raised a fucking finger against her-- and after all that bullying he went and *fucking saved her life* and sat by her all night in the CTC ’til she woke up the next morning." Niltar waves an accusing finger at Livkir. "That's what he fucking means when he says he 'called it in.'"
 
 "I really don't get why it's such a big deal, anyone would have--"
 
@@ -427,13 +427,13 @@ Livkir's eyes widen -- and then widen further as he snatches the handset, scanni
 
 > _Lif a til, Shalcas-surin._
 > 
-> We have processed your report regarding Tegvari wards Niltar and Cassil. Thank you for bringing this matter to Shevran attention. You were correct to do so. We commend your judgment and your concern for the wellbeing of your comrades. It is well-placed and well-worded. Our inquiry is complete and I have been authorized to report to you the following.
+> We have processed your report regarding Tegvari wards Niltar and Cassil. Thank you for bringing this matter to Shevran attention. You were correct to do so. We commend your judgment and your concern for the wellbeing of your comrades. It is well-placed and well-worded. Our inquiry is complete and I have been authorized to brief you on the essentials.
 > 
 > Comrade Cassil Tegvari is currently in Shevran custody. She is unharmed and will remain so. She has already been cleared for release, which is scheduled at M7H tonight; on this point, no action is necessary.
 > 
 > Comrade Niltar Tegvari's safety is not a Shevran matter. Your concerns have been forwarded to the appropriate authorities with all due dispatch. If proper action is not taken on this point, such laxity will, as in the general case, be a matter of greatest concern to this agency, and we urge you to monitor the situation closely if you believe such a risk exists. Alternately, if you do not presently have the operational capacity to take responsibility for such a task but believe it necessary, the matter will be delegated appropriately upon your request.
 > 
-> The arresting authority in the matter of Comrade Cassil asks that I convey her deepest sympathy and regret to Comrade Niltar for the emotional harm unintentionally inflicted upon her. She has filed this inquiry for administrative review, and it may be used to improve standard custodial procedures to reduce the likelihood of a similar incident taking place in the future.
+> The arresting authority in the matter of Comrade Cassil asks personally that I convey her deepest sympathy and regret to Comrade Niltar for the emotional harm unintentionally inflicted upon her. She has filed this inquiry for administrative review, and it may be used to improve standard custodial procedures to reduce the likelihood of a similar incident taking place in the future.
 > 
 > Please do not hesitate to report any further matters in need of intervention to this contact point. When in doubt, always err on the side of reporting: remember that wasted administrative effort is of little concern in comparison with the magnitude of preserving a comrade's life and wellbeing.
 > 
