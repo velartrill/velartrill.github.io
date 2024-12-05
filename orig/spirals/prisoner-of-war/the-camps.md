@@ -2,11 +2,13 @@
 
 %byline from a serial by Lexi Summer Hale
 
-Savren can't help but let out a cry this time as the whip bites deep into her bare back. Her wrists twist frantically in the iron manacles holding them high over her head, muscles spasming in her shoulders. She can feel something wet dripping down her back. Blood.
+%img ils/savren-dungeon.png
+
+Savren can't help but let out a cry this time as the whip bites deep into her bare back. Her wrists twist frantically in the iron manacles holding them high over her head, muscles spasming in her shoulders. She can feel something wet dripping down her back.
 
 "You freaks do feel pain after all." A towering woman, half-silhouetted in the gloom, folds her arms, glowering down at the shirtless, helpless little soldier. "How many, Owl?"
 
-"Fifteen, ma'am."
+"Fifteen, milady."
 
 Sputtering torches mounted on the harsh stone walls cast an eerie, fluttering light through the otherwise dark chamber. Shadows dance before Savren's frightened eyes, shadows of pillars, of the pitiless chains, of human figures moving around her -- her mind too foggy to count them. What light there is illuminates little more than stone and blood -- fresh and old.
 
@@ -122,15 +124,15 @@ She stumbles to her feet, backing away on instinct. The guard at her door shield
 
 "What in all ash was that!?" Egret cries, pointing. "Are-- are them Greens *bombing* us?"
 
-"Those aren't bombs, ma'am..."
+"Those aren't bombs, milady..."
 
 "Then what *are* they, Owl?"
 
-"Flares, I think, ma'am."
+"Look like flares to me."
 
 "...what are they *for?"*
 
-"Buggered if I know, ma'am."
+"Buggered if I know, milady."
 
 Egret growls. "Get all shifts out of the barracks and ready to fight. Go!"
 
@@ -146,13 +148,13 @@ Egret freezes in her tracks, the pieces suddenly clicking together. *The drone.*
 
 The clerk looks up in alarm as the intendant slams through the door. "Get me a message through to the depot *now!"* she barks. "The prisoners are rebelling; we're under attack!"
 
-The clerk's eyes widen. "Y-yes, ma'am! At once, ma'am." She snatches a fresh message sheet and begins scribbling. "Shall we copy to the General?"
+The clerk's eyes widen. "Y-yes, milady! At once, milady." She snatches a fresh message sheet and begins scribbling. "Shall we copy to the General?"
 
 Egret hesitates. "I... n-no... no need to involve the General yet, I'm... sure we'll, uh. Contain the situation."
 
-"Of course, ma'am. As you will."
+"Of course, milady Intendant. As you will."
 
-Egret has scarcely left the room when the secretary comes dashing after her. "Ma'am!" she cries breathlessly. "No answer from the depot--"
+Egret has scarcely left the room when the secretary comes dashing after her. "Milady Egret!" she cries breathlessly. "No answer from the depot--"
 
 Egret rounds on her. "What do you mean, *no answer from the depot?"*
 
@@ -160,23 +162,23 @@ The secretary shrinks back. "Just that! Operator says there's still current, the
 
 "Then *keep to trying!* Find me as soon as you get a reply or the wires cut out. And, God, try and get word to Silent Falls, will you. This is getting out of control."
 
-"V-very good, ma'am!"
+"V-very good, milady!"
 
 The first thing Egret sees through the window when she makes it back to her office is a soldier crumpling on the ground below, blood spurting from her head. The rebels are arming themselves from the fallen, she realizes. She slams the doors to the balcony, bolting them tightly.
 
-"Intendant!"
+"Lady Intendant!"
 
 Egret turns quickly. The Captain of the Guard is clutching another guard for support, one leg hanging unused. Her face is bruised and cut.
 
 "What in ash *happened!?"*
 
-"It's happening all over, m-ma'am. All over the camp," Owl rasps. "We lost three trying to break through to the barracks--"
+"It's happening all over, m-milady. All over the camp," Owl rasps. "We lost three trying to break through to the barracks--"
 
-The other soldier waves a sheaf of papers at Egret. "Up from the telegraph office, ma'am. Only a couple buildings are reporting in--"
+The other soldier waves a sheaf of papers at Egret. "Up from the telegraph office, milady. Only a couple buildings are reporting in--"
 
 Egret snatches the papers. "Scribe!" she bellows, flicking through the pages, hoping in vain for a recognizable symbol.
 
-A small, mousey woman in blue-white robes peeks her head around the door. "Y-yes, ma'am?" she stammers.
+A small, mousey woman in blue-white robes peeks her head around the door. "Y-yes, milady Intendant?" she stammers.
 
 Egret thrusts the papers at her. "Read! Now!"
 
@@ -184,7 +186,7 @@ The scribe takes the papers gingerly. "Ah... 'armory to base...on lockdown...pri
 
 "'It's bad, it's bad, it's bad,'" Egret interrupts mockingly. "That's all you have to tell me?" She smacks the scribe alongside the cheek with a mailed hand; the girl stumbles and cries out in pain. "Some help you are. Shoo! Out!" She turns to Owl. "Give me a *strategy,* Captain!"
 
-"We..." Owl hesitates. "We're... overwhelmed and outnumbered, ma'am. We need to fall back." She grimaces in pain, wiping dirt from her face. "They can't sustain this, no way in Haven. The food's secured. We wait them out, until they either starve or surrender."
+"We..." Owl hesitates. "We're... overwhelmed and outnumbered, milady. We need to fall back." She grimaces in pain, wiping dirt from her face. "They can't sustain this, no way in Haven. The food's secured. We wait them out, until they either starve or surrender."
 
 The intendant pales. "That... we can't beat 'em?"
 
@@ -192,7 +194,7 @@ The intendant pales. "That... we can't beat 'em?"
 
 "So it's a siege, then." Egret sinks back into her chair, and clasps her head in her hands. "For... a week, maybe two if they're real desperate. I'm already behind quota, I am. The General will have my hide!"
 
-"So will the prisoners, ma'am," mutters the Captain.
+"So will the prisoners, milady," mutters the Captain.
 
 Egret slams her fist down, denting the wooden desk. The room is silent for a moment, the only sounds the distant desperate scrabble of battle, as the intendant fixes her eyes on a candle and takes several slow, deep breaths.
 
