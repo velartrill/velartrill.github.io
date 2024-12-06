@@ -4,6 +4,7 @@
 % path fiction/Spirals
 % in arc Society
 % with style set/society.css
+% img ils/randannar-at-night.png Livkir and Niltar Tegvari
 
 Livkir's dorm is an impeccably tidy place. The aura of cozy tranquility that it seems to radiate from every surface is enough to subdue even Niltar, who's curled up quietly on the sofa under a couple of fluffy blankets, only her reddened eyes and sodden handkerchief attesting to her emotional state. She barely reacts when Livkir sits down next to her and puts an arm around her shoulder, but he's known her long enough to recognize the subtle little shift in her body language that tells him his presence is wanted.
 
@@ -490,3 +491,4 @@ Shalcas clasps his hands in front of his chest. "I-I'll see you tomorrow, then?"
 "…yeah." Niltar exhales raggedly. "Let's."
 
 %prev out-of-the-dark.html Out of the Dark
+%is coda ils/society-sleepover.png

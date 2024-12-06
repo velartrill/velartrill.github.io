@@ -2,7 +2,7 @@
 
 %byline from a serial by Lexi Summer Hale
 
-%img ils/savren-dungeon.png
+%img ils/savren-dungeon.png Savren-ravlas is tortured at an Imperial prisoner of war camp
 
 Savren can't help but let out a cry this time as the whip bites deep into her bare back. Her wrists twist frantically in the iron manacles holding them high over her head, muscles spasming in her shoulders. She can feel something wet dripping down her back.
 

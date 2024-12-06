@@ -2,6 +2,8 @@
 
 %byline from a serial by Lexi Summer Hale
 
+%img ils/kiteroost.png The great city of Kiteroost
+
 "Her Valiance the Dame-Colonel to see you, milady."
 
 Dove sighs, delicately setting down her quill pen. She glances at the justiciar sitting across from her, who nods.

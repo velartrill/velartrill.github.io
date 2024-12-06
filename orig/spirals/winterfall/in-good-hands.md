@@ -1,7 +1,7 @@
 # In Good Hands
 % by Lexi Summer Hale
 
-%img ils/rhea-in-action.png
+%img ils/rhea-in-action.png Rhea Moonbeam and Lenshal Casvari Listeli in action
 
 Reality comes in flickers and flashes. Warm, soft hands on my body. Darkness. An urgent voice. Silence. A ceiling, a spinning fan. Darkness.
 
