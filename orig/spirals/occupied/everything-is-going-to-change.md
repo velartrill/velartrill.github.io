@@ -1,6 +1,7 @@
 # Everything is going to change
 
 %byline from a serial by Lexi Summer Hale
+%img ils/khatae-shrine.png Jasmine stands before an altar to Khata'e Starmother, First of Immortals
 
 *`910/125 S1100 TCT`* `//` **`433`ᵉ**
 

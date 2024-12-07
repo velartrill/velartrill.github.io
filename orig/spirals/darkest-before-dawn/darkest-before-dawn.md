@@ -1,6 +1,8 @@
 # Darkest Before Dawn
 % by Lexi Summer Hale
 
+%img ils/unforeseen-rescue.png The Vizier for Defense of the Heavenly Throne commits treason
+
 I can hear the screams before the ascender capsule’s gates even retract.
 
 It is not often that I walk these bloodstained stone floors, these dark hallways lined by one-way windows and heavy iron portals. I spend my days up in the light, in a comfortable chair for my aching back, interacting with this place only through the merciful interface of bland, clinical paperwork. Being down here makes it all too real. Reminds me how fast the pieces move about the board, how quickly strokes of fortune can reverse.

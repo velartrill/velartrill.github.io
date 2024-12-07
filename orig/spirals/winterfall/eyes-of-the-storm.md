@@ -1,6 +1,6 @@
 # Eyes of the Storm
 % by Lexi Summer Hale
-
+%img ils/rhea-in-action.png Rhea Moonbeam and Lenshal Casvari Listali in action
 “Rei?”
 
 “V-Vi…”
