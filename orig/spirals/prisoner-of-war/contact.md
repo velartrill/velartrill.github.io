@@ -1,6 +1,7 @@
 # Contact
 
 %byline from a serial by Lexi Summer Hale
+%img ils/society-advances-through-snow.png
 
 The intendant's deck offers a view of nearly the whole camp, from Penitence Square just below out to the distant workhouse where defectors are now being sheltered. It would be a good place to command a battle, Savren thought, if you didn't have realtime comms and a sensor grid. --Which, of course, the Rosies wouldn't.
 

@@ -1,5 +1,6 @@
 # Pact
 %byline from a serial by Lexi Summer Hale
+%img ils/blackthorn-summerwine.png Lady Dove the Lunarch Blackthorn embraces J. Peregrine Summerwine
 
 As her privy council assembles in the Grand Library, Dove catches Iris by the doorway and pulls her aside. "Can I... have a moment? Before we get started?"
 
