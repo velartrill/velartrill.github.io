@@ -202,7 +202,7 @@ The streets of Chandler's Landing can never be said to be truly deserted, not ev
 
 I'm fond of Uptown, I'll admit. It's unlike the pitiful dockside slums where the petty laborers eat and shit and fuck and not much else, but lacks the soulless, sterile hauteur of the White Thorn District. It's got class *and* character -- and most important of all, rates just low enough that someone of my station can eke out a comfy living.
 
-"What did you do to make mister Hawthorn so fond of you?" Lena asks as we walk. I snort.
+"What did you do to make Master Hawthorn so fond of you?" Lena asks as we walk. I snort.
 
 "Nothing much. Took care of a few little pests for him and his. Broke a few kneecaps, shot a few people. That sort of thing."
 
@@ -232,7 +232,7 @@ He gives me an extremely dubious look.
 
 Lena laughs quietly, shaking his head. "Have you actually ever seen—"
 
-"Yes," I snap, glaring at him. and to his credit he shuts up prompt. "I am speaking from *personal experience* here on all counts, and I would find it ever so pleasing if you would *heed* me but *good*. You are apparently a *babe in the fucking woods* when it comes to high-level intrigue, and as I'm growing somewhat fond of you—" he grins at that "—it would leave me a touch *disconsolate* if you managed to get yourself gutted on account of you didn't listen to me when you should have. Rose, now, she can go and kick off a personal vendetta with a Cindergrace so far as I care. But I lose *you* and I will be *distinctly put out.*"
+"Yes," I snap, glaring at him, and to his credit he shuts up prompt. "I am speaking from *personal experience* here on all counts, and I would find it ever so pleasing if you would *heed* me but *good*. You are apparently a *babe in the fucking woods* when it comes to high-level intrigue, and as I'm growing somewhat fond of you—" he grins at that "—it would leave me a touch *disconsolate* if you managed to get yourself gutted on account of you didn't listen to me when you should have. Rose, now, she can go and kick off a personal vendetta with a Cindergrace so far as I care. But I lose *you* and I will be *distinctly put out.*"
 
 "I surrender!" Lena ruffles my hair, right out in public *God damn him,* and I'm blushing helplessly before you could so much as flip a safety. "I will take your advice to heart, Rei, on my honor. What exactly makes Great House assassins so dangerous?"
 
@@ -355,7 +355,7 @@ He tilts his head. "I don't understand. You were practically crying, you couldn'
 - rei needs to recruit Daisy, who's popped up on the grid in town
 - insert at beginning: Lena taking rei through new equipment
 
-Always nerve-wracking meeting an operator you haven't touched base with in years. You never know what's changed in their life, who they're working for, what their new priorities might be. There's a nonzero chance someone you once counted as a friend will shoot you on sight.
+Always nerve-wracking meeting an operator you haven't touched base with in years. You never know what's changed in their life, who they're working for, what their new priorities might be. There's a nonzero chance someone you once counted as a bosom-friend will shoot you on sight.
 
 ...
 
@@ -383,19 +383,19 @@ Her eyes are pleading. "You found me. Okay. You're smart. Somehow, you found me.
 
 *"The Ekhtelera,* Night. They have the operational discipline of a horny fifteen year old boy and they treat me more like a whore than an operator. If I break one more wrist they'll probably burn me for good."
 
-"Okay." I reach out hesitantly, take her by the hand. "There's more, Dee. I don't know… I don't know how much I should say here and now, I don't know how much you *want* to know—"
+"Okay." I reach out hesitantly, take her by the hand. She blinks, startled, but doesn't pull away. "There's more, Dee. I don't know… I don't know how much I should say here and now, I don't know how much you *want* to know—"
 
 "You are officially *scaring* me now, Night." Daisy tilts her head. "I don't think you've ever been afraid to tell me shit before."
 
-"I got a line on what happened. I'm not sure how much to trust it, but — well, shit, you tell me." I lean forward. "By the look of it you've been digging like a _guan jèi_ that's scented _phin hue._ You got more pieces of the puzzle. What if something happened to the throneworld? What if all Carnelian went dark all at once somehow, got cut off somehow?"
+"I got a line on what happened. I'm not sure how much to trust it, but — well, shit, you tell me." I lean forward. "By the look of it you've been digging like a _guan jèi_ that's scented _phin hue._ You got more pieces of the puzzle. What if something happened to the Throneworld? What if all Carnelian went dark all at once somehow, got cut off somehow?"
 
-"'Somehow?'" Daisy gazes at me appraisingly. "It'd fit, I suppose. What are you saying, like— telegraph lines cut?"
+"'Somehow?'" Daisy gazes at me appraisingly. "It'd fit, I suppose. What are you saying, like— telegraph relays cut?"
 
 "Lines cut, voidgates blown out. Would that make sense?"
 
 She stares at the ceiling for a moment, then leaps to her feet and turns to the pile of paperwork on her desk. I sit back, watching as she digs through, scanning frantically for details. She bends down, grabbing a pen, scribbling what look like calculations on a spare sheet of paper. Then she turns back, eyes distant.
 
-"Third day of the Carver's Moon."
+"Third day of the Carver's Moons."
 
 "You lost me."
 
@@ -425,7 +425,7 @@ I nod. "I— really don't know how much to trust him but—"
 
 "The fucking duskwraiths? Are— They deepstrike into the Core somehow? Siege and cloister the whole damn world!?"
 
-I look down, squeezing my hands together, feeling slightly dizzy thinking about all of this again. "They attacked the throneworld. Not an invasion. Don't ask me how they got this far behind our lines but he says they did. Carnelian burned. Everything is gone. He doesn't know how they did it but—"
+I look down, squeezing my hands together, feeling slightly dizzy thinking about all of this again. "They attacked the Throneworld. Not an invasion. Don't ask me how they got this far behind our lines but he says they did. Carnelian burned. Everything is gone. He doesn't know how they did it but—"
 
 Daisy's eyes glaze over. "The whole planet?" she whispers, her body swaying slightly.
 
@@ -455,9 +455,7 @@ A smile flashes across Daisy's face. "Yes. *Yes,* please, Night, get me out of h
 
 I pat her on the shoulder. "Come on. My crew's got a coach outside. I'll help you pack."
 
-She hops to her feet, and begins tidying her papers.
-
-"Who are you to these people?"
+She hops to her feet, and begins tidying her papers. "Who are you to these people?"
 
 I look down awkwardly. "Everyone, I think."
 
@@ -485,13 +483,13 @@ I sigh. "You're going to make this an entire thing, aren't you. What are you goi
 
 "That is the corniest—"
 
-"*The Ekhtelera,* Night," she growls. "They don't take you seriously around here unless you have yourself a street name straight out of the trashiest penny-dreadful spy thriller the presses can shit out." She folds up the teletype and shoves it into a messenger bag like she's bagging and dragging a particularly loathesome hostage. "Yeah, that's literally where I got it from. *'Black Light Masquerade.'*" She shudders delicately. "The main character is a hooker — oh, do *pardon* my manners, milady, a *courtesan*—" she interjects in the most outrageously affected aristocratic patois I've ever heard "— who is *secretly* a secret operative for one Lady Nebularch Passerine Silverharp. *Nova* is allegedly her code name but she introduces herself by it to near everyone she meets, which seems to *impress* them for some reason; she doesn't appear to actually *have* a pseudonym or any kind of cover ID, which makes about a third of the non-penetrative scenes in the book completely impossible.
+"*The Ekhtelera,* Night," she growls. "They don't take you seriously around here unless you have yourself a street name straight out of the trashiest penny-dreadful spy thriller the presses can shit out." She folds up the teletype and shoves it into a messenger bag like she's bagging and dragging a particularly loathesome hostage. "Yeah, that's literally where I got it from. *'Black Light Masquerade.'*" She shudders delicately. "The main character is a whore — oh, do *pardon* my manners, milady, a *courtesan*—" she interjects in the most outrageously affected aristocratic patois I've ever heard "— who is *secretly* a secret operative for one Lady Nebularch Passerine Silverharp. *Nova* is allegedly her code name but she introduces herself by it to near everyone she meets, which seems to *impress* them for some reason; she doesn't appear to actually *have* a nym or any kind of cover ID, which makes about a third of the non-penetrative scenes in the book completely impossible.
 
 "Our heroine," she continues savagely, stuffing a handful of papers into her bag so violently I wince, "spends most of the book flirting, fucking, and occasionally cutting her way through Carnelian high society on impenetrably nebulous objectives, most of which seem to be just an excuse to drop our leading lady helpless into the clutches of a debonair rake of a nobleman or a closet masculist nobleman or a debonair closet masculist rake of a nobleman or, on one memorable occasion, *an undercover agent of the Adversary* — *posing as a debonair nobleman* — who then sexually torment her until she can make good her escape or win them over the Silverharp cause with the power of her tits."
 
 "Dee—" I try to interject but she steamrolls me with no regard for collateral damage.
 
-"Our protagonist," she chirps on relentlessly, "has been *secretly modified,* you see, by secret House Silverharp technosorcery, which, we find out in the *climax*, was given to the great Nebularch by, *and I am not shitting you here—*" She stops packing for a moment and turns to face me. If I were under her knife right now, the expression on her face alone would have me spilling my dearest secrets and bawling for mommy. *"—aliens,"* she snarls incredulously. *"Aliens* 'from beyond the Rim', whatever *that* means! And the entire reason for this *epic revelation* is so that Nova can be rendered helpless in her moment of triumph when the aliens suddenly pop up to come betray the Silverharps *for no apparent reason*, and, of course — well, I did say it was the *climax* did I not?"
+"Our protagonist," she chirps on relentlessly, "has been *secretly modified,* you see, by secret House Silverharp technosorcery, which, we find out in the *climax*, was given to the great Nebularch by, *and I am not shitting you here—*" She stops packing for a moment and turns to face me. If I were under her knife right now, the expression on her face alone would have me spilling my dearest secrets and bawling for Mommy. *"—aliens,"* she snarls incredulously. *"Aliens* 'from beyond the Rim', whatever *that* means! And the entire reason for this *epic revelation* is so that Nova can be rendered helpless in her moment of triumph when the aliens suddenly pop up to come betray the Silverharps *for no apparent reason*, and, of course — well, I did say it was the *climax* did I not?"
 
 I cover my face with my hands. "She screws the alien."
 
@@ -536,7 +534,7 @@ There's a burly Khmai by the entrance, nursing a mug of something wretched and b
 
 "Hold one," says Daisy, and marches towards the wannabe gangster. If he had half the sense God gave a *pien şai* he would have beat feet the second he saw that feral little grin on her lips, but, of course he didn't. I sigh as the predictable ensues.
 
-The thug reaches out one hand toward Daisy. Moving like a striking snake she grips his wrist with both hands and yanks downward as she brings up her knee. The crack of breaking bone, is, I admit, more than a little satisfying. While he's still instinctively reacting to the injury, Daisy turns in an elegant little pirouette and plants a steel-shod boot directly into his crotch. The other goon stirs, reaching for a knife as Daisy walks back to me, but he's sober enough to stop dead when I train my nice new magpistol on his ugly mug.
+The thug reaches out one hand toward Daisy. Moving like a striking *sam fén* she grips his wrist with both hands and yanks downward as she brings up her knee. The crack of breaking bone, is, I admit, more than a little satisfying. While he's still instinctively reacting to the injury, Daisy turns in an elegant little pirouette and plants a steel-shod boot directly into his crotch. The other goon stirs, reaching for a knife as Daisy walks back to me, but he's sober enough to stop dead when I train my nice new magpistol on his ugly mug.
 
 "You want to break *his* wrist too?" I ask pleasantly, nodding towards the remaining goon. He plasters a fixed, desperate grin on his face.
 
@@ -544,7 +542,7 @@ The thug reaches out one hand toward Daisy. Moving like a striking snake she gri
 
 "N-no trouble," he blurts, holding up his hands, face frozen in a rictus of terror. "No trouble at all, mistress Nova, mistress, uh, Nova's friend. I'm just… just gonna sit here quiet-like. Er. H-have a fine day?"
 
-*"Thank you,"* purrs Daisy, and he gulps. "Be a dear when you see the 'boss man' and tell him that I have decided to terminate our contract. With maximal attainable prejudice."
+*"Thank you,"* purrs Daisy, and he gulps. "Be a dear when you see the 'boss man' and tell him that I have elected to terminate our contract. With maximal attainable prejudice."
 
 "I—I'll tell him, I will," babbles the thug. "Um, I think, miss, he's, ah, I'm so sorry, I don't think he's going to be happy—"
 

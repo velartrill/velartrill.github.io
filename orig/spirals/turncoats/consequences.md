@@ -1,5 +1,6 @@
 # Consequences
 % by Lexi Summer Hale
+% img ils/ascender-ambush.png A Dame-Colonel meets her match
 
 “You meant to keep me from the Council.”
 
