@@ -363,9 +363,11 @@ The first thing I see when the door cracks open is the barrel of a gun.
 
 I can tell she didn't pick this place by choice. Daisy's a smart girl, and holing up in a dingy tavern full of lowlives without so much as peepholes on the door is not at all like her.
 
-Daisy's eyes widen when she recognizes me and instantly she lowers the weapon. The door slams, there's a scrabbling of metal as she unfastens the jamb-chains, and then she hauls it open again, wordlessly beckoning me inside. Apparently, I'm still on her list of friendlies.
+Daisy's eyes widen when she recognizes me and instantly she lowers the weapon. The door slams, there's a scrabbling of metal as she unfastens the jamb-chains, and then she hauls it open again, wordlessly beckoning me inside with an urgent jerk of her head. Apparently, I'm still on her list of friendlies.
 
-I enter, pushing the door shut behind me, and glance about casually. The room is small, a single bed pressed up against the far wall, sheets messy but surprisingly clean for the kind of place this is. A motheaten rug that even a _pien şai_ wouldn't lower itself to piss on. A folding chair and a tiny square desk covered in paperwork and notebooks, with a portable teletype perched perilously on the edge next to a half-eaten bowl of _shé luang,_ still hot. There's not even a proper washroom, just a little alcove with a washing pit and a beat-up copper faucet, marred by visible rust and mildew. Working-class amenities, if that.
+I enter, pushing the door shut behind me, and glance about casually. The room is small, a single bed pressed up against the far wall, sheets messy but surprisingly clean for the kind of place this is. A motheaten rug that even a _pien şai_ wouldn't lower itself to piss on. A folding chair and a tiny square desk covered in paperwork and notebooks, with a portable teletype perched perilously on the edge next to a half-eaten bowl of _shé luang,_ still hot. There's not even a proper washroom, just a little alcove with a washing pit and a beat-up copper faucet, marred by visible rust and mildew. Working-class amenities, if that. The amount of ash in the censer speaks volumes to either the local odor or a state of intense religious desperation.
+
+Come to think of it, likely both.
 
 She turns to me after she shuts the door, eyes wide and questioning, uncertain if she can speak freely. I nod, gesturing placatingly, and she exhales in relief. *"Nighthawk!"* she cries out. "What hole did *you* crawl out of?"
 
@@ -415,7 +417,7 @@ I wave her away. "It's not quite like that. The Greens, they've got a cell here.
 
 "The latter."
 
-*"Shuharva alive."* Daisy's pacing again. "What the shit, we're *parsecs* from the front. What are they doing here— fuck that, how'd they even *get* here!?" She shakes her head. "You got something out of them? Something about Carnelian?"
+*"Shuharva alive."* Daisy's pacing again. "What the shit, we're *parsecs* from the front. What are they doing here— fuck that, how'd they even *get* here!? No way they flew citizen-class." She shakes her head. "You got something out of them? Something about Carnelian?"
 
 I nod. "I— really don't know how much to trust him but—"
 
@@ -483,9 +485,9 @@ I sigh. "You're going to make this an entire thing, aren't you. What are you goi
 
 "That is the corniest—"
 
-"*The Ekhtelera,* Night," she growls. "They don't take you seriously around here unless you have yourself a street name straight out of the trashiest penny-dreadful spy thriller the presses can shit out." She folds up the teletype and shoves it into a messenger bag like she's bagging and dragging a particularly loathesome hostage. "Yeah, that's literally where I got it from. *'Black Light Masquerade.'*" She shudders delicately. "The main character is a whore — oh, do *pardon* my manners, milady, a *courtesan*—" she interjects in the most outrageously affected aristocratic patois I've ever heard "— who is *secretly* a secret operative for one Lady Nebularch Passerine Silverharp. *Nova* is allegedly her code name but she introduces herself by it to near everyone she meets, which seems to *impress* them for some reason; she doesn't appear to actually *have* a nym or any kind of cover ID, which makes about a third of the non-penetrative scenes in the book completely impossible.
+* "*The Ekhtelera,* Night," she growls. "They don't take you seriously around here unless you have yourself a street name straight out of the trashiest penny-dreadful spy thriller the presses can shit out." She folds up the teletype and shoves it into a messenger bag like she's bagging and dragging a particularly loathesome hostage. "Yeah, that's literally where I got it from. *'Black Light Masquerade.'*" She shudders delicately. "The main character is a whore — oh, do *pardon* my manners, milady, a *courtesan*—" she interjects in the most outrageously affected aristocratic patois I've ever heard "— who is *secretly* a secret operative for one Lady Nebularch Passerine Silverharp. Yes, I know, Silver*harp*, very subtle. *Nova* is allegedly her code name but she introduces herself by it to near everyone she meets, which seems to *impress* them for some reason; she doesn't appear to actually *have* a nym or any kind of cover ID, which makes about a third of the non-penetrative scenes in the book completely impossible.
 
-"Our heroine," she continues savagely, stuffing a handful of papers into her bag so violently I wince, "spends most of the book flirting, fucking, and occasionally cutting her way through Carnelian high society on impenetrably nebulous objectives, most of which seem to be just an excuse to drop our leading lady helpless into the clutches of a debonair rake of a nobleman or a closet masculist nobleman or a debonair closet masculist rake of a nobleman or, on one memorable occasion, *an undercover agent of the Adversary* — *posing as a debonair nobleman* — who then sexually torment her until she can make good her escape or win them over the Silverharp cause with the power of her tits."
+"Our heroine," she continues savagely, stuffing a handful of papers into her bag so violently I wince, "spends most of the book flirting, fucking, and occasionally cutting her way through Carnelian high society on impenetrably nebulous objectives, most of which seem to be just an excuse to drop our leading lady helpless into the clutches of a debonair rake of a nobleman or a closet masculist nobleman or a debonair closet masculist rake of a nobleman or, on one memorable occasion, *an undercover agent of the Adversary* — *posing as a debonair nobleman* — who then sexually torment her until she can make good her escape or win them over to the Silverharp cause with the power of her tits."
 
 "Dee—" I try to interject but she steamrolls me with no regard for collateral damage.
 
@@ -523,7 +525,7 @@ She giggles and brushes up against me. A flash of her old self. "Aw, Night. Are 
 
 "Never," Daisy chirps happily, and snuggles up to me.
 
-It's always funny, renewing a friendship after so long. It's like they carry around little bits of how you used to be. Bring two souls back in touch and before you know it you're bantering away like the good old days are come again. Never lasts, of course, not in my experience. You can't go back to how things were. General rule of life. The reality that is works its way in like dunes of sand you're driving through, and it gums up the gears more and more. You either work out a new way to be, a new friendship between the one you *are* and the one she *is*, now, here in the moment, or it all slips away, and you're left with nothing but memories and a lingering pang of regret.
+It's always funny, renewing a friendship after so long. It's like they carry around little bits of how you used to be. Bring two souls back in touch and before you know it you're bantering away like the good old days are come again. Never lasts, of course, not in my experience. You can't go back to how things were. General rule of life. The reality that is works its way in like you're driving through dunes of sand, and it gums up the gears more and more. You either work out a new way to be, a new friendship between the one you *are* and the one she *is*, now, here in the moment, or it all slips away, and you're left with nothing but memories and a lingering pang of regret.
 
 I've learned to savor these little moments while they last.
 
@@ -576,13 +578,13 @@ I take her by the shoulder and guide her to a seat. She feels all but boneless i
 
 "No offense taken," says Lena gently, touching her shoulder. Daisy freezes up completely at the touch, and then starts trembling.
 
-"It's okay, Dee, hon. He doesn't bite. Unless you ask nicely." I turn my gaze to Rose. "As for you," I growl, pointing a finger, "*behave.*"
+"It's okay, Dee, hon. He doesn't bite unless you ask nicely." I turn my gaze to Rose. "As for you," I growl, pointing a finger, "*behave.*"
 
 "Rhea, *dear*, whatever do you imply?"
 
 "No terrorizing the new recruit. That's *her* job. Crew tradition."
 
-Rose gives me such an innocent look that any justiciar would have arrested her on the spot. "Why, Rhea. I would never do anything to jeopardize her operational effectiveness!"
+Rose gives me such an innocent look that any justiciar would have hanged her on the spot. "Why, Rhea. I would never do anything to jeopardize her operational effectiveness!"
 
 "I've come to understand you people hide such depths of meaning in little phrases like *operational effectiveness,"* I respond levelly.
 
